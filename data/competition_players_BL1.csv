@@ -1,0 +1,551 @@
+Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId
+316,Oliver Baumann,Goalkeeper,1990-06-02,Germany,3000000,TSG 1899 Hoffenheim,2
+75703,Luca Philipp,Goalkeeper,2000-11-28,Germany,300000,TSG 1899 Hoffenheim,2
+220259,Lukas Petersson,Goalkeeper,2004-02-09,Iceland,2500000,TSG 1899 Hoffenheim,2
+169668,Arthur Chaves,Defence,2001-01-29,Brazil,5000000,TSG 1899 Hoffenheim,2
+188239,Robin Hranac,Defence,2000-01-29,Czech Republic,8000000,TSG 1899 Hoffenheim,2
+261401,Lars Strobl,Defence,2005-04-15,Germany,250000,TSG 1899 Hoffenheim,2
+9405,Jacob Bruun Larsen,Midfield,1998-09-19,Denmark,28000000,TSG 1899 Hoffenheim,2
+113457,Alexander Prass,Midfield,2001-05-26,Austria,1500000,TSG 1899 Hoffenheim,2
+182245,Umut Tohumcu,Midfield,2004-08-11,Germany,7000000,TSG 1899 Hoffenheim,2
+261437,Florian Micheler,Midfield,2005-05-17,Austria,2500000,TSG 1899 Hoffenheim,2
+63218,Haris Tabaković,Offence,1994-06-20,Bosnia-Herzegovina,300000,TSG 1899 Hoffenheim,2
+99042,Adam Hložek,Offence,2002-07-25,Czech Republic,300000,TSG 1899 Hoffenheim,2
+212180,Simon Kalambayi,Offence,2005-02-20,France,500000,TSG 1899 Hoffenheim,2
+65843,Anton Stach,Central Midfield,1998-11-15,Germany,15000000,TSG 1899 Hoffenheim,2
+65441,Marius Bülter,Left Winger,1993-03-29,Germany,2500000,TSG 1899 Hoffenheim,2
+63207,Attila Szalai,Centre-Back,1998-01-20,Hungary,130000000,TSG 1899 Hoffenheim,2
+30548,Ozan Kabak,Centre-Back,2000-03-25,Turkey,10000000,TSG 1899 Hoffenheim,2
+15103,Diadié Samassékou,Defensive Midfield,1996-01-11,Mali,10000000,TSG 1899 Hoffenheim,2
+10724,Mërgim Berisha,Centre-Forward,1998-05-11,Germany,10000000,TSG 1899 Hoffenheim,2
+6836,Grischa Prömel,Central Midfield,1995-01-09,Germany,7000000,TSG 1899 Hoffenheim,2
+404,Florian Grillitsch,Defensive Midfield,1995-08-07,Austria,6500000,TSG 1899 Hoffenheim,2
+399,Dennis Geiger,Central Midfield,1998-06-10,Germany,3000000,TSG 1899 Hoffenheim,2
+326,Ihlas Bebou,Centre-Forward,1994-04-23,Togo,4000000,TSG 1899 Hoffenheim,2
+318,Andrej Kramarić,Centre-Forward,1991-06-19,Croatia,5000000,TSG 1899 Hoffenheim,2
+317,Pavel Kadeřábek,Right-Back,1992-04-25,Czech Republic,3000000,TSG 1899 Hoffenheim,2
+315,Kevin Akpoguma,Centre-Back,1995-04-19,Nigeria,3000000,TSG 1899 Hoffenheim,2
+234,Christopher Lenz,Left-Back,1994-09-22,Germany,600000,TSG 1899 Hoffenheim,2
+248657,Max Moerstedt,Centre-Forward,2006-01-15,Germany,3000000,TSG 1899 Hoffenheim,2
+213739,Tim Drexler,Centre-Back,2005-03-06,Germany,4000000,TSG 1899 Hoffenheim,2
+203039,Stanley N'Soki,Centre-Back,1999-04-09,France,2500000,TSG 1899 Hoffenheim,2
+172574,Tom Bischof,Attacking Midfield,2005-06-28,Germany,3500000,TSG 1899 Hoffenheim,2
+150667,Marco John,Left-Back,2002-04-02,Germany,1500000,TSG 1899 Hoffenheim,2
+146716,David Jurásek,Left-Back,2000-08-07,Czech Republic,25000000,TSG 1899 Hoffenheim,2
+121279,Valentin Gendrey,Right-Back,2000-06-21,France,25000000,TSG 1899 Hoffenheim,2
+116259,Finn Ole Becker,Central Midfield,2000-06-08,Germany,2500000,TSG 1899 Hoffenheim,2
+165,Niklas Lomb,Goalkeeper,1993-07-28,Germany,250000,Bayer 04 Leverkusen,3
+6696,Lukáš Hrádecký,Goalkeeper,1989-11-24,Finland,2500000,Bayer 04 Leverkusen,3
+136350,Matej Kovar,Goalkeeper,2000-05-17,Czech Republic,7000000,Bayer 04 Leverkusen,3
+273033,Ben Hawighorst,Defence,2008-03-01,Germany,7000000,Bayer 04 Leverkusen,3
+192169,Othniel Raterink,Midfield,2006-04-07,Netherlands,40000000,Bayer 04 Leverkusen,3
+272213,Kerim Alajbegović,Midfield,2007-09-21,Germany,2000000,Bayer 04 Leverkusen,3
+265560,Artem Stepanov,Centre-Forward,2007-08-10,Ukraine,350000,Bayer 04 Leverkusen,3
+262401,Matija Marsenić,Central Midfield,2005-01-03,Montenegro,350000,Bayer 04 Leverkusen,3
+245832,Francis Onyeka,Attacking Midfield,2007-04-29,Germany,500000,Bayer 04 Leverkusen,3
+244862,Ken Izekor,Centre-Forward,2007-05-24,Germany,3000000,Bayer 04 Leverkusen,3
+178860,Arthur Augusto,Right-Back,2003-03-17,Brazil,5000000,Bayer 04 Leverkusen,3
+177037,Jeanuel Belocian,Centre-Back,2005-02-17,France,300000,Bayer 04 Leverkusen,3
+176076,Sadik Fofana,Centre-Back,2003-05-16,Togo,1500000,Bayer 04 Leverkusen,3
+144715,Nathan Tella,Right Midfield,1999-07-05,England,23000000,Bayer 04 Leverkusen,3
+137047,Amine Adli,Left Winger,2000-05-10,Morocco,30000000,Bayer 04 Leverkusen,3
+130811,Victor Boniface,Centre-Forward,2000-12-23,Nigeria,45000000,Bayer 04 Leverkusen,3
+128954,Jeremie Frimpong,Right Midfield,2000-12-10,Netherlands,50000000,Bayer 04 Leverkusen,3
+125674,Piero Hincapié,Centre-Back,2002-01-09,Ecuador,40000000,Bayer 04 Leverkusen,3
+64713,Edmond Tapsoba,Centre-Back,1999-02-02,Burkina Faso,45000000,Bayer 04 Leverkusen,3
+45611,Robert Andrich,Defensive Midfield,1994-09-22,Germany,17000000,Bayer 04 Leverkusen,3
+33524,Aleix García,Central Midfield,1997-06-28,Spain,17000000,Bayer 04 Leverkusen,3
+19334,Florian Wirtz,Attacking Midfield,2003-05-03,Germany,130000000,Bayer 04 Leverkusen,3
+16739,Alejandro Grimaldo,Left-Back,1995-09-20,Spain,45000000,Bayer 04 Leverkusen,3
+11720,Exequiel Palacios,Central Midfield,1998-10-05,Argentina,45000000,Bayer 04 Leverkusen,3
+8797,Martin Terrier,Left Winger,1997-03-04,France,4500000,Bayer 04 Leverkusen,3
+8371,Nordi Mukiele,Right-Back,1997-11-01,France,4500000,Bayer 04 Leverkusen,3
+6681,Jonas Hofmann,Attacking Midfield,1992-07-14,Germany,7000000,Bayer 04 Leverkusen,3
+3477,Granit Xhaka,Defensive Midfield,1992-09-27,Switzerland,20000000,Bayer 04 Leverkusen,3
+1826,Patrik Schick,Centre-Forward,1996-01-24,Czech Republic,22000000,Bayer 04 Leverkusen,3
+149,Jonathan Tah,Centre-Back,1996-02-11,Germany,30000000,Bayer 04 Leverkusen,3
+334,Gregor Kobel,Goalkeeper,1997-12-06,Switzerland,40000000,Borussia Dortmund,4
+9389,Alexander Meyer,Goalkeeper,1991-04-13,Germany,800000,Borussia Dortmund,4
+151077,Marcel Lotka,Goalkeeper,2001-05-25,Poland,1300000,Borussia Dortmund,4
+176268,Silas Ostrzinski,Goalkeeper,2003-11-19,Germany,5500000,Borussia Dortmund,4
+171098,Rodney Elongo-Yombo,Defence,2001-07-27,Germany,5500000,Borussia Dortmund,4
+191420,Yannik Lührs,Defence,2003-09-09,Germany,4000000,Borussia Dortmund,4
+219264,Jordi Paulina,Defence,2004-09-23,Netherlands,3000000,Borussia Dortmund,4
+261058,Filippo Mané,Defence,2005-03-08,Italy,1800000,Borussia Dortmund,4
+272604,Tyler Meiser,Defence,2007-03-01,Germany,6000000,Borussia Dortmund,4
+133548,Ayman Azhil,Midfield,2001-04-10,Morocco,30000000,Borussia Dortmund,4
+178006,Niklas Jessen,Midfield,2003-09-04,Germany,15000000,Borussia Dortmund,4
+101074,Felix Kalu Nmecha,Central Midfield,2000-10-10,Germany,20000000,Borussia Dortmund,4
+82515,Karim Adeyemi,Left Winger,2002-01-18,Germany,35000000,Borussia Dortmund,4
+75539,Nico Schlotterbeck,Centre-Back,1999-12-01,Germany,40000000,Borussia Dortmund,4
+44030,Julian Ryerson,Right-Back,1997-11-17,Norway,20000000,Borussia Dortmund,4
+9551,Marcel Sabitzer,Central Midfield,1994-03-17,Austria,20000000,Borussia Dortmund,4
+8805,Ramy Bensebaini,Left-Back,1995-04-16,Algeria,7000000,Borussia Dortmund,4
+8273,Pascal Groß,Central Midfield,1991-06-15,Germany,5000000,Borussia Dortmund,4
+7457,Donyell Malen,Right Winger,1999-01-19,Netherlands,40000000,Borussia Dortmund,4
+3183,Emre Can,Defensive Midfield,1994-01-12,Germany,10000000,Borussia Dortmund,4
+379,Waldemar Anton,Centre-Back,1996-07-20,Germany,10000000,Borussia Dortmund,4
+351,Niklas Süle,Centre-Back,1995-09-03,Germany,15000000,Borussia Dortmund,4
+211,Sehrou Guirassy,Centre-Forward,1996-03-12,Guinea,15000000,Borussia Dortmund,4
+148,Julian Brandt,Attacking Midfield,1996-05-02,Germany,40000000,Borussia Dortmund,4
+265182,Cole Campbell,Right Winger,2006-02-20,USA,10000000,Borussia Dortmund,4
+263672,Almugera Kabar,Left-Back,2006-06-06,Germany,10000000,Borussia Dortmund,4
+246628,Kjell Wätjen,Central Midfield,2006-02-16,Germany,800000,Borussia Dortmund,4
+182280,Julien Duranville,Left Winger,2006-05-05,Belgium,8500000,Borussia Dortmund,4
+179460,Jamie Bynoe-Gittens,Left Winger,2004-08-08,England,35000000,Borussia Dortmund,4
+144283,Yan Couto,Right-Back,2002-06-03,Brazil,5000000,Borussia Dortmund,4
+136733,Gio Reyna,Attacking Midfield,2002-11-13,USA,600000,Borussia Dortmund,4
+133903,Maximilian Beier,Centre-Forward,2002-10-17,Germany,3000000,Borussia Dortmund,4
+341,Manuel Neuer,Goalkeeper,1986-03-27,Germany,4000000,FC Bayern München,5
+342,Sven Ulreich,Goalkeeper,1988-08-03,Germany,700000,FC Bayern München,5
+113105,Daniel Peretz,Goalkeeper,2000-07-10,Israel,3000000,FC Bayern München,5
+212846,Max Schmitt,Goalkeeper,2006-01-18,Germany,13000000,FC Bayern München,5
+370,Thomas Müller,Offence,1989-09-13,Germany,8000000,FC Bayern München,5
+176991,Nestor Irankunda,Offence,2006-02-09,Australia,12000000,FC Bayern München,5
+246476,Adam Aznou,Left-Back,2006-06-02,Morocco,45000000,FC Bayern München,5
+212013,Tarek Buchmann,Centre-Back,2005-02-28,Germany,500000,FC Bayern München,5
+202665,Aleksandar Pavlović,Defensive Midfield,2004-05-03,Germany,50000000,FC Bayern München,5
+202588,Noel Aseko Nkili,Defensive Midfield,2005-11-22,Germany,30000000,FC Bayern München,5
+176899,Arijon Ibrahimovic,Left Winger,2005-12-11,Germany,3500000,FC Bayern München,5
+171977,Mathys Tel,Left Winger,2005-04-27,France,40000000,FC Bayern München,5
+168299,Min-Jae Kim,Centre-Back,1996-11-15,South Korea,45000000,FC Bayern München,5
+144393,Jamal Musiala,Attacking Midfield,2003-02-26,Germany,130000000,FC Bayern München,5
+122188,Josip Stanišić,Right-Back,2000-04-02,Croatia,7500000,FC Bayern München,5
+114915,Sacha Boey,Right-Back,2000-09-13,France,18000000,FC Bayern München,5
+113765,Michael Olise,Right Winger,2001-12-12,France,6000000,FC Bayern München,5
+48657,Hiroki Ito,Centre-Back,1999-05-12,Japan,18000000,FC Bayern München,5
+21288,Alphonso Davies,Left-Back,2000-11-02,Canada,50000000,FC Bayern München,5
+15884,João Palhinha,Defensive Midfield,1995-07-09,Portugal,50000000,FC Bayern München,5
+9549,Konrad Laimer,Central Midfield,1997-05-27,Austria,30000000,FC Bayern München,5
+9541,Dayot Upamecano,Centre-Back,1998-10-27,France,45000000,FC Bayern München,5
+8004,Harry Kane,Centre-Forward,1993-07-28,England,100000000,FC Bayern München,5
+3314,Eric Dier,Centre-Back,1994-01-15,England,5000000,FC Bayern München,5
+3246,Raphaël Guerreiro,Left-Back,1993-12-22,Portugal,12000000,FC Bayern München,5
+3184,Leroy Sané,Right Winger,1996-01-11,Germany,60000000,FC Bayern München,5
+3181,Leon Goretzka,Central Midfield,1995-02-06,Germany,22000000,FC Bayern München,5
+360,Kingsley Coman,Left Winger,1996-06-13,France,40000000,FC Bayern München,5
+359,Joshua Kimmich,Right-Back,1995-02-08,Germany,50000000,FC Bayern München,5
+311,Serge Gnabry,Right Winger,1995-07-14,Germany,40000000,FC Bayern München,5
+6491,Alexander Nübel,Goalkeeper,1996-09-30,Germany,800000,VfB Stuttgart,10
+6603,Fabian Bredlow,Goalkeeper,1995-03-02,Germany,1000000,VfB Stuttgart,10
+67401,Stefan Drljača,Goalkeeper,1999-04-20,Germany,800000,VfB Stuttgart,10
+206327,Dennis Seimen,Goalkeeper,2005-12-01,Germany,1500000,VfB Stuttgart,10
+7748,Julian Chabot,Defence,1998-02-12,Germany,40000000,VfB Stuttgart,10
+157263,Ramon Hendriks,Defence,2001-07-18,Netherlands,20000000,VfB Stuttgart,10
+170857,Ameen Al Dakhil,Defence,2002-03-06,Belgium,0,VfB Stuttgart,10
+261054,Christopher Olivier,Midfield,2006-01-31,Austria,600000,VfB Stuttgart,10
+133547,Nick Woltemade,Offence,2002-02-14,Germany,4000000,VfB Stuttgart,10
+143959,Wahid Faghir,Offence,2003-07-29,Denmark,4000000,VfB Stuttgart,10
+191186,Justin Diehl,Offence,2004-11-27,Germany,9000000,VfB Stuttgart,10
+220208,Benjamin Boakye,Offence,2005-03-07,Germany,50000000,VfB Stuttgart,10
+263221,Jarzinho Malanga,Offence,2006-07-10,Germany,50000000,VfB Stuttgart,10
+128565,Angelo Stiller,Defensive Midfield,2001-04-04,Germany,28000000,VfB Stuttgart,10
+123333,Jamie Leweling,Right Winger,2001-02-26,Germany,1000000,VfB Stuttgart,10
+111071,Leonidas Stergiou,Centre-Back,2002-03-03,Switzerland,3500000,VfB Stuttgart,10
+97120,Yannik Keitel,Defensive Midfield,2000-02-15,Germany,4000000,VfB Stuttgart,10
+33242,Ermedin Demirovic,Centre-Forward,1998-03-25,Bosnia-Herzegovina,30000000,VfB Stuttgart,10
+9487,Pascal Stenzel,Right-Back,1996-03-20,Germany,2500000,VfB Stuttgart,10
+7079,Atakan Karazor,Defensive Midfield,1996-10-13,Germany,12000000,VfB Stuttgart,10
+6928,Deniz Undav,Centre-Forward,1996-07-19,Germany,12000000,VfB Stuttgart,10
+6549,Maximilian Mittelstädt,Left-Back,1997-03-18,Germany,17000000,VfB Stuttgart,10
+6523,Josha Vagnoman,Right-Back,2000-12-11,Germany,10000000,VfB Stuttgart,10
+6483,Dan-Axel Zagadou,Centre-Back,1999-06-03,France,10000000,VfB Stuttgart,10
+206,Chris Führich,Left Winger,1998-01-09,Germany,22000000,VfB Stuttgart,10
+190,Nikolas Nartey,Central Midfield,2000-02-22,Denmark,600000,VfB Stuttgart,10
+218454,Luca Raimund,Right Winger,2005-04-09,Germany,40000000,VfB Stuttgart,10
+215574,Anrie Chase,Centre-Back,2004-03-24,Japan,20000000,VfB Stuttgart,10
+184971,Thomas Kastanaras,Centre-Forward,2003-01-09,Germany,6500000,VfB Stuttgart,10
+183668,Frans Krätzig,Left-Back,2003-01-14,Germany,130000000,VfB Stuttgart,10
+152692,Fabian Rieder,Attacking Midfield,2002-02-16,Switzerland,1000000,VfB Stuttgart,10
+150751,Anthony Rouault,Centre-Back,2001-05-29,France,500000,VfB Stuttgart,10
+147913,Enzo Millot,Attacking Midfield,2002-07-17,France,42000000,VfB Stuttgart,10
+140773,El Bilal Touré,Centre-Forward,2001-10-03,Mali,42000000,VfB Stuttgart,10
+6573,Marius Müller,Goalkeeper,1993-07-12,Germany,2500000,VfL Wolfsburg,11
+10700,Pavao Pervan,Goalkeeper,1987-11-13,Austria,300000,VfL Wolfsburg,11
+66421,Niklas Klinger,Goalkeeper,1995-10-13,Germany,100000,VfL Wolfsburg,11
+92854,Kamil Grabara,Goalkeeper,1999-01-08,Poland,100000,VfL Wolfsburg,11
+15522,Denis Vavro,Defence,1996-04-10,Slovakia,7000000,VfL Wolfsburg,11
+202533,David Odogu,Defence,2006-06-03,Germany,25000000,VfL Wolfsburg,11
+250576,Mathys Angély,Defence,2007-04-21,France,40000000,VfL Wolfsburg,11
+264451,Till Neininger,Defence,2007-04-03,Germany,100000,VfL Wolfsburg,11
+212727,Bence Dárdai,Midfield,2006-01-24,Germany,100000,VfL Wolfsburg,11
+131024,Bartosz Bialek,Offence,2001-11-11,Poland,100000,VfL Wolfsburg,11
+177590,Konstantinos Koulierakis,Offence,2003-11-28,Greece,350000,VfL Wolfsburg,11
+180827,Mohammed Amoura,Offence,2000-05-09,Algeria,200000,VfL Wolfsburg,11
+264452,Jonathan Akaegbobi,Offence,2006-04-25,Germany,30000000,VfL Wolfsburg,11
+30886,Cédric Zesiger,Centre-Back,1998-06-24,Switzerland,5000000,VfL Wolfsburg,11
+23214,Lovro Majer,Attacking Midfield,1998-01-17,Croatia,20000000,VfL Wolfsburg,11
+16335,Jonas Wind,Centre-Forward,1999-02-07,Denmark,15000000,VfL Wolfsburg,11
+15354,Mattias Svanberg,Central Midfield,1999-01-05,Sweden,12000000,VfL Wolfsburg,11
+9426,Yannick Gerhardt,Central Midfield,1994-03-13,Germany,4000000,VfL Wolfsburg,11
+9423,Maximilian Arnold,Central Midfield,1994-05-27,Germany,7000000,VfL Wolfsburg,11
+8975,Joakim Mæhle,Right-Back,1997-05-20,Denmark,14000000,VfL Wolfsburg,11
+8847,Sebastiaan Bornauw,Centre-Back,1999-03-22,Belgium,7000000,VfL Wolfsburg,11
+7892,Lukas Nmecha,Centre-Forward,1998-12-14,Germany,5000000,VfL Wolfsburg,11
+7005,Kevin Behrens,Centre-Forward,1991-02-03,Germany,2000000,VfL Wolfsburg,11
+6634,Ridle Baku,Right-Back,1998-04-08,Germany,7000000,VfL Wolfsburg,11
+2188,Rogério,Left-Back,1998-01-13,Brazil,5000000,VfL Wolfsburg,11
+201,Salih Özcan,Defensive Midfield,1998-01-11,Turkey,5000000,VfL Wolfsburg,11
+252858,Bennit Bröger,Attacking Midfield,2006-07-01,Germany,500000,VfL Wolfsburg,11
+145057,Tiago Tomás,Centre-Forward,2002-06-16,Portugal,6000000,VfL Wolfsburg,11
+140414,Kevin Paredes,Left Midfield,2003-05-07,USA,7500000,VfL Wolfsburg,11
+127401,Jakub Kamiński,Left Winger,2002-06-05,Poland,6000000,VfL Wolfsburg,11
+124324,Patrick Wimmer,Right Winger,2001-05-30,Austria,15000000,VfL Wolfsburg,11
+122340,Aster Vranckx,Central Midfield,2002-10-04,Belgium,12000000,VfL Wolfsburg,11
+121664,Kilian Fischer,Right-Back,2000-10-12,Germany,2500000,VfL Wolfsburg,11
+9438,Michael Zetterer,Goalkeeper,1995-07-12,Germany,4000000,SV Werder Bremen,12
+45596,Markus Kolke,Goalkeeper,1990-08-18,Germany,2500000,SV Werder Bremen,12
+179984,Mio Backhaus,Goalkeeper,2004-04-16,Germany,2500000,SV Werder Bremen,12
+64934,Derrick Köhn,Defence,1999-02-04,Germany,4500000,SV Werder Bremen,12
+255080,Mats Heitmann,Defence,2006-02-11,Germany,4000000,SV Werder Bremen,12
+61630,Marco Grüll,Midfield,1998-07-06,Austria,7500000,SV Werder Bremen,12
+271982,Wesley Adeh,Midfield,2007-01-08,Germany,7500000,SV Werder Bremen,12
+150734,Abdenego Nankishi,Offence,2002-07-06,Germany,500000,SV Werder Bremen,12
+176637,Keke Topp,Offence,2004-03-25,Germany,500000,SV Werder Bremen,12
+192455,Leon Opitz,Left Midfield,2005-04-11,Germany,600000,SV Werder Bremen,12
+178648,Skelly Alvero,Central Midfield,2002-05-04,France,40000000,SV Werder Bremen,12
+153870,Julián Malatini,Centre-Back,2001-05-31,Argentina,2500000,SV Werder Bremen,12
+145276,Isak Hansen-Aarøen,Attacking Midfield,2004-08-22,Norway,1500000,SV Werder Bremen,12
+122949,Justin Njinmah,Right Winger,2000-11-15,Germany,9000000,SV Werder Bremen,12
+93320,Olivier Deman,Left Midfield,2000-04-06,Belgium,4000000,SV Werder Bremen,12
+66095,Amos Pieper,Centre-Back,1998-01-17,Germany,4000000,SV Werder Bremen,12
+24097,Anthony Jung,Centre-Back,1991-11-03,Germany,1000000,SV Werder Bremen,12
+23925,Jens Stage,Central Midfield,1996-11-08,Denmark,9000000,SV Werder Bremen,12
+16346,Romano Schmid,Attacking Midfield,2000-01-27,Austria,13000000,SV Werder Bremen,12
+10559,Felix Agu,Right-Back,1999-09-27,Germany,6000000,SV Werder Bremen,12
+9765,Senne Lynen,Defensive Midfield,1999-02-19,Belgium,7000000,SV Werder Bremen,12
+9547,Naby Keïta,Central Midfield,1995-02-10,Guinea,1000000,SV Werder Bremen,12
+9447,Marco Friedl,Centre-Back,1998-03-16,Austria,7500000,SV Werder Bremen,12
+8027,Oliver Burke,Right Winger,1997-04-07,Scotland,4000000,SV Werder Bremen,12
+6557,Niklas Stark,Centre-Back,1995-04-14,Germany,5500000,SV Werder Bremen,12
+6555,Mitchell Weiser,Right-Back,1994-04-21,Germany,6000000,SV Werder Bremen,12
+3437,Miloš Veljković,Centre-Back,1995-09-26,Serbia,4500000,SV Werder Bremen,12
+226,Marvin Ducksch,Centre-Forward,1994-03-07,Germany,9000000,SV Werder Bremen,12
+199,Leonardo Bittencourt,Central Midfield,1993-12-19,Germany,2500000,SV Werder Bremen,12
+6616,Robin Zentner,Goalkeeper,1994-10-28,Germany,3000000,1. FSV Mainz 05,15
+6985,Daniel Batz,Goalkeeper,1991-01-12,Germany,350000,1. FSV Mainz 05,15
+170064,Lasse Rieß,Goalkeeper,2001-07-27,Germany,200000,1. FSV Mainz 05,15
+114809,Kaishu Sano,Midfield,2000-12-30,Japan,18000000,1. FSV Mainz 05,15
+150432,Paul Nebel,Midfield,2002-10-10,Germany,4000000,1. FSV Mainz 05,15
+171069,Gabriel Vidovic,Midfield,2003-12-01,Croatia,3500000,1. FSV Mainz 05,15
+177460,Nikolas Veratschnig,Midfield,2003-01-24,Austria,15000000,1. FSV Mainz 05,15
+177499,Eniss Shabani,Midfield,2003-05-29,Albania,750000,1. FSV Mainz 05,15
+179889,Jae-sung Lee,Midfield,1992-08-10,South Korea,2500000,1. FSV Mainz 05,15
+180775,Hyun-seok Hong,Midfield,1999-06-16,South Korea,2500000,1. FSV Mainz 05,15
+250164,Daniel Gleiber,Midfield,2005-02-01,Germany,4000000,1. FSV Mainz 05,15
+151458,Armindo Sieb,Offence,2003-02-17,Germany,2500000,1. FSV Mainz 05,15
+248678,Maxim Dal,Centre-Back,2006-01-26,Germany,0,1. FSV Mainz 05,15
+184973,Nelson Weiper,Centre-Forward,2005-03-17,Germany,5000000,1. FSV Mainz 05,15
+153289,Moritz Jenz,Centre-Back,1999-04-30,Germany,1200000,1. FSV Mainz 05,15
+122717,David Mamutovic,Right Winger,2000-12-05,Germany,25000000,1. FSV Mainz 05,15
+82404,Jonathan Burkardt,Centre-Forward,2000-07-11,Germany,15000000,1. FSV Mainz 05,15
+38394,Andreas Hanche-Olsen,Centre-Back,1997-01-17,Norway,9000000,1. FSV Mainz 05,15
+9994,Maxim Leitsch,Centre-Back,1998-05-18,Germany,2000000,1. FSV Mainz 05,15
+8785,Anthony Caci,Left-Back,1997-07-01,France,7000000,1. FSV Mainz 05,15
+6707,Danny da Costa,Right-Back,1993-07-13,Germany,800000,1. FSV Mainz 05,15
+6704,Aymen Barkok,Attacking Midfield,1998-05-21,Morocco,7000000,1. FSV Mainz 05,15
+6636,Karim Onisiwo,Centre-Forward,1992-03-17,Austria,1500000,1. FSV Mainz 05,15
+6620,Stefan Bell,Centre-Back,1991-08-24,Germany,800000,1. FSV Mainz 05,15
+6576,Philipp Mwene,Left-Back,1994-01-29,Austria,1800000,1. FSV Mainz 05,15
+2114,Silvan Widmer,Right-Back,1993-03-05,Switzerland,2500000,1. FSV Mainz 05,15
+320,Nadiem Amiri,Central Midfield,1996-10-27,Germany,9000000,1. FSV Mainz 05,15
+152,Dominik Kohr,Defensive Midfield,1994-01-31,Germany,3000000,1. FSV Mainz 05,15
+6617,Finn Dahmen,Goalkeeper,1998-03-27,Germany,3500000,FC Augsburg,16
+83751,Daniel Klein,Goalkeeper,2001-03-13,Germany,1500000,FC Augsburg,16
+147197,Nediljko Labrović,Goalkeeper,1999-10-10,Croatia,30000000,FC Augsburg,16
+43195,Dimitris Giannoulis,Defence,1995-10-17,Greece,9000000,FC Augsburg,16
+249428,Noahkai Banks,Defence,2006-12-01,USA,200000,FC Augsburg,16
+171132,Yusuf Kabadayi,Midfield,2004-02-02,Germany,200000,FC Augsburg,16
+184969,Henri Koudossou,Midfield,1999-09-03,Germany,200000,FC Augsburg,16
+81736,Samuel Essende,Offence,1998-01-23,DR Congo,4000000,FC Augsburg,16
+192654,Mert Kömür,Attacking Midfield,2005-07-17,Germany,2000000,FC Augsburg,16
+183682,Mahmut Kücüksahin,Defensive Midfield,2004-04-07,Turkey,12000000,FC Augsburg,16
+153915,Tim Breithaupt,Defensive Midfield,2002-02-07,Germany,3000000,FC Augsburg,16
+147912,Chrislain Matsima,Centre-Back,2002-05-15,France,500000,FC Augsburg,16
+72477,Maximilian Bauer,Centre-Back,2000-02-09,Germany,3000000,FC Augsburg,16
+64249,Robert Gumny,Right-Back,1998-06-04,Poland,2000000,FC Augsburg,16
+56858,Keven Schlotterbeck,Centre-Back,1997-04-28,Germany,40000000,FC Augsburg,16
+45593,Phillip Tietz,Centre-Forward,1997-07-09,Germany,5000000,FC Augsburg,16
+31913,Ruben Vargas,Left Winger,1998-08-05,Switzerland,9000000,FC Augsburg,16
+24221,Mads Pedersen,Left-Back,1996-09-01,Denmark,2500000,FC Augsburg,16
+24210,Frank Onyeka,Central Midfield,1998-01-01,Nigeria,500000,FC Augsburg,16
+23222,Kristijan Jakić,Defensive Midfield,1997-05-14,Croatia,500000,FC Augsburg,16
+10697,Masaya Okugawa,Left Winger,1996-04-14,Japan,500000,FC Augsburg,16
+9432,Elvis Rexhbecaj,Central Midfield,1997-11-01,Kosovo,3500000,FC Augsburg,16
+8193,Steve Mounié,Centre-Forward,1994-09-29,Benin,3500000,FC Augsburg,16
+7264,Fredrik Jensen,Attacking Midfield,1997-09-09,Finland,3500000,FC Augsburg,16
+6714,Marius Wolf,Right-Back,1995-05-27,Germany,2500000,FC Augsburg,16
+6677,Reece Oxford,Centre-Back,1998-12-16,England,700000,FC Augsburg,16
+6645,Jeffrey Gouweleeuw,Centre-Back,1991-07-10,Netherlands,2000000,FC Augsburg,16
+6562,Arne Maier,Central Midfield,1999-01-08,Germany,5000000,FC Augsburg,16
+608,Alexis Claude Maurice,Attacking Midfield,1998-06-06,France,300000,FC Augsburg,16
+6614,Florian Müller,Goalkeeper,1997-11-13,Germany,1200000,SC Freiburg,17
+7741,Jannik Huth,Goalkeeper,1994-04-15,Germany,4000000,SC Freiburg,17
+123287,Noah Atubolu,Goalkeeper,2002-05-25,Germany,10000000,SC Freiburg,17
+142,Maximilian Philipp,Offence,1994-03-01,Germany,300000,SC Freiburg,17
+212309,Johan Manzambi,Offence,2005-10-14,Switzerland,300000,SC Freiburg,17
+229272,Ifechukwu Ogbus,Offence,2005-12-17,Switzerland,300000,SC Freiburg,17
+171203,Max Rosenfelder,Centre-Back,2003-02-10,Germany,2500000,SC Freiburg,17
+171186,Jordy Makengo,Left-Back,2001-08-03,France,3500000,SC Freiburg,17
+171180,Kenneth Schmidt,Centre-Back,2002-06-03,Germany,2000000,SC Freiburg,17
+156552,Merlin Röhl,Central Midfield,2002-07-05,Germany,12000000,SC Freiburg,17
+150733,Eren Dinkci,Right Winger,2001-12-13,Germany,40000000,SC Freiburg,17
+150689,Noah Weißhaupt,Left Winger,2001-09-20,Germany,5000000,SC Freiburg,17
+142790,Kiliann Sildillia,Right-Back,2002-05-16,France,15000000,SC Freiburg,17
+120962,Patrick Osterhage,Central Midfield,2000-02-01,Germany,1000000,SC Freiburg,17
+66114,Daniel-Kofi Kyereh,Attacking Midfield,1996-03-08,Ghana,3500000,SC Freiburg,17
+60395,Chikwubuike Adamu,Centre-Forward,2001-06-06,Austria,3500000,SC Freiburg,17
+9501,Lucas Höler,Centre-Forward,1994-07-10,Germany,4000000,SC Freiburg,17
+9485,Nicolas Höfler,Defensive Midfield,1990-03-09,Germany,1000000,SC Freiburg,17
+9477,Philipp Lienhart,Centre-Back,1996-07-11,Austria,15000000,SC Freiburg,17
+9474,Manuel Gulde,Centre-Back,1991-02-12,Germany,1500000,SC Freiburg,17
+9473,Lukas Kübler,Right-Back,1992-08-30,Germany,2000000,SC Freiburg,17
+9472,Christian Günter,Left-Back,1993-02-28,Germany,5000000,SC Freiburg,17
+9452,Maximilian Eggestein,Central Midfield,1996-12-08,Germany,10000000,SC Freiburg,17
+7531,Ritsu Doan,Right Winger,1998-06-16,Japan,18000000,SC Freiburg,17
+6884,Florent Muslija,Left Winger,1998-07-06,Kosovo,2500000,SC Freiburg,17
+6686,Vincenzo Grifo,Left Winger,1993-04-07,Italy,9000000,SC Freiburg,17
+6661,Michael Gregoritsch,Centre-Forward,1994-04-18,Austria,8000000,SC Freiburg,17
+3176,Matthias Ginter,Centre-Back,1994-01-19,Germany,10000000,SC Freiburg,17
+6667,Tobias Sippel,Goalkeeper,1988-03-22,Germany,300000,Borussia Mönchengladbach,18
+6668,Moritz Nicolas,Goalkeeper,1997-10-21,Germany,2500000,Borussia Mönchengladbach,18
+30774,Jonas Omlin,Goalkeeper,1994-01-10,Switzerland,6000000,Borussia Mönchengladbach,18
+97458,Jan Jakob Olschowsky,Goalkeeper,2001-11-18,Germany,600000,Borussia Mönchengladbach,18
+212854,Ibrahim Digberekou,Defence,2005-02-22,Belgium,600000,Borussia Mönchengladbach,18
+260909,Charles Herrmann,Offence,2006-01-21,Germany,500000,Borussia Mönchengladbach,18
+206426,Shio Fukuda,Centre-Forward,2004-04-08,Japan,300000,Borussia Mönchengladbach,18
+191106,Simon Walde,Right-Back,2026-06-30,Germany,350000,Borussia Mönchengladbach,18
+187273,Lukas Ullrich,Left-Back,2004-03-16,Germany,750000,Borussia Mönchengladbach,18
+184974,Yvandro Borges Sanches,Left Winger,2004-05-24,Luxembourg,9000000,Borussia Mönchengladbach,18
+183637,Grant-Leon Ranos,Centre-Forward,2003-07-20,Armenia,1000000,Borussia Mönchengladbach,18
+176307,Fabio Chiarodia,Centre-Back,2005-06-05,Italy,2000000,Borussia Mönchengladbach,18
+150517,Rocco Reitz,Central Midfield,2002-05-29,Germany,10000000,Borussia Mönchengladbach,18
+144361,Luca Netz,Left-Back,2003-05-15,Germany,8000000,Borussia Mönchengladbach,18
+98746,Nathan N'Goumou,Right Winger,2000-03-14,France,5000000,Borussia Mönchengladbach,18
+82442,Joseph Scally,Right-Back,2002-12-31,USA,10000000,Borussia Mönchengladbach,18
+72392,Philipp Sander,Central Midfield,1998-02-21,Germany,1800000,Borussia Mönchengladbach,18
+62913,Tomáš Čvančara,Centre-Forward,2000-08-13,Czech Republic,6500000,Borussia Mönchengladbach,18
+48902,Ko Itakura,Centre-Back,1997-01-27,Japan,15000000,Borussia Mönchengladbach,18
+16338,Stefan Lainer,Right-Back,1992-08-27,Austria,2500000,Borussia Mönchengladbach,18
+9999,Kevin Stöger,Attacking Midfield,1993-08-27,Austria,1000000,Borussia Mönchengladbach,18
+9522,Florian Neuhaus,Central Midfield,1997-03-16,Germany,5000000,Borussia Mönchengladbach,18
+9499,Tim Kleindienst,Centre-Forward,1995-08-31,Germany,1500000,Borussia Mönchengladbach,18
+8443,Alassane Pléa,Centre-Forward,1993-03-10,France,7000000,Borussia Mönchengladbach,18
+6825,Marvin Friedrich,Centre-Back,1995-12-13,Germany,3500000,Borussia Mönchengladbach,18
+3475,Nico Elvedi,Centre-Back,1996-09-30,Switzerland,10000000,Borussia Mönchengladbach,18
+727,Franck Honorat,Right Winger,1996-08-11,France,12000000,Borussia Mönchengladbach,18
+400,Robin Hack,Left Winger,1998-08-27,Germany,8000000,Borussia Mönchengladbach,18
+144,Julian Weigl,Defensive Midfield,1995-09-08,Germany,6000000,Borussia Mönchengladbach,18
+3175,Kevin Trapp,Goalkeeper,1990-07-08,Germany,4000000,Eintracht Frankfurt,19
+9387,Jens Grahl,Goalkeeper,1988-09-22,Germany,200000,Eintracht Frankfurt,19
+189482,Kaua,Goalkeeper,2003-04-11,Brazil,3000000,Eintracht Frankfurt,19
+230048,Nils Ramming,Goalkeeper,2007-03-28,Sweden,100000,Eintracht Frankfurt,19
+273124,Amil Siljevic,Goalkeeper,2007-01-19,Germany,4500000,Eintracht Frankfurt,19
+260908,Anas Alaoui,Offence,2006-04-20,Morocco,50000000,Eintracht Frankfurt,19
+260910,Junior Awusi,Offence,2006-01-17,Spain,6000000,Eintracht Frankfurt,19
+169297,Aurele Amenda,Centre-Back,2003-07-31,Switzerland,900000,Eintracht Frankfurt,19
+156629,Igor Matanovic,Centre-Forward,2003-03-31,Croatia,7500000,Eintracht Frankfurt,19
+152454,Hugo Ekitike,Centre-Forward,2002-06-20,France,15000000,Eintracht Frankfurt,19
+150860,Ansgar Knauff,Right Winger,2002-01-10,Germany,10000000,Eintracht Frankfurt,19
+145893,Arthur Theate,Centre-Back,2000-05-25,Belgium,5000000,Eintracht Frankfurt,19
+133292,Niels Nkounkou,Left-Back,2000-11-01,France,7500000,Eintracht Frankfurt,19
+116407,Eric Junior Dina Ebimbe,Right Midfield,2000-11-21,France,9000000,Eintracht Frankfurt,19
+99357,Tuta,Centre-Back,1999-07-04,Brazil,12000000,Eintracht Frankfurt,19
+66896,Omar Marmoush,Centre-Forward,1999-02-07,Egypt,40000000,Eintracht Frankfurt,19
+16339,Jérôme Onguéné,Centre-Back,1997-12-22,France,2500000,Eintracht Frankfurt,19
+9479,Robin Koch,Centre-Back,1996-07-17,Germany,8000000,Eintracht Frankfurt,19
+7554,Rasmus Kristensen,Right-Back,1997-07-11,Denmark,35000000,Eintracht Frankfurt,19
+6701,Timmy Chandler,Right-Back,1990-03-29,USA,500000,Eintracht Frankfurt,19
+3608,Ellyes Skhiri,Defensive Midfield,1995-05-10,Tunisia,11000000,Eintracht Frankfurt,19
+158,Mahmoud Dahoud,Central Midfield,1996-01-01,Syria,11000000,Eintracht Frankfurt,19
+140,Mario Götze,Attacking Midfield,1992-06-03,Germany,5500000,Eintracht Frankfurt,19
+260758,Noah Fenyö,Defensive Midfield,2006-01-30,Hungary,5500000,Eintracht Frankfurt,19
+212850,Harpreet Ghotra,Central Midfield,2003-01-17,Germany,1300000,Eintracht Frankfurt,19
+205610,Davis Bautista,Centre-Back,2005-02-16,Ecuador,12000000,Eintracht Frankfurt,19
+205537,Oscar Højlund,Central Midfield,2005-01-04,Denmark,12000000,Eintracht Frankfurt,19
+193605,Can Uzun,Attacking Midfield,2005-11-11,Turkey,500000,Eintracht Frankfurt,19
+185882,Jean Bahoya,Left Winger,2005-05-07,France,7500000,Eintracht Frankfurt,19
+184533,Nathaniel Brown,Left-Back,2003-06-16,Germany,30000000,Eintracht Frankfurt,19
+182589,Mehdi Loune,Central Midfield,2004-05-14,Germany,5000000,Eintracht Frankfurt,19
+182170,Krisztian Lisztes,Attacking Midfield,2005-05-06,Hungary,5000000,Eintracht Frankfurt,19
+180563,Hugo Larsson,Central Midfield,2004-06-27,Sweden,28000000,Eintracht Frankfurt,19
+178658,Fares Chaïbi,Attacking Midfield,2002-11-28,Algeria,18000000,Eintracht Frankfurt,19
+171714,Nnamdi Collins,Centre-Back,2004-01-10,Germany,1000000,Eintracht Frankfurt,19
+171551,Marcel Wenig,Central Midfield,2004-05-04,Germany,175000,Eintracht Frankfurt,19
+9439,Eric Oelschlägel,Goalkeeper,1995-09-20,Germany,28000000,FC St. Pauli 1910,20
+9886,Sascha Burchert,Goalkeeper,1989-10-30,Germany,200000,FC St. Pauli 1910,20
+65105,Nikola Vasilj,Goalkeeper,1995-12-02,Bosnia-Herzegovina,2000000,FC St. Pauli 1910,20
+114954,Ben Alexander Voll,Goalkeeper,2000-12-09,Germany,700000,FC St. Pauli 1910,20
+121172,Sören Ahlers,Goalkeeper,1997-09-09,Germany,50000,FC St. Pauli 1910,20
+221335,Ronny Seibt,Goalkeeper,2005-07-10,Germany,50000,FC St. Pauli 1910,20
+179671,Fin Stevens,Defence,2003-04-10,Wales,2000000,FC St. Pauli 1910,20
+217718,Emil Staugaard,Defence,2001-09-20,Denmark,18000000,FC St. Pauli 1910,20
+238083,Muhammad Dahaba,Defence,2005-03-07,Germany,200000,FC St. Pauli 1910,20
+272163,Julien Yanda,Defence,2007-08-28,Germany,40000000,FC St. Pauli 1910,20
+170981,Robert Wagner,Midfield,2003-07-14,Germany,17000000,FC St. Pauli 1910,20
+265468,Marwin Schmitz,Midfield,2007-01-07,Germany,13000000,FC St. Pauli 1910,20
+75543,Carlo Boukhalfa,Central Midfield,1999-05-03,Germany,700000,FC St. Pauli 1910,20
+70766,Andreas Albers,Centre-Forward,1990-03-23,Denmark,300000,FC St. Pauli 1910,20
+64402,Adam Dźwigała,Centre-Back,1995-09-25,Poland,600000,FC St. Pauli 1910,20
+45318,Maurides,Centre-Forward,1994-03-10,Brazil,300000,FC St. Pauli 1910,20
+31926,Eric Smith,Centre-Back,1997-01-08,Sweden,4000000,FC St. Pauli 1910,20
+15243,Danel Sinani,Right Winger,1997-04-05,Luxembourg,500000,FC St. Pauli 1910,20
+9462,Johannes Eggestein,Centre-Forward,1998-05-08,Germany,2000000,FC St. Pauli 1910,20
+8226,Oladapo Afolayan,Right Winger,1998-02-12,England,3000000,FC St. Pauli 1910,20
+7649,Karol Mets,Centre-Back,1993-05-16,Estonia,1300000,FC St. Pauli 1910,20
+6849,Hauke Finn Wahl,Centre-Back,1994-04-15,Germany,1500000,FC St. Pauli 1910,20
+4635,Connor Metcalfe,Attacking Midfield,1999-11-05,Australia,2500000,FC St. Pauli 1910,20
+3421,Jackson Irvine,Central Midfield,1993-03-07,Australia,2000000,FC St. Pauli 1910,20
+382,Lars Ritzka,Left-Back,1998-05-07,Germany,900000,FC St. Pauli 1910,20
+210,Simon Zoller,Centre-Forward,1991-06-26,Germany,350000,FC St. Pauli 1910,20
+171927,Elias Saad,Left Winger,1999-12-27,Germany,4000000,FC St. Pauli 1910,20
+122651,Philipp Treu,Left-Back,2000-12-03,Germany,2500000,FC St. Pauli 1910,20
+111737,Erik Ahlstrand,Central Midfield,2001-10-14,Sweden,700000,FC St. Pauli 1910,20
+109649,Morgan Guilavogui,Right Winger,1998-03-10,Guinea,10000000,FC St. Pauli 1910,20
+102498,Manolis Saliakas,Right-Back,1996-09-12,Greece,2500000,FC St. Pauli 1910,20
+101202,David Nemeth,Centre-Back,2001-03-18,Austria,800000,FC St. Pauli 1910,20
+80926,Scott Banks,Right Winger,2001-09-26,Scotland,800000,FC St. Pauli 1910,20
+3450,Frederik Rønnow,Goalkeeper,1992-08-04,Denmark,4500000,1. FC Union Berlin,28
+9469,Alexander Schwolow,Goalkeeper,1992-06-02,Germany,700000,1. FC Union Berlin,28
+50717,Carl Klaus,Goalkeeper,1994-01-16,Germany,700000,1. FC Union Berlin,28
+172920,Yannic Stein,Goalkeeper,2004-09-17,Germany,2000000,1. FC Union Berlin,28
+152811,Leopold Querfeld,Defence,2003-12-20,Austria,400000,1. FC Union Berlin,28
+6684,László Bénes,Midfield,1997-09-09,Slovakia,400000,1. FC Union Berlin,28
+7029,Tim Skarke,Midfield,1996-09-07,Germany,400000,1. FC Union Berlin,28
+212115,David Preu,Midfield,2004-10-26,Germany,0,1. FC Union Berlin,28
+125527,Ivan Prtajin,Offence,1996-05-14,Croatia,40000000,1. FC Union Berlin,28
+240197,Oluwaseun Ogbemudia,Centre-Back,2006-07-18,Germany,0,1. FC Union Berlin,28
+188299,Aljoscha Kemlein,Defensive Midfield,2004-08-02,Germany,6000000,1. FC Union Berlin,28
+182886,Andrej Ilic,Centre-Forward,2000-04-03,Serbia,5000000,1. FC Union Berlin,28
+171757,Tom Rothe,Left-Back,2004-10-29,Germany,5000000,1. FC Union Berlin,28
+150647,Benedict Hollerbach,Centre-Forward,2001-05-17,Germany,5000000,1. FC Union Berlin,28
+130880,Yorbe Vertessen,Centre-Forward,2001-01-08,Belgium,5000000,1. FC Union Berlin,28
+72432,Jeong Wooyeong,Attacking Midfield,1999-09-20,South Korea,5000000,1. FC Union Berlin,28
+72117,András Schafer,Central Midfield,1999-04-13,Hungary,5000000,1. FC Union Berlin,28
+67886,Danilho Doekhi,Centre-Back,1998-06-30,Netherlands,17000000,1. FC Union Berlin,28
+37796,Diogo Leite,Centre-Back,1999-01-23,Portugal,15000000,1. FC Union Berlin,28
+23202,Josip Juranović,Right-Back,1995-08-16,Croatia,7500000,1. FC Union Berlin,28
+10195,Robert Skov,Left Midfield,1996-05-20,Denmark,2000000,1. FC Union Berlin,28
+9489,Janik Haberer,Central Midfield,1994-04-02,Germany,3000000,1. FC Union Berlin,28
+8465,Lucas Tousart,Defensive Midfield,1997-04-29,France,5500000,1. FC Union Berlin,28
+8369,Jérôme Roussillon,Left-Back,1993-01-06,Guadeloupe,2500000,1. FC Union Berlin,28
+6828,Christopher Trimmel,Right-Back,1987-02-24,Austria,600000,1. FC Union Berlin,28
+6657,Rani Khedira,Defensive Midfield,1994-01-27,Germany,5000000,1. FC Union Berlin,28
+812,Jordan Siebatcheu,Centre-Forward,1996-04-26,USA,6500000,1. FC Union Berlin,28
+314,Kevin Vogt,Centre-Back,1991-09-23,Germany,2000000,1. FC Union Berlin,28
+150,Kevin Volland,Centre-Forward,1992-07-30,Germany,4000000,1. FC Union Berlin,28
+178,Timo Horn,Goalkeeper,1993-05-12,Germany,350000,VfL Bochum 1848,36
+7109,Patrick Drewes,Goalkeeper,1993-02-04,Germany,1000000,VfL Bochum 1848,36
+9984,Manuel Riemann,Goalkeeper,1988-09-09,Germany,300000,VfL Bochum 1848,36
+140855,Paul Grave,Goalkeeper,2001-04-10,Germany,8500000,VfL Bochum 1848,36
+6630,Gerrit Holtmann,Midfield,1995-03-25,Philippines,700000,VfL Bochum 1848,36
+7564,Dani de Wit,Midfield,1998-01-28,Netherlands,12000000,VfL Bochum 1848,36
+48623,Koji Miyoshi,Midfield,1997-03-26,Japan,12000000,VfL Bochum 1848,36
+183370,Niklas Jahn,Midfield,2004-07-26,Germany,5500000,VfL Bochum 1848,36
+260747,Lennart Koerdt,Midfield,2005-01-07,Germany,5000000,VfL Bochum 1848,36
+9990,Anthony Losilla,Defensive Midfield,1986-03-10,France,500000,VfL Bochum 1848,36
+9942,Lukas Daschner,Attacking Midfield,1998-10-01,Germany,1200000,VfL Bochum 1848,36
+9897,Maximilian Wittek,Left-Back,1995-08-21,Germany,2000000,VfL Bochum 1848,36
+9540,Bernardo,Left-Back,1995-05-14,Brazil,7000000,VfL Bochum 1848,36
+8874,Erhan Mašović,Centre-Back,1998-11-22,Serbia,4000000,VfL Bochum 1848,36
+7703,Myron Boadu,Centre-Forward,2001-01-14,Netherlands,4000000,VfL Bochum 1848,36
+6927,Philipp Hofmann,Centre-Forward,1993-03-30,Germany,1800000,VfL Bochum 1848,36
+6807,Moritz Broschinski,Centre-Forward,2000-09-23,Germany,3000000,VfL Bochum 1848,36
+3513,Cristian Gamboa,Right-Back,1989-10-24,Costa Rica,500000,VfL Bochum 1848,36
+451,Ibrahima Sissoko,Defensive Midfield,1997-10-27,Mali,500000,VfL Bochum 1848,36
+401,Felix Passlack,Right-Back,1998-05-29,Germany,2500000,VfL Bochum 1848,36
+212849,Mats Pannewig,Central Midfield,2004-10-28,Germany,12000000,VfL Bochum 1848,36
+192607,Samuel Bamba,Right Winger,2004-02-13,Germany,300000,VfL Bochum 1848,36
+184979,Tim Oermann,Centre-Back,2003-10-06,Germany,4000000,VfL Bochum 1848,36
+184968,Mohammed Tolba,Centre-Back,2004-07-19,Germany,200000,VfL Bochum 1848,36
+167685,Aliou Balde,Left Winger,2002-12-12,Guinea,1500000,VfL Bochum 1848,36
+151089,Agon Elezi,Central Midfield,2001-03-01,North Macedonia,800000,VfL Bochum 1848,36
+70093,Jakov Medić,Centre-Back,1998-09-07,Croatia,3000000,VfL Bochum 1848,36
+66107,Moritz-Broni Kwarteng,Attacking Midfield,1998-04-28,Germany,1200000,VfL Bochum 1848,36
+50135,Noah Loosli,Centre-Back,1997-01-23,Switzerland,800000,VfL Bochum 1848,36
+30302,Matúš Bero,Central Midfield,1995-09-06,Slovakia,3500000,VfL Bochum 1848,36
+16468,Ivan Ordets,Centre-Back,1992-07-08,Ukraine,40000000,VfL Bochum 1848,36
+7013,Kevin Müller,Goalkeeper,1991-03-15,Germany,1000000,1. FC Heidenheim 1846,44
+7014,Vitus Eicher,Goalkeeper,1990-11-05,Germany,250000,1. FC Heidenheim 1846,44
+143050,Paul Tschernuth,Goalkeeper,2002-01-20,Austria,100000,1. FC Heidenheim 1846,44
+179959,Frank Feller,Goalkeeper,2004-01-07,Germany,350000,1. FC Heidenheim 1846,44
+10825,Mathias Honsak,Midfield,1996-12-20,Austria,10000000,1. FC Heidenheim 1846,44
+96898,Sirlord Conteh,Midfield,1996-07-09,Germany,10000000,1. FC Heidenheim 1846,44
+150698,Julian Niehues,Midfield,2001-04-17,Germany,5000000,1. FC Heidenheim 1846,44
+151650,Léo Scienza,Midfield,1998-09-13,Brazil,5000000,1. FC Heidenheim 1846,44
+157339,Luca Kerber,Midfield,2002-03-10,Germany,4000000,1. FC Heidenheim 1846,44
+176932,Paul Wanner,Midfield,2005-12-23,Germany,300000,1. FC Heidenheim 1846,44
+203165,Christopher Negele,Offence,2005-04-11,Germany,600000,1. FC Heidenheim 1846,44
+212841,Luka Janeš,Defensive Midfield,2004-01-19,Germany,200000,1. FC Heidenheim 1846,44
+114649,Tim Siersleben,Centre-Back,2000-03-09,Germany,1500000,1. FC Heidenheim 1846,44
+77867,Mikkel Kaufmann,Centre-Forward,2001-01-03,Denmark,3000000,1. FC Heidenheim 1846,44
+75675,Adrian Beck,Attacking Midfield,1997-06-09,Germany,1500000,1. FC Heidenheim 1846,44
+75545,Marvin Pieringer,Centre-Forward,1999-10-04,Germany,4500000,1. FC Heidenheim 1846,44
+72462,Thomas Keller,Centre-Back,1999-08-05,Germany,350000,1. FC Heidenheim 1846,44
+67489,Jan Schöppner,Central Midfield,1999-06-12,Germany,3500000,1. FC Heidenheim 1846,44
+67347,Haktab Traoré,Right-Back,1998-02-04,Germany,12000000,1. FC Heidenheim 1846,44
+66088,Patrick Mainka,Centre-Back,1994-11-06,Germany,3000000,1. FC Heidenheim 1846,44
+10369,Stefan Schimmer,Centre-Forward,1994-04-28,Germany,500000,1. FC Heidenheim 1846,44
+10254,Maximilian Breunig,Centre-Forward,2000-08-14,Germany,7000000,1. FC Heidenheim 1846,44
+10028,Benedikt Gimber,Centre-Back,1997-02-19,Germany,2800000,1. FC Heidenheim 1846,44
+7038,Denis Thomalla,Attacking Midfield,1992-08-16,Germany,750000,1. FC Heidenheim 1846,44
+7028,Norman Theuerkauf,Defensive Midfield,1987-01-24,Germany,300000,1. FC Heidenheim 1846,44
+7022,Marnon-Thomas Busch,Right-Back,1994-12-08,Germany,1200000,1. FC Heidenheim 1846,44
+6879,Jonas Föhrenbach,Left-Back,1996-01-26,Germany,2000000,1. FC Heidenheim 1846,44
+6826,Lennart Maloney,Defensive Midfield,1999-10-08,USA,5000000,1. FC Heidenheim 1846,44
+362,Niklas Dorsch,Defensive Midfield,1998-01-15,Germany,250000,1. FC Heidenheim 1846,44
+6901,Marcel Engelhardt,Goalkeeper,1993-04-05,Germany,175000,Holstein Kiel,720
+75439,Timon Weiner,Goalkeeper,1999-01-18,Germany,1500000,Holstein Kiel,720
+105533,Thomas Dähne,Goalkeeper,1994-01-04,Germany,400000,Holstein Kiel,720
+209815,Tyler Dogan,Goalkeeper,2005-11-18,Turkey,75000,Holstein Kiel,720
+105240,Tymoteusz Puchacz,Defence,1999-01-23,Poland,75000,Holstein Kiel,720
+147295,Dominik Javorček,Defence,2002-11-02,Slovakia,3000000,Holstein Kiel,720
+150085,Max Geschwill,Defence,2001-07-07,Germany,2000000,Holstein Kiel,720
+115112,Magnus Knudsen,Midfield,2001-06-15,Norway,1500000,Holstein Kiel,720
+119385,Armin Gigovic,Midfield,2002-04-06,Bosnia-Herzegovina,3500000,Holstein Kiel,720
+142119,Andu Yobel Kelati,Midfield,2002-08-13,Germany,300000,Holstein Kiel,720
+48988,Shuto Machino,Offence,1999-09-30,Japan,3500000,Holstein Kiel,720
+209267,Phil Harres,Offence,2002-03-25,Germany,2500000,Holstein Kiel,720
+211747,Aurel Wagbe,Left Midfield,2004-02-04,Germany,100000,Holstein Kiel,720
+211746,Marko Ivezić,Defensive Midfield,2001-12-02,Serbia,3000000,Holstein Kiel,720
+209780,Lasse Rosenboom,Right-Back,2002-01-19,Germany,500000,Holstein Kiel,720
+171759,Colin Kleine-Bekel,Centre-Back,2003-01-24,Germany,3000000,Holstein Kiel,720
+149995,Nicolai Remberg,Central Midfield,2000-06-19,Germany,1800000,Holstein Kiel,720
+111622,Alexander Bernhardsson,Right Winger,1998-09-08,Sweden,1500000,Holstein Kiel,720
+65215,Marco Komenda,Centre-Back,1996-11-26,Germany,900000,Holstein Kiel,720
+62327,Benedikt Pichler,Centre-Forward,1997-07-20,Austria,2000000,Holstein Kiel,720
+31577,Carl Johansson,Centre-Back,1994-05-23,Sweden,700000,Holstein Kiel,720
+30772,Marvin Schulz,Defensive Midfield,1995-01-15,Germany,700000,Holstein Kiel,720
+10366,Finn Porath,Attacking Midfield,1997-02-23,Germany,1500000,Holstein Kiel,720
+10324,Timo Becker,Centre-Back,1997-03-25,Germany,2000000,Holstein Kiel,720
+6839,Steven Skrzybski,Attacking Midfield,1992-11-18,Germany,1300000,Holstein Kiel,720
+6543,Jann-Fiete Arp,Centre-Forward,2000-01-06,Germany,800000,Holstein Kiel,720
+6526,Lewis Holtby,Central Midfield,1990-09-18,Germany,500000,Holstein Kiel,720
+223,Patrick Erras,Defensive Midfield,1995-01-21,Germany,1000000,Holstein Kiel,720
+9533,Péter Gulácsi,Goalkeeper,1990-05-06,Hungary,3000000,RB Leipzig,721
+45569,Leopold Zingerle,Goalkeeper,1994-04-10,Germany,400000,RB Leipzig,721
+75739,Maarten Vandevoordt,Goalkeeper,2002-02-26,Belgium,10000000,RB Leipzig,721
+169295,Antonio Nusa,Midfield,2005-04-17,Norway,1200000,RB Leipzig,721
+212636,Assan Ouédraogo,Midfield,2006-05-09,Germany,7000000,RB Leipzig,721
+264272,Viggo Gebel,Midfield,2007-11-22,Germany,15000000,RB Leipzig,721
+273146,Faik Sakar,Midfield,2008-01-14,Germany,3000000,RB Leipzig,721
+246426,Nuha Jatta,Attacking Midfield,2006-03-15,Germany,12000000,RB Leipzig,721
+184146,Arthur Vermeeren,Central Midfield,2005-02-07,Belgium,5000000,RB Leipzig,721
+171405,Castello Lukeba,Centre-Back,2002-12-17,France,40000000,RB Leipzig,721
+170415,El Chadaille Bitshiabu,Centre-Back,2005-05-16,France,12000000,RB Leipzig,721
+148289,Xavi Simons,Attacking Midfield,2003-04-21,Netherlands,50000000,RB Leipzig,721
+124244,Benjamin Šeško,Centre-Forward,2003-05-31,Slovenia,50000000,RB Leipzig,721
+113038,Nicolas  Seiwald,Central Midfield,2001-05-04,Austria,16000000,RB Leipzig,721
+73215,Loïs Openda,Centre-Forward,2000-02-16,Belgium,60000000,RB Leipzig,721
+56829,Christoph Baumgartner,Attacking Midfield,1999-08-01,Austria,18000000,RB Leipzig,721
+30629,Eljif Elmas,Attacking Midfield,1999-09-24,North Macedonia,15000000,RB Leipzig,721
+16344,Xaver Schlager,Central Midfield,1997-09-28,Austria,28000000,RB Leipzig,721
+15704,Amadou Haïdara,Central Midfield,1998-01-31,Mali,20000000,RB Leipzig,721
+9905,David Raum,Left-Back,1998-04-22,Germany,25000000,RB Leipzig,721
+9550,Kevin Kampl,Central Midfield,1990-10-09,Slovenia,3500000,RB Leipzig,721
+9537,Willi Orban,Centre-Back,1992-11-03,Hungary,10000000,RB Leipzig,721
+9536,Lukas Klostermann,Centre-Back,1996-06-03,Germany,8000000,RB Leipzig,721
+7468,Lutsharel Geertruida,Right-Back,2000-07-18,Netherlands,100000,RB Leipzig,721
+3466,Yussuf Poulsen,Centre-Forward,1994-06-16,Denmark,6000000,RB Leipzig,721
+1760,André Silva,Centre-Forward,1995-11-06,Portugal,45000000,RB Leipzig,721
+156,Benjamin Henrichs,Right-Back,1997-02-23,Germany,20000000,RB Leipzig,721

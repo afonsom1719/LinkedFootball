@@ -1,0 +1,573 @@
+Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId
+45189,Jhonatan,Goalkeeper,1991-05-08,Brazil,800000,Rio Ave FC,496
+114150,Cezary Miszta,Goalkeeper,2001-10-30,Poland,75000,Rio Ave FC,496
+263610,Antzelo Sina,Goalkeeper,2004-01-07,Albania,2000000,Rio Ave FC,496
+4266,Omar Richards,Defence,1998-02-15,England,350000,Rio Ave FC,496
+98870,Jonathan Panzo,Defence,2000-10-25,England,800000,Rio Ave FC,496
+178737,Patrick William,Defence,1997-06-03,Brazil,800000,Rio Ave FC,496
+193588,Joao Tome,Defence,2003-02-12,Portugal,350000,Rio Ave FC,496
+194165,Aderlan,Defence,1989-04-09,Brazil,200000,Rio Ave FC,496
+204151,Jorge Karseladze,Defence,2005-03-18,Portugal,2500000,Rio Ave FC,496
+250593,Francisco Petrasso,Defence,2002-02-28,Argentina,2500000,Rio Ave FC,496
+45452,João Novais,Midfield,1993-07-10,Portugal,700000,Rio Ave FC,496
+172912,Demir Tiknaz,Midfield,2004-08-17,Turkey,100000,Rio Ave FC,496
+220603,Chukwudi Igbokwe,Midfield,2002-06-20,Nigeria,100000,Rio Ave FC,496
+261561,Georgios Okkas,Midfield,2004-10-24,Cyprus,800000,Rio Ave FC,496
+271031,Michalis Patiras,Midfield,2004-05-13,Greece,350000,Rio Ave FC,496
+105208,Kiko Bondoso,Offence,1995-11-17,Portugal,300000,Rio Ave FC,496
+141542,Clayton,Offence,1999-01-11,Brazil,600000,Rio Ave FC,496
+170807,Ahmed Hassan Koka,Offence,1993-03-05,Egypt,100000,Rio Ave FC,496
+211519,Tobias Medina,Offence,2004-03-03,Argentina,800000,Rio Ave FC,496
+244984,Karem Zoabi,Offence,2006-05-03,Israel,100000,Rio Ave FC,496
+273017,Valentim Sousa,Offence,2005-02-14,Portugal,0,Rio Ave FC,496
+165143,Martim Neto,Central Midfield,2003-01-14,Portugal,6000000,Rio Ave FC,496
+150925,Tiago Fonseca Morais,Left Winger,2003-09-03,Portugal,325000,Rio Ave FC,496
+142162,Ole Pohlmann,Central Midfield,2001-04-05,Germany,3000000,Rio Ave FC,496
+74844,Renato Pantalon,Centre-Back,1997-10-27,Croatia,800000,Rio Ave FC,496
+43696,Vitor Gomes,Defensive Midfield,1987-12-25,Portugal,100000,Rio Ave FC,496
+37490,Amine Oudrhiri,Defensive Midfield,1992-11-04,Morocco,400000,Rio Ave FC,496
+15990,Marious Vrousai,Right Winger,1998-07-02,Greece,0,Rio Ave FC,496
+227767,João Muniz,Centre-Back,2005-06-26,Portugal,75000,Rio Ave FC,496
+185179,Brandon Aguilera,Attacking Midfield,2003-06-28,Costa Rica,1500000,Rio Ave FC,496
+185150,João Graça,Central Midfield,1995-06-18,Portugal,500000,Rio Ave FC,496
+185138,Fábio Ronaldo,Right Winger,2001-04-28,Portugal,1500000,Rio Ave FC,496
+97893,Franco Israel,Goalkeeper,2000-04-22,Uruguay,5000000,Sporting Clube de Portugal,498
+172267,Vladan Kovacevic,Goalkeeper,1998-04-11,Bosnia-Herzegovina,350000,Sporting Clube de Portugal,498
+178770,Diego Calai,Goalkeeper,2004-07-18,Italy,16000000,Sporting Clube de Portugal,498
+194860,Francisco Silva,Goalkeeper,2005-11-20,Portugal,300000,Sporting Clube de Portugal,498
+202181,Diogo Pinto,Goalkeeper,2004-06-18,Portugal,500000,Sporting Clube de Portugal,498
+160926,Zeno Debast,Defence,2003-10-24,Belgium,27000000,Sporting Clube de Portugal,498
+178768,Eduardo Quaresma,Defence,2002-03-02,Portugal,14000000,Sporting Clube de Portugal,498
+191760,Ousmane Diomande,Defence,2003-12-04,Ivory Coast,40000000,Sporting Clube de Portugal,498
+242475,Bruno Ramos,Defence,2005-01-18,Brazil,1500000,Sporting Clube de Portugal,498
+270550,Miguel Alves,Defence,2005-12-30,Portugal,50000,Sporting Clube de Portugal,498
+28770,Maximiliano Araújo,Midfield,2000-02-15,Uruguay,200000,Sporting Clube de Portugal,498
+270551,João Simões,Midfield,2007-01-06,Portugal,2000000,Sporting Clube de Portugal,498
+270782,Luís Gomes,Midfield,2004-04-24,Portugal,350000,Sporting Clube de Portugal,498
+272008,Henrique Arreiol,Midfield,2005-06-21,Portugal,700000,Sporting Clube de Portugal,498
+273036,Alexandre Brito,Midfield,2005-07-19,Portugal,27000000,Sporting Clube de Portugal,498
+204124,Mauro Couto,Offence,2005-11-15,Portugal,7000000,Sporting Clube de Portugal,498
+206744,Conrad Harder,Offence,2005-04-07,Denmark,300000,Sporting Clube de Portugal,498
+229421,Geovany Quenda,Offence,2007-04-30,Portugal,9000000,Sporting Clube de Portugal,498
+247303,Rafael Nel,Offence,2005-04-03,Portugal,700000,Sporting Clube de Portugal,498
+264311,Gabriel Silva,Offence,2007-04-09,Portugal,1700000,Sporting Clube de Portugal,498
+176840,Ivan Fresneda,Right-Back,2004-09-28,Spain,9000000,Sporting Clube de Portugal,498
+145357,Gonçalo Inácio,Centre-Back,2001-08-25,Portugal,45000000,Sporting Clube de Portugal,498
+128825,Geny Catamo,Right Winger,2001-01-26,Mozambique,15000000,Sporting Clube de Portugal,498
+102336,Daniel Bragança,Central Midfield,1999-05-27,Portugal,12000000,Sporting Clube de Portugal,498
+92050,Pedro Gonçalves,Attacking Midfield,1998-06-28,Portugal,32000000,Sporting Clube de Portugal,498
+73998,Morten Hjulmand,Defensive Midfield,1999-06-25,Denmark,40000000,Sporting Clube de Portugal,498
+49092,Hidemasa Morita,Central Midfield,1995-05-10,Japan,15000000,Sporting Clube de Portugal,498
+45463,Nuno Santos,Left-Back,1995-02-13,Portugal,1500000,Sporting Clube de Portugal,498
+45388,Ricardo Esgaio,Right-Back,1993-05-16,Portugal,3000000,Sporting Clube de Portugal,498
+45210,Matheus Reis,Left-Back,1995-02-18,Brazil,8000000,Sporting Clube de Portugal,498
+37332,Trincão,Left Winger,1999-12-29,Portugal,23000000,Sporting Clube de Portugal,498
+8279,Viktor Gyökeres,Centre-Forward,1998-06-04,Sweden,70000000,Sporting Clube de Portugal,498
+7465,Jerry St. Juste,Centre-Back,1996-10-19,Netherlands,8000000,Sporting Clube de Portugal,498
+3999,Marcus Edwards,Right Winger,1998-12-03,England,18000000,Sporting Clube de Portugal,498
+204136,Afonso Moreira,Left Winger,2005-03-19,Portugal,1000000,Sporting Clube de Portugal,498
+13887,Samuel Portugal,Goalkeeper,1994-03-29,Brazil,1500000,FC Porto,503
+37362,Diogo Costa,Goalkeeper,1999-09-19,Portugal,45000000,FC Porto,503
+45217,Cláudio Ramos,Goalkeeper,1991-11-16,Portugal,1500000,FC Porto,503
+250537,Gonçalo Ribeiro,Goalkeeper,2006-01-15,Portugal,45000000,FC Porto,503
+227047,Martim Fernandes,Defence,2006-01-18,Portugal,6000000,FC Porto,503
+250544,Gabriel Brás,Defence,2004-03-25,Portugal,1500000,FC Porto,503
+178712,Vasco Sousa,Midfield,2003-04-03,Portugal,450000,FC Porto,503
+261273,Rodrigo Mora,Midfield,2007-05-05,Portugal,400000,FC Porto,503
+102579,Fran Navarro,Offence,1998-02-03,Spain,300000,FC Porto,503
+188466,Deniz Gul,Offence,2004-07-02,Sweden,700000,FC Porto,503
+251113,Gonçalo Sousa,Offence,2006-06-30,Portugal,4000000,FC Porto,503
+112948,Fabio Vieira,Attacking Midfield,2000-05-30,Portugal,1500000,FC Porto,503
+98611,Moura,Left-Back,1999-08-16,Portugal,100000,FC Porto,503
+83223,Ivan Jaime Pajuelo,Attacking Midfield,2000-09-26,Spain,8000000,FC Porto,503
+82126,João Mário Lopes,Right-Back,2000-01-03,Portugal,15000000,FC Porto,503
+52950,Zé Pedro Figueiredo,Centre-Back,1997-06-06,Portugal,3000000,FC Porto,503
+45671,Nehuén Pérez,Centre-Back,2000-06-24,Argentina,2000000,FC Porto,503
+37479,Stephen Eustáquio,Central Midfield,1996-12-21,Canada,11000000,FC Porto,503
+37363,Galeno,Left Winger,1997-10-22,Brazil,27000000,FC Porto,503
+37134,Tiago Djaló,Centre-Back,2000-04-09,Portugal,325000,FC Porto,503
+15902,Marcano,Centre-Back,1987-06-23,Spain,250000,FC Porto,503
+6475,Wendell,Left-Back,1993-07-20,Brazil,5000000,FC Porto,503
+4289,Daniel Loader,Centre-Forward,2000-08-28,England,40000000,FC Porto,503
+3442,Marko Grujić,Defensive Midfield,1996-04-13,Serbia,6000000,FC Porto,503
+1166,Pepê,Left Winger,1997-02-24,Brazil,30000000,FC Porto,503
+215434,Samu Omorodion,Centre-Forward,,Spain,100000,FC Porto,503
+171986,Nico Gonzalez,Central Midfield,2002-01-03,Spain,15000000,FC Porto,503
+171343,André Franco,Attacking Midfield,1998-04-12,Portugal,3000000,FC Porto,503
+153629,Alan Varela,Defensive Midfield,2001-07-04,Argentina,35000000,FC Porto,503
+151363,Otavio Ataide,Centre-Back,2002-04-21,Brazil,75000,FC Porto,503
+126149,Gonçalo Borges,Right Winger,2001-03-29,Portugal,4000000,FC Porto,503
+125160,Zaidu Sanusi,Left-Back,1997-06-13,Nigeria,3000000,FC Porto,503
+7821,Joel Robles,Goalkeeper,1990-06-17,Spain,300000,GD Estoril Praia,582
+110864,Kevin Chamorro,Goalkeeper,2000-04-08,Costa Rica,500000,GD Estoril Praia,582
+213111,Diogo Dias,Goalkeeper,2003-06-17,Portugal,325000,GD Estoril Praia,582
+272009,Željko Vitorović,Goalkeeper,2006-02-02,Serbia,4000000,GD Estoril Praia,582
+37555,Pedro Amaral,Defence,1997-08-25,Portugal,1500000,GD Estoril Praia,582
+75196,Felix Bacher,Defence,2000-10-25,Austria,10000000,GD Estoril Praia,582
+151006,Kévin Boma,Defence,2002-11-20,France,7000000,GD Estoril Praia,582
+185120,Gonçalo Costa,Defence,2000-02-18,Portugal,75000,GD Estoril Praia,582
+229014,Sierra Arnal,Defence,2003-03-17,Spain,14000000,GD Estoril Praia,582
+8569,Xeka,Midfield,1994-11-10,Portugal,2000000,GD Estoril Praia,582
+16752,João Carvalho,Midfield,1997-03-09,Portugal,5000000,GD Estoril Praia,582
+146983,Jandro Orellana,Midfield,2000-08-07,Spain,3000000,GD Estoril Praia,582
+182034,Duarte Carvalho,Midfield,2002-05-30,Portugal,200000,GD Estoril Praia,582
+229280,Manga Foe Ondoa,Midfield,2005-12-12,France,1500000,GD Estoril Praia,582
+242472,Martim Watts,Midfield,2005-07-14,Portugal,6000000,GD Estoril Praia,582
+243570,Pedro Carvalho,Midfield,2003-02-14,Portugal,5000000,GD Estoril Praia,582
+4096,Hélder Costa,Offence,1994-01-12,Angola,75000,GD Estoril Praia,582
+74159,Fabrício,Offence,1984-12-26,Brazil,100000,GD Estoril Praia,582
+248958,Fabrício Garcia,Offence,2001-05-04,Cape Verde Islands,350000,GD Estoril Praia,582
+272011,André Gonçalves,Offence,2003-05-16,Portugal,32000000,GD Estoril Praia,582
+141357,Alejandro Marqués,Centre-Forward,2000-08-04,Venezuela,1000000,GD Estoril Praia,582
+138223,Michel Costa,Defensive Midfield,2001-12-20,Brazil,600000,GD Estoril Praia,582
+135650,Jordan Holsgrove,Defensive Midfield,1999-09-10,Scotland,1500000,GD Estoril Praia,582
+37670,Pedro Álvaro,Centre-Back,2000-03-02,Portugal,1500000,GD Estoril Praia,582
+7833,Eliaquim Mangala,Centre-Back,1991-02-13,France,400000,GD Estoril Praia,582
+553,Yanis Begraoui,Centre-Forward,2001-07-04,France,1500000,GD Estoril Praia,582
+249234,André,Left Winger,2001-05-19,Portugal,3000000,GD Estoril Praia,582
+244769,Israel Salazar,Centre-Forward,2003-05-10,Spain,700000,GD Estoril Praia,582
+213136,Wagner Pina,Right-Back,2002-11-03,Portugal,2000000,GD Estoril Praia,582
+170694,Vinicius Zanocelo,Central Midfield,2001-01-30,Brazil,100000,GD Estoril Praia,582
+151941,Volnei Feltes,Centre-Back,2000-04-15,Brazil,650000,GD Estoril Praia,582
+45260,Caio Secco,Goalkeeper,1990-12-22,Brazil,200000,Moreirense FC,583
+79821,Mika,Goalkeeper,1991-03-08,Portugal,100000,Moreirense FC,583
+117677,Kewin,Goalkeeper,1995-01-25,Brazil,1500000,Moreirense FC,583
+74795,Bernardo Martins,Midfield,1997-12-04,Portugal,6000000,Moreirense FC,583
+160459,Sidnei Tavares,Midfield,2001-09-29,Portugal,300000,Moreirense FC,583
+169637,Guilherme Liberato,Midfield,2001-06-16,Brazil,1500000,Moreirense FC,583
+37636,Guilherme Schettine,Offence,1995-10-10,Brazil,400000,Moreirense FC,583
+45464,Gabrielzinho,Offence,1996-09-29,Brazil,300000,Moreirense FC,583
+262588,Pedro Santos,Offence,2003-02-10,Portugal,1500000,Moreirense FC,583
+246564,Carlão,Centre-Back,2003-08-19,Brazil,700000,Moreirense FC,583
+245506,Luis Asué,Centre-Forward,2001-07-09,Equatorial Guinea,1500000,Moreirense FC,583
+213097,Gilberto Batista,Centre-Back,2003-12-29,Portugal,200000,Moreirense FC,583
+188084,Dinis Pinto,Right-Back,2000-08-24,Portugal,500000,Moreirense FC,583
+178767,Leonardo Buta,Left-Back,2002-06-05,Portugal,3500000,Moreirense FC,583
+171328,Fabiano Silva,Right-Back,2000-03-14,Brazil,3000000,Moreirense FC,583
+169237,Alanzinho,Attacking Midfield,2000-03-08,Brazil,3000000,Moreirense FC,583
+156631,Jeremy Antonisse,Left Winger,2002-03-29,Curaçao,500000,Moreirense FC,583
+154093,Hernâni Infande,Right Winger,2001-04-03,Portugal,400000,Moreirense FC,583
+150786,Rúben Ramos,Defensive Midfield,1999-03-25,Portugal,100000,Moreirense FC,583
+64587,Godfried Frimpong,Left-Back,1999-04-21,Netherlands,1500000,Moreirense FC,583
+45440,Marcelo,Centre-Back,1989-07-27,Brazil,100000,Moreirense FC,583
+43699,Ponck,Centre-Back,1995-01-13,Cape Verde Islands,800000,Moreirense FC,583
+39959,Lawrence Ofori,Central Midfield,1998-06-28,Ghana,2000000,Moreirense FC,583
+18690,Madson,Left Winger,1999-08-26,Brazil,1500000,Moreirense FC,583
+13839,Maracás,Centre-Back,1994-04-27,Brazil,1000000,Moreirense FC,583
+1527,Thiago,Goalkeeper,1996-06-12,Brazil,200000,FC Arouca,712
+10345,Nico Mantl,Goalkeeper,2000-02-06,Germany,700000,FC Arouca,712
+102210,João Valido,Goalkeeper,2000-03-03,Portugal,200000,FC Arouca,712
+131240,Amadou Dante,Defence,2000-10-07,Mali,100000,FC Arouca,712
+140169,José Fontán,Defence,2000-02-11,Spain,100000,FC Arouca,712
+151938,Boris Popović,Defence,2000-02-26,Serbia,4000000,FC Arouca,712
+171383,Chico Lamba,Defence,2003-03-10,Portugal,500000,FC Arouca,712
+37331,Loum Ndiaye,Midfield,1996-12-30,Senegal,10000000,FC Arouca,712
+9178,Ivo Rodrigues,Offence,1995-03-30,Portugal,400000,FC Arouca,712
+136929,Pablo Gozalbez,Attacking Midfield,2001-04-30,Spain,1000000,FC Arouca,712
+130345,Morlaye Sylla,Left Winger,1998-07-27,Guinea,3000000,FC Arouca,712
+80581,Güven Yalçın,Centre-Forward,1999-01-18,Turkey,3000000,FC Arouca,712
+79675,Nino Galović,Centre-Back,1992-07-06,Croatia,500000,FC Arouca,712
+53121,Tiago Esgaio,Right-Back,1995-08-01,Portugal,3000000,FC Arouca,712
+45451,Pedro Moreira,Central Midfield,1989-03-13,Portugal,100000,FC Arouca,712
+37562,Alex Pinto,Right-Back,1998-07-08,Portugal,27000000,FC Arouca,712
+32949,Jason,Right Winger,1994-07-06,Spain,2500000,FC Arouca,712
+21132,David Simão,Central Midfield,1990-05-15,Portugal,200000,FC Arouca,712
+18653,Quaresma,Left-Back,1996-08-22,Brazil,1500000,FC Arouca,712
+15870,Oriol Busquets,Defensive Midfield,1999-01-20,Spain,400000,FC Arouca,712
+192545,Vladislav Morozov,Centre-Forward,2000-10-12,Belarus,500000,FC Arouca,712
+191142,Pedro Santos,Central Midfield,2000-10-12,Portugal,1500000,FC Arouca,712
+180178,Puche,Left Winger,2001-04-30,Spain,400000,FC Arouca,712
+177322,Henrique Araujo,Centre-Forward,2002-01-19,Portugal,700000,FC Arouca,712
+169128,Taichi Fukui,Central Midfield,2004-07-15,Japan,75000,FC Arouca,712
+167405,Eboue Kouassi,Defensive Midfield,1997-12-13,Ivory Coast,1000000,FC Arouca,712
+165616,Vitinho,Central Midfield,2000-01-04,Brazil,300000,FC Arouca,712
+153734,Matí­as Rocha,Centre-Back,2001-02-13,Uruguay,500000,FC Arouca,712
+146361,Weverson,Left-Back,2000-07-05,Brazil,1500000,FC Arouca,712
+143641,Alfonso Trezza,Right Winger,1999-06-22,Uruguay,700000,FC Arouca,712
+1530,César,Goalkeeper,1992-01-27,Brazil,1500000,Boavista FC,810
+124829,João Gonçalves,Goalkeeper,2000-11-05,Portugal,700000,Boavista FC,810
+213121,Luís Henrique,Goalkeeper,2004-11-17,Brazil,700000,Boavista FC,810
+221334,Tomé,Goalkeeper,2006-12-16,Portugal,500000,Boavista FC,810
+185142,Pedro Gomes,Defence,2003-06-04,Portugal,2000000,Boavista FC,810
+263674,Alexandre Marques,Defence,2005-10-23,Portugal,1000000,Boavista FC,810
+263675,Tomás Silva,Defence,2006-05-25,Portugal,40000000,Boavista FC,810
+270594,Leonardo Ferreira,Defence,2007-07-29,Portugal,450000,Boavista FC,810
+185124,Diego Llorente,Midfield,2001-10-08,Spain,800000,Boavista FC,810
+213087,Marco Ribeiro,Midfield,2005-06-14,Portugal,3000000,Boavista FC,810
+37338,Manuel Namora,Offence,1998-02-12,Portugal,1500000,Boavista FC,810
+263786,João Barros,Offence,2006-01-10,Portugal,15000000,Boavista FC,810
+265391,Fábio Sambú,Offence,2007-09-06,Portugal,15000000,Boavista FC,810
+213083,Gonçalo Almeida,Right-Back,2003-05-06,Portugal,1200000,Boavista FC,810
+206696,Tiago Machado,Centre-Forward,2004-04-02,Portugal,100000,Boavista FC,810
+188089,Joel Silva,Central Midfield,2003-02-11,Portugal,300000,Boavista FC,810
+188088,Bruno Onyemaechi,Left-Back,1999-04-03,Nigeria,3000000,Boavista FC,810
+186482,Julio Dabo,Left-Back,2004-03-13,Portugal,1500000,Boavista FC,810
+140290,Róbert Boženík,Centre-Forward,1999-11-18,Slovakia,5000000,Boavista FC,810
+80871,Ibrahima Camara,Defensive Midfield,1999-01-25,Guinea,350000,Boavista FC,810
+45141,Filipe Ferreira,Left-Back,1990-09-27,Portugal,200000,Boavista FC,810
+42575,Ilija Vukotić,Defensive Midfield,1999-01-07,Montenegro,400000,Boavista FC,810
+37672,Miguel Reisinho,Central Midfield,1999-04-09,Portugal,800000,Boavista FC,810
+32069,Salvador Agra,Right Winger,1991-11-11,Portugal,300000,Boavista FC,810
+28243,Rodrigo Abascal,Centre-Back,1994-01-14,Uruguay,800000,Boavista FC,810
+11702,Sebastián Pérez,Defensive Midfield,1993-03-29,Colombia,2000000,Boavista FC,810
+111481,Anatolii Trubin,Goalkeeper,2001-08-01,Ukraine,25000000,Sport Lisboa e Benfica,1903
+153846,Samuel Soares,Goalkeeper,2002-06-15,Portugal,3000000,Sport Lisboa e Benfica,1903
+192010,Andre Gomes,Goalkeeper,2004-10-20,Portugal,2000000,Sport Lisboa e Benfica,1903
+179007,Gustavo Marques,Defence,2001-10-09,Brazil,8000000,Sport Lisboa e Benfica,1903
+220410,Adrian Bajrami,Defence,2002-04-05,Albania,750000,Sport Lisboa e Benfica,1903
+262704,Tiago Parente,Defence,2006-06-12,Portugal,800000,Sport Lisboa e Benfica,1903
+263709,Leandro Santos,Defence,2005-09-28,Portugal,1500000,Sport Lisboa e Benfica,1903
+8513,Soualiho Meïté,Midfield,1994-03-17,France,2500000,Sport Lisboa e Benfica,1903
+149737,Muhammed Kerem Aktürkoğlu,Midfield,1998-10-21,Turkey,100000,Sport Lisboa e Benfica,1903
+153953,Gerson Sousa,Midfield,2002-05-10,Portugal,10000000,Sport Lisboa e Benfica,1903
+157796,Andreas Schjelderup,Midfield,2004-06-01,Norway,3000000,Sport Lisboa e Benfica,1903
+204143,Hugo Félix,Midfield,2004-03-03,Portugal,3000000,Sport Lisboa e Benfica,1903
+246194,Diogo Prioste,Midfield,2004-03-26,Portugal,45000000,Sport Lisboa e Benfica,1903
+262628,Nuno Félix,Midfield,2004-03-16,Portugal,1500000,Sport Lisboa e Benfica,1903
+67299,Vangelis Pavlidis,Offence,1998-11-21,Greece,3000000,Sport Lisboa e Benfica,1903
+122313,Zeki Amdouni,Offence,2000-12-04,Switzerland,1500000,Sport Lisboa e Benfica,1903
+251296,João Rêgo,Offence,2005-06-20,Portugal,15000000,Sport Lisboa e Benfica,1903
+252836,Gustavo Varela,Offence,2005-01-30,Portugal,4000000,Sport Lisboa e Benfica,1903
+133573,Tiago Gouveia,Right Winger,2001-06-18,Portugal,5000000,Sport Lisboa e Benfica,1903
+123574,Issa Kaboré,Right-Back,2001-05-12,Burkina Faso,800000,Sport Lisboa e Benfica,1903
+122016,Benjamín Rollheiser,Right Winger,2000-03-24,Argentina,650000,Sport Lisboa e Benfica,1903
+82403,Leandro Barreiro Martins,Central Midfield,2000-01-03,Luxembourg,3000000,Sport Lisboa e Benfica,1903
+70583,Alexander Bah,Right-Back,1997-12-09,Denmark,13000000,Sport Lisboa e Benfica,1903
+38088,Fredrik Aursnes,Defensive Midfield,1995-12-10,Norway,20000000,Sport Lisboa e Benfica,1903
+37560,Florentino,Defensive Midfield,1999-08-19,Portugal,20000000,Sport Lisboa e Benfica,1903
+7988,Renato Sanches,Central Midfield,1997-08-18,Portugal,800000,Sport Lisboa e Benfica,1903
+7474,Orkun Kökçü,Central Midfield,2000-12-29,Turkey,28000000,Sport Lisboa e Benfica,1903
+6484,Jan-Niklas Beste,Left-Back,1999-01-04,Germany,800000,Sport Lisboa e Benfica,1903
+3210,Ángel di María,Right Winger,1988-02-14,Argentina,3000000,Sport Lisboa e Benfica,1903
+3205,Nicolás Otamendi,Centre-Back,1988-02-12,Argentina,1000000,Sport Lisboa e Benfica,1903
+1723,Arthur Cabral,Centre-Forward,1998-04-25,Brazil,14000000,Sport Lisboa e Benfica,1903
+185610,Antonio Silva,Centre-Back,2003-10-31,Portugal,40000000,Sport Lisboa e Benfica,1903
+182123,Gianluca Prestianni,Right Winger,2006-01-31,Argentina,10000000,Sport Lisboa e Benfica,1903
+182020,Alvaro Fernandez,Left-Back,2003-03-23,Spain,6000000,Sport Lisboa e Benfica,1903
+177842,Tomas Araujo,Centre-Back,2002-05-16,Portugal,15000000,Sport Lisboa e Benfica,1903
+1232,Lucas França,Goalkeeper,1996-01-19,Brazil,600000,CD Nacional,5529
+152179,Rui Encarnação,Goalkeeper,1998-04-05,Portugal,150000,CD Nacional,5529
+229282,Cesar Augusto,Goalkeeper,2003-08-23,Brazil,100000,CD Nacional,5529
+1437,Léo Santos,Defence,1998-12-09,Brazil,1500000,CD Nacional,5529
+169260,Gustavo Garcia,Defence,2002-01-04,Brazil,350000,CD Nacional,5529
+169570,Zé Vitor,Defence,2001-02-09,Brazil,70000000,CD Nacional,5529
+181512,Ulisses,Defence,1999-09-28,Brazil,500000,CD Nacional,5529
+231219,Francisco Gonçalves,Defence,2004-03-05,Portugal,300000,CD Nacional,5529
+243604,José Gomes,Defence,1996-07-20,Portugal,350000,CD Nacional,5529
+243650,José Graça,Defence,2003-04-13,Portugal,500000,CD Nacional,5529
+253516,Douglas Sequeira,Defence,2003-09-16,Costa Rica,75000,CD Nacional,5529
+15920,Bruno Costa,Midfield,1997-04-19,Portugal,75000,CD Nacional,5529
+37447,João Aurélio,Midfield,1988-08-17,Portugal,75000,CD Nacional,5529
+45304,André Sousa,Midfield,1990-07-09,Portugal,75000,CD Nacional,5529
+82208,Arvin Appiah,Midfield,2001-01-05,England,800000,CD Nacional,5529
+103127,Daniel Penha,Midfield,1998-10-17,Brazil,12000000,CD Nacional,5529
+103592,Vinicius Machado,Midfield,2000-02-29,Brazil,1500000,CD Nacional,5529
+147456,Miguel Baeza,Midfield,2000-03-27,Spain,200000,CD Nacional,5529
+157367,Luís Esteves,Midfield,1998-04-09,Portugal,700000,CD Nacional,5529
+177629,Gabriel Santos,Midfield,1999-03-16,Brazil,800000,CD Nacional,5529
+179837,Matheus Dias,Midfield,2002-05-09,Brazil,6000000,CD Nacional,5529
+215774,El Hadji Soumaré,Midfield,2003-01-07,Senegal,7000000,CD Nacional,5529
+243620,Jota Garcês,Midfield,1993-03-07,Portugal,75000,CD Nacional,5529
+270035,Chiheb Labidi,Midfield,2001-06-01,Tunisia,3000000,CD Nacional,5529
+37374,Ruben Macedo,Offence,1996-03-09,Portugal,250000,CD Nacional,5529
+45399,Dyego Sousa,Offence,1989-09-14,Portugal,45000000,CD Nacional,5529
+49498,Dudu,Offence,1999-08-10,Brazil,350000,CD Nacional,5529
+102189,Nigel Thomas,Offence,2001-02-01,Curaçao,700000,CD Nacional,5529
+114381,Tiago Reis,Offence,1999-08-14,Brazil,325000,CD Nacional,5529
+193027,Isaac Aguiar,Offence,2004-03-26,Brazil,1500000,CD Nacional,5529
+159694,Adrián Butzke,Centre-Forward,1999-03-30,Spain,3000000,CD Nacional,5529
+187537,Afonso Freitas,Left-Back,2000-04-07,Portugal,700000,CD Nacional,5529
+1528,Gabriel Batista,Goalkeeper,1998-06-03,Brazil,800000,CD Santa Clara,5530
+37393,Serginho,Goalkeeper,1982-12-06,Portugal,600000,CD Santa Clara,5530
+60757,Andrés Mehring,Goalkeeper,1994-04-19,Argentina,1500000,CD Santa Clara,5530
+181527,Neneca,Goalkeeper,2003-08-27,Brazil,300000,CD Santa Clara,5530
+181556,Denivys,Goalkeeper,2001-05-01,Brazil,100000,CD Santa Clara,5530
+245889,João Afonso,Goalkeeper,2007-04-30,Portugal,800000,CD Santa Clara,5530
+11524,Frederico Venâncio,Defence,1993-02-04,Portugal,400000,CD Santa Clara,5530
+32569,Pedro Pacheco,Defence,1997-01-27,Portugal,900000,CD Santa Clara,5530
+45265,Luís Rocha,Defence,1986-08-13,Portugal,50000,CD Santa Clara,5530
+138226,Matheus Pereira,Defence,2000-12-21,Brazil,6000000,CD Santa Clara,5530
+178743,Diogo Calila,Defence,1998-10-10,Portugal,300000,CD Santa Clara,5530
+179215,Habraão,Defence,2001-06-26,Brazil,150000,CD Santa Clara,5530
+181619,Matheus Nunes,Defence,2001-03-01,Brazil,6000000,CD Santa Clara,5530
+203257,Matheus Julião,Defence,2003-04-10,Brazil,6000000,CD Santa Clara,5530
+243594,Sidney Lima,Defence,1997-01-17,Brazil,700000,CD Santa Clara,5530
+262359,Ary,Defence,2003-09-29,Brazil,16000000,CD Santa Clara,5530
+80878,Pedro Ferreira,Midfield,1998-01-05,Portugal,450000,CD Santa Clara,5530
+156845,Caio Henrique,Midfield,2004-01-11,Brazil,700000,CD Santa Clara,5530
+171363,Ricardinho,Midfield,1998-08-06,Portugal,1000000,CD Santa Clara,5530
+185110,Klismahn,Midfield,1999-11-23,Brazil,40000000,CD Santa Clara,5530
+187452,Bruno Almeida,Midfield,1996-09-09,Portugal,1200000,CD Santa Clara,5530
+246475,Daniel,Midfield,2003-04-06,Brazil,12000000,CD Santa Clara,5530
+13690,Alisson Safira,Offence,1995-03-17,Brazil,500000,CD Santa Clara,5530
+118015,Vinícius,Offence,1999-05-07,Brazil,500000,CD Santa Clara,5530
+122353,Adriano,Offence,1999-11-04,Brazil,750000,CD Santa Clara,5530
+124982,Lucas Soares,Offence,1998-05-04,Brazil,800000,CD Santa Clara,5530
+168766,Gabriel Silva,Offence,2002-03-22,Brazil,1700000,CD Santa Clara,5530
+261163,João Costa,Offence,2000-03-07,Portugal,75000,CD Santa Clara,5530
+273019,Gustavo Veiga,Offence,2006-01-03,Brazil,250000,CD Santa Clara,5530
+43634,Guilherme Ramos,Centre-Back,1997-08-11,Portugal,250000,CD Santa Clara,5530
+37556,Ivan Zlobin,Goalkeeper,1997-03-07,Russia,700000,FC Famalicão,5531
+171387,Hugo Cunha,Goalkeeper,2001-09-06,Portugal,100000,FC Famalicão,5531
+176011,Lazar Carevic,Goalkeeper,1999-03-16,Montenegro,350000,FC Famalicão,5531
+264463,Gabriel Cabral,Goalkeeper,2003-04-19,Brazil,800000,FC Famalicão,5531
+1785,Gil Dias,Defence,1996-09-28,Portugal,800000,FC Famalicão,5531
+11587,Rafa Soares,Defence,1995-05-09,Portugal,300000,FC Famalicão,5531
+112965,Leonardo Realpe,Defence,2001-02-26,Ecuador,3500000,FC Famalicão,5531
+121960,Lucas Felipe Calegari,Defence,2002-02-27,Brazil,50000,FC Famalicão,5531
+126147,Rodrigo Pinheiro,Defence,2002-08-28,Portugal,400000,FC Famalicão,5531
+213127,Hugo Oliveira,Defence,2004-08-26,Portugal,1500000,FC Famalicão,5531
+213135,Duarte Oliveira,Defence,2005-03-14,Portugal,50000,FC Famalicão,5531
+221571,Ibrahima Ba,Defence,2003-09-03,Senegal,350000,FC Famalicão,5531
+262718,José Muller,Defence,2003-02-22,Portugal,350000,FC Famalicão,5531
+270294,Diogo Costa,Defence,2003-07-27,Portugal,45000000,FC Famalicão,5531
+7533,Tommie van de Looi,Midfield,1999-07-02,Netherlands,700000,FC Famalicão,5531
+213085,Samuel Lobato,Midfield,2001-10-19,Portugal,100000,FC Famalicão,5531
+213102,Rodrigo Ribeiro,Midfield,2006-05-26,Portugal,400000,FC Famalicão,5531
+215432,Mathias De Amorin,Midfield,2004-12-10,France,800000,FC Famalicão,5531
+265516,Yassir Zabiri,Midfield,2005-02-23,Morocco,300000,FC Famalicão,5531
+33128,Mario González,Offence,1996-02-25,Spain,15000000,FC Famalicão,5531
+45511,Rochinha,Offence,1995-05-03,Portugal,500000,FC Famalicão,5531
+206797,Afonso Rodrigues,Offence,2002-08-19,Portugal,2500000,FC Famalicão,5531
+213112,Leonardo Oliveira,Offence,2005-02-08,Sweden,0,FC Famalicão,5531
+263548,Diogo Cabral,Offence,2003-06-01,Portugal,800000,FC Famalicão,5531
+169412,Marcos Vinicios,Left Winger,2001-02-23,Brazil,100000,FC Famalicão,5531
+168613,Otso Liimatta,Attacking Midfield,2004-07-10,Finland,1000000,FC Famalicão,5531
+154741,Óscar Aranda,Left Winger,2002-04-29,Spain,1500000,FC Famalicão,5531
+148136,Mirko Topić,Defensive Midfield,2001-02-05,Serbia,5000000,FC Famalicão,5531
+97367,Justin de Haas,Centre-Back,2000-02-01,Netherlands,1500000,FC Famalicão,5531
+43464,Enea Mihaj,Centre-Back,1998-07-05,Albania,3000000,FC Famalicão,5531
+21166,Riccieli,Centre-Back,1998-09-17,Brazil,2000000,FC Famalicão,5531
+8511,Zaydou Youssouf,Central Midfield,1999-07-11,France,7000000,FC Famalicão,5531
+192907,Ian Custodio,Left-Back,2003-04-16,Brazil,350000,FC Famalicão,5531
+187280,Gustavo Sa,Attacking Midfield,2004-11-11,Portugal,250000,FC Famalicão,5531
+81896,Andrew,Goalkeeper,2001-07-01,Brazil,3000000,Gil Vicente FC,5533
+119462,Vinicius,Goalkeeper,1997-06-19,Brazil,3000000,Gil Vicente FC,5533
+157154,Brian Araújo,Goalkeeper,2000-04-29,Portugal,200000,Gil Vicente FC,5533
+263963,Miloš Gordić,Goalkeeper,2000-03-05,Serbia,600000,Gil Vicente FC,5533
+160445,Marvin Elimbi,Defence,2003-02-20,France,400000,Gil Vicente FC,5533
+182073,Sandro Cruz,Defence,2001-05-12,Portugal,1000000,Gil Vicente FC,5533
+204139,Jonathan Mutombo Mawesi,Defence,2002-08-27,France,600000,Gil Vicente FC,5533
+264219,Carlos Ventura,Defence,2004-02-05,Brazil,700000,Gil Vicente FC,5533
+133788,Sphephelo Sithole,Midfield,1999-03-03,South Africa,650000,Gil Vicente FC,5533
+213075,Peixinho,Midfield,2004-05-23,Portugal,800000,Gil Vicente FC,5533
+213137,Ricardinho,Midfield,2005-12-27,Portugal,1000000,Gil Vicente FC,5533
+263792,Gui Beleza,Midfield,2006-12-09,Portugal,1000000,Gil Vicente FC,5533
+104016,Cauê,Offence,2002-11-16,Brazil,100000,Gil Vicente FC,5533
+176857,Jorge Aguirre,Offence,2000-01-05,Spain,10000000,Gil Vicente FC,5533
+178755,Pablo Felipe,Offence,2004-01-02,Brazil,1500000,Gil Vicente FC,5533
+213095,Miguel Sanz,Offence,2005-02-17,UA Emirates,800000,Gil Vicente FC,5533
+265041,João Pinto,Offence,2002-08-31,Portugal,500000,Gil Vicente FC,5533
+153579,Facundo Cáseres,Central Midfield,2001-05-28,Argentina,300000,Gil Vicente FC,5533
+141483,José Carlos,Right-Back,1998-07-31,Portugal,700000,Gil Vicente FC,5533
+141380,Kazu,Left-Back,2000-03-18,Brazil,500000,Gil Vicente FC,5533
+127657,Félix Correia,Left Winger,2001-01-22,Portugal,350000,Gil Vicente FC,5533
+114011,Jesús Castillo,Defensive Midfield,2001-06-11,Peru,700000,Gil Vicente FC,5533
+45422,João Teixeira,Attacking Midfield,1994-02-06,Portugal,50000,Gil Vicente FC,5533
+45365,Rúben Fernandes,Centre-Back,1986-05-06,Portugal,100000,Gil Vicente FC,5533
+44804,Kanya Fujimoto,Attacking Midfield,1999-07-01,Japan,4000000,Gil Vicente FC,5533
+9125,Jonathan Buatu,Centre-Back,1993-09-27,Angola,600000,Gil Vicente FC,5533
+8846,Josué Sá,Centre-Back,1992-06-17,Portugal,1500000,Gil Vicente FC,5533
+8765,Jordi Mboula,Right Winger,1999-03-16,Spain,3000000,Gil Vicente FC,5533
+203438,Marcos Fernández,Left-Back,2003-07-17,Spain,100000,Gil Vicente FC,5533
+185087,Diego Collado,Left Winger,2001-01-09,Spain,100000,Gil Vicente FC,5533
+183363,Mory Gbane,Defensive Midfield,2000-12-25,Ivory Coast,1500000,Gil Vicente FC,5533
+180125,Santi García,Attacking Midfield,2001-08-29,Spain,1500000,Gil Vicente FC,5533
+177301,Tidjany Touré,Left Winger,2002-07-15,France,1500000,Gil Vicente FC,5533
+16734,Bruno Varela,Goalkeeper,1994-11-04,Portugal,4000000,Vitória SC,5543
+45324,Charles Silva,Goalkeeper,1994-02-04,Brazil,300000,Vitória SC,5543
+204127,Gui,Goalkeeper,2006-05-13,Portugal,150000,Vitória SC,5543
+204176,Rafael Oliveira,Goalkeeper,2003-09-28,Portugal,1500000,Vitória SC,5543
+262360,Joao Fernandes,Goalkeeper,2005-01-25,Portugal,2500000,Vitória SC,5543
+177044,Joao Mendes,Defence,2000-04-13,Portugal,2000000,Vitória SC,5543
+180163,Óscar Rivas,Defence,2000-03-27,Spain,1500000,Vitória SC,5543
+184496,Alberto Baio,Defence,2003-09-29,Portugal,200000,Vitória SC,5543
+262361,Diogo Lobão,Defence,2006-01-20,Portugal,1000000,Vitória SC,5543
+45514,Samu,Midfield,1996-04-21,Portugal,100000,Vitória SC,5543
+261582,Marco Cruz,Midfield,2004-02-23,Portugal,6000000,Vitória SC,5543
+262358,Rodrigo Duarte,Midfield,2006-02-07,Portugal,16000000,Vitória SC,5543
+165126,José Bica,Offence,2003-06-16,Portugal,350000,Vitória SC,5543
+188085,Chuchu,Offence,1998-05-04,Venezuela,400000,Vitória SC,5543
+243569,Gustavo Silva,Offence,1999-06-01,Brazil,8000000,Vitória SC,5543
+262363,Miguel Nogueira,Offence,2005-02-27,Portugal,75000,Vitória SC,5543
+171351,Miguel Magalhães,Right-Back,2002-11-16,Portugal,1500000,Vitória SC,5543
+145346,Telmo Arcanjo,Attacking Midfield,2001-06-21,Cape Verde Islands,800000,Vitória SC,5543
+130047,Tomás Ribeiro,Centre-Back,1999-04-30,Portugal,3000000,Vitória SC,5543
+45274,Tiago Silva,Attacking Midfield,1993-06-02,Portugal,3000000,Vitória SC,5543
+37717,João Mendes,Attacking Midfield,1994-10-21,Portugal,2000000,Vitória SC,5543
+37558,Nuno Santos,Attacking Midfield,1999-03-02,Portugal,1500000,Vitória SC,5543
+37360,Jorge Fernandes,Centre-Back,1997-04-02,Portugal,2500000,Vitória SC,5543
+32343,Mikel Villanueva,Centre-Back,1993-04-14,Venezuela,1500000,Vitória SC,5543
+23245,Toni Borevković,Centre-Back,1997-06-18,Croatia,4000000,Vitória SC,5543
+4003,Nélson Oliveira,Centre-Forward,1991-08-08,Portugal,500000,Vitória SC,5543
+1771,Bruno Gaspar,Right-Back,1993-04-21,Angola,800000,Vitória SC,5543
+194008,Manu Silva,Defensive Midfield,2001-06-12,Portugal,1500000,Vitória SC,5543
+192626,Kaio César,Right Winger,2004-02-15,Brazil,100000,Vitória SC,5543
+188094,Zé Carlos,Right-Back,2001-10-30,Portugal,700000,Vitória SC,5543
+171367,Tomás Händel,Defensive Midfield,2000-11-27,Portugal,10000000,Vitória SC,5543
+37336,Ricardo Velho,Goalkeeper,1998-08-20,Portugal,5000000,SC Farense,5602
+52986,Miguel Carvalho,Goalkeeper,1996-06-20,Portugal,200000,SC Farense,5602
+152461,Lucas Cañizars,Goalkeeper,2002-05-10,Spain,800000,SC Farense,5602
+178927,Kaique,Goalkeeper,2003-04-16,Brazil,100000,SC Farense,5602
+45389,Raul Silva,Defence,1989-11-04,Brazil,300000,SC Farense,5602
+61075,Lucas Áfrico,Defence,1995-02-05,Brazil,23000000,SC Farense,5602
+165583,Paulo Victor,Defence,2001-04-13,Brazil,1500000,SC Farense,5602
+185118,Derick Poloni,Defence,1993-09-01,Brazil,650000,SC Farense,5602
+213106,Hamidou Diallo,Defence,2002-01-26,Mali,3000000,SC Farense,5602
+126991,Álex Bermejo,Midfield,1998-12-11,Spain,3000000,SC Farense,5602
+213088,Claudio Falcão,Midfield,1994-07-03,Brazil,1000000,SC Farense,5602
+213105,Diogo Paulo,Midfield,2001-07-06,Portugal,1000000,SC Farense,5602
+251250,Miguel Menino,Midfield,2003-01-10,Portugal,800000,SC Farense,5602
+252899,Rafael Teixeira,Midfield,2006-01-18,Portugal,50000,SC Farense,5602
+261169,Geovanny Almeida,Midfield,2004-07-14,Portugal,5000000,SC Farense,5602
+45243,Tómané,Offence,1992-10-23,Portugal,40000000,SC Farense,5602
+178746,Bruno Santos,Offence,2003-04-16,Portugal,1500000,SC Farense,5602
+185152,Álex Millán,Offence,1999-11-07,Spain,3000000,SC Farense,5602
+213092,André Candeias,Offence,2003-01-20,Portugal,800000,SC Farense,5602
+243634,Jaime Pinto,Offence,1997-09-28,Portugal,500000,SC Farense,5602
+263885,Rivaldo Morais,Offence,2000-09-18,Portugal,15000000,SC Farense,5602
+140905,David Pastor,Right-Back,2000-02-20,Brazil,3000000,SC Farense,5602
+115247,Talys Oliveira,Left-Back,1999-02-10,Brazil,600000,SC Farense,5602
+45201,Neto,Central Midfield,1991-09-02,Brazil,500000,SC Farense,5602
+43565,Filipe Soares,Attacking Midfield,1999-05-20,Portugal,300000,SC Farense,5602
+33130,Darío Poveda,Centre-Forward,1997-03-13,Spain,5000000,SC Farense,5602
+22308,Jhon Velásquez Turga,Attacking Midfield,1995-05-02,Colombia,300000,SC Farense,5602
+16402,Artur Jorge,Centre-Back,1994-08-14,Portugal,400000,SC Farense,5602
+15896,Elves,Right Winger,1999-10-02,Portugal,32000000,SC Farense,5602
+15895,Rafael  Barbosa,Attacking Midfield,1996-03-29,Portugal,600000,SC Farense,5602
+11490,Marco Matias,Left Winger,1989-05-10,Portugal,100000,SC Farense,5602
+688,Mehdi Merghem,Right Winger,1997-07-19,France,400000,SC Farense,5602
+213078,André Seruca,Defensive Midfield,2000-10-29,Portugal,100000,SC Farense,5602
+180077,Marco Moreno,Centre-Back,2001-02-20,Spain,27000000,SC Farense,5602
+37817,Tiago Sá,Goalkeeper,1995-01-11,Portugal,800000,Sporting Clube de Braga,5613
+146753,Lukáš Horníček,Goalkeeper,2002-07-13,Czech Republic,2000000,Sporting Clube de Braga,5613
+178752,Matheus Magalhães,Goalkeeper,1992-03-29,Brazil,6000000,Sporting Clube de Braga,5613
+45447,Yuri Ribeiro,Defence,1997-01-24,Portugal,3000000,Sporting Clube de Braga,5613
+146987,Bright Arrey-Mbi,Defence,2003-03-26,Germany,300000,Sporting Clube de Braga,5613
+157201,ZÉ Pedro,Defence,2002-01-16,Portugal,3000000,Sporting Clube de Braga,5613
+180150,Victor Gómez,Defence,2000-04-01,Spain,8000000,Sporting Clube de Braga,5613
+181973,Andre Ferreira,Defence,2003-04-08,Portugal,450000,Sporting Clube de Braga,5613
+246367,Nuno Matos,Defence,2004-10-04,Portugal,1500000,Sporting Clube de Braga,5613
+246741,Francisco Chissumba,Defence,2005-05-29,Portugal,7000000,Sporting Clube de Braga,5613
+262362,Rodrigo Beirão,Defence,2003-01-25,Portugal,400000,Sporting Clube de Braga,5613
+265148,Jonatás Noro,Defence,2005-07-09,Portugal,800000,Sporting Clube de Braga,5613
+45396,André Horta,Midfield,1996-11-07,Portugal,75000,Sporting Clube de Braga,5613
+178756,Jean-Baptiste Gorby,Midfield,2002-07-25,France,75000,Sporting Clube de Braga,5613
+180185,Gabriel Martínez,Midfield,2003-01-22,Spain,1500000,Sporting Clube de Braga,5613
+205658,Thiago Helguera,Midfield,2006-03-26,Uruguay,75000,Sporting Clube de Braga,5613
+137515,Amine El Ouazzani,Offence,2001-07-15,Morocco,400000,Sporting Clube de Braga,5613
+178733,Roger Fernandes,Offence,2005-11-21,Portugal,2500000,Sporting Clube de Braga,5613
+180218,Roberto Fernández,Offence,2002-07-03,Spain,2500000,Sporting Clube de Braga,5613
+203295,Kauan Kelvin,Offence,2005-01-21,Brazil,100000,Sporting Clube de Braga,5613
+246609,Yan Said,Offence,2002-11-08,Portugal,3000000,Sporting Clube de Braga,5613
+125700,João Ferreira,Centre-Back,2001-03-22,Portugal,450000,Sporting Clube de Braga,5613
+121007,Rodrigo Zalazar,Central Midfield,1999-08-12,Uruguay,16000000,Sporting Clube de Braga,5613
+45401,Ricardo Horta,Left Winger,1994-09-15,Portugal,15000000,Sporting Clube de Braga,5613
+33339,Paulo Oliveira,Centre-Back,1992-01-08,Portugal,1500000,Sporting Clube de Braga,5613
+33111,Adrián Marín,Left-Back,1997-01-09,Spain,2000000,Sporting Clube de Braga,5613
+13911,Vitor Carvalho,Defensive Midfield,1997-05-27,Brazil,5000000,Sporting Clube de Braga,5613
+9553,Bruma,Left Winger,1994-10-24,Portugal,7000000,Sporting Clube de Braga,5613
+3249,João Moutinho,Central Midfield,1986-09-08,Portugal,800000,Sporting Clube de Braga,5613
+636,Rafik Guitane,Right Winger,1999-05-26,Algeria,100000,Sporting Clube de Braga,5613
+469,Sikou Niakaté,Centre-Back,1999-07-10,Mali,6000000,Sporting Clube de Braga,5613
+190876,Joao Marques,Left Winger,2002-02-13,Portugal,1000000,Sporting Clube de Braga,5613
+170423,Robson Bambu,Centre-Back,1997-11-12,Brazil,100000,Sporting Clube de Braga,5613
+161414,Ismaël Gharbi,Attacking Midfield,2004-04-10,Spain,700000,Sporting Clube de Braga,5613
+33894,Patrick Sequeira,Goalkeeper,1999-03-01,Costa Rica,75000,Casa Pia AC,6618
+43642,Daniel Azevedo,Goalkeeper,1998-02-12,Portugal,100000,Casa Pia AC,6618
+77869,Ricardo Batista,Goalkeeper,1986-11-19,Portugal,100000,Casa Pia AC,6618
+213099,Afonso Monteiro,Goalkeeper,2005-06-27,Portugal,2500000,Casa Pia AC,6618
+137655,Ruben Kluivert,Defence,2001-05-21,Netherlands,700000,Casa Pia AC,6618
+171386,Joao Goulart,Defence,2000-01-27,Portugal,50000,Casa Pia AC,6618
+186634,Isaac Monteiro,Defence,2004-03-04,Portugal,650000,Casa Pia AC,6618
+45116,Jérémy Livolant,Midfield,1998-01-09,France,3000000,Casa Pia AC,6618
+84102,Miguel Sousa,Midfield,1998-09-19,Portugal,50000,Casa Pia AC,6618
+150945,Raúl Blanco,Midfield,2001-07-31,Spain,3000000,Casa Pia AC,6618
+207545,Adrian Kraev,Midfield,1999-02-14,Bulgaria,200000,Casa Pia AC,6618
+98014,Samuel Obeng,Offence,1997-05-15,Ghana,100000,Casa Pia AC,6618
+144580,Claudio Mendes,Offence,2000-12-08,Guinea-Bissau,5000000,Casa Pia AC,6618
+261166,Henrique Pereira,Offence,2002-02-15,Portugal,700000,Casa Pia AC,6618
+129709,Telasco Segovia,Central Midfield,2003-04-02,Venezuela,700000,Casa Pia AC,6618
+128303,Samuel Silvera,Right Winger,2000-10-25,Portugal,100000,Casa Pia AC,6618
+126877,Larra,Right-Back,1997-12-17,Spain,1000000,Casa Pia AC,6618
+126156,Rafael Brito,Defensive Midfield,2002-01-19,Portugal,300000,Casa Pia AC,6618
+45303,Geraldes,Right-Back,1991-05-02,Portugal,200000,Casa Pia AC,6618
+16854,Nermin Zolotić,Centre-Back,1993-07-07,Bosnia-Herzegovina,700000,Casa Pia AC,6618
+14003,Cassiano,Centre-Forward,1989-06-16,Brazil,3000000,Casa Pia AC,6618
+12813,Pablo Barbosa,Central Midfield,1999-11-14,Brazil,600000,Casa Pia AC,6618
+8781,Duplexe Tchamba,Centre-Back,1998-07-10,Cameroon,500000,Casa Pia AC,6618
+3245,José Fonte,Centre-Back,1983-12-22,Portugal,350000,Casa Pia AC,6618
+1764,Tiago Dias,Left-Back,1998-05-04,Portugal,325000,Casa Pia AC,6618
+246461,Fahem Benaïssa-Yahia,Left-Back,2002-04-29,France,300000,Casa Pia AC,6618
+204134,Kiki Silva,Right Winger,1998-02-14,Portugal,300000,Casa Pia AC,6618
+191259,Beni,Central Midfield,2002-05-21,Angola,700000,Casa Pia AC,6618
+185146,Leonardo Lelo,Left-Back,2000-03-30,Portugal,3500000,Casa Pia AC,6618
+171304,Nuno Moreira,Left Winger,1999-06-16,Portugal,1000000,Casa Pia AC,6618
+154532,Max Svensson,Centre-Forward,2001-11-08,Spain,2500000,Casa Pia AC,6618
+12746,Bruno Brigido,Goalkeeper,1991-03-09,Brazil,300000,CF Estrela da Amadora,9136
+90793,Francisco Meixedo,Goalkeeper,2001-05-19,Portugal,400000,CF Estrela da Amadora,9136
+230368,Cambila,Goalkeeper,2002-05-16,Angola,500000,CF Estrela da Amadora,9136
+261165,Marko Gudžulić,Goalkeeper,2002-07-05,Serbia,6000000,CF Estrela da Amadora,9136
+37554,Ferro,Defence,1997-03-26,Portugal,8000000,CF Estrela da Amadora,9136
+113517,Till Cissokho,Defence,2000-02-08,France,8000000,CF Estrela da Amadora,9136
+152119,Issiar Dramé,Defence,1999-02-16,France,100000,CF Estrela da Amadora,9136
+182458,Juan Mina,Defence,2004-07-27,Colombia,400000,CF Estrela da Amadora,9136
+185129,Danilo Veiga,Defence,2002-09-25,Portugal,1500000,CF Estrela da Amadora,9136
+245259,Diogo Travassos,Defence,2004-03-31,Portugal,2500000,CF Estrela da Amadora,9136
+246341,Tiago Gabriel,Defence,2004-12-26,Portugal,1700000,CF Estrela da Amadora,9136
+250276,Guilherme Montóia,Defence,2003-09-14,Portugal,350000,CF Estrela da Amadora,9136
+272010,Georgii Tunguliiadi,Defence,2004-10-03,Portugal,10000000,CF Estrela da Amadora,9136
+2072,Nani,Midfield,1986-11-17,Portugal,10000000,CF Estrela da Amadora,9136
+43909,Alan Ruiz,Midfield,1993-08-19,Argentina,3000000,CF Estrela da Amadora,9136
+153583,Daniel Cabral,Midfield,2002-05-14,Brazil,12000000,CF Estrela da Amadora,9136
+154435,Paulo Moreira,Midfield,2000-02-17,Portugal,1000000,CF Estrela da Amadora,9136
+178967,Igor,Midfield,2003-03-07,Brazil,400000,CF Estrela da Amadora,9136
+263912,Muhammad Asis,Midfield,2004-03-04,Singapore,100000,CF Estrela da Amadora,9136
+273018,Manu,Midfield,2005-11-09,Angola,1500000,CF Estrela da Amadora,9136
+37116,Jovane Cabral,Offence,1998-06-14,Cape Verde Islands,350000,CF Estrela da Amadora,9136
+57131,Tiago Ferreira,Offence,2002-03-18,Portugal,800000,CF Estrela da Amadora,9136
+178851,Petterson,Offence,2004-01-04,Brazil,1500000,CF Estrela da Amadora,9136
+209529,Bilal Mazhar,Offence,2003-11-21,Egypt,300000,CF Estrela da Amadora,9136
+244810,Eurichano Setila,Offence,2004-02-17,Angola,350000,CF Estrela da Amadora,9136
+263892,Caio Santana,Offence,2004-03-22,Brazil,350000,CF Estrela da Amadora,9136
+263911,Paulo Vitor,Offence,2004-04-19,Brazil,1500000,CF Estrela da Amadora,9136
+269799,Gustavo Reyes,Offence,2000-09-16,Colombia,8000000,CF Estrela da Amadora,9136
+178810,André Luiz,Centre-Forward,2002-02-23,Brazil,1500000,CF Estrela da Amadora,9136
+153938,Leonel Bucca,Central Midfield,1999-03-20,Argentina,500000,CF Estrela da Amadora,9136
+131219,Nilton Varela,Left Winger,2001-05-25,Portugal,600000,CF Estrela da Amadora,9136
+79824,Kikas,Centre-Forward,1998-09-17,Portugal,800000,CF Estrela da Amadora,9136
+45350,Rodrigo Pinho,Centre-Forward,1991-05-30,Brazil,400000,CF Estrela da Amadora,9136
+45195,Ruben Lima,Left-Back,1989-10-03,Portugal,100000,CF Estrela da Amadora,9136
+30411,Miguel Lopes,Right-Back,1986-12-19,Portugal,50000,CF Estrela da Amadora,9136
+213132,Leonardo Silva,Central Midfield,1995-09-27,Brazil,0,CF Estrela da Amadora,9136
+213128,Keliano,Defensive Midfield,2003-01-16,Angola,400000,CF Estrela da Amadora,9136
+45404,Pedro Trigueira,Goalkeeper,1988-01-04,Portugal,75000,AVS,10340
+169628,Simão Bertelli,Goalkeeper,1993-07-02,Brazil,100000,AVS,10340
+181386,Francisco Ochoa,Goalkeeper,1985-07-14,Mexico,75000,AVS,10340
+243607,Lucas Alviano,Goalkeeper,2004-03-10,Brazil,50000,AVS,10340
+9029,Jorge Teixeira,Defence,1986-08-27,Portugal,50000,AVS,10340
+45166,Fernando Fonseca,Defence,1997-03-14,Portugal,300000,AVS,10340
+45278,Kiki,Defence,1994-12-10,Portugal,300000,AVS,10340
+136169,Baptiste Roux,Defence,1999-11-26,France,100000,AVS,10340
+156602,Rafael Rodrigues,Defence,2002-01-27,Portugal,75000,AVS,10340
+178441,Cristian Castro,Defence,2001-01-25,Colombia,1500000,AVS,10340
+193004,Ignacio Rodriguez,Defence,2003-11-10,Uruguay,75000,AVS,10340
+243572,Léo Alaba,Defence,1999-07-01,Brazil,600000,AVS,10340
+32153,Giorgi Aburjania,Midfield,1995-01-02,Georgia,350000,AVS,10340
+37474,Luís Silva,Midfield,1992-09-29,Portugal,150000,AVS,10340
+66335,Eric Veiga,Midfield,1997-02-18,Luxembourg,200000,AVS,10340
+79823,Jonatan Lucca,Midfield,1994-06-02,Brazil,250000,AVS,10340
+102250,Jaume Grau,Midfield,1997-05-05,Spain,1500000,AVS,10340
+243619,Gustavo Mendonça,Midfield,2003-03-11,Portugal,250000,AVS,10340
+2470,Nenê,Offence,1983-07-28,Brazil,50000,AVS,10340
+111265,Yair Mena Palacios,Offence,2000-06-28,Colombia,75000,AVS,10340
+168873,Samuel,Offence,2000-10-02,Brazil,1500000,AVS,10340
+178792,John Mercado,Offence,2002-06-03,Ecuador,1500000,AVS,10340
+242373,Carlos Daniel,Offence,2002-04-05,Brazil,350000,AVS,10340
+243614,Vasco Lopes,Offence,1999-09-02,Cape Verde Islands,450000,AVS,10340
+116188,Gustavo Assunção,Defensive Midfield,2000-03-30,Brazil,8000000,AVS,10340
+16149,Zé Luís,Centre-Forward,1991-01-24,Cape Verde Islands,75000,AVS,10340
+3977,Lucas Piazon,Attacking Midfield,1994-01-20,Brazil,2500000,AVS,10340
+203426,Babatunde Akinsola,Left Winger,2003-03-10,Nigeria,3000000,AVS,10340
+190998,Issiaka Kamate,Right Winger,2004-08-02,France,100000,AVS,10340
+178772,Rodrigo Ribeiro,Centre-Forward,2005-04-28,Portugal,400000,AVS,10340
