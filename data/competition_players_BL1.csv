@@ -37,7 +37,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 165,Niklas Lomb,Goalkeeper,1993-07-28,Germany,250000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/85543-1695367888.jpg?lm=1
 6696,Lukáš Hrádecký,Goalkeeper,1989-11-24,Finland,2500000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/48015-1695367833.jpg?lm=1
 136350,Matej Kovar,Goalkeeper,2000-05-17,Czech Republic,7000000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/550829-1727378079.jpg?lm=1
-273033,Ben Hawighorst,Defence,2008-03-01,Germany,0,Bayer 04 Leverkusen,3,
+273033,Ben Hawighorst,Defence,2008-03-01,Germany,0,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 192169,Othniel Raterink,Midfield,2006-04-07,Netherlands,3000000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/691892-1724772335.jpg?lm=1
 272213,Kerim Alajbegović,Midfield,2007-09-21,Germany,2000000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/282349-1657791826.jpg?lm=1
 265560,Artem Stepanov,Centre-Forward,2007-08-10,Ukraine,350000,Bayer 04 Leverkusen,3,https://img.a.transfermarkt.technology/portrait/medium/1045344-1727812138.jpg?lm=1
@@ -138,7 +138,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 143959,Wahid Faghir,Offence,2003-07-29,Denmark,1000000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/610431-1689927868.jpg?lm=1
 191186,Justin Diehl,Offence,2004-11-27,Germany,2500000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/720162-1723707320.jpg?lm=1
 220208,Benjamin Boakye,Offence,2005-03-07,Germany,50000000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/627442-1713897956.jpg?lm=1
-263221,Jarzinho Malanga,Offence,2006-07-10,Germany,0,VfB Stuttgart,10,
+263221,Jarzinho Malanga,Offence,2006-07-10,Germany,0,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 128565,Angelo Stiller,Defensive Midfield,2001-04-04,Germany,28000000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/443710-1723707618.jpg?lm=1
 123333,Jamie Leweling,Right Winger,2001-02-26,Germany,13000000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/518505-1691999306.jpg?lm=1
 111071,Leonidas Stergiou,Centre-Back,2002-03-03,Switzerland,5000000,VfB Stuttgart,10,https://img.a.transfermarkt.technology/portrait/medium/507345-1723707260.jpg?lm=1
@@ -199,7 +199,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 64934,Derrick Köhn,Defence,1999-02-04,Germany,6000000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/391780-1707464358.png?lm=1
 255080,Mats Heitmann,Defence,2006-02-11,Germany,4000000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/696164-1657283257.jpg?lm=1
 61630,Marco Grüll,Midfield,1998-07-06,Austria,4000000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/391766-1692995037.png?lm=1
-271982,Wesley Adeh,Midfield,2007-01-08,Germany,0,SV Werder Bremen,12,
+271982,Wesley Adeh,Midfield,2007-01-08,Germany,0,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 150734,Abdenego Nankishi,Offence,2002-07-06,Germany,450000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/455662-1660208303.jpg?lm=1
 176637,Keke Topp,Offence,2004-03-25,Germany,4000000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/701757-1722887176.jpg?lm=1
 192455,Leon Opitz,Left Midfield,2005-04-11,Germany,600000,SV Werder Bremen,12,https://img.a.transfermarkt.technology/portrait/medium/825073-1693834663.jpg?lm=1
@@ -284,7 +284,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 123287,Noah Atubolu,Goalkeeper,2002-05-25,Germany,10000000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/526845-1658411548.jpg?lm=1
 142,Maximilian Philipp,Offence,1994-03-01,Germany,1200000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/143891-1723189806.jpg?lm=1
 212309,Johan Manzambi,Offence,2005-10-14,Switzerland,750000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/927353-1688714441.jpg?lm=1
-229272,Ifechukwu Ogbus,Offence,2005-12-17,Switzerland,0,SC Freiburg,17,
+229272,Ifechukwu Ogbus,Offence,2005-12-17,Switzerland,0,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 171203,Max Rosenfelder,Centre-Back,2003-02-10,Germany,2500000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/599419-1658503667.jpg?lm=1
 171186,Jordy Makengo,Left-Back,2001-08-03,France,3500000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/815078-1691998545.jpg?lm=1
 171180,Kenneth Schmidt,Centre-Back,2002-06-03,Germany,2000000,SC Freiburg,17,https://img.a.transfermarkt.technology/portrait/medium/527276-1723190073.jpg?lm=1
@@ -359,7 +359,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 3608,Ellyes Skhiri,Defensive Midfield,1995-05-10,Tunisia,11000000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/290587-1696509403.jpg?lm=1
 158,Mahmoud Dahoud,Central Midfield,1996-01-01,Syria,6000000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/191422-1726605307.jpg?lm=1
 140,Mario Götze,Attacking Midfield,1992-06-03,Germany,5500000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/74842-1663065102.jpg?lm=1
-260758,Noah Fenyö,Defensive Midfield,2006-01-30,Hungary,0,Eintracht Frankfurt,19,
+260758,Noah Fenyö,Defensive Midfield,2006-01-30,Hungary,0,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 212850,Harpreet Ghotra,Central Midfield,2003-01-17,Germany,4000000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/355369-1692707635.jpg?lm=1
 205610,Davis Bautista,Centre-Back,2005-02-16,Ecuador,12000000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/546213-1663064755.jpg?lm=1
 205537,Oscar Højlund,Central Midfield,2005-01-04,Denmark,2000000,Eintracht Frankfurt,19,https://img.a.transfermarkt.technology/portrait/medium/846310-1724771793.jpg?lm=1
@@ -377,7 +377,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 65105,Nikola Vasilj,Goalkeeper,1995-12-02,Bosnia-Herzegovina,2000000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/248454-1723630622.jpeg?lm=1
 114954,Ben Alexander Voll,Goalkeeper,2000-12-09,Germany,12000000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/195778-1691998861.jpg?lm=1
 121172,Sören Ahlers,Goalkeeper,1997-09-09,Germany,50000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/333074-1723630704.jpeg?lm=1
-221335,Ronny Seibt,Goalkeeper,2005-07-10,Germany,0,FC St. Pauli 1910,20,
+221335,Ronny Seibt,Goalkeeper,2005-07-10,Germany,0,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 179671,Fin Stevens,Defence,2003-04-10,Wales,600000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/587019-1722842294.jpg?lm=1
 217718,Emil Staugaard,Defence,2001-09-20,Denmark,14000000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/346551-1724770843.jpg?lm=1
 238083,Muhammad Dahaba,Defence,2005-03-07,Germany,125000,FC St. Pauli 1910,20,https://img.a.transfermarkt.technology/portrait/medium/914890-1723631671.jpeg?lm=1

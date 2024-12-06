@@ -99,7 +99,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 154714,Omar El Hilali,Midfield,2003-09-12,Morocco,3000000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/822331-1683211692.jpg?lm=1
 179637,Justin Smith,Midfield,2003-02-04,Canada,3000000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/111961-1455551677.jpg?lm=1
 180051,Salvi,Midfield,1991-03-30,Spain,1200000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/246204-1601023429.jpg?lm=1
-250363,Rafael Bauzà,Midfield,2005-01-01,Spain,0,RCD Espanyol de Barcelona,80,
+250363,Rafael Bauzà,Midfield,2005-01-01,Spain,0,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 129808,Walid Cheddira,Centre-Forward,1998-01-22,Morocco,6000000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/521407-1686124424.jpg?lm=1
 125210,Pol Lozano,Central Midfield,1999-10-06,Spain,2000000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/412045-1568028635.jpg?lm=1
 119094,José Gragera,Central Midfield,2000-05-14,Spain,2500000,RCD Espanyol de Barcelona,80,https://img.a.transfermarkt.technology/portrait/medium/557147-1664207582.jpg?lm=1
@@ -158,7 +158,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 202283,Lamine Yamal,Right Winger,2007-07-13,Spain,150000000,FC Barcelona,81,https://img.a.transfermarkt.technology/portrait/medium/937958-1720606123.jpg?lm=1
 188817,Marc Casado,Defensive Midfield,2003-09-14,Spain,15000000,FC Barcelona,81,https://img.a.transfermarkt.technology/portrait/medium/636695-1729771427.jpg?lm=1
 78,David Soria,Goalkeeper,1993-04-04,Spain,5000000,Getafe CF,82,https://img.a.transfermarkt.technology/portrait/medium/226012-1696863038.jpg?lm=1
-146888,Jiří Letáček,Goalkeeper,1999-01-09,Czech Republic,0,Getafe CF,82,
+146888,Jiří Letáček,Goalkeeper,1999-01-09,Czech Republic,0,Getafe CF,82,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 246276,Djordjije Medenica,Goalkeeper,2006-11-17,Czech Republic,80000000,Getafe CF,82,https://img.a.transfermarkt.technology/portrait/medium/683840-1620304992.jpg?lm=1
 264160,Diego Ferrer,Goalkeeper,2007-01-01,Spain,6000000,Getafe CF,82,https://img.a.transfermarkt.technology/portrait/medium/248738-1732220099.jpg?lm=1
 151018,David Argüelles,Defence,2002-01-10,Spain,90000000,Getafe CF,82,https://img.a.transfermarkt.technology/portrait/medium/646740-1682685701.jpg?lm=1

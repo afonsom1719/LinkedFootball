@@ -73,7 +73,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 135555,Robert Sánchez,Goalkeeper,1997-11-18,Spain,20000000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/403151-1695028195.jpg?lm=1
 153828,Filip Jörgensen,Goalkeeper,2002-04-16,Denmark,20000000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/585323-1718280485.jpg?lm=1
 179663,Lucas Bergström,Goalkeeper,2002-09-05,Finland,700000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/490606-1639405918.jpg?lm=1
-246715,Max Merrick,Goalkeeper,2005-11-10,England,0,Chelsea FC,61,
+246715,Max Merrick,Goalkeeper,2005-11-10,England,0,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 272057,Samuel Rak-Sakyi,Midfield,2005-03-27,England,13000000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/173504-1655979328.jpg?lm=1
 39265,João Félix,Offence,1999-11-10,Portugal,30000000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/462250-1668165358.jpg?lm=1
 214417,Omari Kellyman,Offence,2005-09-25,England,30000000,Chelsea FC,61,https://img.a.transfermarkt.technology/portrait/medium/249565-1716886438.jpg?lm=1
@@ -225,7 +225,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 29518,Altay Bayındır,Goalkeeper,1998-04-14,Turkey,10000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/336077-1699471821.jpg?lm=1
 273281,Godwill Kukonki,Defence,2008-02-06,England,17000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/380350-1700737326.jpg?lm=1
 271941,Jack Fletcher,Midfield,2007-03-19,England,2000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/163744-1720190433.jpg?lm=1
-272305,Jayce Fitzgerald,Midfield,2007-05-09,England,0,Manchester United FC,66,
+272305,Jayce Fitzgerald,Midfield,2007-05-09,England,0,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 28549,Manuel Ugarte,Defensive Midfield,2001-04-11,Uruguay,50000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/476701-1715107512.jpg?lm=1
 15905,Diogo Dalot,Right-Back,1999-03-18,Portugal,40000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/357147-1727785546.jpg?lm=1
 8014,Jonny Evans,Centre-Back,1988-01-03,Northern Ireland,2000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/42412-1699471667.jpg?lm=1
@@ -241,7 +241,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 3257,Bruno Fernandes,Attacking Midfield,1994-09-08,Portugal,65000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/240306-1683882766.jpg?lm=1
 3231,Casemiro,Defensive Midfield,1992-02-23,Brazil,15000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/16306-1699018876.jpg?lm=1
 250421,Ethan Wheatley,Centre-Forward,2006-01-20,England,0,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/888639-1714056048.jpg?lm=1
-248978,Habeeb Ogunneye,Right-Back,2005-11-12,England,0,Manchester United FC,66,
+248978,Habeeb Ogunneye,Right-Back,2005-11-12,England,0,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 248734,Toby Collyer,Defensive Midfield,2004-01-03,England,2000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/654253-1709159230.jpg?lm=1
 217491,Daniel Gore,Central Midfield,2004-09-26,England,900000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/747153-1693217936.jpg?lm=1
 210150,Harry Amass,Left-Back,2007-03-16,England,12000000,Manchester United FC,66,https://img.a.transfermarkt.technology/portrait/medium/249126-1663679564.jpg?lm=1
@@ -506,7 +506,7 @@ Id,Name,Position,Date of Birth,Country,Market Value,Team,TeamId,PictureUrl
 126870,Bart Verbruggen,Goalkeeper,2002-08-18,Netherlands,22000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/565093-1716990260.jpg?lm=1
 265180,Killian Cahill,Goalkeeper,2003-11-03,Ireland,80000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/495666-1718697201.jpg?lm=1
 187397,Jacob Slater,Defence,2004-10-05,England,32000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/503749-1687975464.jpg?lm=1
-272833,Ruairi McConville,Defence,2005-05-01,Northern Ireland,0,Brighton & Hove Albion FC,397,
+272833,Ruairi McConville,Defence,2005-05-01,Northern Ireland,0,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
 130809,Evan Ferguson,Centre-Forward,2004-10-19,Ireland,45000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/648046-1681739980.jpg?lm=1
 103125,João Pedro,Centre-Forward,2001-09-26,Brazil,50000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/626724-1724792744.jpg?lm=1
 99952,Jakub Moder,Central Midfield,1999-04-07,Poland,10000000,Brighton & Hove Albion FC,397,https://img.a.transfermarkt.technology/portrait/medium/384461-1716985274.jpg?lm=1
