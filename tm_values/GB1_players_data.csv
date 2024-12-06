@@ -1,374 +1,534 @@
-Player,Club,Market Value
-Ederson,Manchester City,35000000
-Stefan Ortega,Manchester City,9000000
-Scott Carson,Manchester City,200000
-Rúben Dias,Manchester City,80000000
-Manuel Akanji,Manchester City,45000000
-Nathan Aké,Manchester City,40000000
-John Stones,Manchester City,38000000
-Jahmai Simpson-Pusey,Manchester City,0
-Josko Gvardiol,Manchester City,75000000
-Josh Wilson-Esbrand,Manchester City,4000000
-Rico Lewis,Manchester City,40000000
-Kyle Walker,Manchester City,13000000
-Rodri,Manchester City,130000000
-Matheus Nunes,Manchester City,40000000
-Mateo Kovacic,Manchester City,30000000
-,Ipswich Town,15000000
-Bernardo Silva,Manchester City,70000000
-Kevin De Bruyne,Manchester City,45000000
-James McAtee,Manchester City,12000000
-Jérémy Doku,Manchester City,65000000
-Jack Grealish,Manchester City,55000000
-Phil Foden,Manchester City,150000000
-Oscar Bobb,Manchester City,25000000
-Erling Haaland,Manchester City,200000000
-William Saliba,Arsenal FC,80000000
-Gabriel Magalhães,Arsenal FC,75000000
-Jurrien Timber,Arsenal FC,38000000
-Jakub Kiwior,Arsenal FC,30000000
-Oleksandr Zinchenko,Arsenal FC,35000000
-Ben White,Arsenal FC,55000000
-Takehiro Tomiyasu,Arsenal FC,35000000
-Declan Rice,Arsenal FC,120000000
-Thomas Partey,Arsenal FC,18000000
-Jorginho,Arsenal FC,12000000
-Martin Ødegaard,Arsenal FC,110000000
-Gabriel Martinelli,Arsenal FC,60000000
-Leandro Trossard,Arsenal FC,35000000
-Bukayo Saka,Arsenal FC,140000000
-Kai Havertz,Arsenal FC,75000000
-Gabriel Jesus,Arsenal FC,55000000
-Robert Sánchez,Chelsea FC,20000000
-Marcus Bettinelli,Chelsea FC,1000000
-Levi Colwill,Chelsea FC,50000000
-Axel Disasi,Chelsea FC,35000000
-Benoît Badiashile,Chelsea FC,30000000
-Wesley Fofana,Chelsea FC,25000000
-Marc Cucurella,Chelsea FC,30000000
-Ben Chilwell,Chelsea FC,22000000
-Reece James,Chelsea FC,35000000
-Malo Gusto,Chelsea FC,35000000
-Moisés Caicedo,Chelsea FC,75000000
-Roméo Lavia,Chelsea FC,35000000
-Enzo Fernández,Chelsea FC,75000000
-Carney Chukwuemeka,Chelsea FC,15000000
-Cesare Casadei,Chelsea FC,10000000
-Cole Palmer,Chelsea FC,90000000
-Christopher Nkunku,Chelsea FC,65000000
-Mykhaylo Mudryk,Chelsea FC,30000000
-Noni Madueke,Chelsea FC,35000000
-Nicolas Jackson,Chelsea FC,40000000
-Deivid Washington,Chelsea FC,9000000
-Alisson,Liverpool FC,28000000
-Caoimhín Kelleher,Liverpool FC,20000000
-Ibrahima Konaté,Liverpool FC,45000000
-Virgil van Dijk,Liverpool FC,30000000
-Joe Gomez,Liverpool FC,28000000
-Jarell Quansah,Liverpool FC,22000000
-Andrew Robertson,Liverpool FC,30000000
-Konstantinos Tsimikas,Liverpool FC,22000000
-Trent Alexander-Arnold,Liverpool FC,70000000
-Conor Bradley,Liverpool FC,15000000
-Ryan Gravenberch,Liverpool FC,40000000
-Wataru Endo,Liverpool FC,13000000
-Alexis Mac Allister,Liverpool FC,75000000
-Curtis Jones,Liverpool FC,35000000
-Harvey Elliott,Liverpool FC,35000000
-Dominik Szoboszlai,Liverpool FC,75000000
-Luis Díaz,Liverpool FC,80000000
-Cody Gakpo,Liverpool FC,55000000
-Mohamed Salah,Liverpool FC,55000000
-Darwin Núñez,Liverpool FC,65000000
-Diogo Jota,Liverpool FC,50000000
-André Onana,Manchester United,35000000
-Altay Bayındır,Manchester United,10000000
-Tom Heaton,Manchester United,250000
-Lisandro Martínez,Manchester United,50000000
-Harry Maguire,Manchester United,18000000
-Victor Lindelöf,Manchester United,15000000
-Jonny Evans,Manchester United,2000000
-Luke Shaw,Manchester United,28000000
-Tyrell Malacia,Manchester United,18000000
-Diogo Dalot,Manchester United,40000000
-Casemiro,Manchester United,15000000
-Kobbie Mainoo,Manchester United,55000000
-Christian Eriksen,Manchester United,8000000
-Daniel Gore,Manchester United,900000
-Bruno Fernandes,Manchester United,65000000
-Mason Mount,Manchester United,35000000
-Marcus Rashford,Manchester United,60000000
-Alejandro Garnacho,Manchester United,50000000
-Amad Diallo,Manchester United,22000000
-Antony,Manchester United,20000000
-Rasmus Højlund,Manchester United,65000000
-Ethan Wheatley,Manchester United,0
-Guglielmo Vicario,Tottenham Hotspur,35000000
-Fraser Forster,Tottenham Hotspur,1200000
-Brandon Austin,Tottenham Hotspur,600000
-Alfie Whiteman,Tottenham Hotspur,500000
-Cristian Romero,Tottenham Hotspur,65000000
-Micky van de Ven,Tottenham Hotspur,55000000
-Radu Drăgușin,Tottenham Hotspur,25000000
-Ben Davies,Tottenham Hotspur,10000000
-Destiny Udogie,Tottenham Hotspur,45000000
-Sergio Reguilón,Tottenham Hotspur,12000000
-Pedro Porro,Tottenham Hotspur,45000000
-Yves Bissouma,Tottenham Hotspur,35000000
-Rodrigo Bentancur,Tottenham Hotspur,35000000
-Pape Matar Sarr,Tottenham Hotspur,45000000
-James Maddison,Tottenham Hotspur,70000000
-Dejan Kulusevski,Tottenham Hotspur,55000000
-Heung-min Son,Tottenham Hotspur,45000000
-Brennan Johnson,Tottenham Hotspur,48000000
-Richarlison,Tottenham Hotspur,35000000
-Nick Pope,Newcastle United,16000000
-Martin Dúbravka,Newcastle United,1000000
-Mark Gillespie,Newcastle United,300000
-Sven Botman,Newcastle United,45000000
-Fabian Schär,Newcastle United,10000000
-Dan Burn,Newcastle United,8000000
-Jamaal Lascelles,Newcastle United,7000000
-Matt Targett,Newcastle United,8000000
-Tino Livramento,Newcastle United,35000000
-Kieran Trippier,Newcastle United,10000000
-Emil Krafth,Newcastle United,2500000
-Bruno Guimarães,Newcastle United,85000000
-Isaac Hayden,Newcastle United,1800000
-Joelinton,Newcastle United,40000000
-Sandro Tonali,Newcastle United,38000000
-Joe Willock,Newcastle United,30000000
-Sean Longstaff,Newcastle United,25000000
-Lewis Miley,Newcastle United,22000000
-Anthony Gordon,Newcastle United,60000000
-Harvey Barnes,Newcastle United,35000000
-Miguel Almirón,Newcastle United,20000000
-Jacob Murphy,Newcastle United,15000000
-Alexander Isak,Newcastle United,75000000
-Callum Wilson,Newcastle United,13000000
-Emiliano Martínez,Aston Villa,28000000
-Joe Gauci,Aston Villa,1500000
-Robin Olsen,Aston Villa,1500000
-Pau Torres,Aston Villa,45000000
-Ezri Konsa,Aston Villa,35000000
-Diego Carlos,Aston Villa,12000000
-Tyrone Mings,Aston Villa,10000000
-Kortney Hause,Aston Villa,2000000
-Lucas Digne,Aston Villa,12000000
-Matty Cash,Aston Villa,28000000
-Boubacar Kamara,Aston Villa,38000000
-John McGinn,Aston Villa,30000000
-Youri Tielemans,Aston Villa,30000000
-Jacob Ramsey,Aston Villa,32000000
-Morgan Rogers,Aston Villa,22000000
-Emiliano Buendía,Aston Villa,20000000
-Leon Bailey,Aston Villa,42000000
-Ollie Watkins,Aston Villa,65000000
-Jhon Durán,Aston Villa,35000000
-Bart Verbruggen,Brighton & Hove Albion,22000000
-Jason Steele,Brighton & Hove Albion,3500000
-Jan Paul van Hecke,Brighton & Hove Albion,22000000
-Igor,Brighton & Hove Albion,17000000
-Adam Webster,Brighton & Hove Albion,15000000
-Lewis Dunk,Brighton & Hove Albion,12000000
-Pervis Estupiñán,Brighton & Hove Albion,30000000
-Tariq Lamptey,Brighton & Hove Albion,12000000
-Joël Veltman,Brighton & Hove Albion,8000000
-Carlos Baleba,Brighton & Hove Albion,22000000
-Jack Hinshelwood,Brighton & Hove Albion,20000000
-Jakub Moder,Brighton & Hove Albion,10000000
-Yasin Ayari,Brighton & Hove Albion,4500000
-James Milner,Brighton & Hove Albion,1000000
-Julio Enciso,Brighton & Hove Albion,22000000
-Kaoru Mitoma,Brighton & Hove Albion,45000000
-Simon Adingra,Brighton & Hove Albion,30000000
-Solly March,Brighton & Hove Albion,15000000
-João Pedro,Brighton & Hove Albion,50000000
-Evan Ferguson,Brighton & Hove Albion,45000000
-Danny Welbeck,Brighton & Hove Albion,5000000
-Alphonse Areola,West Ham United,10000000
-Lukasz Fabianski,West Ham United,700000
-Konstantinos Mavropanos,West Ham United,20000000
-Kaelan Casey,West Ham United,1000000
-Emerson,West Ham United,12000000
-Aaron Cresswell,West Ham United,900000
-Vladimír Coufal,West Ham United,8000000
-Edson Álvarez,West Ham United,35000000
-Tomas Soucek,West Ham United,30000000
-Lucas Paquetá,West Ham United,55000000
-Mohammed Kudus,West Ham United,50000000
-Jarrod Bowen,West Ham United,50000000
-Danny Ings,West Ham United,8000000
-Michail Antonio,West Ham United,4000000
-Dean Henderson,Crystal Palace,12000000
-Remi Matthews,Crystal Palace,500000
-Marc Guéhi,Crystal Palace,45000000
-Chris Richards,Crystal Palace,12000000
-Rob Holding,Crystal Palace,5000000
-Tyrick Mitchell,Crystal Palace,25000000
-Daniel Muñoz,Crystal Palace,23000000
-Nathaniel Clyne,Crystal Palace,1500000
-Joel Ward,Crystal Palace,1000000
-Cheick Doucouré,Crystal Palace,35000000
-Adam Wharton,Crystal Palace,30000000
-Jefferson Lerma,Crystal Palace,18000000
-Will Hughes,Crystal Palace,9000000
-Jeffrey Schlupp,Crystal Palace,7000000
-Eberechi Eze,Crystal Palace,60000000
-Matheus França,Crystal Palace,15000000
-Jean-Philippe Mateta,Crystal Palace,20000000
-Matz Sels,Nottingham Forest,7000000
-Murillo,Nottingham Forest,40000000
-Andrew Omobamidele,Nottingham Forest,11000000
-Willy Boly,Nottingham Forest,2500000
-Harry Toffolo,Nottingham Forest,5000000
-Neco Williams,Nottingham Forest,17000000
-Ola Aina,Nottingham Forest,12000000
-Ibrahim Sangaré,Nottingham Forest,30000000
-Danilo,Nottingham Forest,28000000
-Nicolás Domínguez,Nottingham Forest,17000000
-Ryan Yates,Nottingham Forest,12000000
-Morgan Gibbs-White,Nottingham Forest,40000000
-Callum Hudson-Odoi,Nottingham Forest,22000000
-Anthony Elanga,Nottingham Forest,25000000
-Taiwo Awoniyi,Nottingham Forest,28000000
-Chris Wood,Nottingham Forest,7000000
-Emmanuel Dennis,Nottingham Forest,4200000
-Mark Flekken,Brentford FC,12000000
-Hákon Rafn Valdimarsson,Brentford FC,2500000
-Matthew Cox,Brentford FC,800000
-Nathan Collins,Brentford FC,25000000
-Kristoffer Ajer,Brentford FC,15000000
-Ethan Pinnock,Brentford FC,10000000
-Ben Mee,Brentford FC,1000000
-Rico Henry,Brentford FC,20000000
-Aaron Hickey,Brentford FC,25000000
-Mads Roerslev,Brentford FC,10000000
-Vitaly Janelt,Brentford FC,22000000
-Christian Nørgaard,Brentford FC,18000000
-Yunus Emre Konak,Brentford FC,3500000
-Mathias Jensen,Brentford FC,28000000
-Josh Dasilva,Brentford FC,10000000
-Paris Maghoma,Brentford FC,350000
-Ryan Trevitt,Brentford FC,275000
-Yegor Yarmolyuk,Brentford FC,10000000
-Kevin Schade,Brentford FC,22000000
-Keane Lewis-Potter,Brentford FC,18000000
-Mikkel Damsgaard,Brentford FC,10000000
-Bryan Mbeumo,Brentford FC,40000000
-Yoane Wissa,Brentford FC,28000000
-José Sá,Wolverhampton Wanderers,10000000
-Daniel Bentley,Wolverhampton Wanderers,2000000
-Tom King,Wolverhampton Wanderers,200000
-Toti,Wolverhampton Wanderers,20000000
-Santiago Bueno,Wolverhampton Wanderers,8000000
-Craig Dawson,Wolverhampton Wanderers,2000000
-Rayan Aït-Nouri,Wolverhampton Wanderers,35000000
-Nélson Semedo,Wolverhampton Wanderers,12000000
-Matt Doherty,Wolverhampton Wanderers,3000000
-Mario Lemina,Wolverhampton Wanderers,10000000
-Boubacar Traoré,Wolverhampton Wanderers,6000000
-João Gomes,Wolverhampton Wanderers,40000000
-Jean-Ricner Bellegarde,Wolverhampton Wanderers,18000000
-Luke Cundle,Wolverhampton Wanderers,5000000
-Enso González,Wolverhampton Wanderers,4000000
-Pablo Sarabia,Wolverhampton Wanderers,8000000
-Matheus Cunha,Wolverhampton Wanderers,45000000
-Hee-chan Hwang,Wolverhampton Wanderers,25000000
-Mark Travers,AFC Bournemouth,3500000
-Will Dennis,AFC Bournemouth,350000
-Ilya Zabarnyi,AFC Bournemouth,32000000
-Marcos Senesi,AFC Bournemouth,22000000
-James Hill,AFC Bournemouth,2000000
-Milos Kerkez,AFC Bournemouth,20000000
-Max Aarons,AFC Bournemouth,16000000
-Adam Smith,AFC Bournemouth,1000000
-Tyler Adams,AFC Bournemouth,15000000
-Alex Scott,AFC Bournemouth,20000000
-Philip Billing,AFC Bournemouth,18000000
-Lewis Cook,AFC Bournemouth,12000000
-Ryan Christie,AFC Bournemouth,12000000
-Marcus Tavernier,AFC Bournemouth,20000000
-Dango Ouattara,AFC Bournemouth,20000000
-Justin Kluivert,AFC Bournemouth,14000000
-Antoine Semenyo,AFC Bournemouth,20000000
-David Brooks,AFC Bournemouth,8000000
-Jordan Pickford,Everton FC,22000000
-João Virgínia,Everton FC,800000
-Jarrad Branthwaite,Everton FC,42000000
-James Tarkowski,Everton FC,13000000
-Michael Keane,Everton FC,6000000
-Vitaliy Mykolenko,Everton FC,28000000
-Ashley Young,Everton FC,500000
-Nathan Patterson,Everton FC,15000000
-Séamus Coleman,Everton FC,500000
-James Garner,Everton FC,22000000
-Abdoulaye Doucouré,Everton FC,10000000
-Idrissa Gueye,Everton FC,2000000
-Dwight McNeil,Everton FC,22000000
-Dominic Calvert-Lewin,Everton FC,22000000
-Beto,Everton FC,20000000
-Chermiti,Everton FC,9000000
-Bernd Leno,Fulham FC,13000000
-Steven Benda,Fulham FC,1000000
-Issa Diop,Fulham FC,20000000
-Calvin Bassey,Fulham FC,16000000
-Antonee Robinson,Fulham FC,25000000
-Timothy Castagne,Fulham FC,17000000
-Kenny Tete,Fulham FC,15000000
-Harrison Reed,Fulham FC,13000000
-Saša Lukić,Fulham FC,10000000
-Tom Cairney,Fulham FC,2000000
-Andreas Pereira,Fulham FC,20000000
-Alex Iwobi,Fulham FC,25000000
-Harry Wilson,Fulham FC,17000000
-Adama Traoré,Fulham FC,9000000
-Rodrigo Muniz,Fulham FC,20000000
-Raúl Jiménez,Fulham FC,5000000
-Gavin Bazunu,Southampton FC,15000000
-Joe Lumley,Southampton FC,600000
-Alex McCarthy,Southampton FC,500000
-Jan Bednarek,Southampton FC,11000000
-Jack Stephens,Southampton FC,2000000
-Juan Larios,Southampton FC,4500000
-Ryan Manning,Southampton FC,3000000
-Kyle Walker-Peters,Southampton FC,20000000
-James Bree,Southampton FC,2200000
-Joe Aribo,Southampton FC,5000000
-Will Smallbone,Southampton FC,5000000
-Kamaldeen Sulemana,Southampton FC,13000000
-Samuel Amo-Ameyaw,Southampton FC,300000
-Adam Armstrong,Southampton FC,16000000
-Ross Stewart,Southampton FC,4500000
-Mads Hermansen,Leicester City,9000000
-Daniel Iversen,Leicester City,3000000
-Danny Ward,Leicester City,1800000
-Jakub Stolarczyk,Leicester City,400000
-Wout Faes,Leicester City,20000000
-Conor Coady,Leicester City,3000000
-Jannik Vestergaard,Leicester City,3000000
-Luke Thomas,Leicester City,6000000
-James Justin,Leicester City,15000000
-Ricardo Pereira,Leicester City,8000000
-Wilfred Ndidi,Leicester City,16000000
-Harry Winks,Leicester City,12000000
-Hamza Choudhury,Leicester City,4500000
-Stephy Mavididi,Leicester City,11000000
-Kasey McAteer,Leicester City,900000
-Patson Daka,Leicester City,12000000
-Jamie Vardy,Leicester City,1000000
-Christian Walton,Ipswich Town,900000
-Cieran Slicker,Ipswich Town,300000
-Axel Tuanzebe,Ipswich Town,3000000
-Luke Woolfenden,Ipswich Town,2000000
-Cameron Burgess,Ipswich Town,1500000
-Leif Davis,Ipswich Town,15000000
-Harry Clarke,Ipswich Town,5000000
-Jack Taylor,Ipswich Town,1800000
-Sam Morsy,Ipswich Town,900000
-Massimo Luongo,Ipswich Town,500000
-Nathan Broadhead,Ipswich Town,5000000
-Wes Burns,Ipswich Town,2000000
-Conor Chaplin,Ipswich Town,7000000
-George Hirst,Ipswich Town,4000000
-Ali Al-Hamadi,Ipswich Town,2000000
+Player,Club,Market Value,TmPictureLink
+Ederson,Manchester City,35000000,https://img.a.transfermarkt.technology/portrait/medium/238223-1713391842.jpg?lm=1
+Stefan Ortega,Manchester City,9000000,https://img.a.transfermarkt.technology/portrait/medium/85941-1668065114.jpg?lm=1
+Scott Carson,Manchester City,200000,https://img.a.transfermarkt.technology/portrait/medium/14555-1666733622.jpg?lm=1
+Rúben Dias,Manchester City,80000000,https://img.a.transfermarkt.technology/portrait/medium/258004-1684921271.jpg?lm=1
+Manuel Akanji,Manchester City,45000000,https://img.a.transfermarkt.technology/portrait/medium/284730-1684165752.jpg?lm=1
+Nathan Aké,Manchester City,40000000,https://img.a.transfermarkt.technology/portrait/medium/177476-1666733797.jpg?lm=1
+John Stones,Manchester City,38000000,https://img.a.transfermarkt.technology/portrait/medium/186590-1684764261.jpg?lm=1
+Jahmai Simpson-Pusey,Manchester City,0,https://img.a.transfermarkt.technology/portrait/medium/942497-1699384753.jpg?lm=1
+Josko Gvardiol,Manchester City,75000000,https://img.a.transfermarkt.technology/portrait/medium/475959-1713391602.jpg?lm=1
+Josh Wilson-Esbrand,Manchester City,4000000,https://img.a.transfermarkt.technology/portrait/medium/576121-1650877302.jpg?lm=1
+Rico Lewis,Manchester City,40000000,https://img.a.transfermarkt.technology/portrait/medium/701057-1684856684.jpg?lm=1
+Kyle Walker,Manchester City,13000000,https://img.a.transfermarkt.technology/portrait/medium/95424-1668090663.jpg?lm=1
+Rodri,Manchester City,130000000,https://img.a.transfermarkt.technology/portrait/medium/357565-1682587890.jpg?lm=1
+Matheus Nunes,Manchester City,40000000,https://img.a.transfermarkt.technology/portrait/medium/601883-1693561106.jpg?lm=1
+Mateo Kovacic,Manchester City,30000000,https://img.a.transfermarkt.technology/portrait/medium/51471-1682668192.jpg?lm=1
+İlkay Gündoğan,Manchester City,12000000,https://img.a.transfermarkt.technology/portrait/medium/53622-1689683568.jpg?lm=1
+Bernardo Silva,Manchester City,70000000,https://img.a.transfermarkt.technology/portrait/medium/241641-1684311533.jpg?lm=1
+Kevin De Bruyne,Manchester City,45000000,https://img.a.transfermarkt.technology/portrait/medium/88755-1713391485.jpg?lm=1
+James McAtee,Manchester City,12000000,https://img.a.transfermarkt.technology/portrait/medium/583199-1692364836.jpg?lm=1
+Jérémy Doku,Manchester City,65000000,https://img.a.transfermarkt.technology/portrait/medium/486049-1666699113.jpg?lm=1
+Jack Grealish,Manchester City,55000000,https://img.a.transfermarkt.technology/portrait/medium/203460-1676499047.jpg?lm=1
+Phil Foden,Manchester City,150000000,https://img.a.transfermarkt.technology/portrait/medium/406635-1668524492.jpg?lm=1
+Savinho,Manchester City,50000000,https://img.a.transfermarkt.technology/portrait/medium/743591-1719653229.jpg?lm=1
+Oscar Bobb,Manchester City,25000000,https://img.a.transfermarkt.technology/portrait/medium/661207-1709018293.jpg?lm=1
+Erling Haaland,Manchester City,200000000,https://img.a.transfermarkt.technology/portrait/medium/418560-1709108116.png?lm=1
+David Raya,Arsenal FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/262749-1668168018.jpg?lm=1
+Neto,Arsenal FC,2500000,https://img.a.transfermarkt.technology/portrait/medium/111819-1725051877.jpg?lm=1
+William Saliba,Arsenal FC,80000000,https://img.a.transfermarkt.technology/portrait/medium/495666-1718697201.jpg?lm=1
+Gabriel Magalhães,Arsenal FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/435338-1684162833.jpg?lm=1
+Jurrien Timber,Arsenal FC,38000000,https://img.a.transfermarkt.technology/portrait/medium/420243-1702413077.jpg?lm=1
+Jakub Kiwior,Arsenal FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/425918-1683101307.jpg?lm=1
+Riccardo Calafiori,Arsenal FC,45000000,https://img.a.transfermarkt.technology/portrait/medium/502821-1727382174.jpg?lm=1
+Oleksandr Zinchenko,Arsenal FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/203853-1688658681.jpg?lm=1
+Kieran Tierney,Arsenal FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/300716-1662666488.jpg?lm=1
+Ben White,Arsenal FC,55000000,https://img.a.transfermarkt.technology/portrait/medium/335721-1683275943.jpg?lm=1
+Takehiro Tomiyasu,Arsenal FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/331560-1682591217.jpg?lm=1
+Declan Rice,Arsenal FC,120000000,https://img.a.transfermarkt.technology/portrait/medium/357662-1687962936.jpg?lm=1
+Thomas Partey,Arsenal FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/230784-1668430877.jpg?lm=1
+Jorginho,Arsenal FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/102017-1682590896.jpg?lm=1
+Myles Lewis-Skelly,Arsenal FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/890721-1682599516.jpg?lm=1
+Mikel Merino,Arsenal FC,50000000,https://img.a.transfermarkt.technology/portrait/medium/338424-1716803831.jpg?lm=1
+Martin Ødegaard,Arsenal FC,110000000,https://img.a.transfermarkt.technology/portrait/medium/316264-1678877651.jpg?lm=1
+Ethan Nwaneri,Arsenal FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/890719-1730794927.jpg?lm=1
+Gabriel Martinelli,Arsenal FC,60000000,https://img.a.transfermarkt.technology/portrait/medium/655488-1682689091.jpg?lm=1
+Leandro Trossard,Arsenal FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/144028-1702412939.jpg?lm=1
+Raheem Sterling,Arsenal FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/134425-1684165974.jpg?lm=1
+Bukayo Saka,Arsenal FC,140000000,https://img.a.transfermarkt.technology/portrait/medium/433177-1684155052.jpg?lm=1
+Kai Havertz,Arsenal FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/309400-1683903902.jpg?lm=1
+Gabriel Jesus,Arsenal FC,55000000,https://img.a.transfermarkt.technology/portrait/medium/363205-1669711141.jpg?lm=1
+Robert Sánchez,Chelsea FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/403151-1695028195.jpg?lm=1
+Filip Jørgensen,Chelsea FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/585323-1718280485.jpg?lm=1
+Marcus Bettinelli,Chelsea FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/116648-1700671752.jpg?lm=1
+Lucas Bergström,Chelsea FC,700000,https://img.a.transfermarkt.technology/portrait/medium/490606-1639405918.jpg?lm=1
+Levi Colwill,Chelsea FC,50000000,https://img.a.transfermarkt.technology/portrait/medium/614258-1694614507.jpg?lm=1
+Axel Disasi,Chelsea FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/386047-1727785671.jpg?lm=1
+Benoît Badiashile,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/463603-1714721596.jpg?lm=1
+Wesley Fofana,Chelsea FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/475411-1683899212.jpg?lm=1
+Tosin Adarabioyo,Chelsea FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/258878-1646903871.jpg?lm=1
+Renato Veiga,Chelsea FC,8000000,https://img.a.transfermarkt.technology/portrait/medium/805714-1676275963.jpg?lm=1
+Marc Cucurella,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/284857-1659559729.jpg?lm=1
+Ben Chilwell,Chelsea FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/316125-1683899136.jpg?lm=1
+Reece James,Chelsea FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/472423-1683900849.jpg?lm=1
+Malo Gusto,Chelsea FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/620322-1672831209.jpg?lm=1
+Moisés Caicedo,Chelsea FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/687626-1660729724.jpg?lm=1
+Roméo Lavia,Chelsea FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/628451-1683898478.jpg?lm=1
+Enzo Fernández,Chelsea FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/648195-1669894717.jpg?lm=1
+Kiernan Dewsbury-Hall,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/475188-1638810238.jpg?lm=1
+Carney Chukwuemeka,Chelsea FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/659459-1677687144.jpg?lm=1
+Cesare Casadei,Chelsea FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/622380-1692967622.jpg?lm=1
+Cole Palmer,Chelsea FC,90000000,https://img.a.transfermarkt.technology/portrait/medium/568177-1712320986.jpg?lm=1
+Christopher Nkunku,Chelsea FC,65000000,https://img.a.transfermarkt.technology/portrait/medium/344381-1663686834.jpg?lm=1
+Mykhaylo Mudryk,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/537860-1732822624.jpg?lm=1
+Jadon Sancho,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/401173-1688564217.jpg?lm=1
+Pedro Neto,Chelsea FC,55000000,https://img.a.transfermarkt.technology/portrait/medium/487465-1709158892.jpg?lm=1
+Noni Madueke,Chelsea FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/503987-1683102348.jpg?lm=1
+João Félix,Chelsea FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/462250-1668165358.jpg?lm=1
+Nicolas Jackson,Chelsea FC,40000000,https://img.a.transfermarkt.technology/portrait/medium/776890-1726227971.jpg?lm=1
+Deivid Washington,Chelsea FC,9000000,https://img.a.transfermarkt.technology/portrait/medium/1082850-1682776110.jpg?lm=1
+Marc Guiu,Chelsea FC,7500000,https://img.a.transfermarkt.technology/portrait/medium/938158-1719846394.jpg?lm=1
+Alisson,Liverpool FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/105470-1668522221.jpg?lm=1
+Caoimhín Kelleher,Liverpool FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/340918-1708933663.jpg?lm=1
+Vitezslav Jaros,Liverpool FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/486604-1696603392.jpg?lm=1
+Ibrahima Konaté,Liverpool FC,45000000,https://img.a.transfermarkt.technology/portrait/medium/357119-1669190550.jpg?lm=1
+Virgil van Dijk,Liverpool FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/139208-1702049837.jpg?lm=1
+Joe Gomez,Liverpool FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/256178-1595946530.jpg?lm=1
+Jarell Quansah,Liverpool FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/632349-1633426240.jpg?lm=1
+Andrew Robertson,Liverpool FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/234803-1709147379.jpg?lm=1
+Konstantinos Tsimikas,Liverpool FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/338070-1682088468.jpg?lm=1
+Trent Alexander-Arnold,Liverpool FC,70000000,https://img.a.transfermarkt.technology/portrait/medium/314353-1701680958.jpg?lm=1
+Conor Bradley,Liverpool FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/624258-1708933100.jpg?lm=1
+Ryan Gravenberch,Liverpool FC,40000000,https://img.a.transfermarkt.technology/portrait/medium/478573-1718097194.jpg?lm=1
+Wataru Endo,Liverpool FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/146310-1657181542.jpg?lm=1
+Tyler Morton,Liverpool FC,8000000,https://img.a.transfermarkt.technology/portrait/medium/618494-1719220555.jpg?lm=1
+Alexis Mac Allister,Liverpool FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/534033-1669835342.jpg?lm=1
+Curtis Jones,Liverpool FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/433188-1701681163.jpg?lm=1
+Harvey Elliott,Liverpool FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/565822-1665128076.jpg?lm=1
+Dominik Szoboszlai,Liverpool FC,75000000,https://img.a.transfermarkt.technology/portrait/medium/451276-1700209677.jpg?lm=1
+Luis Díaz,Liverpool FC,80000000,https://img.a.transfermarkt.technology/portrait/medium/480692-1697903145.jpg?lm=1
+Cody Gakpo,Liverpool FC,55000000,https://img.a.transfermarkt.technology/portrait/medium/434675-1682690965.jpg?lm=1
+Mohamed Salah,Liverpool FC,55000000,https://img.a.transfermarkt.technology/portrait/medium/148455-1727337594.jpg?lm=1
+Federico Chiesa,Liverpool FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/341092-1663576975.jpg?lm=1
+Darwin Núñez,Liverpool FC,65000000,https://img.a.transfermarkt.technology/portrait/medium/546543-1681827179.jpg?lm=1
+Diogo Jota,Liverpool FC,50000000,https://img.a.transfermarkt.technology/portrait/medium/340950-1716296423.jpg?lm=1
+André Onana,Manchester United,35000000,https://img.a.transfermarkt.technology/portrait/medium/234509-1686929812.jpg?lm=1
+Altay Bayındır,Manchester United,10000000,https://img.a.transfermarkt.technology/portrait/medium/336077-1699471821.jpg?lm=1
+Tom Heaton,Manchester United,250000,https://img.a.transfermarkt.technology/portrait/medium/34130-1688121718.jpg?lm=1
+Matthijs de Ligt,Manchester United,55000000,https://img.a.transfermarkt.technology/portrait/medium/326031-1700659567.jpg?lm=1
+Leny Yoro,Manchester United,55000000,https://img.a.transfermarkt.technology/portrait/medium/923831-1701768506.jpg?lm=1
+Lisandro Martínez,Manchester United,50000000,https://img.a.transfermarkt.technology/portrait/medium/480762-1680681507.jpg?lm=1
+Harry Maguire,Manchester United,18000000,https://img.a.transfermarkt.technology/portrait/medium/177907-1663841733.jpg?lm=1
+Victor Lindelöf,Manchester United,15000000,https://img.a.transfermarkt.technology/portrait/medium/184573-1695244778.jpg?lm=1
+Jonny Evans,Manchester United,2000000,https://img.a.transfermarkt.technology/portrait/medium/42412-1699471667.jpg?lm=1
+Luke Shaw,Manchester United,28000000,https://img.a.transfermarkt.technology/portrait/medium/183288-1668500175.jpg?lm=1
+Tyrell Malacia,Manchester United,18000000,https://img.a.transfermarkt.technology/portrait/medium/339340-1657096025.jpg?lm=1
+Diogo Dalot,Manchester United,40000000,https://img.a.transfermarkt.technology/portrait/medium/357147-1727785546.jpg?lm=1
+Noussair Mazraoui,Manchester United,30000000,https://img.a.transfermarkt.technology/portrait/medium/340456-1700207898.jpg?lm=1
+Manuel Ugarte,Manchester United,50000000,https://img.a.transfermarkt.technology/portrait/medium/476701-1715107512.jpg?lm=1
+Casemiro,Manchester United,15000000,https://img.a.transfermarkt.technology/portrait/medium/16306-1699018876.jpg?lm=1
+Toby Collyer,Manchester United,2000000,https://img.a.transfermarkt.technology/portrait/medium/654253-1709159230.jpg?lm=1
+Kobbie Mainoo,Manchester United,55000000,https://img.a.transfermarkt.technology/portrait/medium/820374-1719349758.jpg?lm=1
+Christian Eriksen,Manchester United,8000000,https://img.a.transfermarkt.technology/portrait/medium/69633-1718628122.jpg?lm=1
+Daniel Gore,Manchester United,900000,https://img.a.transfermarkt.technology/portrait/medium/747153-1693217936.jpg?lm=1
+Bruno Fernandes,Manchester United,65000000,https://img.a.transfermarkt.technology/portrait/medium/240306-1683882766.jpg?lm=1
+Mason Mount,Manchester United,35000000,https://img.a.transfermarkt.technology/portrait/medium/346483-1683291495.jpg?lm=1
+Marcus Rashford,Manchester United,60000000,https://img.a.transfermarkt.technology/portrait/medium/258923-1674473054.jpg?lm=1
+Alejandro Garnacho,Manchester United,50000000,https://img.a.transfermarkt.technology/portrait/medium/811779-1703629085.jpg?lm=1
+Amad Diallo,Manchester United,22000000,https://img.a.transfermarkt.technology/portrait/medium/536835-1694616776.jpg?lm=1
+Antony,Manchester United,20000000,https://img.a.transfermarkt.technology/portrait/medium/602105-1680698738.jpg?lm=1
+Rasmus Højlund,Manchester United,65000000,https://img.a.transfermarkt.technology/portrait/medium/610442-1699471458.jpg?lm=1
+Joshua Zirkzee,Manchester United,50000000,https://img.a.transfermarkt.technology/portrait/medium/435648-1651087961.jpg?lm=1
+Ethan Wheatley,Manchester United,0,https://img.a.transfermarkt.technology/portrait/medium/888639-1714056048.jpg?lm=1
+Guglielmo Vicario,Tottenham Hotspur,35000000,https://img.a.transfermarkt.technology/portrait/medium/286047-1725874745.jpg?lm=1
+Fraser Forster,Tottenham Hotspur,1200000,https://img.a.transfermarkt.technology/portrait/medium/52570-1676412801.jpg?lm=1
+Brandon Austin,Tottenham Hotspur,600000,https://img.a.transfermarkt.technology/portrait/medium/428016-1618736681.jpg?lm=1
+Alfie Whiteman,Tottenham Hotspur,500000,https://img.a.transfermarkt.technology/portrait/medium/282823-1595948936.jpg?lm=1
+Cristian Romero,Tottenham Hotspur,65000000,https://img.a.transfermarkt.technology/portrait/medium/355915-1665609429.jpg?lm=1
+Micky van de Ven,Tottenham Hotspur,55000000,https://img.a.transfermarkt.technology/portrait/medium/557459-1657202743.jpg?lm=1
+Radu Drăgușin,Tottenham Hotspur,25000000,https://img.a.transfermarkt.technology/portrait/medium/568559-1704716630.jpg?lm=1
+Ben Davies,Tottenham Hotspur,10000000,https://img.a.transfermarkt.technology/portrait/medium/192765-1668520095.jpg?lm=1
+Destiny Udogie,Tottenham Hotspur,45000000,https://img.a.transfermarkt.technology/portrait/medium/556385-1697208468.jpg?lm=1
+Sergio Reguilón,Tottenham Hotspur,12000000,https://img.a.transfermarkt.technology/portrait/medium/282429-1705521655.jpg?lm=1
+Pedro Porro,Tottenham Hotspur,45000000,https://img.a.transfermarkt.technology/portrait/medium/553875-1730812390.jpg?lm=1
+Archie Gray,Tottenham Hotspur,25000000,https://img.a.transfermarkt.technology/portrait/medium/922693-1695108880.jpg?lm=1
+Djed Spence,Tottenham Hotspur,8000000,https://img.a.transfermarkt.technology/portrait/medium/483348-1596807960.jpg?lm=1
+Yves Bissouma,Tottenham Hotspur,35000000,https://img.a.transfermarkt.technology/portrait/medium/410425-1665607355.jpg?lm=1
+Rodrigo Bentancur,Tottenham Hotspur,35000000,https://img.a.transfermarkt.technology/portrait/medium/354362-1596001806.jpg?lm=1
+Pape Matar Sarr,Tottenham Hotspur,45000000,https://img.a.transfermarkt.technology/portrait/medium/568693-1668163083.jpg?lm=1
+Lucas Bergvall,Tottenham Hotspur,12000000,https://img.a.transfermarkt.technology/portrait/medium/866246-1701861399.jpg?lm=1
+James Maddison,Tottenham Hotspur,70000000,https://img.a.transfermarkt.technology/portrait/medium/294057-1687982662.jpg?lm=1
+Dejan Kulusevski,Tottenham Hotspur,55000000,https://img.a.transfermarkt.technology/portrait/medium/431755-1684943454.jpg?lm=1
+Heung-min Son,Tottenham Hotspur,45000000,https://img.a.transfermarkt.technology/portrait/medium/91845-1669336455.jpg?lm=1
+Timo Werner,Tottenham Hotspur,17000000,https://img.a.transfermarkt.technology/portrait/medium/170527-1663686137.jpg?lm=1
+Mikey Moore,Tottenham Hotspur,1000000,https://img.a.transfermarkt.technology/portrait/medium/1011147-1716493553.jpg?lm=1
+Brennan Johnson,Tottenham Hotspur,48000000,https://img.a.transfermarkt.technology/portrait/medium/470607-1692959021.jpg?lm=1
+Wilson Odobert,Tottenham Hotspur,18000000,https://img.a.transfermarkt.technology/portrait/medium/743498-1672838670.jpg?lm=1
+Dominic Solanke,Tottenham Hotspur,45000000,https://img.a.transfermarkt.technology/portrait/medium/258889-1708340487.jpg?lm=1
+Richarlison,Tottenham Hotspur,35000000,https://img.a.transfermarkt.technology/portrait/medium/378710-1665608231.jpg?lm=1
+Will Lankshear,Tottenham Hotspur,0,https://img.a.transfermarkt.technology/portrait/medium/879768-1708346356.jpg?lm=1
+Nick Pope,Newcastle United,16000000,https://img.a.transfermarkt.technology/portrait/medium/192080-1663841362.jpg?lm=1
+Odysseas Vlachodimos,Newcastle United,7000000,https://img.a.transfermarkt.technology/portrait/medium/124419-1706829687.jpg?lm=1
+Martin Dúbravka,Newcastle United,1000000,https://img.a.transfermarkt.technology/portrait/medium/74960-1700237195.jpg?lm=1
+Mark Gillespie,Newcastle United,300000,https://img.a.transfermarkt.technology/portrait/medium/142389-1600681751.jpg?lm=1
+John Ruddy,Newcastle United,200000,https://img.a.transfermarkt.technology/portrait/medium/s_29712_1123_2013_03_06_1.jpg?lm=1
+Sven Botman,Newcastle United,45000000,https://img.a.transfermarkt.technology/portrait/medium/361093-1683290679.jpg?lm=1
+Lloyd Kelly,Newcastle United,18000000,https://img.a.transfermarkt.technology/portrait/medium/480116-1684771304.jpg?lm=1
+Fabian Schär,Newcastle United,10000000,https://img.a.transfermarkt.technology/portrait/medium/135343-1667990394.jpg?lm=1
+Dan Burn,Newcastle United,8000000,https://img.a.transfermarkt.technology/portrait/medium/134270-1682340860.jpg?lm=1
+Jamaal Lascelles,Newcastle United,7000000,https://img.a.transfermarkt.technology/portrait/medium/183318-1696454186.jpg?lm=1
+Lewis Hall,Newcastle United,22000000,https://img.a.transfermarkt.technology/portrait/medium/670858-1699385942.jpg?lm=1
+Matt Targett,Newcastle United,8000000,https://img.a.transfermarkt.technology/portrait/medium/250478-1643653374.jpg?lm=1
+Alex Murphy,Newcastle United,250000,https://img.a.transfermarkt.technology/portrait/medium/900601-1714056292.jpg?lm=1
+Tino Livramento,Newcastle United,35000000,https://img.a.transfermarkt.technology/portrait/medium/503981-1699383321.jpg?lm=1
+Kieran Trippier,Newcastle United,10000000,https://img.a.transfermarkt.technology/portrait/medium/95810-1696454076.jpg?lm=1
+Emil Krafth,Newcastle United,2500000,https://img.a.transfermarkt.technology/portrait/medium/184528-1674210829.jpg?lm=1
+Bruno Guimarães,Newcastle United,85000000,https://img.a.transfermarkt.technology/portrait/medium/520624-1668522672.jpg?lm=1
+Isaac Hayden,Newcastle United,1800000,https://img.a.transfermarkt.technology/portrait/medium/206225-1680273024.jpg?lm=1
+Joelinton,Newcastle United,40000000,https://img.a.transfermarkt.technology/portrait/medium/333241-1674210135.jpg?lm=1
+Sandro Tonali,Newcastle United,38000000,https://img.a.transfermarkt.technology/portrait/medium/397033-1688389270.jpg?lm=1
+Joe Willock,Newcastle United,30000000,https://img.a.transfermarkt.technology/portrait/medium/340329-1683890024.jpg?lm=1
+Sean Longstaff,Newcastle United,25000000,https://img.a.transfermarkt.technology/portrait/medium/346707-1682341336.jpg?lm=1
+Lewis Miley,Newcastle United,22000000,https://img.a.transfermarkt.technology/portrait/medium/922769-1696453881.jpg?lm=1
+Anthony Gordon,Newcastle United,60000000,https://img.a.transfermarkt.technology/portrait/medium/503733-1660588736.jpg?lm=1
+Harvey Barnes,Newcastle United,35000000,https://img.a.transfermarkt.technology/portrait/medium/398065-1700650664.jpg?lm=1
+Garang Kuol,Newcastle United,600000,https://img.a.transfermarkt.technology/portrait/medium/967948-1697908437.jpg?lm=1
+Miguel Almirón,Newcastle United,20000000,https://img.a.transfermarkt.technology/portrait/medium/272999-1674210265.jpg?lm=1
+Jacob Murphy,Newcastle United,15000000,https://img.a.transfermarkt.technology/portrait/medium/199527-1674210561.jpg?lm=1
+Alexander Isak,Newcastle United,75000000,https://img.a.transfermarkt.technology/portrait/medium/349066-1680791339.jpg?lm=1
+Callum Wilson,Newcastle United,13000000,https://img.a.transfermarkt.technology/portrait/medium/123682-1668090039.jpg?lm=1
+William Osula,Newcastle United,7000000,https://img.a.transfermarkt.technology/portrait/medium/609556-1693217416.jpg?lm=1
+Emiliano Martínez,Aston Villa,28000000,https://img.a.transfermarkt.technology/portrait/medium/111873-1668180824.jpg?lm=1
+Joe Gauci,Aston Villa,1500000,https://img.a.transfermarkt.technology/portrait/medium/591844-1703230842.jpg?lm=1
+Robin Olsen,Aston Villa,1500000,https://img.a.transfermarkt.technology/portrait/medium/75458-1697721104.jpg?lm=1
+Pau Torres,Aston Villa,45000000,https://img.a.transfermarkt.technology/portrait/medium/399776-1691079911.jpg?lm=1
+Ezri Konsa,Aston Villa,35000000,https://img.a.transfermarkt.technology/portrait/medium/413403-1700651779.jpg?lm=1
+Diego Carlos,Aston Villa,12000000,https://img.a.transfermarkt.technology/portrait/medium/329145-1695656525.jpg?lm=1
+Tyrone Mings,Aston Villa,10000000,https://img.a.transfermarkt.technology/portrait/medium/253677-1593437372.jpg?lm=1
+Kortney Hause,Aston Villa,2000000,https://img.a.transfermarkt.technology/portrait/medium/233124-1700671308.jpg?lm=1
+Lamare Bogarde,Aston Villa,450000,https://img.a.transfermarkt.technology/portrait/medium/645686-1724484880.jpg?lm=1
+Ian Maatsen,Aston Villa,40000000,https://img.a.transfermarkt.technology/portrait/medium/485585-1704795222.jpg?lm=1
+Lucas Digne,Aston Villa,12000000,https://img.a.transfermarkt.technology/portrait/medium/126664-1663014267.jpg?lm=1
+Matty Cash,Aston Villa,28000000,https://img.a.transfermarkt.technology/portrait/medium/425334-1668091733.jpg?lm=1
+Kosta Nedeljkovic,Aston Villa,8000000,https://img.a.transfermarkt.technology/portrait/medium/848682-1694785153.jpg?lm=1
+Amadou Onana,Aston Villa,55000000,https://img.a.transfermarkt.technology/portrait/medium/485706-1718697649.jpg?lm=1
+Boubacar Kamara,Aston Villa,38000000,https://img.a.transfermarkt.technology/portrait/medium/394327-1604256413.jpg?lm=1
+John McGinn,Aston Villa,30000000,https://img.a.transfermarkt.technology/portrait/medium/193116-1689172405.jpg?lm=1
+Youri Tielemans,Aston Villa,30000000,https://img.a.transfermarkt.technology/portrait/medium/249565-1716886438.jpg?lm=1
+Ross Barkley,Aston Villa,8000000,https://img.a.transfermarkt.technology/portrait/medium/131978-1662368517.jpg?lm=1
+Jacob Ramsey,Aston Villa,32000000,https://img.a.transfermarkt.technology/portrait/medium/503749-1687975464.jpg?lm=1
+Morgan Rogers,Aston Villa,22000000,https://img.a.transfermarkt.technology/portrait/medium/503743-1706786450.jpg?lm=1
+Emiliano Buendía,Aston Villa,20000000,https://img.a.transfermarkt.technology/portrait/medium/321247-1696604099.jpg?lm=1
+Jaden Philogene,Aston Villa,15000000,https://img.a.transfermarkt.technology/portrait/medium/665390-1720427707.jpg?lm=1
+Leon Bailey,Aston Villa,42000000,https://img.a.transfermarkt.technology/portrait/medium/387626-1694712703.jpg?lm=1
+Ollie Watkins,Aston Villa,65000000,https://img.a.transfermarkt.technology/portrait/medium/324358-1708341279.jpg?lm=1
+Jhon Durán,Aston Villa,35000000,https://img.a.transfermarkt.technology/portrait/medium/649317-1645958151.jpg?lm=1
+Bart Verbruggen,Brighton & Hove Albion,22000000,https://img.a.transfermarkt.technology/portrait/medium/565093-1716990260.jpg?lm=1
+Jason Steele,Brighton & Hove Albion,3500000,https://img.a.transfermarkt.technology/portrait/medium/73564-1681383960.jpg?lm=1
+Jan Paul van Hecke,Brighton & Hove Albion,22000000,https://img.a.transfermarkt.technology/portrait/medium/576314-1673362272.jpg?lm=1
+Igor,Brighton & Hove Albion,17000000,https://img.a.transfermarkt.technology/portrait/medium/380350-1700737326.jpg?lm=1
+Adam Webster,Brighton & Hove Albion,15000000,https://img.a.transfermarkt.technology/portrait/medium/212847-1681737411.jpg?lm=1
+Lewis Dunk,Brighton & Hove Albion,12000000,https://img.a.transfermarkt.technology/portrait/medium/148153-1716297176.jpg?lm=1
+Ferdi Kadıoğlu,Brighton & Hove Albion,30000000,https://img.a.transfermarkt.technology/portrait/medium/369316-1724792538.jpg?lm=1
+Pervis Estupiñán,Brighton & Hove Albion,30000000,https://img.a.transfermarkt.technology/portrait/medium/349599-1668498118.jpg?lm=1
+Imari Samuels,Brighton & Hove Albion,100000,https://img.a.transfermarkt.technology/portrait/medium/565846-1724484681.jpg?lm=1
+Tariq Lamptey,Brighton & Hove Albion,12000000,https://img.a.transfermarkt.technology/portrait/medium/504148-1692364960.jpg?lm=1
+Joël Veltman,Brighton & Hove Albion,8000000,https://img.a.transfermarkt.technology/portrait/medium/111195-1700650522.jpg?lm=1
+Mats Wieffer,Brighton & Hove Albion,30000000,https://img.a.transfermarkt.technology/portrait/medium/415381-1673869834.jpg?lm=1
+Carlos Baleba,Brighton & Hove Albion,22000000,https://img.a.transfermarkt.technology/portrait/medium/973085-1666690662.jpg?lm=1
+Matt O'Riley,Brighton & Hove Albion,20000000,https://img.a.transfermarkt.technology/portrait/medium/406634-1661800636.jpg?lm=1
+Jack Hinshelwood,Brighton & Hove Albion,20000000,https://img.a.transfermarkt.technology/portrait/medium/867688-1698353957.jpg?lm=1
+Jakub Moder,Brighton & Hove Albion,10000000,https://img.a.transfermarkt.technology/portrait/medium/384461-1716985274.jpg?lm=1
+Yasin Ayari,Brighton & Hove Albion,4500000,https://img.a.transfermarkt.technology/portrait/medium/667287-1662115248.jpg?lm=1
+James Milner,Brighton & Hove Albion,1000000,https://img.a.transfermarkt.technology/portrait/medium/3333-1662621121.jpg?lm=1
+Julio Enciso,Brighton & Hove Albion,22000000,https://img.a.transfermarkt.technology/portrait/medium/660867-1669388786.jpg?lm=1
+Kaoru Mitoma,Brighton & Hove Albion,45000000,https://img.a.transfermarkt.technology/portrait/medium/504849-1731683095.jpg?lm=1
+Simon Adingra,Brighton & Hove Albion,30000000,https://img.a.transfermarkt.technology/portrait/medium/658536-1666292606.jpg?lm=1
+Yankuba Minteh,Brighton & Hove Albion,28000000,https://img.a.transfermarkt.technology/portrait/medium/1012534-1694774813.jpg?lm=1
+Brajan Gruda,Brighton & Hove Albion,25000000,https://img.a.transfermarkt.technology/portrait/medium/700106-1699001685.jpg?lm=1
+Solly March,Brighton & Hove Albion,15000000,https://img.a.transfermarkt.technology/portrait/medium/209212-1682348330.jpeg?lm=1
+Adrian Mazilu,Brighton & Hove Albion,2500000,https://img.a.transfermarkt.technology/portrait/medium/723835-1706256149.jpg?lm=1
+João Pedro,Brighton & Hove Albion,50000000,https://img.a.transfermarkt.technology/portrait/medium/626724-1724792744.jpg?lm=1
+Evan Ferguson,Brighton & Hove Albion,45000000,https://img.a.transfermarkt.technology/portrait/medium/648046-1681739980.jpg?lm=1
+Georginio Rutter,Brighton & Hove Albion,28000000,https://img.a.transfermarkt.technology/portrait/medium/538977-1727785742.jpg?lm=1
+Danny Welbeck,Brighton & Hove Albion,5000000,https://img.a.transfermarkt.technology/portrait/medium/67063-1700673547.jpg?lm=1
+Alphonse Areola,West Ham United,10000000,https://img.a.transfermarkt.technology/portrait/medium/120629-1663243036.jpg?lm=1
+Wes Foderingham,West Ham United,900000,https://img.a.transfermarkt.technology/portrait/medium/61697-1596446743.jpg?lm=1
+Lukasz Fabianski,West Ham United,700000,https://img.a.transfermarkt.technology/portrait/medium/29692-1685709486.jpg?lm=1
+Maximilian Kilman,West Ham United,38000000,https://img.a.transfermarkt.technology/portrait/medium/525247-1688370291.jpg?lm=1
+Jean-Clair Todibo,West Ham United,35000000,https://img.a.transfermarkt.technology/portrait/medium/605184-1699439806.jpg?lm=1
+Konstantinos Mavropanos,West Ham United,20000000,https://img.a.transfermarkt.technology/portrait/medium/415912-1691999569.jpg?lm=1
+Kaelan Casey,West Ham United,1000000,https://img.a.transfermarkt.technology/portrait/medium/845321-1709883861.jpg?lm=1
+Emerson,West Ham United,12000000,https://img.a.transfermarkt.technology/portrait/medium/181778-1660636930.jpg?lm=1
+Aaron Cresswell,West Ham United,900000,https://img.a.transfermarkt.technology/portrait/medium/92571-1700670925.jpg?lm=1
+Aaron Wan-Bissaka,West Ham United,20000000,https://img.a.transfermarkt.technology/portrait/medium/477758-1617030255.jpg?lm=1
+Vladimír Coufal,West Ham United,8000000,https://img.a.transfermarkt.technology/portrait/medium/157672-1667897675.jpg?lm=1
+Edson Álvarez,West Ham United,35000000,https://img.a.transfermarkt.technology/portrait/medium/401356-1698343328.jpeg?lm=1
+Tomas Soucek,West Ham United,30000000,https://img.a.transfermarkt.technology/portrait/medium/283628-1704184173.jpg?lm=1
+Guido Rodríguez,West Ham United,20000000,https://img.a.transfermarkt.technology/portrait/medium/342385-1668181269.jpg?lm=1
+Carlos Soler,West Ham United,20000000,https://img.a.transfermarkt.technology/portrait/medium/372246-1662059930.jpg?lm=1
+Andy Irving,West Ham United,2000000,https://img.a.transfermarkt.technology/portrait/medium/430310-1692965140.png?lm=1
+Lucas Paquetá,West Ham United,55000000,https://img.a.transfermarkt.technology/portrait/medium/444523-1695370009.jpg?lm=1
+Crysencio Summerville,West Ham United,22000000,https://img.a.transfermarkt.technology/portrait/medium/474701-1701683744.jpg?lm=1
+Mohammed Kudus,West Ham United,50000000,https://img.a.transfermarkt.technology/portrait/medium/543499-1668429218.jpg?lm=1
+Jarrod Bowen,West Ham United,50000000,https://img.a.transfermarkt.technology/portrait/medium/314875-1662362005.jpg?lm=1
+Luis Guilherme,West Ham United,24000000,https://img.a.transfermarkt.technology/portrait/medium/991800-1676571608.jpg?lm=1
+Niclas Füllkrug,West Ham United,15000000,https://img.a.transfermarkt.technology/portrait/medium/75489-1709560033.jpg?lm=1
+Danny Ings,West Ham United,8000000,https://img.a.transfermarkt.technology/portrait/medium/134294-1674218597.jpg?lm=1
+Michail Antonio,West Ham United,4000000,https://img.a.transfermarkt.technology/portrait/medium/104124-1709884222.jpg?lm=1
+Dean Henderson,Crystal Palace,12000000,https://img.a.transfermarkt.technology/portrait/medium/258919-1716297478.jpg?lm=1
+Matt Turner,Crystal Palace,5000000,https://img.a.transfermarkt.technology/portrait/medium/425306-1682689678.jpg?lm=1
+Remi Matthews,Crystal Palace,500000,https://img.a.transfermarkt.technology/portrait/medium/196722-1669021601.jpg?lm=1
+Marc Guéhi,Crystal Palace,45000000,https://img.a.transfermarkt.technology/portrait/medium/392757-1683030598.jpg?lm=1
+Maxence Lacroix,Crystal Palace,20000000,https://img.a.transfermarkt.technology/portrait/medium/434224-1657202248.jpg?lm=1
+Chadi Riad,Crystal Palace,15000000,https://img.a.transfermarkt.technology/portrait/medium/689637-1704399972.jpg?lm=1
+Trevoh Chalobah,Crystal Palace,13000000,https://img.a.transfermarkt.technology/portrait/medium/346314-1698937171.jpg?lm=1
+Chris Richards,Crystal Palace,12000000,https://img.a.transfermarkt.technology/portrait/medium/578539-1708426272.jpg?lm=1
+Rob Holding,Crystal Palace,5000000,https://img.a.transfermarkt.technology/portrait/medium/253341-1683101805.jpeg?lm=1
+Tyrick Mitchell,Crystal Palace,25000000,https://img.a.transfermarkt.technology/portrait/medium/730893-1693826944.jpg?lm=1
+Daniel Muñoz,Crystal Palace,23000000,https://img.a.transfermarkt.technology/portrait/medium/493003-1718642628.jpg?lm=1
+Nathaniel Clyne,Crystal Palace,1500000,https://img.a.transfermarkt.technology/portrait/medium/85177-1700648209.jpg?lm=1
+Joel Ward,Crystal Palace,1000000,https://img.a.transfermarkt.technology/portrait/medium/92572-1547722707.jpg?lm=1
+Cheick Doucouré,Crystal Palace,35000000,https://img.a.transfermarkt.technology/portrait/medium/543387-1693826399.jpg?lm=1
+Adam Wharton,Crystal Palace,30000000,https://img.a.transfermarkt.technology/portrait/medium/744149-1716297290.jpg?lm=1
+Jefferson Lerma,Crystal Palace,18000000,https://img.a.transfermarkt.technology/portrait/medium/262980-1693334146.jpg?lm=1
+Will Hughes,Crystal Palace,9000000,https://img.a.transfermarkt.technology/portrait/medium/207014-1700672424.jpg?lm=1
+Jeffrey Schlupp,Crystal Palace,7000000,https://img.a.transfermarkt.technology/portrait/medium/157506-1700672108.jpg?lm=1
+Eberechi Eze,Crystal Palace,60000000,https://img.a.transfermarkt.technology/portrait/medium/479999-1678466922.jpg?lm=1
+Daichi Kamada,Crystal Palace,18000000,https://img.a.transfermarkt.technology/portrait/medium/356141-1707947777.jpg?lm=1
+Matheus França,Crystal Palace,15000000,https://img.a.transfermarkt.technology/portrait/medium/743597-1708426107.jpg?lm=1
+Ismaïla Sarr,Crystal Palace,18000000,https://img.a.transfermarkt.technology/portrait/medium/410225-1668162683.jpg?lm=1
+Eddie Nketiah,Crystal Palace,30000000,https://img.a.transfermarkt.technology/portrait/medium/340324-1730795033.jpg?lm=1
+Jean-Philippe Mateta,Crystal Palace,20000000,https://img.a.transfermarkt.technology/portrait/medium/420002-1723202650.jpg?lm=1
+Matz Sels,Nottingham Forest,7000000,https://img.a.transfermarkt.technology/portrait/medium/127202-1665067633.jpg?lm=1
+Carlos Miguel,Nottingham Forest,4000000,https://img.a.transfermarkt.technology/portrait/medium/641458-1718990783.jpg?lm=1
+Murillo,Nottingham Forest,40000000,https://img.a.transfermarkt.technology/portrait/medium/1005649-1709159139.jpg?lm=1
+Nikola Milenković,Nottingham Forest,18000000,https://img.a.transfermarkt.technology/portrait/medium/413507-1661166461.jpg?lm=1
+Morato,Nottingham Forest,15000000,https://img.a.transfermarkt.technology/portrait/medium/673492-1701295349.jpg?lm=1
+Andrew Omobamidele,Nottingham Forest,11000000,https://img.a.transfermarkt.technology/portrait/medium/621993-1700738756.jpg?lm=1
+Willy Boly,Nottingham Forest,2500000,https://img.a.transfermarkt.technology/portrait/medium/142310-1663057112.jpg?lm=1
+Álex Moreno,Nottingham Forest,13000000,https://img.a.transfermarkt.technology/portrait/medium/193098-1667289023.jpg?lm=1
+Harry Toffolo,Nottingham Forest,5000000,https://img.a.transfermarkt.technology/portrait/medium/198516-1645696821.jpg?lm=1
+Neco Williams,Nottingham Forest,17000000,https://img.a.transfermarkt.technology/portrait/medium/503680-1705499825.jpg?lm=1
+Ola Aina,Nottingham Forest,12000000,https://img.a.transfermarkt.technology/portrait/medium/236490-1707383919.jpg?lm=1
+Ibrahim Sangaré,Nottingham Forest,30000000,https://img.a.transfermarkt.technology/portrait/medium/375885-1700738495.jpg?lm=1
+Danilo,Nottingham Forest,28000000,https://img.a.transfermarkt.technology/portrait/medium/808509-1694614735.jpg?lm=1
+Elliot Anderson,Nottingham Forest,22000000,https://img.a.transfermarkt.technology/portrait/medium/567576-1696453772.jpg?lm=1
+James Ward-Prowse,Nottingham Forest,22000000,https://img.a.transfermarkt.technology/portrait/medium/181579-1684751045.jpg?lm=1
+Nicolás Domínguez,Nottingham Forest,17000000,https://img.a.transfermarkt.technology/portrait/medium/497291-1663656746.jpg?lm=1
+Ryan Yates,Nottingham Forest,12000000,https://img.a.transfermarkt.technology/portrait/medium/425902-1684239778.jpg?lm=1
+Morgan Gibbs-White,Nottingham Forest,40000000,https://img.a.transfermarkt.technology/portrait/medium/429014-1687975822.jpg?lm=1
+Callum Hudson-Odoi,Nottingham Forest,22000000,https://img.a.transfermarkt.technology/portrait/medium/392768-1659969850.png?lm=1
+Ramón Sosa,Nottingham Forest,13000000,https://img.a.transfermarkt.technology/portrait/medium/745191-1731056200.jpg?lm=1
+Jota Silva,Nottingham Forest,12000000,https://img.a.transfermarkt.technology/portrait/medium/663244-1731056081.jpg?lm=1
+Anthony Elanga,Nottingham Forest,25000000,https://img.a.transfermarkt.technology/portrait/medium/583189-1700739021.jpg?lm=1
+Eric da Silva Moreira,Nottingham Forest,1000000,https://img.a.transfermarkt.technology/portrait/medium/897481-1701679168.jpg?lm=1
+Taiwo Awoniyi,Nottingham Forest,28000000,https://img.a.transfermarkt.technology/portrait/medium/295313-1628595124.jpg?lm=1
+Chris Wood,Nottingham Forest,7000000,https://img.a.transfermarkt.technology/portrait/medium/108725-1674209978.jpg?lm=1
+Emmanuel Dennis,Nottingham Forest,4200000,https://img.a.transfermarkt.technology/portrait/medium/448854-1695644743.png?lm=1
+Mark Flekken,Brentford FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/125714-1658411484.jpg?lm=1
+Hákon Rafn Valdimarsson,Brentford FC,2500000,https://img.a.transfermarkt.technology/portrait/medium/488935-1689319830.jpg?lm=1
+Matthew Cox,Brentford FC,800000,https://img.a.transfermarkt.technology/portrait/medium/741236-1612879591.jpg?lm=1
+Nathan Collins,Brentford FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/469050-1688381729.jpg?lm=1
+Sepp van den Berg,Brentford FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/541231-1692000386.jpg?lm=1
+Kristoffer Ajer,Brentford FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/328658-1700649482.jpg?lm=1
+Ethan Pinnock,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/442248-1719836196.jpg?lm=1
+Ben Mee,Brentford FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/74810-1700647998.jpg?lm=1
+Ji-soo Kim,Brentford FC,600000,https://img.a.transfermarkt.technology/portrait/medium/709767-1674265126.jpg?lm=1
+Rico Henry,Brentford FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/339556-1684771012.jpg?lm=1
+Jayden Meghoma,Brentford FC,0,https://img.a.transfermarkt.technology/portrait/medium/954104-1725051533.jpg?lm=1
+Aaron Hickey,Brentford FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/591949-1684772165.jpg?lm=1
+Mads Roerslev,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/391005-1684772936.jpg?lm=1
+Vitaly Janelt,Brentford FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/270171-1649932358.jpg?lm=1
+Christian Nørgaard,Brentford FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/148367-1699799827.jpg?lm=1
+Yunus Emre Konak,Brentford FC,3500000,https://img.a.transfermarkt.technology/portrait/medium/1141628-1691660915.png?lm=1
+Mathias Jensen,Brentford FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/319859-1684771732.jpg?lm=1
+Josh Dasilva,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/340321-1596444356.jpg?lm=1
+Paris Maghoma,Brentford FC,350000,https://img.a.transfermarkt.technology/portrait/medium/470596-1548064000.jpg?lm=1
+Ryan Trevitt,Brentford FC,275000,https://img.a.transfermarkt.technology/portrait/medium/874538-1686580996.jpg?lm=1
+Fábio Carvalho,Brentford FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/559263-1687517452.jpg?lm=1
+Yegor Yarmolyuk,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/717411-1639148047.png?lm=1
+Kevin Schade,Brentford FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/473050-1700560328.jpg?lm=1
+Keane Lewis-Potter,Brentford FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/644401-1642684319.jpg?lm=1
+Mikkel Damsgaard,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/540941-1668183899.jpg?lm=1
+Gustavo Nunes,Brentford FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/1086375-1717523011.jpg?lm=1
+Bryan Mbeumo,Brentford FC,40000000,https://img.a.transfermarkt.technology/portrait/medium/413039-1668505084.jpg?lm=1
+Yoane Wissa,Brentford FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/388165-1579276540.jpg?lm=1
+Igor Thiago,Brentford FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/739443-1707939484.jpg?lm=1
+José Sá,Wolverhampton Wanderers,10000000,https://img.a.transfermarkt.technology/portrait/medium/249994-1696600015.jpg?lm=1
+Sam Johnstone,Wolverhampton Wanderers,10000000,https://img.a.transfermarkt.technology/portrait/medium/110864-1672915792.jpg?lm=1
+Daniel Bentley,Wolverhampton Wanderers,2000000,https://img.a.transfermarkt.technology/portrait/medium/136401-1700737411.jpg?lm=1
+Tom King,Wolverhampton Wanderers,200000,https://img.a.transfermarkt.technology/portrait/medium/215810-1621592912.jpg?lm=1
+Toti,Wolverhampton Wanderers,20000000,https://img.a.transfermarkt.technology/portrait/medium/606718-1630733935.jpg?lm=1
+Santiago Bueno,Wolverhampton Wanderers,8000000,https://img.a.transfermarkt.technology/portrait/medium/438001-1567158917.jpg?lm=1
+Yerson Mosquera,Wolverhampton Wanderers,6000000,https://img.a.transfermarkt.technology/portrait/medium/716276-1682874906.jpg?lm=1
+Bastien Meupiyou,Wolverhampton Wanderers,2500000,https://img.a.transfermarkt.technology/portrait/medium/955253-1703065461.jpg?lm=1
+Craig Dawson,Wolverhampton Wanderers,2000000,https://img.a.transfermarkt.technology/portrait/medium/121477-1700673087.jpg?lm=1
+Rayan Aït-Nouri,Wolverhampton Wanderers,35000000,https://img.a.transfermarkt.technology/portrait/medium/578391-1695656762.jpg?lm=1
+Nélson Semedo,Wolverhampton Wanderers,12000000,https://img.a.transfermarkt.technology/portrait/medium/231572-1684487147.jpg?lm=1
+Pedro Lima,Wolverhampton Wanderers,5000000,https://img.a.transfermarkt.technology/portrait/medium/1193867-1710156658.jpg?lm=1
+Matt Doherty,Wolverhampton Wanderers,3000000,https://img.a.transfermarkt.technology/portrait/medium/171679-1682598455.jpg?lm=1
+André,Wolverhampton Wanderers,25000000,https://img.a.transfermarkt.technology/portrait/medium/800176-1699348390.jpg?lm=1
+Mario Lemina,Wolverhampton Wanderers,10000000,https://img.a.transfermarkt.technology/portrait/medium/170934-1667549900.jpg?lm=1
+Boubacar Traoré,Wolverhampton Wanderers,6000000,https://img.a.transfermarkt.technology/portrait/medium/649020-1693477837.jpg?lm=1
+João Gomes,Wolverhampton Wanderers,40000000,https://img.a.transfermarkt.technology/portrait/medium/735570-1675092223.jpg?lm=1
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,18000000,https://img.a.transfermarkt.technology/portrait/medium/450050-1618501758.jpg?lm=1
+Tommy Doyle,Wolverhampton Wanderers,10000000,https://img.a.transfermarkt.technology/portrait/medium/433183-1682690588.jpg?lm=1
+Luke Cundle,Wolverhampton Wanderers,5000000,https://img.a.transfermarkt.technology/portrait/medium/532541-1661855778.jpg?lm=1
+Rodrigo Gomes,Wolverhampton Wanderers,15000000,https://img.a.transfermarkt.technology/portrait/medium/667121-1658746770.jpg?lm=1
+Gonçalo Guedes,Wolverhampton Wanderers,15000000,https://img.a.transfermarkt.technology/portrait/medium/225122-1701334424.jpg?lm=1
+Carlos Forbs,Wolverhampton Wanderers,8000000,https://img.a.transfermarkt.technology/portrait/medium/742451-1721657852.jpg?lm=1
+Enso González,Wolverhampton Wanderers,4000000,https://img.a.transfermarkt.technology/portrait/medium/1060740-1689793744.jpg?lm=1
+Pablo Sarabia,Wolverhampton Wanderers,8000000,https://img.a.transfermarkt.technology/portrait/medium/74230-1602692460.jpg?lm=1
+Matheus Cunha,Wolverhampton Wanderers,45000000,https://img.a.transfermarkt.technology/portrait/medium/517894-1696599737.jpg?lm=1
+Jørgen Strand Larsen,Wolverhampton Wanderers,25000000,https://img.a.transfermarkt.technology/portrait/medium/429983-1680524510.jpeg?lm=1
+Hee-chan Hwang,Wolverhampton Wanderers,25000000,https://img.a.transfermarkt.technology/portrait/medium/292246-1708341416.jpg?lm=1
+Sasa Kalajdzic,Wolverhampton Wanderers,5000000,https://img.a.transfermarkt.technology/portrait/medium/369567-1624803519.jpg?lm=1
+Kepa Arrizabalaga,AFC Bournemouth,12000000,https://img.a.transfermarkt.technology/portrait/medium/192279-1661855851.jpg?lm=1
+Mark Travers,AFC Bournemouth,3500000,https://img.a.transfermarkt.technology/portrait/medium/357658-1702296610.jpg?lm=1
+Will Dennis,AFC Bournemouth,350000,https://img.a.transfermarkt.technology/portrait/medium/582078-1651653108.jpg?lm=1
+Ilya Zabarnyi,AFC Bournemouth,32000000,https://img.a.transfermarkt.technology/portrait/medium/659089-1715881375.jpg?lm=1
+Marcos Senesi,AFC Bournemouth,22000000,https://img.a.transfermarkt.technology/portrait/medium/469781-1576329259.jpg?lm=1
+Dean Huijsen,AFC Bournemouth,12000000,https://img.a.transfermarkt.technology/portrait/medium/890290-1676533236.jpg?lm=1
+James Hill,AFC Bournemouth,2000000,https://img.a.transfermarkt.technology/portrait/medium/611793-1633426138.png?lm=1
+Milos Kerkez,AFC Bournemouth,20000000,https://img.a.transfermarkt.technology/portrait/medium/730861-1660762995.jpg?lm=1
+Max Aarons,AFC Bournemouth,16000000,https://img.a.transfermarkt.technology/portrait/medium/471690-1662465106.png?lm=1
+Julián Araujo,AFC Bournemouth,8000000,https://img.a.transfermarkt.technology/portrait/medium/513970-1646079609.JPG?lm=1
+Adam Smith,AFC Bournemouth,1000000,https://img.a.transfermarkt.technology/portrait/medium/61841-1547728546.jpg?lm=1
+Tyler Adams,AFC Bournemouth,15000000,https://img.a.transfermarkt.technology/portrait/medium/332705-1666472142.jpg?lm=1
+Alex Scott,AFC Bournemouth,20000000,https://img.a.transfermarkt.technology/portrait/medium/855256-1656922605.jpg?lm=1
+Philip Billing,AFC Bournemouth,18000000,https://img.a.transfermarkt.technology/portrait/medium/320411-1674468252.jpg?lm=1
+Lewis Cook,AFC Bournemouth,12000000,https://img.a.transfermarkt.technology/portrait/medium/249089-1700671190.jpg?lm=1
+Ryan Christie,AFC Bournemouth,12000000,https://img.a.transfermarkt.technology/portrait/medium/188077-1697450633.jpg?lm=1
+Marcus Tavernier,AFC Bournemouth,20000000,https://img.a.transfermarkt.technology/portrait/medium/399434-1700650360.jpg?lm=1
+Dango Ouattara,AFC Bournemouth,20000000,https://img.a.transfermarkt.technology/portrait/medium/823231-1663162842.jpg?lm=1
+Luis Sinisterra,AFC Bournemouth,17000000,https://img.a.transfermarkt.technology/portrait/medium/512385-1674557520.jpg?lm=1
+Justin Kluivert,AFC Bournemouth,14000000,https://img.a.transfermarkt.technology/portrait/medium/330659-1596107153.jpg?lm=1
+Antoine Semenyo,AFC Bournemouth,20000000,https://img.a.transfermarkt.technology/portrait/medium/583255-1628669787.jpg?lm=1
+David Brooks,AFC Bournemouth,8000000,https://img.a.transfermarkt.technology/portrait/medium/277033-1700650102.jpg?lm=1
+Evanilson,AFC Bournemouth,35000000,https://img.a.transfermarkt.technology/portrait/medium/711337-1606396779.png?lm=1
+Enes Ünal,AFC Bournemouth,15000000,https://img.a.transfermarkt.technology/portrait/medium/251106-1669365680.jpg?lm=1
+Jordan Pickford,Everton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/130164-1668499964.jpg?lm=1
+João Virgínia,Everton FC,800000,https://img.a.transfermarkt.technology/portrait/medium/329813-1557498511.jpg?lm=1
+Asmir Begovic,Everton FC,300000,https://img.a.transfermarkt.technology/portrait/medium/33873-1520608555.jpg?lm=1
+Jarrad Branthwaite,Everton FC,42000000,https://img.a.transfermarkt.technology/portrait/medium/661053-1687975679.jpg?lm=1
+Jake O'Brien,Everton FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/711544-1662362868.jpg?lm=1
+James Tarkowski,Everton FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/173504-1655979328.jpg?lm=1
+Michael Keane,Everton FC,6000000,https://img.a.transfermarkt.technology/portrait/medium/118534-1687967021.jpg?lm=1
+Vitaliy Mykolenko,Everton FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/404842-1708012303.jpg?lm=1
+Ashley Young,Everton FC,500000,https://img.a.transfermarkt.technology/portrait/medium/14086-1700736434.jpg?lm=1
+Nathan Patterson,Everton FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/424015-1596699245.jpg?lm=1
+Séamus Coleman,Everton FC,500000,https://img.a.transfermarkt.technology/portrait/medium/68390-1627488566.jpg?lm=1
+James Garner,Everton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/505219-1662067244.jpg?lm=1
+Orel Mangala,Everton FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/289592-1657181518.jpg?lm=1
+Abdoulaye Doucouré,Everton FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/127187-1687966805.jpg?lm=1
+Tim Iroegbunam,Everton FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/696589-1650877564.jpg?lm=1
+Idrissa Gueye,Everton FC,2000000,https://img.a.transfermarkt.technology/portrait/medium/126665-1602849128.jpg?lm=1
+Dwight McNeil,Everton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/584769-1700651579.jpg?lm=1
+Iliman Ndiaye,Everton FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/623570-1651653048.png?lm=1
+Jesper Lindstrøm,Everton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/513245-1663065433.jpg?lm=1
+Jack Harrison,Everton FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/417346-1711746777.jpg?lm=1
+Dominic Calvert-Lewin,Everton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/306024-1685705768.jpg?lm=1
+Beto,Everton FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/595809-1711746870.jpg?lm=1
+Armando Broja,Everton FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/571743-1662362376.jpg?lm=1
+Chermiti,Everton FC,9000000,https://img.a.transfermarkt.technology/portrait/medium/670688-1708426195.jpg?lm=1
+Bernd Leno,Fulham FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/72476-1642711733.jpg?lm=1
+Steven Benda,Fulham FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/381469-1547712798.jpg?lm=1
+Joachim Andersen,Fulham FC,35000000,https://img.a.transfermarkt.technology/portrait/medium/260827-1668183482.jpg?lm=1
+Issa Diop,Fulham FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/272622-1660565295.jpg?lm=1
+Calvin Bassey,Fulham FC,16000000,https://img.a.transfermarkt.technology/portrait/medium/461883-1662989506.jpg?lm=1
+Jorge Cuenca,Fulham FC,6000000,https://img.a.transfermarkt.technology/portrait/medium/494880-1539767956.jpg?lm=1
+Antonee Robinson,Fulham FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/349701-1703926612.jpg?lm=1
+Ryan Sessegnon,Fulham FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/392775-1722077271.jpg?lm=1
+Timothy Castagne,Fulham FC,17000000,https://img.a.transfermarkt.technology/portrait/medium/262226-1665067689.jpg?lm=1
+Kenny Tete,Fulham FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/206746-1599577236.jpg?lm=1
+Sander Berge,Fulham FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/333014-1679676693.jpg?lm=1
+Harrison Reed,Fulham FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/226973-1628697428.jpg?lm=1
+Saša Lukić,Fulham FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/245056-1596015377.jpg?lm=1
+Tom Cairney,Fulham FC,2000000,https://img.a.transfermarkt.technology/portrait/medium/123275-1651652849.jpg?lm=1
+Emile Smith Rowe,Fulham FC,28000000,https://img.a.transfermarkt.technology/portrait/medium/392765-1684164628.jpg?lm=1
+Andreas Pereira,Fulham FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/203394-1659355525.jpg?lm=1
+Alex Iwobi,Fulham FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/242631-1679652866.jpg?lm=1
+Harry Wilson,Fulham FC,17000000,https://img.a.transfermarkt.technology/portrait/medium/279455-1668070758.jpg?lm=1
+Reiss Nelson,Fulham FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/340325-1667418642.jpg?lm=1
+Adama Traoré,Fulham FC,9000000,https://img.a.transfermarkt.technology/portrait/medium/204103-1685622835.jpg?lm=1
+Rodrigo Muniz,Fulham FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/735571-1657802369.jpg?lm=1
+Raúl Jiménez,Fulham FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/206040-1668454631.jpg?lm=1
+Carlos Vinícius,Fulham FC,4000000,https://img.a.transfermarkt.technology/portrait/medium/525287-1662070180.jpg?lm=1
+Aaron Ramsdale,Southampton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/427568-1681828000.jpg?lm=1
+Gavin Bazunu,Southampton FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/585550-1655476121.jpg?lm=1
+Joe Lumley,Southampton FC,600000,https://img.a.transfermarkt.technology/portrait/medium/336367-1709158388.jpg?lm=1
+Alex McCarthy,Southampton FC,500000,https://img.a.transfermarkt.technology/portrait/medium/95976-1520416774.jpg?lm=1
+Taylor Harwood-Bellis,Southampton FC,22000000,https://img.a.transfermarkt.technology/portrait/medium/503977-1687975943.jpg?lm=1
+Armel Bella-Kotchap,Southampton FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/467563-1663251475.jpg?lm=1
+Jan Bednarek,Southampton FC,11000000,https://img.a.transfermarkt.technology/portrait/medium/243028-1709158468.jpg?lm=1
+Ronnie Edwards,Southampton FC,3800000,https://img.a.transfermarkt.technology/portrait/medium/732165-1641462138.jpg?lm=1
+Nathan Wood,Southampton FC,3800000,https://img.a.transfermarkt.technology/portrait/medium/503990-1720788273.jpg?lm=1
+Jack Stephens,Southampton FC,2000000,https://img.a.transfermarkt.technology/portrait/medium/163744-1720190433.jpg?lm=1
+Juan Larios,Southampton FC,4500000,https://img.a.transfermarkt.technology/portrait/medium/646738-1662067003.jpg?lm=1
+Ryan Manning,Southampton FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/262300-1720192030.jpg?lm=1
+Charlie Taylor,Southampton FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/195633-1700671881.jpg?lm=1
+Kyle Walker-Peters,Southampton FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/341051-1693826850.jpg?lm=1
+Yukinari Sugawara,Southampton FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/405385-1690965777.jpg?lm=1
+James Bree,Southampton FC,2200000,https://img.a.transfermarkt.technology/portrait/medium/324223-1720190887.jpg?lm=1
+Lesley Ugochukwu,Southampton FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/711999-1666698684.jpg?lm=1
+Flynn Downes,Southampton FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/506189-1659355597.jpg?lm=1
+Mateus Fernandes,Southampton FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/880245-1727786403.jpg?lm=1
+Joe Aribo,Southampton FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/468198-1656428996.png?lm=1
+Will Smallbone,Southampton FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/444211-1595844096.jpg?lm=1
+Adam Lallana,Southampton FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/43530-1662663337.jpg?lm=1
+Kamaldeen Sulemana,Southampton FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/746695-1666698770.jpg?lm=1
+Maxwel Cornet,Southampton FC,9000000,https://img.a.transfermarkt.technology/portrait/medium/234781-1663242689.jpg?lm=1
+Ryan Fraser,Southampton FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/146795-1720190677.jpg?lm=1
+Tyler Dibling,Southampton FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/866655-1724485194.jpg?lm=1
+Samuel Amo-Ameyaw,Southampton FC,300000,https://img.a.transfermarkt.technology/portrait/medium/933900-1695110050.jpg?lm=1
+Adam Armstrong,Southampton FC,16000000,https://img.a.transfermarkt.technology/portrait/medium/250426-1708002412.jpg?lm=1
+Cameron Archer,Southampton FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/533662-1641461875.jpg?lm=1
+Paul Onuachu,Southampton FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/272855-1695672883.png?lm=1
+Ben Brereton Díaz,Southampton FC,8000000,https://img.a.transfermarkt.technology/portrait/medium/426192-1684144984.jpg?lm=1
+Ross Stewart,Southampton FC,4500000,https://img.a.transfermarkt.technology/portrait/medium/447995-1645779367.jpg?lm=1
+Mads Hermansen,Leicester City,9000000,https://img.a.transfermarkt.technology/portrait/medium/400536-1707386039.jpg?lm=1
+Daniel Iversen,Leicester City,3000000,https://img.a.transfermarkt.technology/portrait/medium/260841-1683029575.jpg?lm=1
+Danny Ward,Leicester City,1800000,https://img.a.transfermarkt.technology/portrait/medium/203026-1668070552.jpg?lm=1
+Jakub Stolarczyk,Leicester City,400000,https://img.a.transfermarkt.technology/portrait/medium/486144-1692967745.jpg?lm=1
+Wout Faes,Leicester City,20000000,https://img.a.transfermarkt.technology/portrait/medium/292808-1668080038.jpg?lm=1
+Caleb Okoli,Leicester City,12000000,https://img.a.transfermarkt.technology/portrait/medium/461833-1652094910.jpg?lm=1
+Conor Coady,Leicester City,3000000,https://img.a.transfermarkt.technology/portrait/medium/128901-1668090438.jpg?lm=1
+Jannik Vestergaard,Leicester City,3000000,https://img.a.transfermarkt.technology/portrait/medium/99331-1701083132.jpg?lm=1
+Victor Kristiansen,Leicester City,15000000,https://img.a.transfermarkt.technology/portrait/medium/564529-1718628197.jpg?lm=1
+Luke Thomas,Leicester City,6000000,https://img.a.transfermarkt.technology/portrait/medium/505194-1687975540.jpg?lm=1
+James Justin,Leicester City,15000000,https://img.a.transfermarkt.technology/portrait/medium/413220-1600097627.jpg?lm=1
+Ricardo Pereira,Leicester City,8000000,https://img.a.transfermarkt.technology/portrait/medium/215876-1720192308.jpg?lm=1
+Oliver Skipp,Leicester City,18000000,https://img.a.transfermarkt.technology/portrait/medium/406638-1572887410.jpg?lm=1
+Wilfred Ndidi,Leicester City,16000000,https://img.a.transfermarkt.technology/portrait/medium/274839-1718269781.jpg?lm=1
+Boubakary Soumaré,Leicester City,14000000,https://img.a.transfermarkt.technology/portrait/medium/344605-1591172562.jpg?lm=1
+Harry Winks,Leicester City,12000000,https://img.a.transfermarkt.technology/portrait/medium/249126-1663679564.jpg?lm=1
+Hamza Choudhury,Leicester City,4500000,https://img.a.transfermarkt.technology/portrait/medium/341501-1559900777.jpg?lm=1
+Michael Golding,Leicester City,2000000,https://img.a.transfermarkt.technology/portrait/medium/936842-1715156410.jpg?lm=1
+Bilal El Khannouss,Leicester City,30000000,https://img.a.transfermarkt.technology/portrait/medium/654982-1714038053.png?lm=1
+Facundo Buonanotte,Leicester City,18000000,https://img.a.transfermarkt.technology/portrait/medium/983989-1682588141.jpg?lm=1
+Stephy Mavididi,Leicester City,11000000,https://img.a.transfermarkt.technology/portrait/medium/340328-1707385825.jpg?lm=1
+Issahaku Fatawu,Leicester City,13000000,https://img.a.transfermarkt.technology/portrait/medium/864121-1666100254.jpg?lm=1
+Bobby De Cordova-Reid,Leicester City,5000000,https://img.a.transfermarkt.technology/portrait/medium/186186-1657802404.jpg?lm=1
+Kasey McAteer,Leicester City,900000,https://img.a.transfermarkt.technology/portrait/medium/621193-1731659829.jpg?lm=1
+Odsonne Edouard,Leicester City,18000000,https://img.a.transfermarkt.technology/portrait/medium/344152-1598301744.jpg?lm=1
+Patson Daka,Leicester City,12000000,https://img.a.transfermarkt.technology/portrait/medium/365172-1638810490.jpg?lm=1
+Jordan Ayew,Leicester City,4000000,https://img.a.transfermarkt.technology/portrait/medium/108354-1668429913.jpg?lm=1
+Jamie Vardy,Leicester City,1000000,https://img.a.transfermarkt.technology/portrait/medium/197838-1683031278.jpg?lm=1
+Arijanet Muric,Ipswich Town,7000000,https://img.a.transfermarkt.technology/portrait/medium/371021-1685718424.jpg?lm=1
+Christian Walton,Ipswich Town,900000,https://img.a.transfermarkt.technology/portrait/medium/208379-1720189930.jpg?lm=1
+Cieran Slicker,Ipswich Town,300000,https://img.a.transfermarkt.technology/portrait/medium/621997-1655972071.jpg?lm=1
+Jacob Greaves,Ipswich Town,20000000,https://img.a.transfermarkt.technology/portrait/medium/693095-1727786112.jpg?lm=1
+Dara O'Shea,Ipswich Town,10000000,https://img.a.transfermarkt.technology/portrait/medium/401320-1632909442.jpg?lm=1
+Axel Tuanzebe,Ipswich Town,3000000,https://img.a.transfermarkt.technology/portrait/medium/342046-1641553669.jpg?lm=1
+Luke Woolfenden,Ipswich Town,2000000,https://img.a.transfermarkt.technology/portrait/medium/527425-1664180037.jpg?lm=1
+Cameron Burgess,Ipswich Town,1500000,https://img.a.transfermarkt.technology/portrait/medium/255788-1664180001.jpg?lm=1
+Leif Davis,Ipswich Town,15000000,https://img.a.transfermarkt.technology/portrait/medium/596446-1551183762.jpg?lm=1
+Conor Townsend,Ipswich Town,1500000,https://img.a.transfermarkt.technology/portrait/medium/146509-1551181112.jpg?lm=1
+Ben Johnson,Ipswich Town,8000000,https://img.a.transfermarkt.technology/portrait/medium/468002-1694618190.jpg?lm=1
+Harry Clarke,Ipswich Town,5000000,https://img.a.transfermarkt.technology/portrait/medium/528892-1628698186.jpg?lm=1
+Kalvin Phillips,Ipswich Town,22000000,https://img.a.transfermarkt.technology/portrait/medium/351749-1661978510.jpg?lm=1
+Jens Cajuste,Ipswich Town,10000000,https://img.a.transfermarkt.technology/portrait/medium/468066-1691568301.jpg?lm=1
+Jack Taylor,Ipswich Town,1800000,https://img.a.transfermarkt.technology/portrait/medium/458178-1706522764.jpg?lm=1
+Sam Morsy,Ipswich Town,900000,https://img.a.transfermarkt.technology/portrait/medium/123551-1658821486.jpg?lm=1
+Massimo Luongo,Ipswich Town,500000,https://img.a.transfermarkt.technology/portrait/medium/181687-1720191232.jpg?lm=1
+Sammie Szmodics,Ipswich Town,10000000,https://img.a.transfermarkt.technology/portrait/medium/292139-1708002780.jpg?lm=1
+Jack Clarke,Ipswich Town,15000000,https://img.a.transfermarkt.technology/portrait/medium/559794-1708003059.jpg?lm=1
+Nathan Broadhead,Ipswich Town,5000000,https://img.a.transfermarkt.technology/portrait/medium/344009-1629189855.jpg?lm=1
+Omari Hutchinson,Ipswich Town,18000000,https://img.a.transfermarkt.technology/portrait/medium/741238-1646905031.jpg?lm=1
+Chiedozie Ogbene,Ipswich Town,8000000,https://img.a.transfermarkt.technology/portrait/medium/392591-1700737518.jpg?lm=1
+Wes Burns,Ipswich Town,2000000,https://img.a.transfermarkt.technology/portrait/medium/255731-1664179868.jpg?lm=1
+Conor Chaplin,Ipswich Town,7000000,https://img.a.transfermarkt.technology/portrait/medium/349503-1612349000.jpg?lm=1
+Liam Delap,Ipswich Town,15000000,https://img.a.transfermarkt.technology/portrait/medium/610849-1601282009.jpg?lm=1
+George Hirst,Ipswich Town,4000000,https://img.a.transfermarkt.technology/portrait/medium/420808-1548432046.jpg?lm=1
+Ali Al-Hamadi,Ipswich Town,2000000,https://img.a.transfermarkt.technology/portrait/medium/610581-1705017216.png?lm=1

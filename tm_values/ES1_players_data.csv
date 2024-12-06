@@ -1,311 +1,511 @@
-Player,Club,Market Value
-Thibaut Courtois,Real Madrid,25000000
-Andriy Lunin,Real Madrid,25000000
-Éder Militão,Real Madrid,60000000
-Antonio Rüdiger,Real Madrid,25000000
-David Alaba,Real Madrid,15000000
-,Real Valladolid CF,2800000
-Raúl Asencio,Real Madrid,300000
-Ferland Mendy,Real Madrid,22000000
-Fran García,Real Madrid,15000000
-Daniel Carvajal,Real Madrid,12000000
-Lucas Vázquez,Real Madrid,4000000
-Aurélien Tchouaméni,Real Madrid,100000000
-Federico Valverde,Real Madrid,130000000
-Eduardo Camavinga,Real Madrid,100000000
-Luka Modric,Real Madrid,6000000
-Dani Ceballos,Real Madrid,4000000
-Jude Bellingham,Real Madrid,180000000
-Brahim Díaz,Real Madrid,40000000
-Vinicius Junior,Real Madrid,200000000
-Rodrygo,Real Madrid,110000000
-Arda Güler,Real Madrid,45000000
-Marc-André ter Stegen,FC Barcelona,20000000
-Iñaki Peña,FC Barcelona,8000000
-Ander Astralaga,FC Barcelona,1000000
-Ronald Araujo,FC Barcelona,70000000
-Pau Cubarsí,FC Barcelona,40000000
-Andreas Christensen,FC Barcelona,30000000
-Iñigo Martínez,FC Barcelona,5000000
-Sergi Domínguez,FC Barcelona,1000000
-Alejandro Balde,FC Barcelona,40000000
-Jules Koundé,FC Barcelona,55000000
-Gavi,FC Barcelona,90000000
-Pedri,FC Barcelona,80000000
-Frenkie de Jong,FC Barcelona,60000000
-Fermín López,FC Barcelona,50000000
-Raphinha,FC Barcelona,60000000
-Lamine Yamal,FC Barcelona,150000000
-Ferran Torres,FC Barcelona,30000000
-Robert Lewandowski,FC Barcelona,15000000
-Jan Oblak,Atlético de Madrid,28000000
-José María Giménez,Atlético de Madrid,22000000
-Axel Witsel,Atlético de Madrid,3500000
-César Azpilicueta,Atlético de Madrid,2000000
-Reinildo Mandava,Atlético de Madrid,9000000
-Nahuel Molina,Atlético de Madrid,28000000
-Rodrigo De Paul,Atlético de Madrid,30000000
-Pablo Barrios,Atlético de Madrid,30000000
-Koke,Atlético de Madrid,12000000
-Marcos Llorente,Atlético de Madrid,30000000
-Thomas Lemar,Atlético de Madrid,7500000
-Samuel Lino,Atlético de Madrid,30000000
-Rodrigo Riquelme,Atlético de Madrid,25000000
-Ángel Correa,Atlético de Madrid,18000000
-Antoine Griezmann,Atlético de Madrid,25000000
-Álex Remiro,Real Sociedad,25000000
-Unai Marrero,Real Sociedad,300000
-Igor Zubeldia,Real Sociedad,22000000
-Jon Pacheco,Real Sociedad,15000000
-Aritz Elustondo,Real Sociedad,5000000
-Aihen Muñoz,Real Sociedad,8000000
-Hamari Traoré,Real Sociedad,6000000
-Álvaro Odriozola,Real Sociedad,1500000
-Martín Zubimendi,Real Sociedad,60000000
-Urko González de Zarate,Real Sociedad,1200000
-Beñat Turrientes,Real Sociedad,20000000
-Jon Ander Olasagasti,Real Sociedad,1200000
-Brais Méndez,Real Sociedad,40000000
-Arsen Zakharyan,Real Sociedad,18000000
-Ander Barrenetxea,Real Sociedad,20000000
-Sheraldo Becker,Real Sociedad,7500000
-Takefusa Kubo,Real Sociedad,50000000
-Mikel Oyarzabal,Real Sociedad,40000000
-Umar Sadiq,Real Sociedad,6000000
-Unai Simón,Athletic Bilbao,30000000
-Julen Agirrezabala,Athletic Bilbao,10000000
-Dani Vivian,Athletic Bilbao,30000000
-Aitor Paredes,Athletic Bilbao,22000000
-Yeray Álvarez,Athletic Bilbao,8000000
-Yuri Berchiche,Athletic Bilbao,1800000
-Iñigo Lekue,Athletic Bilbao,3000000
-Óscar de Marcos,Athletic Bilbao,1500000
-Mikel Vesga,Athletic Bilbao,4000000
-Beñat Prados,Athletic Bilbao,15000000
-Iñigo Ruiz de Galarreta,Athletic Bilbao,5000000
-Ander Herrera,Athletic Bilbao,2000000
-Oihan Sancet,Athletic Bilbao,40000000
-Unai Gómez,Athletic Bilbao,6000000
-Nico Williams,Athletic Bilbao,70000000
-Álex Berenguer,Athletic Bilbao,12000000
-Iñaki Williams,Athletic Bilbao,25000000
-Gorka Guruzeta,Athletic Bilbao,18000000
-Jaume Doménech,Valencia CF,800000
-Cristhian Mosquera,Valencia CF,30000000
-Yarek Gasiorowski,Valencia CF,15000000
-Mouctar Diakhaby,Valencia CF,2000000
-José Gayà,Valencia CF,20000000
-Jesús Vázquez,Valencia CF,4000000
-Thierry Correia,Valencia CF,6000000
-Dimitri Foulquier,Valencia CF,2500000
-Pepelu,Valencia CF,22000000
-Hugo Guillamón,Valencia CF,8000000
-Javi Guerra,Valencia CF,20000000
-André Almeida,Valencia CF,15000000
-Diego López,Valencia CF,12000000
-Fran Pérez,Valencia CF,6000000
-Sergi Canós,Valencia CF,2500000
-Hugo Duro,Valencia CF,16000000
-Iker Álvarez,Villarreal CF,800000
-Eric Bailly,Villarreal CF,3000000
-Raúl Albiol,Villarreal CF,1500000
-Alfonso Pedraza,Villarreal CF,5000000
-Juan Foyth,Villarreal CF,12000000
-Kiko Femenía,Villarreal CF,1400000
-Ramón Terrats,Villarreal CF,4000000
-Santi Comesaña,Villarreal CF,8000000
-Dani Parejo,Villarreal CF,2500000
-Denis Suárez,Villarreal CF,1500000
-Álex Baena,Villarreal CF,50000000
-Yéremy Pino,Villarreal CF,30000000
-Ilias Akhomach,Villarreal CF,15000000
-Gerard Moreno,Villarreal CF,10000000
-Paulo Gazzaniga,Girona FC,4000000
-Juan Carlos,Girona FC,200000
-Daley Blind,Girona FC,3000000
-David López,Girona FC,2500000
-Juanpe,Girona FC,1000000
-Miguel Gutiérrez,Girona FC,25000000
-Arnau Martínez,Girona FC,10000000
-Yangel Herrera,Girona FC,25000000
-Jhon Solís,Girona FC,4000000
-Iván Martín,Girona FC,15000000
-Viktor Tsygankov,Girona FC,30000000
-Portu,Girona FC,3500000
-Cristhian Stuani,Girona FC,1800000
-Rui Silva,Real Betis Balompié,8000000
-Marc Bartra,Real Betis Balompié,1000000
-Héctor Bellerín,Real Betis Balompié,4000000
-Youssouf Sabaly,Real Betis Balompié,2500000
-Johnny Cardoso,Real Betis Balompié,20000000
-William Carvalho,Real Betis Balompié,3000000
-Sergi Altimira,Real Betis Balompié,3500000
-Pablo Fornals,Real Betis Balompié,14000000
-Isco,Real Betis Balompié,8000000
-Abde Ezzalzouli,Real Betis Balompié,12000000
-Assane Diao,Real Betis Balompié,12000000
-Aitor Ruibal,Real Betis Balompié,3500000
-Chimy Ávila,Real Betis Balompié,3000000
-Cédric Bakambu,Real Betis Balompié,2500000
-Ørjan Nyland,Sevilla FC,1400000
-Loïc Badé,Sevilla FC,20000000
-Kike Salas,Sevilla FC,8000000
-Marcão,Sevilla FC,4000000
-Tanguy Nianzou,Sevilla FC,3000000
-Adrià Pedrosa,Sevilla FC,6000000
-Juanlu Sánchez,Sevilla FC,15000000
-Nemanja Gudelj,Sevilla FC,3500000
-Djibril Sow,Sevilla FC,7500000
-Manu Bueno,Sevilla FC,500000
-Stanis Idumbo,Sevilla FC,800000
-Dodi Lukébakio,Sevilla FC,12000000
-Suso,Sevilla FC,3000000
-Isaac Romero,Sevilla FC,18000000
-Álvaro Valles,UD Las Palmas,7500000
-Mika Mármol,UD Las Palmas,15000000
-Alex Suárez,UD Las Palmas,1200000
-Juanma Herzog,UD Las Palmas,1000000
-Daley Sinkgraven,UD Las Palmas,1000000
-Enzo Loiodice,UD Las Palmas,4000000
-Javi Muñoz,UD Las Palmas,3000000
-José Campaña,UD Las Palmas,1500000
-Fabio González,UD Las Palmas,500000
-Alberto Moleiro,UD Las Palmas,20000000
-Kirian Rodríguez,UD Las Palmas,12000000
-Pejiño,UD Las Palmas,1200000
-Benito Ramírez,UD Las Palmas,600000
-Sandro Ramírez,UD Las Palmas,1500000
-Marc Cardona,UD Las Palmas,1400000
-Sergio Herrera,CA Osasuna,6000000
-Aitor Fernández,CA Osasuna,1800000
-Jorge Herrando,CA Osasuna,6000000
-Alejandro Catena,CA Osasuna,4000000
-Unai García,CA Osasuna,1200000
-Juan Cruz,CA Osasuna,2200000
-Jesús Areso,CA Osasuna,7500000
-Rubén Peña,CA Osasuna,2200000
-Iker Muñoz,CA Osasuna,5000000
-Lucas Torró,CA Osasuna,4000000
-Jon Moncayola,CA Osasuna,7000000
-Pablo Ibáñez,CA Osasuna,2500000
-Aimar Oroz,CA Osasuna,15000000
-Moi Gómez,CA Osasuna,3500000
-José Manuel Arnáiz,CA Osasuna,2000000
-Rubén García,CA Osasuna,2500000
-Kike Barja,CA Osasuna,2000000
-Ante Budimir,CA Osasuna,5000000
-Raúl García,CA Osasuna,4000000
-Dominik Greif,RCD Mallorca,4000000
-Iván Cuéllar,RCD Mallorca,100000
-Martin Valjent,RCD Mallorca,6000000
-José Copete,RCD Mallorca,2800000
-Siebe Van der Heyden,RCD Mallorca,2000000
-Antonio Raíllo,RCD Mallorca,2000000
-Toni Lato,RCD Mallorca,3500000
-Pablo Maffeo,RCD Mallorca,5000000
-Samú Costa,RCD Mallorca,12000000
-Omar Mascarell,RCD Mallorca,1000000
-Sergi Darder,RCD Mallorca,6000000
-Manu Morlanes,RCD Mallorca,2500000
-Antonio Sánchez,RCD Mallorca,2500000
-Dani Rodríguez,RCD Mallorca,1000000
-Javi Llabrés,RCD Mallorca,700000
-Vedat Muriqi,RCD Mallorca,12000000
-Cyle Larin,RCD Mallorca,4000000
-Abdón Prats,RCD Mallorca,1800000
-Antonio Sivera,Deportivo Alavés,6000000
-Jesús Owono,Deportivo Alavés,1000000
-Abdel Abqar,Deportivo Alavés,7500000
-Adrián Pica,Deportivo Alavés,500000
-Aleksandar Sedlar,Deportivo Alavés,400000
-Nahuel Tenaglia,Deportivo Alavés,2500000
-Antonio Blanco,Deportivo Alavés,7500000
-Carlos Protesoni,Deportivo Alavés,1500000
-Ander Guevara,Deportivo Alavés,5000000
-Jon Guridi,Deportivo Alavés,5000000
-Abde Rebbach,Deportivo Alavés,800000
-Carlos Vicente,Deportivo Alavés,8000000
-Kike García,Deportivo Alavés,1000000
-Iván Villar,Celta de Vigo,1200000
-Vicente Guaita,Celta de Vigo,800000
-Carl Starfelt,Celta de Vigo,6000000
-Joseph Aidoo,Celta de Vigo,3000000
-Carlos Domínguez,Celta de Vigo,3000000
-Mihailo Ristic,Celta de Vigo,1000000
-Óscar Mingueza,Celta de Vigo,12000000
-Javier Manquillo,Celta de Vigo,1800000
-Jailson,Celta de Vigo,1500000
-Fran Beltrán,Celta de Vigo,6000000
-Luca de la Torre,Celta de Vigo,3000000
-Hugo Sotelo,Celta de Vigo,2500000
-Jonathan Bamba,Celta de Vigo,6000000
-Williot Swedberg,Celta de Vigo,5000000
-Franco Cervi,Celta de Vigo,1000000
-Tadeo Allende,Celta de Vigo,3000000
-Anastasios Douvikas,Celta de Vigo,6000000
-Iago Aspas,Celta de Vigo,3000000
-Joan García,RCD Espanyol Barcelona,10000000
-Fernando Pacheco,RCD Espanyol Barcelona,1000000
-Fernando Calero,RCD Espanyol Barcelona,1800000
-Leandro Cabrera,RCD Espanyol Barcelona,1200000
-Sergi Gómez,RCD Espanyol Barcelona,1000000
-Brian Oliván,RCD Espanyol Barcelona,2500000
-Omar El Hilali,RCD Espanyol Barcelona,3000000
-Álvaro Aguado,RCD Espanyol Barcelona,2800000
-José Gragera,RCD Espanyol Barcelona,2500000
-Edu Expósito,RCD Espanyol Barcelona,2000000
-Pol Lozano,RCD Espanyol Barcelona,2000000
-Javi Puado,RCD Espanyol Barcelona,8000000
-Pere Milla,RCD Espanyol Barcelona,2000000
-Jofre Carreras,RCD Espanyol Barcelona,2500000
-Salvi Sánchez,RCD Espanyol Barcelona,1200000
-Omar Sadik,RCD Espanyol Barcelona,300000
-David Soria,Getafe CF,5000000
-Omar Alderete,Getafe CF,5000000
-Djené,Getafe CF,2500000
-Domingos Duarte,Getafe CF,1000000
-Fabrizio Angileri,Getafe CF,1000000
-Juan Iglesias,Getafe CF,2800000
-Mauro Arambarri,Getafe CF,5000000
-Luis Milla,Getafe CF,3500000
-Carles Aleñá,Getafe CF,3000000
-Yellu Santiago,Getafe CF,1000000
-John Patrick,Getafe CF,200000
-Alberto Risco,Getafe CF,200000
-Borja Mayoral,Getafe CF,15000000
-Dani Cárdenas,Rayo Vallecano,1800000
-Abdul Mumin,Rayo Vallecano,4000000
-Florian Lejeune,Rayo Vallecano,3000000
-Aridane Hernández,Rayo Vallecano,500000
-Alfonso Espino,Rayo Vallecano,2400000
-Pep Chavarría,Rayo Vallecano,2000000
-Andrei Rațiu,Rayo Vallecano,4000000
-Iván Balliu,Rayo Vallecano,2000000
-Óscar Valentín,Rayo Vallecano,4000000
-Unai López,Rayo Vallecano,3000000
-Pathé Ciss,Rayo Vallecano,2500000
-Randy Nteka,Rayo Vallecano,1500000
-Oscar Trejo,Rayo Vallecano,1000000
-Álvaro García,Rayo Vallecano,3000000
-Isi Palazón,Rayo Vallecano,8000000
-Jorge de Frutos,Rayo Vallecano,4000000
-Sergio Camello,Rayo Vallecano,4000000
-Raúl de Tomás,Rayo Vallecano,1000000
-Sergio González,CD Leganés,1800000
-Jorge Sáenz,CD Leganés,1500000
-Yvan Neyou,CD Leganés,2000000
-Julián Chicco,CD Leganés,1000000
-Seydouba Cissé,CD Leganés,2000000
-Darko Brasanac,CD Leganés,1400000
-Dani Raba,CD Leganés,2200000
-Diego García,CD Leganés,2000000
-Javi Sánchez,Real Valladolid CF,1500000
-David Torres,Real Valladolid CF,1000000
-Luis Pérez,Real Valladolid CF,2000000
-Lucas Rosa,Real Valladolid CF,2000000
-César de la Hoz,Real Valladolid CF,500000
-Anuar,Real Valladolid CF,900000
-Kenedy,Real Valladolid CF,1000000
-Iván Sánchez,Real Valladolid CF,1000000
-Mamadou Sylla,Real Valladolid CF,1500000
-Marcos André,Real Valladolid CF,1500000
+Player,Club,Market Value,TmPictureLink
+Thibaut Courtois,Real Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/108390-1717280733.jpg?lm=1
+Andriy Lunin,Real Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/404839-1701294131.jpg?lm=1
+Éder Militão,Real Madrid,60000000,https://img.a.transfermarkt.technology/portrait/medium/401530-1719653438.jpg?lm=1
+Antonio Rüdiger,Real Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/86202-1684484602.jpg?lm=1
+David Alaba,Real Madrid,15000000,https://img.a.transfermarkt.technology/portrait/medium/59016-1684921582.jpeg?lm=1
+Jesús Vallejo,Real Madrid,1000000,https://img.a.transfermarkt.technology/portrait/medium/251896-1684241186.jpg?lm=1
+Raúl Asencio,Real Madrid,300000,https://img.a.transfermarkt.technology/portrait/medium/935245-1731168094.jpg?lm=1
+Ferland Mendy,Real Madrid,22000000,https://img.a.transfermarkt.technology/portrait/medium/291417-1701294025.jpg?lm=1
+Fran García,Real Madrid,15000000,https://img.a.transfermarkt.technology/portrait/medium/341264-1688119965.jpg?lm=1
+Daniel Carvajal,Real Madrid,12000000,https://img.a.transfermarkt.technology/portrait/medium/138927-1721026790.jpg?lm=1
+Lucas Vázquez,Real Madrid,4000000,https://img.a.transfermarkt.technology/portrait/medium/221316-1536655786.jpg?lm=1
+Aurélien Tchouaméni,Real Madrid,100000000,https://img.a.transfermarkt.technology/portrait/medium/413112-1668500754.jpg?lm=1
+Federico Valverde,Real Madrid,130000000,https://img.a.transfermarkt.technology/portrait/medium/369081-1731018042.jpg?lm=1
+Eduardo Camavinga,Real Madrid,100000000,https://img.a.transfermarkt.technology/portrait/medium/640428-1668500874.jpg?lm=1
+Luka Modric,Real Madrid,6000000,https://img.a.transfermarkt.technology/portrait/medium/27992-1687776160.jpg?lm=1
+Dani Ceballos,Real Madrid,4000000,https://img.a.transfermarkt.technology/portrait/medium/319745-1723666162.jpg?lm=1
+Jude Bellingham,Real Madrid,180000000,https://img.a.transfermarkt.technology/portrait/medium/581678-1693987944.jpg?lm=1
+Brahim Díaz,Real Madrid,40000000,https://img.a.transfermarkt.technology/portrait/medium/314678-1632307989.jpg?lm=1
+Vinicius Junior,Real Madrid,200000000,https://img.a.transfermarkt.technology/portrait/medium/371998-1664869583.jpg?lm=1
+Rodrygo,Real Madrid,110000000,https://img.a.transfermarkt.technology/portrait/medium/412363-1693988167.jpg?lm=1
+Arda Güler,Real Madrid,45000000,https://img.a.transfermarkt.technology/portrait/medium/861410-1699472585.jpg?lm=1
+Kylian Mbappé,Real Madrid,180000000,https://img.a.transfermarkt.technology/portrait/medium/342229-1682683695.jpg?lm=1
+Endrick,Real Madrid,60000000,https://img.a.transfermarkt.technology/portrait/medium/971570-1723665994.jpg?lm=1
+Marc-André ter Stegen,FC Barcelona,20000000,https://img.a.transfermarkt.technology/portrait/medium/74857-1674465246.jpg?lm=1
+Iñaki Peña,FC Barcelona,8000000,https://img.a.transfermarkt.technology/portrait/medium/283170-1702502364.jpg?lm=1
+Wojciech Szczęsny,FC Barcelona,3000000,https://img.a.transfermarkt.technology/portrait/medium/44058-1595847517.jpg?lm=1
+Ander Astralaga,FC Barcelona,1000000,https://img.a.transfermarkt.technology/portrait/medium/709955-1683023993.jpg?lm=1
+Ronald Araujo,FC Barcelona,70000000,https://img.a.transfermarkt.technology/portrait/medium/480267-1701118351.jpg?lm=1
+Pau Cubarsí,FC Barcelona,40000000,https://img.a.transfermarkt.technology/portrait/medium/962110-1712779232.jpg?lm=1
+Andreas Christensen,FC Barcelona,30000000,https://img.a.transfermarkt.technology/portrait/medium/196948-1668183241.jpg?lm=1
+Eric García,FC Barcelona,20000000,https://img.a.transfermarkt.technology/portrait/medium/466794-1693604801.jpg?lm=1
+Iñigo Martínez,FC Barcelona,5000000,https://img.a.transfermarkt.technology/portrait/medium/158863-1730119186.jpg?lm=1
+Sergi Domínguez,FC Barcelona,1000000,https://img.a.transfermarkt.technology/portrait/medium/741258-1699372417.jpg?lm=1
+Alejandro Balde,FC Barcelona,40000000,https://img.a.transfermarkt.technology/portrait/medium/636688-1662836200.jpg?lm=1
+Gerard Martín,FC Barcelona,3000000,https://img.a.transfermarkt.technology/portrait/medium/705395-1730119053.jpg?lm=1
+Jules Koundé,FC Barcelona,55000000,https://img.a.transfermarkt.technology/portrait/medium/411975-1702502639.jpg?lm=1
+Héctor Fort,FC Barcelona,10000000,https://img.a.transfermarkt.technology/portrait/medium/937955-1702504973.jpg?lm=1
+Marc Casadó,FC Barcelona,15000000,https://img.a.transfermarkt.technology/portrait/medium/636695-1729771427.jpg?lm=1
+Marc Bernal,FC Barcelona,5000000,https://img.a.transfermarkt.technology/portrait/medium/1018920-1724052540.jpg?lm=1
+Gavi,FC Barcelona,90000000,https://img.a.transfermarkt.technology/portrait/medium/646740-1682685701.jpg?lm=1
+Pedri,FC Barcelona,80000000,https://img.a.transfermarkt.technology/portrait/medium/683840-1620304992.jpg?lm=1
+Frenkie de Jong,FC Barcelona,60000000,https://img.a.transfermarkt.technology/portrait/medium/326330-1656499973.png?lm=1
+Fermín López,FC Barcelona,50000000,https://img.a.transfermarkt.technology/portrait/medium/636703-1698086824.jpg?lm=1
+Dani Olmo,FC Barcelona,60000000,https://img.a.transfermarkt.technology/portrait/medium/293385-1711546268.jpg?lm=1
+Pablo Torre,FC Barcelona,5000000,https://img.a.transfermarkt.technology/portrait/medium/720038-1724406086.jpg?lm=1
+Raphinha,FC Barcelona,60000000,https://img.a.transfermarkt.technology/portrait/medium/411295-1729754479.png?lm=1
+Ansu Fati,FC Barcelona,15000000,https://img.a.transfermarkt.technology/portrait/medium/466810-1721828228.jpg?lm=1
+Lamine Yamal,FC Barcelona,150000000,https://img.a.transfermarkt.technology/portrait/medium/937958-1720606123.jpg?lm=1
+Ferran Torres,FC Barcelona,30000000,https://img.a.transfermarkt.technology/portrait/medium/398184-1699383547.jpg?lm=1
+Robert Lewandowski,FC Barcelona,15000000,https://img.a.transfermarkt.technology/portrait/medium/38253-1701118759.jpg?lm=1
+Pau Víctor,FC Barcelona,5000000,https://img.a.transfermarkt.technology/portrait/medium/707572-1724052852.jpg?lm=1
+Jan Oblak,Atlético de Madrid,28000000,https://img.a.transfermarkt.technology/portrait/medium/121483-1719350076.jpg?lm=1
+Juan Musso,Atlético de Madrid,5000000,https://img.a.transfermarkt.technology/portrait/medium/242359-1663583047.jpg?lm=1
+Robin Le Normand,Atlético de Madrid,40000000,https://img.a.transfermarkt.technology/portrait/medium/351809-1707948228.jpg?lm=1
+José María Giménez,Atlético de Madrid,22000000,https://img.a.transfermarkt.technology/portrait/medium/250845-1664970029.jpg?lm=1
+Clément Lenglet,Atlético de Madrid,5000000,https://img.a.transfermarkt.technology/portrait/medium/182904-1599988301.jpg?lm=1
+Axel Witsel,Atlético de Madrid,3500000,https://img.a.transfermarkt.technology/portrait/medium/35047-1665067807.jpg?lm=1
+César Azpilicueta,Atlético de Madrid,2000000,https://img.a.transfermarkt.technology/portrait/medium/57500-1668169250.jpg?lm=1
+Reinildo Mandava,Atlético de Madrid,9000000,https://img.a.transfermarkt.technology/portrait/medium/240692-1666818500.jpg?lm=1
+Javi Galán,Atlético de Madrid,5000000,https://img.a.transfermarkt.technology/portrait/medium/448628-1706112804.jpg?lm=1
+Nahuel Molina,Atlético de Madrid,28000000,https://img.a.transfermarkt.technology/portrait/medium/424042-1697037362.jpg?lm=1
+Conor Gallagher,Atlético de Madrid,50000000,https://img.a.transfermarkt.technology/portrait/medium/488362-1668500476.jpg?lm=1
+Rodrigo De Paul,Atlético de Madrid,30000000,https://img.a.transfermarkt.technology/portrait/medium/255901-1712816368.jpg?lm=1
+Pablo Barrios,Atlético de Madrid,30000000,https://img.a.transfermarkt.technology/portrait/medium/775605-1699431384.jpg?lm=1
+Koke,Atlético de Madrid,12000000,https://img.a.transfermarkt.technology/portrait/medium/74229-1664970397.jpg?lm=1
+Marcos Llorente,Atlético de Madrid,30000000,https://img.a.transfermarkt.technology/portrait/medium/282411-1684159821.jpg?lm=1
+Thomas Lemar,Atlético de Madrid,7500000,https://img.a.transfermarkt.technology/portrait/medium/205562-1686662075.jpg?lm=1
+Samuel Lino,Atlético de Madrid,30000000,https://img.a.transfermarkt.technology/portrait/medium/694928-1695982815.jpg?lm=1
+Rodrigo Riquelme,Atlético de Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/461617-1701212385.jpg?lm=1
+Marcos Paulo,Atlético de Madrid,1000000,https://img.a.transfermarkt.technology/portrait/medium/612496-1558041274.png?lm=1
+Ángel Correa,Atlético de Madrid,18000000,https://img.a.transfermarkt.technology/portrait/medium/266807-1701212448.jpg?lm=1
+Giuliano Simeone,Atlético de Madrid,3000000,https://img.a.transfermarkt.technology/portrait/medium/742201-1644567976.jpg?lm=1
+Julián Alvarez,Atlético de Madrid,75000000,https://img.a.transfermarkt.technology/portrait/medium/576024-1684920938.jpg?lm=1
+Antoine Griezmann,Atlético de Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/125781-1719928503.jpg?lm=1
+Alexander Sørloth,Atlético de Madrid,25000000,https://img.a.transfermarkt.technology/portrait/medium/238407-1716403969.jpg?lm=1
+Borja Garcés,Atlético de Madrid,2000000,https://img.a.transfermarkt.technology/portrait/medium/566036-1635147184.jpg?lm=1
+Álex Remiro,Real Sociedad,25000000,https://img.a.transfermarkt.technology/portrait/medium/212862-1694594210.jpg?lm=1
+Unai Marrero,Real Sociedad,300000,https://img.a.transfermarkt.technology/portrait/medium/625657-1692370133.jpg?lm=1
+Nayef Aguerd,Real Sociedad,35000000,https://img.a.transfermarkt.technology/portrait/medium/361914-1659355782.jpg?lm=1
+Igor Zubeldia,Real Sociedad,22000000,https://img.a.transfermarkt.technology/portrait/medium/355628-1664974849.jpg?lm=1
+Jon Pacheco,Real Sociedad,15000000,https://img.a.transfermarkt.technology/portrait/medium/580560-1631178086.jpg?lm=1
+Aritz Elustondo,Real Sociedad,5000000,https://img.a.transfermarkt.technology/portrait/medium/229804-1664970965.jpg?lm=1
+Jon Martín,Real Sociedad,2000000,https://img.a.transfermarkt.technology/portrait/medium/1018938-1732794896.png?lm=1
+Aihen Muñoz,Real Sociedad,8000000,https://img.a.transfermarkt.technology/portrait/medium/517842-1699007158.jpg?lm=1
+Javi López,Real Sociedad,7500000,https://img.a.transfermarkt.technology/portrait/medium/568158-1647530894.jpg?lm=1
+Hamari Traoré,Real Sociedad,6000000,https://img.a.transfermarkt.technology/portrait/medium/297070-1664981394.jpg?lm=1
+Jon Aramburu,Real Sociedad,5000000,https://img.a.transfermarkt.technology/portrait/medium/661145-1719915615.jpg?lm=1
+Álvaro Odriozola,Real Sociedad,1500000,https://img.a.transfermarkt.technology/portrait/medium/280730-1579598607.jpg?lm=1
+Martín Zubimendi,Real Sociedad,60000000,https://img.a.transfermarkt.technology/portrait/medium/423440-1684149419.jpg?lm=1
+Urko González de Zarate,Real Sociedad,1200000,https://img.a.transfermarkt.technology/portrait/medium/625651-1694171507.jpg?lm=1
+Beñat Turrientes,Real Sociedad,20000000,https://img.a.transfermarkt.technology/portrait/medium/634431-1702416501.jpg?lm=1
+Luka Sucic,Real Sociedad,15000000,https://img.a.transfermarkt.technology/portrait/medium/502722-1692998699.png?lm=1
+Jon Ander Olasagasti,Real Sociedad,1200000,https://img.a.transfermarkt.technology/portrait/medium/625660-1695238891.jpg?lm=1
+Brais Méndez,Real Sociedad,40000000,https://img.a.transfermarkt.technology/portrait/medium/309110-1665057568.jpg?lm=1
+Arsen Zakharyan,Real Sociedad,18000000,https://img.a.transfermarkt.technology/portrait/medium/555143-1683292149.jpg?lm=1
+Pablo Marín,Real Sociedad,1500000,https://img.a.transfermarkt.technology/portrait/medium/907813-1683212131.jpg?lm=1
+Jon Magunazelaia,Real Sociedad,1000000,https://img.a.transfermarkt.technology/portrait/medium/625655-1707947912.jpg?lm=1
+Ander Barrenetxea,Real Sociedad,20000000,https://img.a.transfermarkt.technology/portrait/medium/616369-1699472801.jpg?lm=1
+Sheraldo Becker,Real Sociedad,7500000,https://img.a.transfermarkt.technology/portrait/medium/188888-1692707512.jpg?lm=1
+Takefusa Kubo,Real Sociedad,50000000,https://img.a.transfermarkt.technology/portrait/medium/405398-1697110254.jpg?lm=1
+Sergio Gómez,Real Sociedad,10000000,https://img.a.transfermarkt.technology/portrait/medium/366930-1727678534.jpg?lm=1
+Mikel Oyarzabal,Real Sociedad,40000000,https://img.a.transfermarkt.technology/portrait/medium/351478-1599987229.jpg?lm=1
+Orri Óskarsson,Real Sociedad,20000000,https://img.a.transfermarkt.technology/portrait/medium/660438-1692090952.jpg?lm=1
+Umar Sadiq,Real Sociedad,6000000,https://img.a.transfermarkt.technology/portrait/medium/337715-1728040426.jpg?lm=1
+Unai Simón,Athletic Bilbao,30000000,https://img.a.transfermarkt.technology/portrait/medium/262396-1709674901.png?lm=1
+Julen Agirrezabala,Athletic Bilbao,10000000,https://img.a.transfermarkt.technology/portrait/medium/625014-1709674945.png?lm=1
+Álex Padilla,Athletic Bilbao,2000000,https://img.a.transfermarkt.technology/portrait/medium/834483-1709676711.png?lm=1
+Dani Vivian,Athletic Bilbao,30000000,https://img.a.transfermarkt.technology/portrait/medium/524000-1709674998.png?lm=1
+Aitor Paredes,Athletic Bilbao,22000000,https://img.a.transfermarkt.technology/portrait/medium/591916-1709675052.png?lm=1
+Yeray Álvarez,Athletic Bilbao,8000000,https://img.a.transfermarkt.technology/portrait/medium/255488-1709675129.png?lm=1
+Unai Núñez,Athletic Bilbao,7000000,https://img.a.transfermarkt.technology/portrait/medium/338285-1620308088.jpg?lm=1
+Yuri Berchiche,Athletic Bilbao,1800000,https://img.a.transfermarkt.technology/portrait/medium/61812-1709675167.png?lm=1
+Adama Boiro,Athletic Bilbao,1500000,https://img.a.transfermarkt.technology/portrait/medium/710671-1709677000.png?lm=1
+Andoni Gorosabel,Athletic Bilbao,5000000,https://img.a.transfermarkt.technology/portrait/medium/289255-1604301901.jpg?lm=1
+Iñigo Lekue,Athletic Bilbao,3000000,https://img.a.transfermarkt.technology/portrait/medium/255501-1709675295.png?lm=1
+Óscar de Marcos,Athletic Bilbao,1500000,https://img.a.transfermarkt.technology/portrait/medium/96718-1709675357.png?lm=1
+Mikel Vesga,Athletic Bilbao,4000000,https://img.a.transfermarkt.technology/portrait/medium/300168-1709675412.png?lm=1
+Beñat Prados,Athletic Bilbao,15000000,https://img.a.transfermarkt.technology/portrait/medium/625047-1709675858.png?lm=1
+Iñigo Ruiz de Galarreta,Athletic Bilbao,5000000,https://img.a.transfermarkt.technology/portrait/medium/126751-1709675810.png?lm=1
+Mikel Jauregizar,Athletic Bilbao,3000000,https://img.a.transfermarkt.technology/portrait/medium/938729-1709675994.png?lm=1
+Ander Herrera,Athletic Bilbao,2000000,https://img.a.transfermarkt.technology/portrait/medium/99343-1709675915.png?lm=1
+Oihan Sancet,Athletic Bilbao,40000000,https://img.a.transfermarkt.technology/portrait/medium/571020-1709676037.png?lm=1
+Unai Gómez,Athletic Bilbao,6000000,https://img.a.transfermarkt.technology/portrait/medium/834752-1709676122.png?lm=1
+Nico Williams,Athletic Bilbao,70000000,https://img.a.transfermarkt.technology/portrait/medium/709187-1709676169.png?lm=1
+Álvaro Djaló,Athletic Bilbao,15000000,https://img.a.transfermarkt.technology/portrait/medium/671649-1732115086.jpg?lm=1
+Álex Berenguer,Athletic Bilbao,12000000,https://img.a.transfermarkt.technology/portrait/medium/338425-1709676212.png?lm=1
+Nico Serrano,Athletic Bilbao,1400000,https://img.a.transfermarkt.technology/portrait/medium/668183-1731352737.png?lm=1
+Iñaki Williams,Athletic Bilbao,25000000,https://img.a.transfermarkt.technology/portrait/medium/255508-1709676323.png?lm=1
+Gorka Guruzeta,Athletic Bilbao,18000000,https://img.a.transfermarkt.technology/portrait/medium/340205-1709676375.png?lm=1
+Javier Martón,Athletic Bilbao,500000,https://img.a.transfermarkt.technology/portrait/medium/711394-1712568577.jpg?lm=1
+Giorgi Mamardashvili,Valencia CF,45000000,https://img.a.transfermarkt.technology/portrait/medium/502676-1716542116.jpg?lm=1
+Stole Dimitrievski,Valencia CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/165467-1541150592.jpg?lm=1
+Jaume Doménech,Valencia CF,800000,https://img.a.transfermarkt.technology/portrait/medium/227805-1447247048.jpg?lm=1
+Cristhian Mosquera,Valencia CF,30000000,https://img.a.transfermarkt.technology/portrait/medium/646750-1644238478.jpg?lm=1
+Yarek Gasiorowski,Valencia CF,15000000,https://img.a.transfermarkt.technology/portrait/medium/895334-1730461387.jpg?lm=1
+César Tárrega,Valencia CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/707274-1698963222.jpg?lm=1
+Maximiliano Caufriez,Valencia CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/369267-1679507795.jpg?lm=1
+Mouctar Diakhaby,Valencia CF,2000000,https://img.a.transfermarkt.technology/portrait/medium/346289-1709636432.jpg?lm=1
+José Gayà,Valencia CF,20000000,https://img.a.transfermarkt.technology/portrait/medium/221322-1605193468.jpg?lm=1
+Jesús Vázquez,Valencia CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/623024-1644238446.jpg?lm=1
+Thierry Correia,Valencia CF,6000000,https://img.a.transfermarkt.technology/portrait/medium/367466-1548510976.jpg?lm=1
+Dimitri Foulquier,Valencia CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/170472-1447230887.jpg?lm=1
+Pepelu,Valencia CF,22000000,https://img.a.transfermarkt.technology/portrait/medium/328480-1713971066.jpg?lm=1
+Hugo Guillamón,Valencia CF,8000000,https://img.a.transfermarkt.technology/portrait/medium/495629-1694617306.jpg?lm=1
+Enzo Barrenechea,Valencia CF,7500000,https://img.a.transfermarkt.technology/portrait/medium/671915-1695034257.jpg?lm=1
+Javi Guerra,Valencia CF,20000000,https://img.a.transfermarkt.technology/portrait/medium/834764-1696188716.jpg?lm=1
+André Almeida,Valencia CF,15000000,https://img.a.transfermarkt.technology/portrait/medium/375382-1547563680.png?lm=1
+Luis Rioja,Valencia CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/278837-1647530464.jpg?lm=1
+Diego López,Valencia CF,12000000,https://img.a.transfermarkt.technology/portrait/medium/617081-1683211924.jpg?lm=1
+Fran Pérez,Valencia CF,6000000,https://img.a.transfermarkt.technology/portrait/medium/622988-1683212780.jpg?lm=1
+Sergi Canós,Valencia CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/251845-1538466933.jpg?lm=1
+Germán Valera,Valencia CF,2000000,https://img.a.transfermarkt.technology/portrait/medium/548188-1588605205.jpg?lm=1
+Hugo Duro,Valencia CF,16000000,https://img.a.transfermarkt.technology/portrait/medium/573775-1683213249.jpg?lm=1
+Dani Gómez,Valencia CF,1200000,https://img.a.transfermarkt.technology/portrait/medium/422460-1603806732.jpg?lm=1
+Rafa Mir,Valencia CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/361254-1720020544.jpg?lm=1
+Luiz Júnior,Villarreal CF,6000000,https://img.a.transfermarkt.technology/portrait/medium/712107-1618227160.jpg?lm=1
+Diego Conde,Villarreal CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/341713-1669364743.jpg?lm=1
+Iker Álvarez,Villarreal CF,800000,https://img.a.transfermarkt.technology/portrait/medium/547248-1698946239.jpg?lm=1
+Logan Costa,Villarreal CF,18000000,https://img.a.transfermarkt.technology/portrait/medium/484988-1708555203.jpg?lm=1
+Willy Kambwala,Villarreal CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/780630-1705304426.jpg?lm=1
+Eric Bailly,Villarreal CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/286384-1696075364.png?lm=1
+Raúl Albiol,Villarreal CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/15452-1664974689.jpg?lm=1
+Sergi Cardona,Villarreal CF,7000000,https://img.a.transfermarkt.technology/portrait/medium/678406-1697540707.jpg?lm=1
+Alfonso Pedraza,Villarreal CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/356197-1620304916.jpg?lm=1
+Juan Bernat,Villarreal CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/126719-1672304606.jpg?lm=1
+Juan Foyth,Villarreal CF,12000000,https://img.a.transfermarkt.technology/portrait/medium/480763-1662668281.jpg?lm=1
+Kiko Femenía,Villarreal CF,1400000,https://img.a.transfermarkt.technology/portrait/medium/76467-1726231817.jpg?lm=1
+Pape Gueye,Villarreal CF,8000000,https://img.a.transfermarkt.technology/portrait/medium/485963-1604255792.jpg?lm=1
+Ramón Terrats,Villarreal CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/783396-1726231968.jpg?lm=1
+Santi Comesaña,Villarreal CF,8000000,https://img.a.transfermarkt.technology/portrait/medium/380598-1726231263.jpg?lm=1
+Dani Parejo,Villarreal CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/59561-1688725780.jpg?lm=1
+Denis Suárez,Villarreal CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/165007-1687272769.jpg?lm=1
+Álex Baena,Villarreal CF,50000000,https://img.a.transfermarkt.technology/portrait/medium/548111-1714487266.jpg?lm=1
+Yéremy Pino,Villarreal CF,30000000,https://img.a.transfermarkt.technology/portrait/medium/568157-1686664370.jpg?lm=1
+Ilias Akhomach,Villarreal CF,15000000,https://img.a.transfermarkt.technology/portrait/medium/709969-1636472170.jpg?lm=1
+Nicolas Pépé,Villarreal CF,9000000,https://img.a.transfermarkt.technology/portrait/medium/343052-1695671686.png?lm=1
+Thierno Barry,Villarreal CF,14000000,https://img.a.transfermarkt.technology/portrait/medium/937941-1659521750.jpg?lm=1
+Gerard Moreno,Villarreal CF,10000000,https://img.a.transfermarkt.technology/portrait/medium/177467-1726231623.jpg?lm=1
+Ayoze Pérez,Villarreal CF,10000000,https://img.a.transfermarkt.technology/portrait/medium/246968-1716803546.jpg?lm=1
+Pau López,Girona FC,7500000,https://img.a.transfermarkt.technology/portrait/medium/286415-1666815446.jpg?lm=1
+Paulo Gazzaniga,Girona FC,4000000,https://img.a.transfermarkt.technology/portrait/medium/195488-1544621003.jpg?lm=1
+Juan Carlos,Girona FC,200000,https://img.a.transfermarkt.technology/portrait/medium/120705-1567159334.jpg?lm=1
+Ladislav Krejci,Girona FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/345911-1716965804.jpg?lm=1
+Alejandro Francés,Girona FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/632896-1697808516.jpg?lm=1
+Daley Blind,Girona FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/12282-1718096647.jpg?lm=1
+David López,Girona FC,2500000,https://img.a.transfermarkt.technology/portrait/medium/129444-1448529645.jpg?lm=1
+Juanpe,Girona FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/115333-1510233713.jpg?lm=1
+Miguel Gutiérrez,Girona FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/525299-1702292659.jpg?lm=1
+Arnau Martínez,Girona FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/826224-1701444094.jpg?lm=1
+Oriol Romeu,Girona FC,2000000,https://img.a.transfermarkt.technology/portrait/medium/66100-1701118491.jpg?lm=1
+Yangel Herrera,Girona FC,25000000,https://img.a.transfermarkt.technology/portrait/medium/378293-1719230693.jpg?lm=1
+Donny van de Beek,Girona FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/288255-1642174403.jpg?lm=1
+Jhon Solís,Girona FC,4000000,https://img.a.transfermarkt.technology/portrait/medium/742521-1715882394.jpg?lm=1
+Iván Martín,Girona FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/341278-1703177977.jpg?lm=1
+Gabriel Misehouy,Girona FC,1000000,https://img.a.transfermarkt.technology/portrait/medium/646698-1683294176.jpg?lm=1
+Bryan Gil,Girona FC,14000000,https://img.a.transfermarkt.technology/portrait/medium/537382-1704812537.jpg?lm=1
+Arnaut Danjuma,Girona FC,13000000,https://img.a.transfermarkt.technology/portrait/medium/355861-1674657323.jpg?lm=1
+Viktor Tsygankov,Girona FC,30000000,https://img.a.transfermarkt.technology/portrait/medium/264372-1715881945.jpg?lm=1
+Yáser Asprilla,Girona FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/857818-1691597301.jpg?lm=1
+Portu,Girona FC,3500000,https://img.a.transfermarkt.technology/portrait/medium/99353-1669365520.jpg?lm=1
+Abel Ruiz,Girona FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/340376-1694617385.jpg?lm=1
+Bojan Miovski,Girona FC,4000000,https://img.a.transfermarkt.technology/portrait/medium/476219-1611947628.jpeg?lm=1
+Cristhian Stuani,Girona FC,1800000,https://img.a.transfermarkt.technology/portrait/medium/59323-1726736068.jpg?lm=1
+Rui Silva,Real Betis Balompié,8000000,https://img.a.transfermarkt.technology/portrait/medium/234811-1666770953.jpg?lm=1
+Adrián,Real Betis Balompié,600000,https://img.a.transfermarkt.technology/portrait/medium/71271-1687166366.jpg?lm=1
+Fran Vieites,Real Betis Balompié,500000,https://img.a.transfermarkt.technology/portrait/medium/551182-1701083106.jpg?lm=1
+Natan,Real Betis Balompié,12000000,https://img.a.transfermarkt.technology/portrait/medium/735568-1708553167.jpg?lm=1
+Diego Llorente,Real Betis Balompié,7000000,https://img.a.transfermarkt.technology/portrait/medium/246291-1675246130.jpg?lm=1
+Marc Bartra,Real Betis Balompié,1000000,https://img.a.transfermarkt.technology/portrait/medium/99922-1724053472.jpg?lm=1
+Romain Perraud,Real Betis Balompié,5000000,https://img.a.transfermarkt.technology/portrait/medium/318523-1582538263.jpg?lm=1
+Ricardo Rodríguez,Real Betis Balompié,3500000,https://img.a.transfermarkt.technology/portrait/medium/86784-1718216908.jpg?lm=1
+Héctor Bellerín,Real Betis Balompié,4000000,https://img.a.transfermarkt.technology/portrait/medium/191217-1676903202.jpg?lm=1
+Youssouf Sabaly,Real Betis Balompié,2500000,https://img.a.transfermarkt.technology/portrait/medium/135492-1532700291.jpg?lm=1
+Johnny Cardoso,Real Betis Balompié,20000000,https://img.a.transfermarkt.technology/portrait/medium/689505-1708953705.jpg?lm=1
+Marc Roca,Real Betis Balompié,9000000,https://img.a.transfermarkt.technology/portrait/medium/336869-1719579269.jpg?lm=1
+William Carvalho,Real Betis Balompié,3000000,https://img.a.transfermarkt.technology/portrait/medium/100131-1662113601.jpg?lm=1
+Giovani Lo Celso,Real Betis Balompié,20000000,https://img.a.transfermarkt.technology/portrait/medium/348795-1726734706.jpg?lm=1
+Sergi Altimira,Real Betis Balompié,3500000,https://img.a.transfermarkt.technology/portrait/medium/466801-1676910380.png?lm=1
+Pablo Fornals,Real Betis Balompié,14000000,https://img.a.transfermarkt.technology/portrait/medium/357885-1714124764.jpg?lm=1
+Isco,Real Betis Balompié,8000000,https://img.a.transfermarkt.technology/portrait/medium/85288-1699613327.jpg?lm=1
+Abde Ezzalzouli,Real Betis Balompié,12000000,https://img.a.transfermarkt.technology/portrait/medium/724520-1636969902.jpg?lm=1
+Juanmi,Real Betis Balompié,6000000,https://img.a.transfermarkt.technology/portrait/medium/126737-1653043231.jpg?lm=1
+Assane Diao,Real Betis Balompié,12000000,https://img.a.transfermarkt.technology/portrait/medium/1061282-1699273116.jpg?lm=1
+Aitor Ruibal,Real Betis Balompié,3500000,https://img.a.transfermarkt.technology/portrait/medium/378139-1583334036.jpg?lm=1
+Iker Losada,Real Betis Balompié,1800000,https://img.a.transfermarkt.technology/portrait/medium/632741-1569337955.jpg?lm=1
+Vitor Roque,Real Betis Balompié,30000000,https://img.a.transfermarkt.technology/portrait/medium/943837-1704703716.jpg?lm=1
+Chimy Ávila,Real Betis Balompié,3000000,https://img.a.transfermarkt.technology/portrait/medium/167721-1708949836.jpg?lm=1
+Cédric Bakambu,Real Betis Balompié,2500000,https://img.a.transfermarkt.technology/portrait/medium/127048-1563441766.jpg?lm=1
+Álvaro Fernández,Sevilla FC,2500000,https://img.a.transfermarkt.technology/portrait/medium/453704-1694431085.jpg?lm=1
+Ørjan Nyland,Sevilla FC,1400000,https://img.a.transfermarkt.technology/portrait/medium/73517-1532082757.jpg?lm=1
+Loïc Badé,Sevilla FC,20000000,https://img.a.transfermarkt.technology/portrait/medium/730581-1681464974.jpg?lm=1
+Kike Salas,Sevilla FC,8000000,https://img.a.transfermarkt.technology/portrait/medium/766583-1647594742.png?lm=1
+Marcão,Sevilla FC,4000000,https://img.a.transfermarkt.technology/portrait/medium/439022-1681476532.jpg?lm=1
+Tanguy Nianzou,Sevilla FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/538996-1681463642.jpg?lm=1
+Valentín Barco,Sevilla FC,10000000,https://img.a.transfermarkt.technology/portrait/medium/849410-1683292377.jpg?lm=1
+Adrià Pedrosa,Sevilla FC,6000000,https://img.a.transfermarkt.technology/portrait/medium/501418-1583506190.jpg?lm=1
+Juanlu Sánchez,Sevilla FC,15000000,https://img.a.transfermarkt.technology/portrait/medium/676042-1695240552.jpg?lm=1
+Gonzalo Montiel,Sevilla FC,8000000,https://img.a.transfermarkt.technology/portrait/medium/402733-1668181612.jpg?lm=1
+José Ángel Carmona,Sevilla FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/711625-1696862897.jpg?lm=1
+Jesús Navas,Sevilla FC,2500000,https://img.a.transfermarkt.technology/portrait/medium/15956-1694503739.jpg?lm=1
+Lucien Agoumé,Sevilla FC,6000000,https://img.a.transfermarkt.technology/portrait/medium/569384-1656577561.jpg?lm=1
+Nemanja Gudelj,Sevilla FC,3500000,https://img.a.transfermarkt.technology/portrait/medium/74294-1718893660.jpg?lm=1
+Albert Sambi Lokonga,Sevilla FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/381967-1678466372.jpg?lm=1
+Djibril Sow,Sevilla FC,7500000,https://img.a.transfermarkt.technology/portrait/medium/212723-1663065652.jpg?lm=1
+Saúl Ñíguez,Sevilla FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/148928-1648555027.jpg?lm=1
+Manu Bueno,Sevilla FC,500000,https://img.a.transfermarkt.technology/portrait/medium/766723-1702412015.jpg?lm=1
+Pedro Ortiz,Sevilla FC,400000,https://img.a.transfermarkt.technology/portrait/medium/610238-1540334775.jpg?lm=1
+Stanis Idumbo,Sevilla FC,800000,https://img.a.transfermarkt.technology/portrait/medium/743387-1652692759.jpg?lm=1
+Chidera Ejuke,Sevilla FC,6000000,https://img.a.transfermarkt.technology/portrait/medium/500067-1706264992.jpg?lm=1
+Dodi Lukébakio,Sevilla FC,12000000,https://img.a.transfermarkt.technology/portrait/medium/303259-1657098989.jpg?lm=1
+Suso,Sevilla FC,3000000,https://img.a.transfermarkt.technology/portrait/medium/111961-1455551677.jpg?lm=1
+Peque Fernández,Sevilla FC,5000000,https://img.a.transfermarkt.technology/portrait/medium/639733-1615192753.jpg?lm=1
+Isaac Romero,Sevilla FC,18000000,https://img.a.transfermarkt.technology/portrait/medium/687609-1704970459.jpg?lm=1
+Kelechi Iheanacho,Sevilla FC,9000000,https://img.a.transfermarkt.technology/portrait/medium/295330-1617442598.jpg?lm=1
+Álvaro Valles,UD Las Palmas,7500000,https://img.a.transfermarkt.technology/portrait/medium/417913-1679083275.JPG?lm=1
+Dinko Horkas,UD Las Palmas,1200000,https://img.a.transfermarkt.technology/portrait/medium/357770-1690574730.png?lm=1
+Jasper Cillessen,UD Las Palmas,1000000,https://img.a.transfermarkt.technology/portrait/medium/146227-1660814229.jpg?lm=1
+Mika Mármol,UD Las Palmas,15000000,https://img.a.transfermarkt.technology/portrait/medium/617060-1638453788.jpg?lm=1
+Scott McKenna,UD Las Palmas,9000000,https://img.a.transfermarkt.technology/portrait/medium/255906-1718274297.jpg?lm=1
+Alex Suárez,UD Las Palmas,1200000,https://img.a.transfermarkt.technology/portrait/medium/510396-1702391032.jpg?lm=1
+Juanma Herzog,UD Las Palmas,1000000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Álex Muñoz,UD Las Palmas,1200000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Daley Sinkgraven,UD Las Palmas,1000000,https://img.a.transfermarkt.technology/portrait/medium/215099-1658913308.jpg?lm=1
+Marvin Park,UD Las Palmas,2000000,https://img.a.transfermarkt.technology/portrait/medium/603940-1718888602.jpg?lm=1
+Viti Rozada,UD Las Palmas,1500000,https://img.a.transfermarkt.technology/portrait/medium/438971-1702390831.jpg?lm=1
+Dário Essugo,UD Las Palmas,3500000,https://img.a.transfermarkt.technology/portrait/medium/670717-1616406134.jpg?lm=1
+Enzo Loiodice,UD Las Palmas,4000000,https://img.a.transfermarkt.technology/portrait/medium/581781-1539357288.jpg?lm=1
+Javi Muñoz,UD Las Palmas,3000000,https://img.a.transfermarkt.technology/portrait/medium/282421-1698852390.jpg?lm=1
+José Campaña,UD Las Palmas,1500000,https://img.a.transfermarkt.technology/portrait/medium/120095-1601644816.jpg?lm=1
+Fabio González,UD Las Palmas,500000,https://img.a.transfermarkt.technology/portrait/medium/531062-1701789610.jpg?lm=1
+Alberto Moleiro,UD Las Palmas,20000000,https://img.a.transfermarkt.technology/portrait/medium/733576-1701157946.jpg?lm=1
+Kirian Rodríguez,UD Las Palmas,12000000,https://img.a.transfermarkt.technology/portrait/medium/566574-1658407760.jpg?lm=1
+Iván Gil,UD Las Palmas,1000000,https://img.a.transfermarkt.technology/portrait/medium/611075-1698882995.jpg?lm=1
+Manu Fuster,UD Las Palmas,2400000,https://img.a.transfermarkt.technology/portrait/medium/511021-1683202707.jpg?lm=1
+Pejiño,UD Las Palmas,1200000,https://img.a.transfermarkt.technology/portrait/medium/534379-1630918134.jpg?lm=1
+Benito Ramírez,UD Las Palmas,600000,https://img.a.transfermarkt.technology/portrait/medium/282672-1658407951.jpg?lm=1
+Adnan Januzaj,UD Las Palmas,2000000,https://img.a.transfermarkt.technology/portrait/medium/177847-1685115304.png?lm=1
+Fábio Silva,UD Las Palmas,11000000,https://img.a.transfermarkt.technology/portrait/medium/505653-1723794084.png?lm=1
+Oli McBurnie,UD Las Palmas,4500000,https://img.a.transfermarkt.technology/portrait/medium/298477-1700672702.jpg?lm=1
+Sandro Ramírez,UD Las Palmas,1500000,https://img.a.transfermarkt.technology/portrait/medium/199369-1726230862.jpg?lm=1
+Marc Cardona,UD Las Palmas,1400000,https://img.a.transfermarkt.technology/portrait/medium/443222-1532074440.jpg?lm=1
+Jaime Mata,UD Las Palmas,900000,https://img.a.transfermarkt.technology/portrait/medium/227961-1530601381.jpg?lm=1
+Sergio Herrera,CA Osasuna,6000000,https://img.a.transfermarkt.technology/portrait/medium/248738-1732220099.jpg?lm=1
+Aitor Fernández,CA Osasuna,1800000,https://img.a.transfermarkt.technology/portrait/medium/118997-1683281584.jpg?lm=1
+Enzo Boyomo,CA Osasuna,10000000,https://img.a.transfermarkt.technology/portrait/medium/541555-1728038860.jpg?lm=1
+Jorge Herrando,CA Osasuna,6000000,https://img.a.transfermarkt.technology/portrait/medium/555500-1732219992.jpg?lm=1
+Alejandro Catena,CA Osasuna,4000000,https://img.a.transfermarkt.technology/portrait/medium/449796-1732220159.jpg?lm=1
+Unai García,CA Osasuna,1200000,https://img.a.transfermarkt.technology/portrait/medium/197122-1490623673.jpg?lm=1
+Abel Bretones,CA Osasuna,3000000,https://img.a.transfermarkt.technology/portrait/medium/658115-1690301272.jpg?lm=1
+Juan Cruz,CD Leganés,3000000,https://img.a.transfermarkt.technology/portrait/medium/585700-1667290065.jpg?lm=1
+Jesús Areso,CA Osasuna,7500000,https://img.a.transfermarkt.technology/portrait/medium/488626-1675800186.jpg?lm=1
+Rubén Peña,CA Osasuna,2200000,https://img.a.transfermarkt.technology/portrait/medium/238868-1490952343.jpg?lm=1
+Nacho Vidal,CA Osasuna,2000000,https://img.a.transfermarkt.technology/portrait/medium/216870-1510233362.jpg?lm=1
+Iker Muñoz,CA Osasuna,5000000,https://img.a.transfermarkt.technology/portrait/medium/710677-1697557434.jpg?lm=1
+Lucas Torró,CA Osasuna,4000000,https://img.a.transfermarkt.technology/portrait/medium/213670-1732219931.jpg?lm=1
+Jon Moncayola,CA Osasuna,7000000,https://img.a.transfermarkt.technology/portrait/medium/552425-1583310847.jpg?lm=1
+Pablo Ibáñez,CA Osasuna,2500000,https://img.a.transfermarkt.technology/portrait/medium/785353-1680676751.jpg?lm=1
+Aimar Oroz,CA Osasuna,15000000,https://img.a.transfermarkt.technology/portrait/medium/634131-1732220023.jpg?lm=1
+Javi Martínez,CA Osasuna,1200000,https://img.a.transfermarkt.technology/portrait/medium/471474-1694423354.png?lm=1
+Bryan Zaragoza,CA Osasuna,12000000,https://img.a.transfermarkt.technology/portrait/medium/713644-1714503809.jpg?lm=1
+Moi Gómez,CA Osasuna,3500000,https://img.a.transfermarkt.technology/portrait/medium/175449-1664970613.jpg?lm=1
+José Manuel Arnáiz,CA Osasuna,2000000,https://img.a.transfermarkt.technology/portrait/medium/364603-1732219584.jpg?lm=1
+Rubén García,CA Osasuna,2500000,https://img.a.transfermarkt.technology/portrait/medium/213260-1583310204.jpg?lm=1
+Kike Barja,CA Osasuna,2000000,https://img.a.transfermarkt.technology/portrait/medium/298575-1583310743.jpg?lm=1
+Iker Benito,CA Osasuna,800000,https://img.a.transfermarkt.technology/portrait/medium/710679-1732219683.jpg?lm=1
+Ante Budimir,CA Osasuna,5000000,https://img.a.transfermarkt.technology/portrait/medium/46413-1732219707.jpg?lm=1
+Raúl García,CA Osasuna,4000000,https://img.a.transfermarkt.technology/portrait/medium/631002-1614090749.jpg?lm=1
+Dominik Greif,RCD Mallorca,4000000,https://img.a.transfermarkt.technology/portrait/medium/316884-1581331466.png?lm=1
+Leo Román,RCD Mallorca,1800000,https://img.a.transfermarkt.technology/portrait/medium/562742-1648453168.jpg?lm=1
+Iván Cuéllar,RCD Mallorca,100000,https://img.a.transfermarkt.technology/portrait/medium/27493-1664289273.jpg?lm=1
+Martin Valjent,RCD Mallorca,6000000,https://img.a.transfermarkt.technology/portrait/medium/277384-1568027892.jpg?lm=1
+José Copete,RCD Mallorca,2800000,https://img.a.transfermarkt.technology/portrait/medium/520840-1674915512.JPG?lm=1
+Siebe Van der Heyden,RCD Mallorca,2000000,https://img.a.transfermarkt.technology/portrait/medium/400131-1642262598.jpg?lm=1
+Antonio Raíllo,RCD Mallorca,2000000,https://img.a.transfermarkt.technology/portrait/medium/278296-1447228780.jpg?lm=1
+Toni Lato,RCD Mallorca,3500000,https://img.a.transfermarkt.technology/portrait/medium/320271-1496906352.jpg?lm=1
+Johan Mojica,RCD Mallorca,2200000,https://img.a.transfermarkt.technology/portrait/medium/262939-1541161893.jpg?lm=1
+Pablo Maffeo,RCD Mallorca,5000000,https://img.a.transfermarkt.technology/portrait/medium/251876-1699449290.jpg?lm=1
+Mateu Morey,RCD Mallorca,800000,https://img.a.transfermarkt.technology/portrait/medium/388513-1661413734.jpg?lm=1
+Samú Costa,RCD Mallorca,12000000,https://img.a.transfermarkt.technology/portrait/medium/657430-1624028681.jpg?lm=1
+Omar Mascarell,RCD Mallorca,1000000,https://img.a.transfermarkt.technology/portrait/medium/142031-1531813358.jpg?lm=1
+Sergi Darder,RCD Mallorca,6000000,https://img.a.transfermarkt.technology/portrait/medium/142021-1664975574.jpg?lm=1
+Manu Morlanes,RCD Mallorca,2500000,https://img.a.transfermarkt.technology/portrait/medium/335225-1552044533.jpg?lm=1
+Antonio Sánchez,RCD Mallorca,2500000,https://img.a.transfermarkt.technology/portrait/medium/513031-1576533215.jpg?lm=1
+Robert Navarro,RCD Mallorca,6000000,https://img.a.transfermarkt.technology/portrait/medium/563137-1567246327.jpg?lm=1
+Dani Rodríguez,RCD Mallorca,1000000,https://img.a.transfermarkt.technology/portrait/medium/139435-1583332711.jpg?lm=1
+Chiquinho,RCD Mallorca,3000000,https://img.a.transfermarkt.technology/portrait/medium/695454-1641552728.png?lm=1
+Javi Llabrés,RCD Mallorca,700000,https://img.a.transfermarkt.technology/portrait/medium/706138-1702393291.jpg?lm=1
+Takuma Asano,RCD Mallorca,4000000,https://img.a.transfermarkt.technology/portrait/medium/245744-1657284052.jpg?lm=1
+Valery Fernández,RCD Mallorca,2500000,https://img.a.transfermarkt.technology/portrait/medium/331496-1715882117.jpg?lm=1
+Vedat Muriqi,RCD Mallorca,12000000,https://img.a.transfermarkt.technology/portrait/medium/256267-1627914833.jpg?lm=1
+Cyle Larin,RCD Mallorca,4000000,https://img.a.transfermarkt.technology/portrait/medium/343463-1720430112.jpg?lm=1
+Abdón Prats,RCD Mallorca,1800000,https://img.a.transfermarkt.technology/portrait/medium/177452-1696950061.jpg?lm=1
+Marc Domènech,RCD Mallorca,500000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Antonio Sivera,Deportivo Alavés,6000000,https://img.a.transfermarkt.technology/portrait/medium/298197-1713856039.jpg?lm=1
+Jesús Owono,Deportivo Alavés,1000000,https://img.a.transfermarkt.technology/portrait/medium/631693-1647530906.jpg?lm=1
+Adrián Rodríguez,Deportivo Alavés,150000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Abdel Abqar,Deportivo Alavés,7500000,https://img.a.transfermarkt.technology/portrait/medium/559979-1705337125.jpg?lm=1
+Santiago Mouriño,Deportivo Alavés,2000000,https://img.a.transfermarkt.technology/portrait/medium/953901-1691396102.jpg?lm=1
+Moussa Diarra,Deportivo Alavés,2000000,https://img.a.transfermarkt.technology/portrait/medium/694509-1708555512.jpg?lm=1
+Adrián Pica,Deportivo Alavés,500000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Aleksandar Sedlar,Deportivo Alavés,400000,https://img.a.transfermarkt.technology/portrait/medium/237499-1583331610.jpg?lm=1
+Manu Sánchez,Deportivo Alavés,6000000,https://img.a.transfermarkt.technology/portrait/medium/618809-1673281847.jpg?lm=1
+Nahuel Tenaglia,Deportivo Alavés,2500000,https://img.a.transfermarkt.technology/portrait/medium/533568-1647530141.jpg?lm=1
+Hugo Novoa,Deportivo Alavés,2500000,https://img.a.transfermarkt.technology/portrait/medium/668276-1606146927.jpg?lm=1
+Antonio Blanco,Deportivo Alavés,7500000,https://img.a.transfermarkt.technology/portrait/medium/495621-1705337231.jpg?lm=1
+Carlos Protesoni,Deportivo Alavés,1500000,https://img.a.transfermarkt.technology/portrait/medium/431190-1635923163.JPG?lm=1
+Ander Guevara,Deportivo Alavés,5000000,https://img.a.transfermarkt.technology/portrait/medium/465967-1705338008.jpg?lm=1
+Jon Guridi,Deportivo Alavés,5000000,https://img.a.transfermarkt.technology/portrait/medium/289257-1604301765.jpg?lm=1
+Joan Jordán,Deportivo Alavés,3500000,https://img.a.transfermarkt.technology/portrait/medium/263727-1620305031.jpg?lm=1
+Tomás Conechny,Deportivo Alavés,4500000,https://img.a.transfermarkt.technology/portrait/medium/401571-1583953525.JPG?lm=1
+Abde Rebbach,Deportivo Alavés,800000,https://img.a.transfermarkt.technology/portrait/medium/718034-1705337308.jpg?lm=1
+Carlos Vicente,Deportivo Alavés,8000000,https://img.a.transfermarkt.technology/portrait/medium/540536-1732115480.jpg?lm=1
+Luka Romero,Deportivo Alavés,5000000,https://img.a.transfermarkt.technology/portrait/medium/769063-1695024330.jpg?lm=1
+Stoichkov,Deportivo Alavés,4000000,https://img.a.transfermarkt.technology/portrait/medium/271021-1572959967.jpg?lm=1
+Toni Martínez,Deportivo Alavés,5000000,https://img.a.transfermarkt.technology/portrait/medium/302371-1606396665.png?lm=1
+Carlos Martín,Deportivo Alavés,4000000,https://img.a.transfermarkt.technology/portrait/medium/618813-1707924109.jpg?lm=1
+Asier Villalibre,Deportivo Alavés,2500000,https://img.a.transfermarkt.technology/portrait/medium/251897-1709676417.png?lm=1
+Kike García,Deportivo Alavés,1000000,https://img.a.transfermarkt.technology/portrait/medium/93936-1490620015.jpg?lm=1
+Iván Villar,Celta de Vigo,1200000,https://img.a.transfermarkt.technology/portrait/medium/297194-1516876837.jpg?lm=1
+Vicente Guaita,Celta de Vigo,800000,https://img.a.transfermarkt.technology/portrait/medium/64399-1447229636.jpg?lm=1
+Carl Starfelt,Celta de Vigo,6000000,https://img.a.transfermarkt.technology/portrait/medium/258987-1600613124.png?lm=1
+Joseph Aidoo,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/358250-1496923402.jpg?lm=1
+Carlos Domínguez,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/636093-1629886975.jpg?lm=1
+Javi Rodríguez,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/1076815-1732611843.jpg?lm=1
+Marcos Alonso,Celta de Vigo,2000000,https://img.a.transfermarkt.technology/portrait/medium/112515-1694505734.jpg?lm=1
+Mihailo Ristic,Celta de Vigo,1000000,https://img.a.transfermarkt.technology/portrait/medium/271455-1661241997.jpg?lm=1
+Óscar Mingueza,Celta de Vigo,12000000,https://img.a.transfermarkt.technology/portrait/medium/331505-1698852962.jpg?lm=1
+Javier Manquillo,Celta de Vigo,1800000,https://img.a.transfermarkt.technology/portrait/medium/162029-1700647906.jpg?lm=1
+Sergio Carreira,Celta de Vigo,1200000,https://img.a.transfermarkt.technology/portrait/medium/545647-1637743729.jpg?lm=1
+Damián Rodríguez,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/715628-1732612000.jpg?lm=1
+Jailson,Celta de Vigo,1500000,https://img.a.transfermarkt.technology/portrait/medium/366948-1567081021.JPG?lm=1
+Fran Beltrán,Celta de Vigo,6000000,https://img.a.transfermarkt.technology/portrait/medium/423444-1693921591.jpg?lm=1
+Ilaix Moriba,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/617074-1695158882.jpg?lm=1
+Luca de la Torre,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/315762-1694588048.jpg?lm=1
+Hugo Sotelo,Celta de Vigo,2500000,https://img.a.transfermarkt.technology/portrait/medium/892221-1696862451.jpg?lm=1
+Jonathan Bamba,Celta de Vigo,6000000,https://img.a.transfermarkt.technology/portrait/medium/292818-1599420401.jpg?lm=1
+Williot Swedberg,Celta de Vigo,5000000,https://img.a.transfermarkt.technology/portrait/medium/764859-1653656881.png?lm=1
+Hugo Álvarez,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/892929-1715867247.jpg?lm=1
+Franco Cervi,Celta de Vigo,1000000,https://img.a.transfermarkt.technology/portrait/medium/341110-1603798993.jpg?lm=1
+Alfon González,Celta de Vigo,300000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Tadeo Allende,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/872184-1657542237.JPG?lm=1
+Anastasios Douvikas,Celta de Vigo,6000000,https://img.a.transfermarkt.technology/portrait/medium/523318-1682331342.jpg?lm=1
+Borja Iglesias,Celta de Vigo,5000000,https://img.a.transfermarkt.technology/portrait/medium/278359-1686661509.jpg?lm=1
+Iago Aspas,Celta de Vigo,3000000,https://img.a.transfermarkt.technology/portrait/medium/72047-1653042948.jpg?lm=1
+Pablo Durán,Celta de Vigo,300000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Joan García,RCD Espanyol Barcelona,10000000,https://img.a.transfermarkt.technology/portrait/medium/561613-1719399406.jpg?lm=1
+Fernando Pacheco,RCD Espanyol Barcelona,1000000,https://img.a.transfermarkt.technology/portrait/medium/172015-1647529834.jpg?lm=1
+Ángel Fortuño,RCD Espanyol Barcelona,300000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Marash Kumbulla,RCD Espanyol Barcelona,4500000,https://img.a.transfermarkt.technology/portrait/medium/371371-1716969202.jpg?lm=1
+Fernando Calero,RCD Espanyol Barcelona,1800000,https://img.a.transfermarkt.technology/portrait/medium/357884-1447238696.jpg?lm=1
+Leandro Cabrera,RCD Espanyol Barcelona,1200000,https://img.a.transfermarkt.technology/portrait/medium/102423-1500024381.jpg?lm=1
+Sergi Gómez,RCD Espanyol Barcelona,1000000,https://img.a.transfermarkt.technology/portrait/medium/92947-1447159892.jpg?lm=1
+Brian Oliván,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/166677-1626938634.jpg?lm=1
+Carlos Romero,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/709372-1698946783.jpg?lm=1
+Omar El Hilali,RCD Espanyol Barcelona,3000000,https://img.a.transfermarkt.technology/portrait/medium/822331-1683211692.jpg?lm=1
+Álvaro Tejero,RCD Espanyol Barcelona,2000000,https://img.a.transfermarkt.technology/portrait/medium/290273-1557741576.jpg?lm=1
+Alex Král,RCD Espanyol Barcelona,6000000,https://img.a.transfermarkt.technology/portrait/medium/337333-1691614545.jpg?lm=1
+Álvaro Aguado,RCD Espanyol Barcelona,2800000,https://img.a.transfermarkt.technology/portrait/medium/449496-1659984006.jpeg?lm=1
+José Gragera,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/557147-1664207582.jpg?lm=1
+Edu Expósito,RCD Espanyol Barcelona,2000000,https://img.a.transfermarkt.technology/portrait/medium/506248-1544776296.jpg?lm=1
+Pol Lozano,RCD Espanyol Barcelona,2000000,https://img.a.transfermarkt.technology/portrait/medium/412045-1568028635.jpg?lm=1
+Javi Puado,RCD Espanyol Barcelona,8000000,https://img.a.transfermarkt.technology/portrait/medium/408471-1698158226.jpg?lm=1
+Naci Ünüvar,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/508639-1694855282.jpg?lm=1
+Pere Milla,RCD Espanyol Barcelona,2000000,https://img.a.transfermarkt.technology/portrait/medium/225593-1541151194.jpg?lm=1
+Jofre Carreras,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/628498-1701787554.jpg?lm=1
+Salvi Sánchez,RCD Espanyol Barcelona,1200000,https://img.a.transfermarkt.technology/portrait/medium/246204-1601023429.jpg?lm=1
+Antoniu Roca,RCD Espanyol Barcelona,200000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Alejo Veliz,RCD Espanyol Barcelona,9000000,https://img.a.transfermarkt.technology/portrait/medium/888493-1674736266.JPG?lm=1
+Walid Cheddira,RCD Espanyol Barcelona,6000000,https://img.a.transfermarkt.technology/portrait/medium/521407-1686124424.jpg?lm=1
+Irvin Cardona,RCD Espanyol Barcelona,2500000,https://img.a.transfermarkt.technology/portrait/medium/342226-1723534120.jpg?lm=1
+Omar Sadik,RCD Espanyol Barcelona,300000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+David Soria,Getafe CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/226012-1696863038.jpg?lm=1
+Jiri Letacek,Getafe CF,2000000,https://img.a.transfermarkt.technology/portrait/medium/339079-1714922207.jpg?lm=1
+Omar Alderete,Getafe CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/353032-1669365021.jpg?lm=1
+Djené,Getafe CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/221150-1669364811.jpg?lm=1
+Juan Berrocal,Getafe CF,2200000,https://img.a.transfermarkt.technology/portrait/medium/461843-1626938167.jpg?lm=1
+Domingos Duarte,Getafe CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/257376-1583309064.jpg?lm=1
+Nabil Aberdin,Getafe CF,600000,https://img.a.transfermarkt.technology/portrait/medium/908621-1732137720.png?lm=1
+Diego Rico,Getafe CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/249513-1697221474.jpg?lm=1
+Fabrizio Angileri,Getafe CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/268506-1625760521.png?lm=1
+Juan Iglesias,Getafe CF,2800000,https://img.a.transfermarkt.technology/portrait/medium/390688-1632295269.jpg?lm=1
+Allan Nyom,Getafe CF,500000,https://img.a.transfermarkt.technology/portrait/medium/111508-1541162382.jpg?lm=1
+Mauro Arambarri,Getafe CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/290249-1669365106.jpg?lm=1
+Luis Milla,Getafe CF,3500000,https://img.a.transfermarkt.technology/portrait/medium/281989-1669364960.jpg?lm=1
+Carles Aleñá,Getafe CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/284854-1669364902.jpg?lm=1
+Yellu Santiago,Getafe CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+John Patrick,Getafe CF,200000,https://img.a.transfermarkt.technology/portrait/medium/841121-1732137454.jpg?lm=1
+Christantus Uche,Getafe CF,5000000,https://img.a.transfermarkt.technology/portrait/medium/1124005-1723797368.jpg?lm=1
+Alberto Risco,Getafe CF,200000,https://img.a.transfermarkt.technology/portrait/medium/1255616-1732138298.png?lm=1
+Álex Sola,Getafe CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/434990-1680536108.jpg?lm=1
+Carles Pérez,Getafe CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/282810-1698852701.jpg?lm=1
+Peter Federico,Getafe CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/710004-1706697849.jpg?lm=1
+Borja Mayoral,Getafe CF,15000000,https://img.a.transfermarkt.technology/portrait/medium/298976-1669365430.jpg?lm=1
+Bertuğ Yıldırım,Getafe CF,3500000,https://img.a.transfermarkt.technology/portrait/medium/672803-1681998915.png?lm=1
+Álvaro Rodríguez,Getafe CF,3500000,https://img.a.transfermarkt.technology/portrait/medium/948275-1660124773.jpg?lm=1
+Augusto Batalla,Rayo Vallecano,5000000,https://img.a.transfermarkt.technology/portrait/medium/275218-1656336113.JPG?lm=1
+Dani Cárdenas,Rayo Vallecano,1800000,https://img.a.transfermarkt.technology/portrait/medium/397676-1663571879.jpg?lm=1
+Abdul Mumin,Rayo Vallecano,4000000,https://img.a.transfermarkt.technology/portrait/medium/451801-1631003939.jpg?lm=1
+Florian Lejeune,Rayo Vallecano,3000000,https://img.a.transfermarkt.technology/portrait/medium/127108-1496825998.jpg?lm=1
+Aridane Hernández,Rayo Vallecano,500000,https://img.a.transfermarkt.technology/portrait/medium/82503-1484149571.jpg?lm=1
+Pelayo Fernández,Rayo Vallecano,500000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Alfonso Espino,Rayo Vallecano,2400000,https://img.a.transfermarkt.technology/portrait/medium/311044-1635328827.jpg?lm=1
+Pep Chavarría,Rayo Vallecano,2000000,https://img.a.transfermarkt.technology/portrait/medium/596122-1659947697.jpg?lm=1
+Andrei Rațiu,Rayo Vallecano,4000000,https://img.a.transfermarkt.technology/portrait/medium/527966-1716545627.jpg?lm=1
+Iván Balliu,Rayo Vallecano,2000000,https://img.a.transfermarkt.technology/portrait/medium/85295-1688119678.jpg?lm=1
+Gerard Gumbau,Rayo Vallecano,3000000,https://img.a.transfermarkt.technology/portrait/medium/268670-1499871303.jpg?lm=1
+Óscar Valentín,Rayo Vallecano,4000000,https://img.a.transfermarkt.technology/portrait/medium/517753-1641140471.jpg?lm=1
+Unai López,Rayo Vallecano,3000000,https://img.a.transfermarkt.technology/portrait/medium/192009-1726662500.jpg?lm=1
+Pedro Díaz,Rayo Vallecano,2500000,https://img.a.transfermarkt.technology/portrait/medium/363057-1664207844.jpg?lm=1
+Pathé Ciss,Rayo Vallecano,2500000,https://img.a.transfermarkt.technology/portrait/medium/525578-1541089527.jpg?lm=1
+James Rodríguez,Rayo Vallecano,5000000,https://img.a.transfermarkt.technology/portrait/medium/88103-1720681352.jpg?lm=1
+Randy Nteka,Rayo Vallecano,1500000,https://img.a.transfermarkt.technology/portrait/medium/560483-1600680162.jpg?lm=1
+Oscar Trejo,Rayo Vallecano,1000000,https://img.a.transfermarkt.technology/portrait/medium/30321-1653039805.jpg?lm=1
+Joni Montiel,Rayo Vallecano,1000000,https://img.a.transfermarkt.technology/portrait/medium/343273-1712141506.jpg?lm=1
+Álvaro García,Rayo Vallecano,3000000,https://img.a.transfermarkt.technology/portrait/medium/257062-1709114307.jpg?lm=1
+Isi Palazón,Rayo Vallecano,8000000,https://img.a.transfermarkt.technology/portrait/medium/362086-1726662958.jpg?lm=1
+Jorge de Frutos,Rayo Vallecano,4000000,https://img.a.transfermarkt.technology/portrait/medium/455181-1613121992.jpg?lm=1
+Adrián Embarba,Rayo Vallecano,1800000,https://img.a.transfermarkt.technology/portrait/medium/288318-1583506487.jpg?lm=1
+Sergio Camello,Rayo Vallecano,4000000,https://img.a.transfermarkt.technology/portrait/medium/505674-1617806102.jpg?lm=1
+Raúl de Tomás,Rayo Vallecano,1000000,https://img.a.transfermarkt.technology/portrait/medium/162038-1653044438.jpg?lm=1
+Sergi Guardiola,Rayo Vallecano,800000,https://img.a.transfermarkt.technology/portrait/medium/256429-1521447903.jpg?lm=1
+Juan Soriano,CD Leganés,1500000,https://img.a.transfermarkt.technology/portrait/medium/251892-1583333927.jpg?lm=1
+Marko Dmitrovic,CD Leganés,900000,https://img.a.transfermarkt.technology/portrait/medium/94308-1669364494.jpg?lm=1
+Alvin Abajas,CD Leganés,25000,https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1
+Jackson Porozo,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/491616-1706871948.jpg?lm=1
+Sergio González,CD Leganés,1800000,https://img.a.transfermarkt.technology/portrait/medium/308989-1701789701.jpg?lm=1
+Jorge Sáenz,CD Leganés,1500000,https://img.a.transfermarkt.technology/portrait/medium/340339-1544697354.jpg?lm=1
+Matija Nastasic,CD Leganés,1500000,https://img.a.transfermarkt.technology/portrait/medium/143559-1531813376.jpg?lm=1
+Javi Hernández,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/422466-1601367999.jpg?lm=1
+Enric Franquesa,CD Leganés,1500000,https://img.a.transfermarkt.technology/portrait/medium/282700-1625480292.jpg?lm=1
+Valentin Rosier,CD Leganés,4000000,https://img.a.transfermarkt.technology/portrait/medium/441170-1666619891.png?lm=1
+Adrià Altimira,CD Leganés,2000000,https://img.a.transfermarkt.technology/portrait/medium/466807-1704789678.jpg?lm=1
+Renato Tapia,CD Leganés,5000000,https://img.a.transfermarkt.technology/portrait/medium/277137-1718679726.jpg?lm=1
+Yvan Neyou,CD Leganés,2000000,https://img.a.transfermarkt.technology/portrait/medium/469669-1703762516.jpg?lm=1
+Julián Chicco,CD Leganés,1000000,https://img.a.transfermarkt.technology/portrait/medium/401583-1446023137.jpg?lm=1
+Seydouba Cissé,CD Leganés,2000000,https://img.a.transfermarkt.technology/portrait/medium/543537-1698881175.jpg?lm=1
+Darko Brasanac,CD Leganés,1400000,https://img.a.transfermarkt.technology/portrait/medium/95641-1541146477.jpg?lm=1
+Óscar Rodríguez,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/284884-1697221442.jpg?lm=1
+Roberto López,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/569866-1568978272.png?lm=1
+Munir El Haddadi,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/223725-1687272900.jpg?lm=1
+Dani Raba,CD Leganés,2200000,https://img.a.transfermarkt.technology/portrait/medium/413262-1530299369.jpg?lm=1
+Naim García,CD Leganés,500000,https://img.a.transfermarkt.technology/portrait/medium/715683-1698881493.jpg?lm=1
+Sébastien Haller,CD Leganés,7500000,https://img.a.transfermarkt.technology/portrait/medium/181375-1709560699.jpg?lm=1
+Miguel de la Fuente,CD Leganés,2500000,https://img.a.transfermarkt.technology/portrait/medium/480883-1647530867.jpg?lm=1
+Diego García,CD Leganés,2000000,https://img.a.transfermarkt.technology/portrait/medium/852727-1701788787.jpg?lm=1
+Karl Hein,Real Valladolid CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/493513-1662665787.jpg?lm=1
+André Ferreira,Real Valladolid CF,800000,https://img.a.transfermarkt.technology/portrait/medium/290346-1548259586.jpg?lm=1
+Eray Cömert,Real Valladolid CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/298583-1704213027.jpg?lm=1
+Cenk Özkacar,Real Valladolid CF,2500000,https://img.a.transfermarkt.technology/portrait/medium/615350-1641457298.jpg?lm=1
+Javi Sánchez,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/340853-1448530734.jpg?lm=1
+David Torres,Real Valladolid CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/857832-1702391225.jpg?lm=1
+Juma Bah,Real Valladolid CF,500000,https://img.a.transfermarkt.technology/portrait/medium/1121298-1732218272.jpg?lm=1
+Luis Pérez,Real Valladolid CF,2000000,https://img.a.transfermarkt.technology/portrait/medium/358115-1544697482.jpg?lm=1
+Lucas Rosa,Real Valladolid CF,2000000,https://img.a.transfermarkt.technology/portrait/medium/468309-1552229769.jpg?lm=1
+Stanko Juric,Real Valladolid CF,2200000,https://img.a.transfermarkt.technology/portrait/medium/388125-1614711691.jpg?lm=1
+Mario Martín,Real Valladolid CF,500000,https://img.a.transfermarkt.technology/portrait/medium/948273-1707861820.jpg?lm=1
+César de la Hoz,Real Valladolid CF,500000,https://img.a.transfermarkt.technology/portrait/medium/226261-1688219646.jpg?lm=1
+Víctor Meseguer,Real Valladolid CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/658269-1660121083.jpg?lm=1
+Kike Pérez,Real Valladolid CF,3000000,https://img.a.transfermarkt.technology/portrait/medium/527698-1601535441.jpg?lm=1
+Anuar,Real Valladolid CF,900000,https://img.a.transfermarkt.technology/portrait/medium/327126-1541148555.jpg?lm=1
+Selim Amallah,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/377219-1616872969.jpg?lm=1
+Chuki,Real Valladolid CF,500000,https://img.a.transfermarkt.technology/portrait/medium/926763-1700777200.jpg?lm=1
+Raúl Moro,Real Valladolid CF,4000000,https://img.a.transfermarkt.technology/portrait/medium/624942-1632729036.jpg?lm=1
+Darwin Machís,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/211251-1719836851.jpg?lm=1
+Kenedy,Real Valladolid CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/281404-1455120897.jpg?lm=1
+Amath Ndiaye,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/339820-1510233284.jpg?lm=1
+Iván Sánchez,Real Valladolid CF,1000000,https://img.a.transfermarkt.technology/portrait/medium/221311-1601023639.jpg?lm=1
+Juanmi Latasa,Real Valladolid CF,2800000,https://img.a.transfermarkt.technology/portrait/medium/623521-1696862713.jpg?lm=1
+Mamadou Sylla,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/166683-1592750860.png?lm=1
+Marcos André,Real Valladolid CF,1500000,https://img.a.transfermarkt.technology/portrait/medium/481084-1601535152.jpg?lm=1

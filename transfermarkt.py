@@ -58,15 +58,21 @@ def scrape_transfermarkt_competition(url):
         club_soup = BeautifulSoup(club_response.text, 'html.parser')
         players = club_soup.find_all('tr', class_=['odd', 'even'])
         for player in players:
-            player_name = player.find('a').text
+            #player_name = player.find('a').text
             player_value = player.find_all('td')[-1].text.strip()
-            players_dict[player_name] = [club_name, player_value]
+
+            player_name = player.find('td', class_='hauptlink').find('a').text if player.find('td', class_='hauptlink').find('a') else ''
+            player_picture_link = player.find('img', class_='bilderrahmen-fixed')['data-src'] if player.find('img', class_='bilderrahmen-fixed') else ''
+
+            
+            players_dict[player_name] = [club_name, player_value, player_picture_link]
 
     # Clean player data
     cleaned_players_dict = {}
     for player, details in players_dict.items():
         player_name = player.strip()
         club_name = details[0].strip()
+        picture_link = details[2]
         market_value = details[1].replace('€', '').replace(' ', '')
         if 'm' in market_value:
             market_value = int(float(market_value.replace('m', '')) * 1_000_000)
@@ -76,14 +82,14 @@ def scrape_transfermarkt_competition(url):
             market_value = 0
         else:
             market_value = 0
-        cleaned_players_dict[player_name] = [club_name, market_value]
+        cleaned_players_dict[player_name] = [club_name, market_value, picture_link]
 
     # Export player data to a CSV
     players_csv_name = competition_name + '_players_data.csv'
     with open(players_csv_name, 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['Player', 'Club', 'Market Value'])
+        writer.writerow(['Player', 'Club', 'Market Value', 'TmPictureLink'])
         for player, details in cleaned_players_dict.items():
-            writer.writerow([player, details[0], details[1]])
+            writer.writerow([player, details[0], details[1], details[2]])
 
     print("Scraping complete. Data exported to 'club_values.csv' and 'players_data.csv'.")

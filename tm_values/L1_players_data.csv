@@ -1,329 +1,506 @@
-Player,Club,Market Value
-Manuel Neuer,Bayern Munich,4000000
-Daniel Peretz,Bayern Munich,3000000
-Sven Ulreich,Bayern Munich,700000
-Dayot Upamecano,Bayern Munich,45000000
-Min-jae Kim,Bayern Munich,45000000
-,Holstein Kiel,500000
-Tarek Buchmann,Bayern Munich,500000
-Alphonso Davies,Bayern Munich,50000000
-Raphaël Guerreiro,Bayern Munich,12000000
-Sacha Boey,Bayern Munich,18000000
-Joshua Kimmich,Bayern Munich,50000000
-Aleksandar Pavlovic,Bayern Munich,50000000
-Konrad Laimer,Bayern Munich,30000000
-Leon Goretzka,Bayern Munich,22000000
-Jamal Musiala,Bayern Munich,130000000
-Serge Gnabry,Bayern Munich,40000000
-Kingsley Coman,Bayern Munich,40000000
-Mathys Tel,Bayern Munich,40000000
-Leroy Sané,Bayern Munich,60000000
-Thomas Müller,Bayern Munich,8000000
-Harry Kane,Bayern Munich,100000000
-Matej Kovar,Bayer 04 Leverkusen,7000000
-Lukas Hradecky,Bayer 04 Leverkusen,2500000
-Niklas Lomb,Bayer 04 Leverkusen,250000
-Edmond Tapsoba,Bayer 04 Leverkusen,45000000
-Piero Hincapié,Bayer 04 Leverkusen,40000000
-Jonathan Tah,Bayer 04 Leverkusen,30000000
-Alejandro Grimaldo,Bayer 04 Leverkusen,45000000
-Arthur,Bayer 04 Leverkusen,5000000
-Granit Xhaka,Bayer 04 Leverkusen,20000000
-Robert Andrich,Bayer 04 Leverkusen,17000000
-Exequiel Palacios,Bayer 04 Leverkusen,45000000
-Jeremie Frimpong,Bayer 04 Leverkusen,50000000
-Nathan Tella,Bayer 04 Leverkusen,23000000
-Florian Wirtz,Bayer 04 Leverkusen,130000000
-Jonas Hofmann,Bayer 04 Leverkusen,7000000
-Francis Onyeka,Bayer 04 Leverkusen,500000
-Amine Adli,Bayer 04 Leverkusen,30000000
-Victor Boniface,Bayer 04 Leverkusen,45000000
-Patrik Schick,Bayer 04 Leverkusen,22000000
-Artem Stepanov,Bayer 04 Leverkusen,350000
-Péter Gulácsi,RB Leipzig,3000000
-Leopold Zingerle,RB Leipzig,400000
-Castello Lukeba,RB Leipzig,40000000
-El Chadaille Bitshiabu,RB Leipzig,12000000
-Willi Orbán,RB Leipzig,10000000
-Lukas Klostermann,RB Leipzig,8000000
-David Raum,RB Leipzig,25000000
-Benjamin Henrichs,RB Leipzig,20000000
-Xaver Schlager,RB Leipzig,28000000
-Amadou Haidara,RB Leipzig,20000000
-Nicolas Seiwald,RB Leipzig,16000000
-Kevin Kampl,RB Leipzig,3500000
-Christoph Baumgartner,RB Leipzig,18000000
-Eljif Elmas,RB Leipzig,15000000
-Loïs Openda,RB Leipzig,60000000
-Benjamin Sesko,RB Leipzig,50000000
-Yussuf Poulsen,RB Leipzig,6000000
-Gregor Kobel,Borussia Dortmund,40000000
-Marcel Lotka,Borussia Dortmund,1300000
-Alexander Meyer,Borussia Dortmund,800000
-Nico Schlotterbeck,Borussia Dortmund,40000000
-Niklas Süle,Borussia Dortmund,15000000
-Ramy Bensebaini,Borussia Dortmund,7000000
-Julian Ryerson,Borussia Dortmund,20000000
-Emre Can,Borussia Dortmund,10000000
-Felix Nmecha,Borussia Dortmund,20000000
-Marcel Sabitzer,Borussia Dortmund,20000000
-Julian Brandt,Borussia Dortmund,40000000
-Karim Adeyemi,Borussia Dortmund,35000000
-Jamie Gittens,Borussia Dortmund,35000000
-Julien Duranville,Borussia Dortmund,8500000
-Donyell Malen,Borussia Dortmund,40000000
-Dennis Seimen,VfB Stuttgart,1500000
-Fabian Bredlow,VfB Stuttgart,1000000
-Dan-Axel Zagadou,VfB Stuttgart,10000000
-Maximilian Mittelstädt,VfB Stuttgart,17000000
-Josha Vagnoman,VfB Stuttgart,10000000
-Pascal Stenzel,VfB Stuttgart,2500000
-Angelo Stiller,VfB Stuttgart,28000000
-Atakan Karazor,VfB Stuttgart,12000000
-Nikolas Nartey,VfB Stuttgart,600000
-Enzo Millot,VfB Stuttgart,42000000
-Chris Führich,VfB Stuttgart,22000000
-Kevin Trapp,Eintracht Frankfurt,4000000
-Kauã Santos,Eintracht Frankfurt,2500000
-Jens Grahl,Eintracht Frankfurt,200000
-Tuta,Eintracht Frankfurt,12000000
-Nnamdi Collins,Eintracht Frankfurt,1000000
-Niels Nkounkou,Eintracht Frankfurt,7500000
-Timothy Chandler,Eintracht Frankfurt,500000
-Ellyes Skhiri,Eintracht Frankfurt,11000000
-Hugo Larsson,Eintracht Frankfurt,28000000
-Junior Dina Ebimbe,Eintracht Frankfurt,9000000
-Farès Chaïbi,Eintracht Frankfurt,18000000
-Mario Götze,Eintracht Frankfurt,5500000
-Jean-Mattéo Bahoya,Eintracht Frankfurt,7500000
-Ansgar Knauff,Eintracht Frankfurt,10000000
-Omar Marmoush,Eintracht Frankfurt,40000000
-Pavao Pervan,VfL Wolfsburg,300000
-Niklas Klinger,VfL Wolfsburg,100000
-Sebastiaan Bornauw,VfL Wolfsburg,7000000
-Cédric Zesiger,VfL Wolfsburg,5000000
-Rogério,VfL Wolfsburg,5000000
-Joakim Maehle,VfL Wolfsburg,14000000
-Ridle Baku,VfL Wolfsburg,7000000
-Kilian Fischer,VfL Wolfsburg,2500000
-Aster Vranckx,VfL Wolfsburg,12000000
-Mattias Svanberg,VfL Wolfsburg,12000000
-Maximilian Arnold,VfL Wolfsburg,7000000
-Yannick Gerhardt,VfL Wolfsburg,4000000
-Kevin Paredes,VfL Wolfsburg,7500000
-Lovro Majer,VfL Wolfsburg,20000000
-Bennit Bröger,VfL Wolfsburg,500000
-Jakub Kaminski,VfL Wolfsburg,6000000
-David Leal Costa,VfL Wolfsburg,0
-Patrick Wimmer,VfL Wolfsburg,15000000
-Jonas Wind,VfL Wolfsburg,15000000
-Tiago Tomás,VfL Wolfsburg,6000000
-Lukas Nmecha,VfL Wolfsburg,5000000
-Kevin Behrens,VfL Wolfsburg,2000000
-Noah Atubolu,SC Freiburg,10000000
-Florian Müller,SC Freiburg,1200000
-Philipp Lienhart,SC Freiburg,15000000
-Matthias Ginter,SC Freiburg,10000000
-Max Rosenfelder,SC Freiburg,2500000
-Kenneth Schmidt,SC Freiburg,2000000
-Manuel Gulde,SC Freiburg,1500000
-Christian Günter,SC Freiburg,5000000
-Jordy Makengo,SC Freiburg,3500000
-Kiliann Sildillia,SC Freiburg,15000000
-Lukas Kübler,SC Freiburg,2000000
-Nicolas Höfler,SC Freiburg,1000000
-Maximilian Eggestein,SC Freiburg,10000000
-Merlin Röhl,SC Freiburg,12000000
-Daniel-Kofi Kyereh,SC Freiburg,3500000
-Vincenzo Grifo,SC Freiburg,9000000
-Noah Weißhaupt,SC Freiburg,5000000
-Florent Muslija,SC Freiburg,2500000
-Ritsu Doan,SC Freiburg,18000000
-Michael Gregoritsch,SC Freiburg,8000000
-Junior Adamu,SC Freiburg,6000000
-Lucas Höler,SC Freiburg,4000000
-Oliver Baumann,TSG 1899 Hoffenheim,3000000
-Luca Philipp,TSG 1899 Hoffenheim,300000
-Ozan Kabak,TSG 1899 Hoffenheim,10000000
-Tim Drexler,TSG 1899 Hoffenheim,4000000
-Kevin Akpoguma,TSG 1899 Hoffenheim,3000000
-Stanley Nsoki,TSG 1899 Hoffenheim,2500000
-Marco John,TSG 1899 Hoffenheim,1500000
-Pavel Kaderabek,TSG 1899 Hoffenheim,3000000
-Anton Stach,TSG 1899 Hoffenheim,15000000
-Florian Grillitsch,TSG 1899 Hoffenheim,6500000
-Grischa Prömel,TSG 1899 Hoffenheim,7000000
-Umut Tohumcu,TSG 1899 Hoffenheim,7000000
-Tom Bischof,TSG 1899 Hoffenheim,3500000
-Dennis Geiger,TSG 1899 Hoffenheim,3000000
-Finn Ole Becker,TSG 1899 Hoffenheim,2500000
-Marius Bülter,TSG 1899 Hoffenheim,2500000
-Mergim Berisha,TSG 1899 Hoffenheim,10000000
-Andrej Kramaric,TSG 1899 Hoffenheim,5000000
-Ihlas Bebou,TSG 1899 Hoffenheim,4000000
-Max Moerstedt,TSG 1899 Hoffenheim,3000000
-Jonas Omlin,Borussia Mönchengladbach,6000000
-Moritz Nicolas,Borussia Mönchengladbach,2500000
-Jan Olschowsky,Borussia Mönchengladbach,600000
-Tobias Sippel,Borussia Mönchengladbach,300000
-Ko Itakura,Borussia Mönchengladbach,15000000
-Nico Elvedi,Borussia Mönchengladbach,10000000
-Marvin Friedrich,Borussia Mönchengladbach,3500000
-Fabio Chiarodia,Borussia Mönchengladbach,2000000
-Luca Netz,Borussia Mönchengladbach,8000000
-Lukas Ullrich,Borussia Mönchengladbach,750000
-Joe Scally,Borussia Mönchengladbach,10000000
-Stefan Lainer,Borussia Mönchengladbach,2500000
-Julian Weigl,Borussia Mönchengladbach,6000000
-Rocco Reitz,Borussia Mönchengladbach,10000000
-Florian Neuhaus,Borussia Mönchengladbach,5000000
-Robin Hack,Borussia Mönchengladbach,8000000
-Franck Honorat,Borussia Mönchengladbach,12000000
-Nathan Ngoumou,Borussia Mönchengladbach,5000000
-Alassane Pléa,Borussia Mönchengladbach,7000000
-Tomas Cvancara,Borussia Mönchengladbach,6500000
-Grant-Leon Ranos,Borussia Mönchengladbach,1000000
-Shio Fukuda,Borussia Mönchengladbach,300000
-Frederik Rönnow,1.FC Union Berlin,4500000
-Alexander Schwolow,1.FC Union Berlin,700000
-Danilho Doekhi,1.FC Union Berlin,17000000
-Diogo Leite,1.FC Union Berlin,15000000
-Kevin Vogt,1.FC Union Berlin,2000000
-Oluwaseun Ogbemudia,1.FC Union Berlin,0
-Jérôme Roussillon,1.FC Union Berlin,2500000
-Josip Juranovic,1.FC Union Berlin,7500000
-Christopher Trimmel,1.FC Union Berlin,600000
-Lucas Tousart,1.FC Union Berlin,5500000
-Rani Khedira,1.FC Union Berlin,5000000
-András Schäfer,1.FC Union Berlin,5000000
-Janik Haberer,1.FC Union Berlin,3000000
-Yorbe Vertessen,1.FC Union Berlin,5000000
-Benedict Hollerbach,1.FC Union Berlin,5000000
-Kevin Volland,1.FC Union Berlin,4000000
-Michael Zetterer,SV Werder Bremen,4000000
-Marco Friedl,SV Werder Bremen,7500000
-Niklas Stark,SV Werder Bremen,5500000
-Milos Veljkovic,SV Werder Bremen,4500000
-Amos Pieper,SV Werder Bremen,4000000
-Julián Malatini,SV Werder Bremen,2500000
-Anthony Jung,SV Werder Bremen,1000000
-Mitchell Weiser,SV Werder Bremen,6000000
-Felix Agu,SV Werder Bremen,6000000
-Senne Lynen,SV Werder Bremen,7000000
-Jens Stage,SV Werder Bremen,9000000
-Leonardo Bittencourt,SV Werder Bremen,2500000
-Naby Keïta,SV Werder Bremen,1000000
-Olivier Deman,SV Werder Bremen,4000000
-Leon Opitz,SV Werder Bremen,600000
-Romano Schmid,SV Werder Bremen,13000000
-Isak Hansen-Aarøen,SV Werder Bremen,1500000
-Justin Njinmah,SV Werder Bremen,9000000
-Marvin Ducksch,SV Werder Bremen,9000000
-Finn Dahmen,FC Augsburg,3500000
-Maximilian Bauer,FC Augsburg,3000000
-Jeffrey Gouweleeuw,FC Augsburg,2000000
-Reece Oxford,FC Augsburg,700000
-Mads Pedersen,FC Augsburg,2500000
-Robert Gumny,FC Augsburg,2000000
-Tim Breithaupt,FC Augsburg,3000000
-Arne Maier,FC Augsburg,5000000
-Elvis Rexhbecaj,FC Augsburg,3500000
-Fredrik Jensen,FC Augsburg,3500000
-Mert Kömür,FC Augsburg,2000000
-Rubén Vargas,FC Augsburg,9000000
-Phillip Tietz,FC Augsburg,5000000
-Robin Zentner,1.FSV Mainz 05,3000000
-Daniel Batz,1.FSV Mainz 05,350000
-Lasse Rieß,1.FSV Mainz 05,200000
-Andreas Hanche-Olsen,1.FSV Mainz 05,9000000
-Maxim Leitsch,1.FSV Mainz 05,2000000
-Stefan Bell,1.FSV Mainz 05,800000
-Maxim Dal,1.FSV Mainz 05,0
-Phillipp Mwene,1.FSV Mainz 05,1800000
-Silvan Widmer,1.FSV Mainz 05,2500000
-Danny da Costa,1.FSV Mainz 05,800000
-Dominik Kohr,1.FSV Mainz 05,3000000
-Nadiem Amiri,1.FSV Mainz 05,9000000
-Anthony Caci,1.FSV Mainz 05,7000000
-Jae-sung Lee,1.FSV Mainz 05,2500000
-Jonathan Burkardt,1.FSV Mainz 05,15000000
-Nelson Weiper,1.FSV Mainz 05,5000000
-Karim Onisiwo,1.FSV Mainz 05,1500000
-Kevin Müller,1.FC Heidenheim 1846,1000000
-Frank Feller,1.FC Heidenheim 1846,350000
-Vitus Eicher,1.FC Heidenheim 1846,250000
-Paul Tschernuth,1.FC Heidenheim 1846,100000
-Patrick Mainka,1.FC Heidenheim 1846,3000000
-Benedikt Gimber,1.FC Heidenheim 1846,2800000
-Tim Siersleben,1.FC Heidenheim 1846,1500000
-Thomas Keller,1.FC Heidenheim 1846,350000
-Jonas Föhrenbach,1.FC Heidenheim 1846,2000000
-Omar Traoré,1.FC Heidenheim 1846,3500000
-Marnon Busch,1.FC Heidenheim 1846,1200000
-Lennard Maloney,1.FC Heidenheim 1846,5000000
-Norman Theuerkauf,1.FC Heidenheim 1846,300000
-Luka Janes,1.FC Heidenheim 1846,200000
-Jan Schöppner,1.FC Heidenheim 1846,3500000
-Adrian Beck,1.FC Heidenheim 1846,1500000
-Denis Thomalla,1.FC Heidenheim 1846,750000
-Marvin Pieringer,1.FC Heidenheim 1846,4500000
-Stefan Schimmer,1.FC Heidenheim 1846,500000
-Manuel Riemann,VfL Bochum,300000
-Erhan Masovic,VfL Bochum,4000000
-Tim Oermann,VfL Bochum,4000000
-Noah Loosli,VfL Bochum,800000
-Mohammed Tolba,VfL Bochum,200000
-Bernardo,VfL Bochum,7000000
-Maximilian Wittek,VfL Bochum,2000000
-Felix Passlack,VfL Bochum,2500000
-Cristian Gamboa,VfL Bochum,500000
-Anthony Losilla,VfL Bochum,500000
-Matus Bero,VfL Bochum,3500000
-Agon Elezi,VfL Bochum,800000
-Lukas Daschner,VfL Bochum,1200000
-Moritz-Broni Kwarteng,VfL Bochum,1200000
-Moritz Broschinski,VfL Bochum,3000000
-Philipp Hofmann,VfL Bochum,1800000
-Nikola Vasilj,FC St. Pauli,2000000
-Sascha Burchert,FC St. Pauli,200000
-Sören Ahlers,FC St. Pauli,50000
-Eric Smith,FC St. Pauli,4000000
-Hauke Wahl,FC St. Pauli,1500000
-Karol Mets,FC St. Pauli,1300000
-David Nemeth,FC St. Pauli,800000
-Adam Dzwigala,FC St. Pauli,600000
-Philipp Treu,FC St. Pauli,2500000
-Lars Ritzka,FC St. Pauli,900000
-Manolis Saliakas,FC St. Pauli,2500000
-Connor Metcalfe,FC St. Pauli,2500000
-Jackson Irvine,FC St. Pauli,2000000
-Carlo Boukhalfa,FC St. Pauli,700000
-Erik Ahlstrand,FC St. Pauli,700000
-Elias Saad,FC St. Pauli,4000000
-Oladapo Afolayan,FC St. Pauli,3000000
-Danel Sinani,FC St. Pauli,500000
-Johannes Eggestein,FC St. Pauli,2000000
-Simon Zoller,FC St. Pauli,350000
-Andreas Albers,FC St. Pauli,300000
-Maurides,FC St. Pauli,300000
-Timon Weiner,Holstein Kiel,1500000
-Thomas Dähne,Holstein Kiel,400000
-Marcel Engelhardt,Holstein Kiel,175000
-Tyler Doğan,Holstein Kiel,75000
-Colin Kleine-Bekel,Holstein Kiel,3000000
-Timo Becker,Holstein Kiel,2000000
-Marco Komenda,Holstein Kiel,900000
-Carl Johansson,Holstein Kiel,700000
-Lasse Rosenboom,Holstein Kiel,500000
-Marko Ivezic,Holstein Kiel,3000000
-Patrick Erras,Holstein Kiel,1000000
-Marvin Schulz,Holstein Kiel,700000
-Nicolai Remberg,Holstein Kiel,1800000
-Lewis Holtby,Holstein Kiel,500000
-Aurel Wagbe,Holstein Kiel,100000
-Finn Porath,Holstein Kiel,1500000
-Steven Skrzybski,Holstein Kiel,1300000
-Alexander Bernhardsson,Holstein Kiel,1500000
-Shuto Machino,Holstein Kiel,3500000
-Benedikt Pichler,Holstein Kiel,2000000
-Fiete Arp,Holstein Kiel,800000
+Player,Club,Market Value,TmPictureLink
+Manuel Neuer,Bayern Munich,4000000,https://img.a.transfermarkt.technology/portrait/medium/17259-1702419450.jpg?lm=1
+Daniel Peretz,Bayern Munich,3000000,https://img.a.transfermarkt.technology/portrait/medium/468539-1700659786.jpg?lm=1
+Sven Ulreich,Bayern Munich,700000,https://img.a.transfermarkt.technology/portrait/medium/40680-1700659982.jpg?lm=1
+Dayot Upamecano,Bayern Munich,45000000,https://img.a.transfermarkt.technology/portrait/medium/344695-1701245272.jpg?lm=1
+Min-jae Kim,Bayern Munich,45000000,https://img.a.transfermarkt.technology/portrait/medium/503482-1700208062.jpg?lm=1
+Hiroki Ito,Bayern Munich,30000000,https://img.a.transfermarkt.technology/portrait/medium/353892-1657181215.jpg?lm=1
+Eric Dier,Bayern Munich,10000000,https://img.a.transfermarkt.technology/portrait/medium/175722-1665608595.jpg?lm=1
+Tarek Buchmann,Bayern Munich,500000,https://img.a.transfermarkt.technology/portrait/medium/744729-1662650037.jpg?lm=1
+Alphonso Davies,Bayern Munich,50000000,https://img.a.transfermarkt.technology/portrait/medium/424204-1711745534.jpg?lm=1
+Raphaël Guerreiro,Bayern Munich,12000000,https://img.a.transfermarkt.technology/portrait/medium/170986-1711745629.jpg?lm=1
+Adam Aznou,Bayern Munich,1500000,https://img.a.transfermarkt.technology/portrait/medium/938146-1692946563.jpg?lm=1
+Josip Stanisic,Bayern Munich,28000000,https://img.a.transfermarkt.technology/portrait/medium/483046-1716966862.jpg?lm=1
+Sacha Boey,Bayern Munich,18000000,https://img.a.transfermarkt.technology/portrait/medium/475413-1706907003.jpg?lm=1
+Joshua Kimmich,Bayern Munich,50000000,https://img.a.transfermarkt.technology/portrait/medium/161056-1700039639.jpg?lm=1
+João Palhinha,Bayern Munich,50000000,https://img.a.transfermarkt.technology/portrait/medium/257455-1684773447.jpg?lm=1
+Aleksandar Pavlovic,Bayern Munich,50000000,https://img.a.transfermarkt.technology/portrait/medium/792380-1727098078.jpg?lm=1
+Konrad Laimer,Bayern Munich,30000000,https://img.a.transfermarkt.technology/portrait/medium/223967-1700659266.jpg?lm=1
+Leon Goretzka,Bayern Munich,22000000,https://img.a.transfermarkt.technology/portrait/medium/153084-1700040179.jpg?lm=1
+Jamal Musiala,Bayern Munich,130000000,https://img.a.transfermarkt.technology/portrait/medium/580195-1711745441.jpg?lm=1
+Serge Gnabry,Bayern Munich,40000000,https://img.a.transfermarkt.technology/portrait/medium/159471-1712776387.jpg?lm=1
+Kingsley Coman,Bayern Munich,40000000,https://img.a.transfermarkt.technology/portrait/medium/243714-1700040256.jpg?lm=1
+Mathys Tel,Bayern Munich,40000000,https://img.a.transfermarkt.technology/portrait/medium/801734-1700040486.jpg?lm=1
+Arijon Ibrahimovic,Bayern Munich,4000000,https://img.a.transfermarkt.technology/portrait/medium/744728-1662650250.jpg?lm=1
+Michael Olise,Bayern Munich,65000000,https://img.a.transfermarkt.technology/portrait/medium/566723-1725873883.jpg?lm=1
+Leroy Sané,Bayern Munich,60000000,https://img.a.transfermarkt.technology/portrait/medium/192565-1694587968.jpg?lm=1
+Thomas Müller,Bayern Munich,8000000,https://img.a.transfermarkt.technology/portrait/medium/58358-1683890647.jpg?lm=1
+Harry Kane,Bayern Munich,100000000,https://img.a.transfermarkt.technology/portrait/medium/132098-1700211169.jpg?lm=1
+Matej Kovar,Bayer 04 Leverkusen,7000000,https://img.a.transfermarkt.technology/portrait/medium/550829-1727378079.jpg?lm=1
+Lukas Hradecky,Bayer 04 Leverkusen,2500000,https://img.a.transfermarkt.technology/portrait/medium/48015-1695367833.jpg?lm=1
+Niklas Lomb,Bayer 04 Leverkusen,250000,https://img.a.transfermarkt.technology/portrait/medium/85543-1695367888.jpg?lm=1
+Luca Novodomsky,Bayer 04 Leverkusen,0,https://img.a.transfermarkt.technology/portrait/medium/810826-1612024357.png?lm=1
+Edmond Tapsoba,Bayer 04 Leverkusen,45000000,https://img.a.transfermarkt.technology/portrait/medium/564545-1695368009.jpg?lm=1
+Piero Hincapié,Bayer 04 Leverkusen,40000000,https://img.a.transfermarkt.technology/portrait/medium/659813-1727377918.jpg?lm=1
+Jonathan Tah,Bayer 04 Leverkusen,30000000,https://img.a.transfermarkt.technology/portrait/medium/196357-1695367765.jpg?lm=1
+Jeanuël Belocian,Bayer 04 Leverkusen,20000000,https://img.a.transfermarkt.technology/portrait/medium/919515-1727378177.jpg?lm=1
+Sadik Fofana,Bayer 04 Leverkusen,500000,https://img.a.transfermarkt.technology/portrait/medium/644613-1659622952.jpg?lm=1
+Alejandro Grimaldo,Bayer 04 Leverkusen,45000000,https://img.a.transfermarkt.technology/portrait/medium/193082-1689710805.jpg?lm=1
+Nordi Mukiele,Bayer 04 Leverkusen,10000000,https://img.a.transfermarkt.technology/portrait/medium/348026-1727378130.jpg?lm=1
+Arthur,Bayer 04 Leverkusen,5000000,https://img.a.transfermarkt.technology/portrait/medium/977464-1689709842.jpg?lm=1
+Granit Xhaka,Bayer 04 Leverkusen,20000000,https://img.a.transfermarkt.technology/portrait/medium/111455-1689711080.jpg?lm=1
+Robert Andrich,Bayer 04 Leverkusen,17000000,https://img.a.transfermarkt.technology/portrait/medium/159088-1689710866.jpg?lm=1
+Exequiel Palacios,Bayer 04 Leverkusen,45000000,https://img.a.transfermarkt.technology/portrait/medium/401578-1695368200.jpg?lm=1
+Aleix García,Bayer 04 Leverkusen,20000000,https://img.a.transfermarkt.technology/portrait/medium/261504-1727378020.jpg?lm=1
+Matija Marsenic,Bayer 04 Leverkusen,0,https://img.a.transfermarkt.technology/portrait/medium/944582-1717141056.jpg?lm=1
+Jeremie Frimpong,Bayer 04 Leverkusen,50000000,https://img.a.transfermarkt.technology/portrait/medium/484547-1689710682.jpg?lm=1
+Nathan Tella,Bayer 04 Leverkusen,23000000,https://img.a.transfermarkt.technology/portrait/medium/340322-1727377772.jpg?lm=1
+Florian Wirtz,Bayer 04 Leverkusen,130000000,https://img.a.transfermarkt.technology/portrait/medium/598577-1689710503.jpg?lm=1
+Jonas Hofmann,Bayer 04 Leverkusen,7000000,https://img.a.transfermarkt.technology/portrait/medium/7161-1689710421.jpg?lm=1
+Francis Onyeka,Bayer 04 Leverkusen,500000,https://img.a.transfermarkt.technology/portrait/medium/929943-1727811666.jpg?lm=1
+Amine Adli,Bayer 04 Leverkusen,30000000,https://img.a.transfermarkt.technology/portrait/medium/532776-1689710574.jpg?lm=1
+Martin Terrier,Bayer 04 Leverkusen,20000000,https://img.a.transfermarkt.technology/portrait/medium/442891-1727378397.jpg?lm=1
+Victor Boniface,Bayer 04 Leverkusen,45000000,https://img.a.transfermarkt.technology/portrait/medium/656681-1727378262.jpg?lm=1
+Patrik Schick,Bayer 04 Leverkusen,22000000,https://img.a.transfermarkt.technology/portrait/medium/242086-1727378322.jpg?lm=1
+Artem Stepanov,Bayer 04 Leverkusen,350000,https://img.a.transfermarkt.technology/portrait/medium/1045344-1727812138.jpg?lm=1
+Maarten Vandevoordt,RB Leipzig,8000000,https://img.a.transfermarkt.technology/portrait/medium/486046-1724337345.jpg?lm=1
+Péter Gulácsi,RB Leipzig,3000000,https://img.a.transfermarkt.technology/portrait/medium/57071-1719214600.jpg?lm=1
+Leopold Zingerle,RB Leipzig,400000,https://img.a.transfermarkt.technology/portrait/medium/160971-1657096465.jpg?lm=1
+Castello Lukeba,RB Leipzig,40000000,https://img.a.transfermarkt.technology/portrait/medium/618472-1713897532.jpg?lm=1
+El Chadaille Bitshiabu,RB Leipzig,12000000,https://img.a.transfermarkt.technology/portrait/medium/787912-1672304780.jpg?lm=1
+Willi Orbán,RB Leipzig,10000000,https://img.a.transfermarkt.technology/portrait/medium/93740-1724337179.jpg?lm=1
+Lukas Klostermann,RB Leipzig,8000000,https://img.a.transfermarkt.technology/portrait/medium/215599-1724337278.jpg?lm=1
+David Raum,RB Leipzig,25000000,https://img.a.transfermarkt.technology/portrait/medium/318204-1713945422.jpg?lm=1
+Lutsharel Geertruida,RB Leipzig,32000000,https://img.a.transfermarkt.technology/portrait/medium/420210-1729520430.jpg?lm=1
+Benjamin Henrichs,RB Leipzig,20000000,https://img.a.transfermarkt.technology/portrait/medium/202591-1715858341.jpg?lm=1
+Arthur Vermeeren,RB Leipzig,25000000,https://img.a.transfermarkt.technology/portrait/medium/926694-1729520583.jpg?lm=1
+Xaver Schlager,RB Leipzig,28000000,https://img.a.transfermarkt.technology/portrait/medium/223979-1713945331.jpg?lm=1
+Amadou Haidara,RB Leipzig,20000000,https://img.a.transfermarkt.technology/portrait/medium/402008-1713945184.jpg?lm=1
+Nicolas Seiwald,RB Leipzig,16000000,https://img.a.transfermarkt.technology/portrait/medium/404950-1716315232.jpg?lm=1
+Assan Ouédraogo,RB Leipzig,10000000,https://img.a.transfermarkt.technology/portrait/medium/897424-1689877890.jpg?lm=1
+Kevin Kampl,RB Leipzig,3500000,https://img.a.transfermarkt.technology/portrait/medium/53418-1696919483.jpg?lm=1
+Xavi Simons,RB Leipzig,80000000,https://img.a.transfermarkt.technology/portrait/medium/566931-1729778226.jpg?lm=1
+Christoph Baumgartner,RB Leipzig,18000000,https://img.a.transfermarkt.technology/portrait/medium/324278-1716315718.jpg?lm=1
+Eljif Elmas,RB Leipzig,15000000,https://img.a.transfermarkt.technology/portrait/medium/400489-1709127683.jpg?lm=1
+Antonio Nusa,RB Leipzig,22000000,https://img.a.transfermarkt.technology/portrait/medium/894914-1724337096.jpg?lm=1
+Loïs Openda,RB Leipzig,60000000,https://img.a.transfermarkt.technology/portrait/medium/368887-1713944805.jpg?lm=1
+Benjamin Sesko,RB Leipzig,50000000,https://img.a.transfermarkt.technology/portrait/medium/627442-1713897956.jpg?lm=1
+Yussuf Poulsen,RB Leipzig,6000000,https://img.a.transfermarkt.technology/portrait/medium/157635-1717097740.jpg?lm=1
+André Silva,RB Leipzig,6000000,https://img.a.transfermarkt.technology/portrait/medium/198008-1724336978.jpg?lm=1
+Gregor Kobel,Borussia Dortmund,40000000,https://img.a.transfermarkt.technology/portrait/medium/257814-1709559904.jpg?lm=1
+Marcel Lotka,Borussia Dortmund,1300000,https://img.a.transfermarkt.technology/portrait/medium/453737-1657285168.jpg?lm=1
+Alexander Meyer,Borussia Dortmund,800000,https://img.a.transfermarkt.technology/portrait/medium/76158-1716381651.jpg?lm=1
+Nico Schlotterbeck,Borussia Dortmund,40000000,https://img.a.transfermarkt.technology/portrait/medium/388198-1709560457.jpg?lm=1
+Waldemar Anton,Borussia Dortmund,24000000,https://img.a.transfermarkt.technology/portrait/medium/193004-1723922551.jpg?lm=1
+Niklas Süle,Borussia Dortmund,15000000,https://img.a.transfermarkt.technology/portrait/medium/166601-1709560223.jpg?lm=1
+Ramy Bensebaini,Borussia Dortmund,7000000,https://img.a.transfermarkt.technology/portrait/medium/284732-1730103772.jpg?lm=1
+Almugera Kabar,Borussia Dortmund,1000000,https://img.a.transfermarkt.technology/portrait/medium/884820-1713462323.jpg?lm=1
+Yan Couto,Borussia Dortmund,25000000,https://img.a.transfermarkt.technology/portrait/medium/627228-1723922216.jpg?lm=1
+Julian Ryerson,Borussia Dortmund,20000000,https://img.a.transfermarkt.technology/portrait/medium/370789-1709561216.jpg?lm=1
+Emre Can,Borussia Dortmund,10000000,https://img.a.transfermarkt.technology/portrait/medium/119296-1709561046.jpg?lm=1
+Felix Nmecha,Borussia Dortmund,20000000,https://img.a.transfermarkt.technology/portrait/medium/406640-1709560961.jpg?lm=1
+Marcel Sabitzer,Borussia Dortmund,20000000,https://img.a.transfermarkt.technology/portrait/medium/106987-1711745992.jpg?lm=1
+Pascal Groß,Borussia Dortmund,8000000,https://img.a.transfermarkt.technology/portrait/medium/82873-1719671915.jpg?lm=1
+Kjell Wätjen,Borussia Dortmund,2000000,https://img.a.transfermarkt.technology/portrait/medium/884810-1713462935.jpg?lm=1
+Julian Brandt,Borussia Dortmund,40000000,https://img.a.transfermarkt.technology/portrait/medium/187492-1709560849.jpg?lm=1
+Giovanni Reyna,Borussia Dortmund,12000000,https://img.a.transfermarkt.technology/portrait/medium/504215-1719657655.jpg?lm=1
+Karim Adeyemi,Borussia Dortmund,35000000,https://img.a.transfermarkt.technology/portrait/medium/496094-1712859708.jpg?lm=1
+Jamie Gittens,Borussia Dortmund,35000000,https://img.a.transfermarkt.technology/portrait/medium/670882-1712859996.jpg?lm=1
+Julien Duranville,Borussia Dortmund,8500000,https://img.a.transfermarkt.technology/portrait/medium/819215-1659621322.jpg?lm=1
+Donyell Malen,Borussia Dortmund,40000000,https://img.a.transfermarkt.technology/portrait/medium/326029-1711746104.jpg?lm=1
+Cole Campbell,Borussia Dortmund,300000,https://img.a.transfermarkt.technology/portrait/medium/866579-1713463452.jpg?lm=1
+Serhou Guirassy,Borussia Dortmund,40000000,https://img.a.transfermarkt.technology/portrait/medium/270541-1727815486.jpg?lm=1
+Maximilian Beier,Borussia Dortmund,30000000,https://img.a.transfermarkt.technology/portrait/medium/578392-1730574739.jpg?lm=1
+Alexander Nübel,VfB Stuttgart,12000000,https://img.a.transfermarkt.technology/portrait/medium/195778-1691998861.jpg?lm=1
+Dennis Seimen,VfB Stuttgart,1500000,https://img.a.transfermarkt.technology/portrait/medium/800946-1691998825.jpg?lm=1
+Fabian Bredlow,VfB Stuttgart,1000000,https://img.a.transfermarkt.technology/portrait/medium/187624-1723707742.jpg?lm=1
+Stefan Drljaca,VfB Stuttgart,325000,https://img.a.transfermarkt.technology/portrait/medium/388067-1723707200.jpg?lm=1
+Ameen Al-Dakhil,VfB Stuttgart,12000000,https://img.a.transfermarkt.technology/portrait/medium/620598-1626685322.jpg?lm=1
+Jeff Chabot,VfB Stuttgart,12000000,https://img.a.transfermarkt.technology/portrait/medium/303219-1723707145.jpg?lm=1
+Dan-Axel Zagadou,VfB Stuttgart,10000000,https://img.a.transfermarkt.technology/portrait/medium/344598-1691999093.jpg?lm=1
+Anthony Rouault,VfB Stuttgart,10000000,https://img.a.transfermarkt.technology/portrait/medium/690799-1723707069.jpg?lm=1
+Anrie Chase,VfB Stuttgart,2500000,https://img.a.transfermarkt.technology/portrait/medium/948537-1723636639.jpg?lm=1
+Ramon Hendriks,VfB Stuttgart,800000,https://img.a.transfermarkt.technology/portrait/medium/436064-1723707702.jpg?lm=1
+Maximilian Mittelstädt,VfB Stuttgart,17000000,https://img.a.transfermarkt.technology/portrait/medium/282660-1723707584.jpg?lm=1
+Frans Krätzig,VfB Stuttgart,2000000,https://img.a.transfermarkt.technology/portrait/medium/604320-1723707384.jpg?lm=1
+Josha Vagnoman,VfB Stuttgart,10000000,https://img.a.transfermarkt.technology/portrait/medium/448258-1691999620.jpg?lm=1
+Leonidas Stergiou,VfB Stuttgart,5000000,https://img.a.transfermarkt.technology/portrait/medium/507345-1723707260.jpg?lm=1
+Pascal Stenzel,VfB Stuttgart,2500000,https://img.a.transfermarkt.technology/portrait/medium/195246-1657181494.jpg?lm=1
+Angelo Stiller,VfB Stuttgart,28000000,https://img.a.transfermarkt.technology/portrait/medium/443710-1723707618.jpg?lm=1
+Atakan Karazor,VfB Stuttgart,12000000,https://img.a.transfermarkt.technology/portrait/medium/232320-1657181595.jpg?lm=1
+Yannik Keitel,VfB Stuttgart,5000000,https://img.a.transfermarkt.technology/portrait/medium/342039-1723707660.jpg?lm=1
+Nikolas Nartey,VfB Stuttgart,600000,https://img.a.transfermarkt.technology/portrait/medium/400546-1657181830.jpg?lm=1
+Enzo Millot,VfB Stuttgart,42000000,https://img.a.transfermarkt.technology/portrait/medium/569366-1723707547.jpg?lm=1
+Fabian Rieder,VfB Stuttgart,8000000,https://img.a.transfermarkt.technology/portrait/medium/507341-1723707005.jpg?lm=1
+Chris Führich,VfB Stuttgart,22000000,https://img.a.transfermarkt.technology/portrait/medium/272278-1691999004.jpg?lm=1
+Justin Diehl,VfB Stuttgart,2500000,https://img.a.transfermarkt.technology/portrait/medium/720162-1723707320.jpg?lm=1
+Jamie Leweling,VfB Stuttgart,13000000,https://img.a.transfermarkt.technology/portrait/medium/518505-1691999306.jpg?lm=1
+Luca Raimund,VfB Stuttgart,500000,https://img.a.transfermarkt.technology/portrait/medium/907489-1723636598.jpg?lm=1
+Nick Woltemade,VfB Stuttgart,4000000,https://img.a.transfermarkt.technology/portrait/medium/455661-1723707419.jpg?lm=1
+Ermedin Demirovic,VfB Stuttgart,28000000,https://img.a.transfermarkt.technology/portrait/medium/335457-1723707508.jpg?lm=1
+Deniz Undav,VfB Stuttgart,28000000,https://img.a.transfermarkt.technology/portrait/medium/339314-1691999036.jpg?lm=1
+El Bilal Touré,VfB Stuttgart,20000000,https://img.a.transfermarkt.technology/portrait/medium/649016-1730115563.jpg?lm=1
+Wahid Faghir,VfB Stuttgart,1000000,https://img.a.transfermarkt.technology/portrait/medium/610431-1689927868.jpg?lm=1
+Thomas Kastanaras,VfB Stuttgart,500000,https://img.a.transfermarkt.technology/portrait/medium/675565-1691999148.jpg?lm=1
+Kevin Trapp,Eintracht Frankfurt,4000000,https://img.a.transfermarkt.technology/portrait/medium/45672-1724772525.jpg?lm=1
+Kauã Santos,Eintracht Frankfurt,2500000,https://img.a.transfermarkt.technology/portrait/medium/997861-1696509170.jpg?lm=1
+Jens Grahl,Eintracht Frankfurt,200000,https://img.a.transfermarkt.technology/portrait/medium/40034-1663064684.jpg?lm=1
+Arthur Theate,Eintracht Frankfurt,20000000,https://img.a.transfermarkt.technology/portrait/medium/368891-1666698276.jpg?lm=1
+Robin Koch,Eintracht Frankfurt,18000000,https://img.a.transfermarkt.technology/portrait/medium/328784-1696508822.jpg?lm=1
+Tuta,Eintracht Frankfurt,12000000,https://img.a.transfermarkt.technology/portrait/medium/546213-1663064755.jpg?lm=1
+Aurèle Amenda,Eintracht Frankfurt,9500000,https://img.a.transfermarkt.technology/portrait/medium/635645-1724772426.jpg?lm=1
+Nnamdi Collins,Eintracht Frankfurt,1000000,https://img.a.transfermarkt.technology/portrait/medium/684315-1724772257.jpg?lm=1
+Niels Nkounkou,Eintracht Frankfurt,7500000,https://img.a.transfermarkt.technology/portrait/medium/591193-1696509000.jpg?lm=1
+Nathaniel Brown,Eintracht Frankfurt,3000000,https://img.a.transfermarkt.technology/portrait/medium/691892-1724772335.jpg?lm=1
+Rasmus Kristensen,Eintracht Frankfurt,10000000,https://img.a.transfermarkt.technology/portrait/medium/369684-1725875948.jpg?lm=1
+Timothy Chandler,Eintracht Frankfurt,500000,https://img.a.transfermarkt.technology/portrait/medium/49723-1663064872.jpg?lm=1
+Ellyes Skhiri,Eintracht Frankfurt,11000000,https://img.a.transfermarkt.technology/portrait/medium/290587-1696509403.jpg?lm=1
+Hugo Larsson,Eintracht Frankfurt,28000000,https://img.a.transfermarkt.technology/portrait/medium/931838-1696509259.jpg?lm=1
+Mahmoud Dahoud,Eintracht Frankfurt,6000000,https://img.a.transfermarkt.technology/portrait/medium/191422-1726605307.jpg?lm=1
+Oscar Højlund,Eintracht Frankfurt,2000000,https://img.a.transfermarkt.technology/portrait/medium/846310-1724771793.jpg?lm=1
+Junior Dina Ebimbe,Eintracht Frankfurt,9000000,https://img.a.transfermarkt.technology/portrait/medium/536482-1663065378.jpg?lm=1
+Farès Chaïbi,Eintracht Frankfurt,18000000,https://img.a.transfermarkt.technology/portrait/medium/855015-1693383538.jpg?lm=1
+Can Uzun,Eintracht Frankfurt,12000000,https://img.a.transfermarkt.technology/portrait/medium/816585-1724772468.jpg?lm=1
+Mario Götze,Eintracht Frankfurt,5500000,https://img.a.transfermarkt.technology/portrait/medium/74842-1663065102.jpg?lm=1
+Krisztián Lisztes,Eintracht Frankfurt,4500000,https://img.a.transfermarkt.technology/portrait/medium/933217-1724771721.jpg?lm=1
+Jean-Mattéo Bahoya,Eintracht Frankfurt,7500000,https://img.a.transfermarkt.technology/portrait/medium/939964-1724772389.jpg?lm=1
+Ansgar Knauff,Eintracht Frankfurt,10000000,https://img.a.transfermarkt.technology/portrait/medium/429874-1663065826.jpg?lm=1
+Omar Marmoush,Eintracht Frankfurt,40000000,https://img.a.transfermarkt.technology/portrait/medium/445939-1696508916.jpg?lm=1
+Hugo Ekitiké,Eintracht Frankfurt,30000000,https://img.a.transfermarkt.technology/portrait/medium/709726-1724772213.jpg?lm=1
+Igor Matanovic,Eintracht Frankfurt,8000000,https://img.a.transfermarkt.technology/portrait/medium/605268-1724772594.jpg?lm=1
+Kamil Grabara,VfL Wolfsburg,14000000,https://img.a.transfermarkt.technology/portrait/medium/346551-1724770843.jpg?lm=1
+Marius Müller,VfL Wolfsburg,1500000,https://img.a.transfermarkt.technology/portrait/medium/118161-1724771088.jpg?lm=1
+Pavao Pervan,VfL Wolfsburg,300000,https://img.a.transfermarkt.technology/portrait/medium/51977-1657202144.jpg?lm=1
+Niklas Klinger,VfL Wolfsburg,100000,https://img.a.transfermarkt.technology/portrait/medium/192268-1657202222.jpg?lm=1
+Konstantinos Koulierakis,VfL Wolfsburg,12000000,https://img.a.transfermarkt.technology/portrait/medium/669380-1694780769.png?lm=1
+Sebastiaan Bornauw,VfL Wolfsburg,7000000,https://img.a.transfermarkt.technology/portrait/medium/338629-1657202272.jpg?lm=1
+Cédric Zesiger,VfL Wolfsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/382478-1689866125.jpg?lm=1
+Denis Vavro,VfL Wolfsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/239962-1731920675.jpg?lm=1
+Mathys Angély,VfL Wolfsburg,600000,https://img.a.transfermarkt.technology/portrait/medium/1075579-1723565270.jpg?lm=1
+David Odogu,VfL Wolfsburg,0,https://img.a.transfermarkt.technology/portrait/medium/897423-1724771146.jpg?lm=1
+Rogério,VfL Wolfsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/401527-1695624076.jpg?lm=1
+Joakim Maehle,VfL Wolfsburg,14000000,https://img.a.transfermarkt.technology/portrait/medium/369674-1724770995.jpg?lm=1
+Ridle Baku,VfL Wolfsburg,7000000,https://img.a.transfermarkt.technology/portrait/medium/327251-1657203077.jpg?lm=1
+Kilian Fischer,VfL Wolfsburg,2500000,https://img.a.transfermarkt.technology/portrait/medium/435796-1657202527.jpg?lm=1
+Salih Özcan,VfL Wolfsburg,10000000,https://img.a.transfermarkt.technology/portrait/medium/244940-1709561120.jpg?lm=1
+Aster Vranckx,VfL Wolfsburg,12000000,https://img.a.transfermarkt.technology/portrait/medium/503881-1657202999.jpg?lm=1
+Mattias Svanberg,VfL Wolfsburg,12000000,https://img.a.transfermarkt.technology/portrait/medium/342405-1689866072.jpg?lm=1
+Maximilian Arnold,VfL Wolfsburg,7000000,https://img.a.transfermarkt.technology/portrait/medium/117674-1660652294.JPG?lm=1
+Yannick Gerhardt,VfL Wolfsburg,4000000,https://img.a.transfermarkt.technology/portrait/medium/119277-1657203024.jpg?lm=1
+Kevin Paredes,VfL Wolfsburg,7500000,https://img.a.transfermarkt.technology/portrait/medium/711517-1657203115.jpg?lm=1
+Lovro Majer,VfL Wolfsburg,20000000,https://img.a.transfermarkt.technology/portrait/medium/387106-1695624038.jpg?lm=1
+Bence Dárdai,VfL Wolfsburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/789252-1695045596.jpg?lm=1
+Bennit Bröger,VfL Wolfsburg,500000,https://img.a.transfermarkt.technology/portrait/medium/897479-1701533448.jpg?lm=1
+Jakub Kaminski,VfL Wolfsburg,6000000,https://img.a.transfermarkt.technology/portrait/medium/407098-1724770940.jpg?lm=1
+David Leal Costa,VfL Wolfsburg,0,https://img.a.transfermarkt.technology/portrait/medium/910588-1696107843.jpeg?lm=1
+Patrick Wimmer,VfL Wolfsburg,15000000,https://img.a.transfermarkt.technology/portrait/medium/533295-1657203456.jpg?lm=1
+Mohamed Amoura,VfL Wolfsburg,16000000,https://img.a.transfermarkt.technology/portrait/medium/746910-1724771303.jpg?lm=1
+Jonas Wind,VfL Wolfsburg,15000000,https://img.a.transfermarkt.technology/portrait/medium/391004-1689866009.jpg?lm=1
+Tiago Tomás,VfL Wolfsburg,6000000,https://img.a.transfermarkt.technology/portrait/medium/616344-1695623995.jpg?lm=1
+Lukas Nmecha,VfL Wolfsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/314288-1657203640.jpg?lm=1
+Kevin Behrens,VfL Wolfsburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/117432-1692707679.jpg?lm=1
+Bartosz Bialek,VfL Wolfsburg,1000000,https://img.a.transfermarkt.technology/portrait/medium/535551-1657203695.jpg?lm=1
+Noah Atubolu,SC Freiburg,10000000,https://img.a.transfermarkt.technology/portrait/medium/526845-1658411548.jpg?lm=1
+Florian Müller,SC Freiburg,1200000,https://img.a.transfermarkt.technology/portrait/medium/284769-1691998669.jpg?lm=1
+Jannik Huth,SC Freiburg,400000,https://img.a.transfermarkt.technology/portrait/medium/160954-1723190117.jpg?lm=1
+Philipp Lienhart,SC Freiburg,15000000,https://img.a.transfermarkt.technology/portrait/medium/225657-1658411602.jpg?lm=1
+Matthias Ginter,SC Freiburg,10000000,https://img.a.transfermarkt.technology/portrait/medium/124502-1658411624.jpg?lm=1
+Max Rosenfelder,SC Freiburg,2500000,https://img.a.transfermarkt.technology/portrait/medium/599419-1658503667.jpg?lm=1
+Kenneth Schmidt,SC Freiburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/527276-1723190073.jpg?lm=1
+Manuel Gulde,SC Freiburg,1500000,https://img.a.transfermarkt.technology/portrait/medium/45683-1658411711.jpg?lm=1
+Bruno Ogbus,SC Freiburg,1000000,https://img.a.transfermarkt.technology/portrait/medium/863759-1723189626.jpg?lm=1
+Christian Günter,SC Freiburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/93707-1658411784.jpg?lm=1
+Jordy Makengo,SC Freiburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/815078-1691998545.jpg?lm=1
+Kiliann Sildillia,SC Freiburg,15000000,https://img.a.transfermarkt.technology/portrait/medium/548348-1691998588.jpg?lm=1
+Lukas Kübler,SC Freiburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/93604-1658412582.jpg?lm=1
+Nicolas Höfler,SC Freiburg,1000000,https://img.a.transfermarkt.technology/portrait/medium/55099-1658412737.jpg?lm=1
+Maximilian Eggestein,SC Freiburg,10000000,https://img.a.transfermarkt.technology/portrait/medium/190284-1723189965.jpg?lm=1
+Patrick Osterhage,SC Freiburg,7000000,https://img.a.transfermarkt.technology/portrait/medium/443331-1723190030.jpg?lm=1
+Johan Manzambi,SC Freiburg,750000,https://img.a.transfermarkt.technology/portrait/medium/927353-1688714441.jpg?lm=1
+Merlin Röhl,SC Freiburg,12000000,https://img.a.transfermarkt.technology/portrait/medium/608832-1726649794.jpg?lm=1
+Daniel-Kofi Kyereh,SC Freiburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/272587-1658413205.jpg?lm=1
+Vincenzo Grifo,SC Freiburg,9000000,https://img.a.transfermarkt.technology/portrait/medium/185077-1658413230.jpg?lm=1
+Noah Weißhaupt,SC Freiburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/392163-1658413281.jpg?lm=1
+Florent Muslija,SC Freiburg,2500000,https://img.a.transfermarkt.technology/portrait/medium/337036-1723189853.jpg?lm=1
+Ritsu Doan,SC Freiburg,18000000,https://img.a.transfermarkt.technology/portrait/medium/358504-1658413443.jpg?lm=1
+Eren Dinkçi,SC Freiburg,12000000,https://img.a.transfermarkt.technology/portrait/medium/645774-1690186275.jpg?lm=1
+Maximilian Philipp,SC Freiburg,1200000,https://img.a.transfermarkt.technology/portrait/medium/143891-1723189806.jpg?lm=1
+Michael Gregoritsch,SC Freiburg,8000000,https://img.a.transfermarkt.technology/portrait/medium/120205-1658413549.jpg?lm=1
+Junior Adamu,SC Freiburg,6000000,https://img.a.transfermarkt.technology/portrait/medium/452477-1691998414.jpg?lm=1
+Lucas Höler,SC Freiburg,4000000,https://img.a.transfermarkt.technology/portrait/medium/248999-1658413525.jpg?lm=1
+Oliver Baumann,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/55089-1657200130.jpg?lm=1
+Luca Philipp,TSG 1899 Hoffenheim,300000,https://img.a.transfermarkt.technology/portrait/medium/432671-1657200196.jpg?lm=1
+Lúkas Petersson,TSG 1899 Hoffenheim,150000,https://img.a.transfermarkt.technology/portrait/medium/718460-1723920319.jpg?lm=1
+Ozan Kabak,TSG 1899 Hoffenheim,10000000,https://img.a.transfermarkt.technology/portrait/medium/361260-1691269223.jpg?lm=1
+Robin Hranac,TSG 1899 Hoffenheim,8000000,https://img.a.transfermarkt.technology/portrait/medium/620217-1713471898.jpg?lm=1
+Tim Drexler,TSG 1899 Hoffenheim,4000000,https://img.a.transfermarkt.technology/portrait/medium/822958-1665473351.jpg?lm=1
+Kevin Akpoguma,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/160241-1723920979.jpg?lm=1
+Stanley Nsoki,TSG 1899 Hoffenheim,2500000,https://img.a.transfermarkt.technology/portrait/medium/371141-1691269161.jpg?lm=1
+Attila Szalai,TSG 1899 Hoffenheim,2000000,https://img.a.transfermarkt.technology/portrait/medium/263380-1691269895.jpg?lm=1
+Arthur Chaves,TSG 1899 Hoffenheim,1200000,https://img.a.transfermarkt.technology/portrait/medium/875332-1731017725.jpg?lm=1
+David Jurásek,TSG 1899 Hoffenheim,8000000,https://img.a.transfermarkt.technology/portrait/medium/500054-1701333965.jpg?lm=1
+Christopher Lenz,TSG 1899 Hoffenheim,1500000,https://img.a.transfermarkt.technology/portrait/medium/159844-1663065776.jpg?lm=1
+Marco John,TSG 1899 Hoffenheim,1500000,https://img.a.transfermarkt.technology/portrait/medium/450234-1657201014.jpg?lm=1
+Valentin Gendrey,TSG 1899 Hoffenheim,8500000,https://img.a.transfermarkt.technology/portrait/medium/569387-1663745931.jpg?lm=1
+Pavel Kaderabek,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/143798-1657200722.jpg?lm=1
+Anton Stach,TSG 1899 Hoffenheim,15000000,https://img.a.transfermarkt.technology/portrait/medium/344069-1723921116.jpg?lm=1
+Florian Grillitsch,TSG 1899 Hoffenheim,6500000,https://img.a.transfermarkt.technology/portrait/medium/195736-1691269821.jpg?lm=1
+Diadié Samassékou,TSG 1899 Hoffenheim,1000000,https://img.a.transfermarkt.technology/portrait/medium/315604-1657200749.jpg?lm=1
+Grischa Prömel,TSG 1899 Hoffenheim,7000000,https://img.a.transfermarkt.technology/portrait/medium/234029-1657200969.jpg?lm=1
+Umut Tohumcu,TSG 1899 Hoffenheim,7000000,https://img.a.transfermarkt.technology/portrait/medium/569031-1691269357.jpg?lm=1
+Tom Bischof,TSG 1899 Hoffenheim,3500000,https://img.a.transfermarkt.technology/portrait/medium/822959-1723921256.jpg?lm=1
+Dennis Geiger,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/251309-1723921207.jpg?lm=1
+Finn Ole Becker,TSG 1899 Hoffenheim,2500000,https://img.a.transfermarkt.technology/portrait/medium/334999-1657200994.jpg?lm=1
+Florian Micheler,TSG 1899 Hoffenheim,500000,https://img.a.transfermarkt.technology/portrait/medium/808664-1730192007.jpg?lm=1
+Alexander Prass,TSG 1899 Hoffenheim,12000000,https://img.a.transfermarkt.technology/portrait/medium/434116-1723921044.jpg?lm=1
+Jacob Bruun Larsen,TSG 1899 Hoffenheim,6000000,https://img.a.transfermarkt.technology/portrait/medium/293281-1657201254.jpg?lm=1
+Marius Bülter,TSG 1899 Hoffenheim,2500000,https://img.a.transfermarkt.technology/portrait/medium/116088-1691269482.jpg?lm=1
+Adam Hlozek,TSG 1899 Hoffenheim,18000000,https://img.a.transfermarkt.technology/portrait/medium/552057-1695368334.jpg?lm=1
+Mergim Berisha,TSG 1899 Hoffenheim,10000000,https://img.a.transfermarkt.technology/portrait/medium/307924-1691251216.jpg?lm=1
+Andrej Kramaric,TSG 1899 Hoffenheim,5000000,https://img.a.transfermarkt.technology/portrait/medium/46580-1657201316.jpg?lm=1
+Ihlas Bebou,TSG 1899 Hoffenheim,4000000,https://img.a.transfermarkt.technology/portrait/medium/237164-1723921163.jpg?lm=1
+Haris Tabakovic,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/203123-1720778399.jpg?lm=1
+Max Moerstedt,TSG 1899 Hoffenheim,3000000,https://img.a.transfermarkt.technology/portrait/medium/923595-1723920909.jpg?lm=1
+Jonas Omlin,Borussia Mönchengladbach,6000000,https://img.a.transfermarkt.technology/portrait/medium/247915-1691248651.jpg?lm=1
+Moritz Nicolas,Borussia Mönchengladbach,2500000,https://img.a.transfermarkt.technology/portrait/medium/284270-1722945496.jpg?lm=1
+Jan Olschowsky,Borussia Mönchengladbach,600000,https://img.a.transfermarkt.technology/portrait/medium/455922-1662965990.jpg?lm=1
+Tobias Sippel,Borussia Mönchengladbach,300000,https://img.a.transfermarkt.technology/portrait/medium/31653-1662965792.jpg?lm=1
+Ko Itakura,Borussia Mönchengladbach,15000000,https://img.a.transfermarkt.technology/portrait/medium/355816-1662966245.jpg?lm=1
+Nico Elvedi,Borussia Mönchengladbach,10000000,https://img.a.transfermarkt.technology/portrait/medium/192635-1691249306.jpg?lm=1
+Marvin Friedrich,Borussia Mönchengladbach,3500000,https://img.a.transfermarkt.technology/portrait/medium/196231-1662966392.jpg?lm=1
+Fabio Chiarodia,Borussia Mönchengladbach,2000000,https://img.a.transfermarkt.technology/portrait/medium/724104-1722945535.jpg?lm=1
+Luca Netz,Borussia Mönchengladbach,8000000,https://img.a.transfermarkt.technology/portrait/medium/524285-1662966052.jpg?lm=1
+Lukas Ullrich,Borussia Mönchengladbach,750000,https://img.a.transfermarkt.technology/portrait/medium/787151-1691248738.jpg?lm=1
+Joe Scally,Borussia Mönchengladbach,10000000,https://img.a.transfermarkt.technology/portrait/medium/504153-1662965954.jpg?lm=1
+Stefan Lainer,Borussia Mönchengladbach,2500000,https://img.a.transfermarkt.technology/portrait/medium/85791-1627997478.jpg?lm=1
+Julian Weigl,Borussia Mönchengladbach,6000000,https://img.a.transfermarkt.technology/portrait/medium/196792-1662965628.jpg?lm=1
+Rocco Reitz,Borussia Mönchengladbach,10000000,https://img.a.transfermarkt.technology/portrait/medium/467434-1662966138.jpg?lm=1
+Florian Neuhaus,Borussia Mönchengladbach,5000000,https://img.a.transfermarkt.technology/portrait/medium/278332-1662966489.jpg?lm=1
+Philipp Sander,Borussia Mönchengladbach,4000000,https://img.a.transfermarkt.technology/portrait/medium/388409-1706105305.jpg?lm=1
+Kevin Stöger,Borussia Mönchengladbach,5000000,https://img.a.transfermarkt.technology/portrait/medium/106872-1722945684.jpg?lm=1
+Robin Hack,Borussia Mönchengladbach,8000000,https://img.a.transfermarkt.technology/portrait/medium/284010-1722945425.jpg?lm=1
+Yvandro Borges Sanches,Borussia Mönchengladbach,750000,https://img.a.transfermarkt.technology/portrait/medium/586659-1662966289.jpg?lm=1
+Franck Honorat,Borussia Mönchengladbach,12000000,https://img.a.transfermarkt.technology/portrait/medium/229006-1691248904.jpg?lm=1
+Nathan Ngoumou,Borussia Mönchengladbach,5000000,https://img.a.transfermarkt.technology/portrait/medium/629588-1662966435.jpg?lm=1
+Tim Kleindienst,Borussia Mönchengladbach,8000000,https://img.a.transfermarkt.technology/portrait/medium/193033-1722945738.jpg?lm=1
+Alassane Pléa,Borussia Mönchengladbach,7000000,https://img.a.transfermarkt.technology/portrait/medium/167329-1627997314.jpg?lm=1
+Tomas Cvancara,Borussia Mönchengladbach,6500000,https://img.a.transfermarkt.technology/portrait/medium/544148-1691249040.jpg?lm=1
+Grant-Leon Ranos,Borussia Mönchengladbach,1000000,https://img.a.transfermarkt.technology/portrait/medium/574201-1691249188.jpg?lm=1
+Shio Fukuda,Borussia Mönchengladbach,300000,https://img.a.transfermarkt.technology/portrait/medium/1073997-1722945597.jpg?lm=1
+Frederik Rönnow,1.FC Union Berlin,4500000,https://img.a.transfermarkt.technology/portrait/medium/107775-1692707378.jpg?lm=1
+Alexander Schwolow,1.FC Union Berlin,700000,https://img.a.transfermarkt.technology/portrait/medium/93763-1726351593.jpg?lm=1
+Carl Klaus,1.FC Union Berlin,350000,https://img.a.transfermarkt.technology/portrait/medium/161057-1689328549.jpg?lm=1
+Yannic Stein,1.FC Union Berlin,200000,https://img.a.transfermarkt.technology/portrait/medium/698840-1691614386.jpg?lm=1
+Danilho Doekhi,1.FC Union Berlin,17000000,https://img.a.transfermarkt.technology/portrait/medium/387047-1692707468.jpg?lm=1
+Diogo Leite,1.FC Union Berlin,15000000,https://img.a.transfermarkt.technology/portrait/medium/357156-1691999912.jpg?lm=1
+Leopold Querfeld,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/597432-1726351317.jpg?lm=1
+Kevin Vogt,1.FC Union Berlin,2000000,https://img.a.transfermarkt.technology/portrait/medium/84435-1726350948.jpg?lm=1
+Oluwaseun Ogbemudia,1.FC Union Berlin,0,https://img.a.transfermarkt.technology/portrait/medium/995520-1726351144.jpg?lm=1
+Jérôme Roussillon,1.FC Union Berlin,2500000,https://img.a.transfermarkt.technology/portrait/medium/127076-1691614715.jpg?lm=1
+Josip Juranovic,1.FC Union Berlin,7500000,https://img.a.transfermarkt.technology/portrait/medium/362977-1691614466.jpg?lm=1
+Christopher Trimmel,1.FC Union Berlin,600000,https://img.a.transfermarkt.technology/portrait/medium/75921-1692707564.jpg?lm=1
+Lucas Tousart,1.FC Union Berlin,5500000,https://img.a.transfermarkt.technology/portrait/medium/353948-1691614305.jpg?lm=1
+Rani Khedira,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/124410-1692707430.jpg?lm=1
+Aljoscha Kemlein,1.FC Union Berlin,3000000,https://img.a.transfermarkt.technology/portrait/medium/692737-1691614020.jpg?lm=1
+András Schäfer,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/454863-1726351222.jpg?lm=1
+László Bénes,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/243188-1719585148.jpg?lm=1
+Janik Haberer,1.FC Union Berlin,3000000,https://img.a.transfermarkt.technology/portrait/medium/177779-1692707721.jpg?lm=1
+Tom Rothe,1.FC Union Berlin,8000000,https://img.a.transfermarkt.technology/portrait/medium/798043-1715607518.jpg?lm=1
+Robert Skov,1.FC Union Berlin,3000000,https://img.a.transfermarkt.technology/portrait/medium/270393-1726350741.jpg?lm=1
+Woo-yeong Jeong,1.FC Union Berlin,3500000,https://img.a.transfermarkt.technology/portrait/medium/297583-1723707463.jpg?lm=1
+David Preu,1.FC Union Berlin,25000,https://img.a.transfermarkt.technology/portrait/medium/745075-1726351060.jpg?lm=1
+Tim Skarke,1.FC Union Berlin,3000000,https://img.a.transfermarkt.technology/portrait/medium/287920-1692707601.jpg?lm=1
+Yorbe Vertessen,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/409517-1726351379.jpg?lm=1
+Benedict Hollerbach,1.FC Union Berlin,5000000,https://img.a.transfermarkt.technology/portrait/medium/453870-1691614654.jpg?lm=1
+Kevin Volland,1.FC Union Berlin,4000000,https://img.a.transfermarkt.technology/portrait/medium/82009-1726351449.jpg?lm=1
+Jordan,1.FC Union Berlin,4000000,https://img.a.transfermarkt.technology/portrait/medium/355369-1692707635.jpg?lm=1
+Andrej Ilic,1.FC Union Berlin,3000000,https://img.a.transfermarkt.technology/portrait/medium/583699-1726350811.jpg?lm=1
+Ivan Prtajin,1.FC Union Berlin,1800000,https://img.a.transfermarkt.technology/portrait/medium/340700-1690131388.jpg?lm=1
+Michael Zetterer,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/196813-1660208839.jpg?lm=1
+Mio Backhaus,SV Werder Bremen,2000000,https://img.a.transfermarkt.technology/portrait/medium/620295-1722887617.jpg?lm=1
+Markus Kolke,SV Werder Bremen,300000,https://img.a.transfermarkt.technology/portrait/medium/99451-1722887501.jpg?lm=1
+Marco Friedl,SV Werder Bremen,7500000,https://img.a.transfermarkt.technology/portrait/medium/156990-1660207986.jpg?lm=1
+Niklas Stark,SV Werder Bremen,5500000,https://img.a.transfermarkt.technology/portrait/medium/162434-1660208662.jpg?lm=1
+Milos Veljkovic,SV Werder Bremen,4500000,https://img.a.transfermarkt.technology/portrait/medium/202228-1694527030.jpg?lm=1
+Amos Pieper,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/334221-1660208427.jpg?lm=1
+Julián Malatini,SV Werder Bremen,2500000,https://img.a.transfermarkt.technology/portrait/medium/830108-1722887346.jpg?lm=1
+Anthony Jung,SV Werder Bremen,1000000,https://img.a.transfermarkt.technology/portrait/medium/58995-1660208184.jpg?lm=1
+Derrick Köhn,SV Werder Bremen,6000000,https://img.a.transfermarkt.technology/portrait/medium/391780-1707464358.png?lm=1
+Mitchell Weiser,SV Werder Bremen,6000000,https://img.a.transfermarkt.technology/portrait/medium/119211-1660208775.jpg?lm=1
+Felix Agu,SV Werder Bremen,6000000,https://img.a.transfermarkt.technology/portrait/medium/393512-1722887707.jpg?lm=1
+Senne Lynen,SV Werder Bremen,7000000,https://img.a.transfermarkt.technology/portrait/medium/338668-1722887459.jpg?lm=1
+Skelly Alvero,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/855134-1706082508.jpg?lm=1
+Jens Stage,SV Werder Bremen,9000000,https://img.a.transfermarkt.technology/portrait/medium/289835-1660208628.jpg?lm=1
+Leonardo Bittencourt,SV Werder Bremen,2500000,https://img.a.transfermarkt.technology/portrait/medium/93844-1660206490.jpg?lm=1
+Naby Keïta,SV Werder Bremen,1000000,https://img.a.transfermarkt.technology/portrait/medium/302215-1691613796.jpg?lm=1
+Olivier Deman,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/621802-1722887784.jpg?lm=1
+Leon Opitz,SV Werder Bremen,600000,https://img.a.transfermarkt.technology/portrait/medium/825073-1693834663.jpg?lm=1
+Romano Schmid,SV Werder Bremen,13000000,https://img.a.transfermarkt.technology/portrait/medium/346853-1730117104.jpg?lm=1
+Isak Hansen-Aarøen,SV Werder Bremen,1500000,https://img.a.transfermarkt.technology/portrait/medium/670116-1722887545.jpg?lm=1
+Marco Grüll,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/391766-1692995037.png?lm=1
+Abdenego Nankishi,SV Werder Bremen,450000,https://img.a.transfermarkt.technology/portrait/medium/455662-1660208303.jpg?lm=1
+Justin Njinmah,SV Werder Bremen,9000000,https://img.a.transfermarkt.technology/portrait/medium/596153-1722887298.jpg?lm=1
+Oliver Burke,SV Werder Bremen,1000000,https://img.a.transfermarkt.technology/portrait/medium/341317-1660206566.jpg?lm=1
+Marvin Ducksch,SV Werder Bremen,9000000,https://img.a.transfermarkt.technology/portrait/medium/125103-1660206693.jpg?lm=1
+Keke Topp,SV Werder Bremen,4000000,https://img.a.transfermarkt.technology/portrait/medium/701757-1722887176.jpg?lm=1
+Nediljko Labrovic,FC Augsburg,4500000,https://img.a.transfermarkt.technology/portrait/medium/610190-1722850680.jpg?lm=1
+Finn Dahmen,FC Augsburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/251299-1722849607.jpg?lm=1
+Daniel Klein,FC Augsburg,150000,https://img.a.transfermarkt.technology/portrait/medium/392124-1723534046.jpg?lm=1
+Chrislain Matsima,FC Augsburg,7000000,https://img.a.transfermarkt.technology/portrait/medium/569383-1726605447.jpg?lm=1
+Keven Schlotterbeck,FC Augsburg,6000000,https://img.a.transfermarkt.technology/portrait/medium/413843-1722849820.jpg?lm=1
+Maximilian Bauer,FC Augsburg,3000000,https://img.a.transfermarkt.technology/portrait/medium/388363-1723533985.jpg?lm=1
+Jeffrey Gouweleeuw,FC Augsburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/106405-1723534156.jpg?lm=1
+Reece Oxford,FC Augsburg,700000,https://img.a.transfermarkt.technology/portrait/medium/314295-1658599514.jpg?lm=1
+Noahkai Banks,FC Augsburg,150000,https://img.a.transfermarkt.technology/portrait/medium/923945-1722849946.jpg?lm=1
+Dimitrios Giannoulis,FC Augsburg,2800000,https://img.a.transfermarkt.technology/portrait/medium/295630-1722850451.jpg?lm=1
+Mads Pedersen,FC Augsburg,2500000,https://img.a.transfermarkt.technology/portrait/medium/288429-1722849762.jpg?lm=1
+Marius Wolf,FC Augsburg,3000000,https://img.a.transfermarkt.technology/portrait/medium/193900-1723533785.jpg?lm=1
+Robert Gumny,FC Augsburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/353826-1723534351.jpg?lm=1
+Henri Koudossou,FC Augsburg,450000,https://img.a.transfermarkt.technology/portrait/medium/515624-1722850046.jpg?lm=1
+Kristijan Jakic,FC Augsburg,6500000,https://img.a.transfermarkt.technology/portrait/medium/374954-1722850639.jpg?lm=1
+Tim Breithaupt,FC Augsburg,3000000,https://img.a.transfermarkt.technology/portrait/medium/569457-1723534386.jpg?lm=1
+Mahmut Kücüksahin,FC Augsburg,175000,https://img.a.transfermarkt.technology/portrait/medium/730486-1723533755.jpg?lm=1
+Frank Onyeka,FC Augsburg,9000000,https://img.a.transfermarkt.technology/portrait/medium/421637-1726605377.jpg?lm=1
+Arne Maier,FC Augsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/296397-1723534223.jpg?lm=1
+Elvis Rexhbecaj,FC Augsburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/280575-1723534071.jpg?lm=1
+Alexis Claude-Maurice,FC Augsburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/384593-1726605505.jpg?lm=1
+Fredrik Jensen,FC Augsburg,3500000,https://img.a.transfermarkt.technology/portrait/medium/249157-1722850499.jpg?lm=1
+Mert Kömür,FC Augsburg,2000000,https://img.a.transfermarkt.technology/portrait/medium/777005-1723534018.jpg?lm=1
+Rubén Vargas,FC Augsburg,9000000,https://img.a.transfermarkt.technology/portrait/medium/345886-1722850174.jpg?lm=1
+Yusuf Kabadayi,FC Augsburg,1500000,https://img.a.transfermarkt.technology/portrait/medium/604359-1722850338.jpg?lm=1
+Masaya Okugawa,FC Augsburg,900000,https://img.a.transfermarkt.technology/portrait/medium/307052-1723533958.jpg?lm=1
+Phillip Tietz,FC Augsburg,5000000,https://img.a.transfermarkt.technology/portrait/medium/288340-1723534293.jpg?lm=1
+Samuel Essende,FC Augsburg,4500000,https://img.a.transfermarkt.technology/portrait/medium/395522-1722849662.jpg?lm=1
+Steve Mounié,FC Augsburg,4500000,https://img.a.transfermarkt.technology/portrait/medium/238639-1722849465.jpg?lm=1
+Robin Zentner,1.FSV Mainz 05,3000000,https://img.a.transfermarkt.technology/portrait/medium/160963-1676499369.jpg?lm=1
+Daniel Batz,1.FSV Mainz 05,350000,https://img.a.transfermarkt.technology/portrait/medium/90317-1722886526.jpg?lm=1
+Lasse Rieß,1.FSV Mainz 05,200000,https://img.a.transfermarkt.technology/portrait/medium/490609-1720079547.png?lm=1
+Andreas Hanche-Olsen,1.FSV Mainz 05,9000000,https://img.a.transfermarkt.technology/portrait/medium/370683-1692000124.jpg?lm=1
+Moritz Jenz,1.FSV Mainz 05,7500000,https://img.a.transfermarkt.technology/portrait/medium/460245-1689865901.jpg?lm=1
+Maxim Leitsch,1.FSV Mainz 05,2000000,https://img.a.transfermarkt.technology/portrait/medium/334207-1676499456.jpg?lm=1
+Stefan Bell,1.FSV Mainz 05,800000,https://img.a.transfermarkt.technology/portrait/medium/82350-1657706740.jpg?lm=1
+Maxim Dal,1.FSV Mainz 05,0,https://img.a.transfermarkt.technology/portrait/medium/934317-1722886472.jpg?lm=1
+Phillipp Mwene,1.FSV Mainz 05,1800000,https://img.a.transfermarkt.technology/portrait/medium/127573-1722886402.jpg?lm=1
+Silvan Widmer,1.FSV Mainz 05,2500000,https://img.a.transfermarkt.technology/portrait/medium/168989-1629202510.jpg?lm=1
+Nikolas Veratschnig,1.FSV Mainz 05,1000000,https://img.a.transfermarkt.technology/portrait/medium/601143-1722885901.jpg?lm=1
+Danny da Costa,1.FSV Mainz 05,800000,https://img.a.transfermarkt.technology/portrait/medium/85906-1657707067.jpg?lm=1
+Dominik Kohr,1.FSV Mainz 05,3000000,https://img.a.transfermarkt.technology/portrait/medium/118847-1722886760.jpg?lm=1
+Kaishu Sano,1.FSV Mainz 05,2500000,https://img.a.transfermarkt.technology/portrait/medium/643574-1705758334.jpg?lm=1
+Nadiem Amiri,1.FSV Mainz 05,9000000,https://img.a.transfermarkt.technology/portrait/medium/232454-1722885996.jpg?lm=1
+Anthony Caci,1.FSV Mainz 05,7000000,https://img.a.transfermarkt.technology/portrait/medium/453016-1657706767.jpg?lm=1
+Hyun-seok Hong,1.FSV Mainz 05,7000000,https://img.a.transfermarkt.technology/portrait/medium/562948-1660641447.png?lm=1
+Paul Nebel,1.FSV Mainz 05,3500000,https://img.a.transfermarkt.technology/portrait/medium/503160-1722886613.jpg?lm=1
+Jae-sung Lee,1.FSV Mainz 05,2500000,https://img.a.transfermarkt.technology/portrait/medium/314398-1668504727.jpg?lm=1
+Aymen Barkok,1.FSV Mainz 05,1000000,https://img.a.transfermarkt.technology/portrait/medium/315332-1657707404.jpg?lm=1
+Gabriel Vidovic,1.FSV Mainz 05,3500000,https://img.a.transfermarkt.technology/portrait/medium/604327-1693303272.jpg?lm=1
+Armindo Sieb,1.FSV Mainz 05,4000000,https://img.a.transfermarkt.technology/portrait/medium/569033-1722886149.jpg?lm=1
+Jonathan Burkardt,1.FSV Mainz 05,15000000,https://img.a.transfermarkt.technology/portrait/medium/333647-1698840239.jpg?lm=1
+Nelson Weiper,1.FSV Mainz 05,5000000,https://img.a.transfermarkt.technology/portrait/medium/796213-1692000176.jpg?lm=1
+Karim Onisiwo,1.FSV Mainz 05,1500000,https://img.a.transfermarkt.technology/portrait/medium/119234-1722886304.jpg?lm=1
+Kevin Müller,1.FC Heidenheim 1846,1000000,https://img.a.transfermarkt.technology/portrait/medium/43824-1657874601.jpg?lm=1
+Frank Feller,1.FC Heidenheim 1846,350000,https://img.a.transfermarkt.technology/portrait/medium/806948-1690186659.jpg?lm=1
+Vitus Eicher,1.FC Heidenheim 1846,250000,https://img.a.transfermarkt.technology/portrait/medium/57796-1657874640.jpg?lm=1
+Paul Tschernuth,1.FC Heidenheim 1846,100000,https://img.a.transfermarkt.technology/portrait/medium/519035-1657874664.jpg?lm=1
+Patrick Mainka,1.FC Heidenheim 1846,3000000,https://img.a.transfermarkt.technology/portrait/medium/133731-1657874688.jpg?lm=1
+Benedikt Gimber,1.FC Heidenheim 1846,2800000,https://img.a.transfermarkt.technology/portrait/medium/227084-1657099906.jpg?lm=1
+Tim Siersleben,1.FC Heidenheim 1846,1500000,https://img.a.transfermarkt.technology/portrait/medium/337092-1657874709.jpg?lm=1
+Thomas Keller,1.FC Heidenheim 1846,350000,https://img.a.transfermarkt.technology/portrait/medium/485747-1657874744.jpg?lm=1
+Jonas Föhrenbach,1.FC Heidenheim 1846,2000000,https://img.a.transfermarkt.technology/portrait/medium/192169-1657874815.jpg?lm=1
+Omar Traoré,1.FC Heidenheim 1846,3500000,https://img.a.transfermarkt.technology/portrait/medium/388294-1690186175.jpg?lm=1
+Marnon Busch,1.FC Heidenheim 1846,1200000,https://img.a.transfermarkt.technology/portrait/medium/117478-1657874858.jpg?lm=1
+Lennard Maloney,1.FC Heidenheim 1846,5000000,https://img.a.transfermarkt.technology/portrait/medium/392710-1657874790.jpg?lm=1
+Niklas Dorsch,1.FC Heidenheim 1846,4000000,https://img.a.transfermarkt.technology/portrait/medium/251302-1722850585.jpg?lm=1
+Julian Niehues,1.FC Heidenheim 1846,1500000,https://img.a.transfermarkt.technology/portrait/medium/530173-1721852705.jpg?lm=1
+Norman Theuerkauf,1.FC Heidenheim 1846,300000,https://img.a.transfermarkt.technology/portrait/medium/31599-1657874835.jpg?lm=1
+Luka Janes,1.FC Heidenheim 1846,200000,https://img.a.transfermarkt.technology/portrait/medium/825971-1690186353.jpg?lm=1
+Jan Schöppner,1.FC Heidenheim 1846,3500000,https://img.a.transfermarkt.technology/portrait/medium/581357-1721852254.jpg?lm=1
+Luca Kerber,1.FC Heidenheim 1846,1300000,https://img.a.transfermarkt.technology/portrait/medium/809498-1721852758.jpg?lm=1
+Paul Wanner,1.FC Heidenheim 1846,15000000,https://img.a.transfermarkt.technology/portrait/medium/900909-1661800800.jpg?lm=1
+Adrian Beck,1.FC Heidenheim 1846,1500000,https://img.a.transfermarkt.technology/portrait/medium/273669-1721852328.jpg?lm=1
+Denis Thomalla,1.FC Heidenheim 1846,750000,https://img.a.transfermarkt.technology/portrait/medium/94030-1657875455.jpg?lm=1
+Leo Scienza,1.FC Heidenheim 1846,2500000,https://img.a.transfermarkt.technology/portrait/medium/804219-1721852378.jpg?lm=1
+Mathias Honsak,1.FC Heidenheim 1846,1200000,https://img.a.transfermarkt.technology/portrait/medium/283497-1721852632.jpg?lm=1
+Christopher Negele,1.FC Heidenheim 1846,0,https://img.a.transfermarkt.technology/portrait/medium/924339-1721852798.jpg?lm=1
+Sirlord Conteh,1.FC Heidenheim 1846,1500000,https://img.a.transfermarkt.technology/portrait/medium/307183-1721852922.jpg?lm=1
+Marvin Pieringer,1.FC Heidenheim 1846,4500000,https://img.a.transfermarkt.technology/portrait/medium/471055-1690186870.jpg?lm=1
+Maximilian Breunig,1.FC Heidenheim 1846,2000000,https://img.a.transfermarkt.technology/portrait/medium/584254-1658505130.jpg?lm=1
+Mikkel Kaufmann,1.FC Heidenheim 1846,2000000,https://img.a.transfermarkt.technology/portrait/medium/545332-1691614182.jpg?lm=1
+Stefan Schimmer,1.FC Heidenheim 1846,500000,https://img.a.transfermarkt.technology/portrait/medium/394033-1721852150.jpg?lm=1
+Patrick Drewes,VfL Bochum,1000000,https://img.a.transfermarkt.technology/portrait/medium/94192-1721851751.jpg?lm=1
+Timo Horn,VfL Bochum,800000,https://img.a.transfermarkt.technology/portrait/medium/84938-1657109580.jpg?lm=1
+Manuel Riemann,VfL Bochum,300000,https://img.a.transfermarkt.technology/portrait/medium/40792-1691250480.jpg?lm=1
+Paul Grave,VfL Bochum,50000,https://img.a.transfermarkt.technology/portrait/medium/452192-1657283109.jpg?lm=1
+Erhan Masovic,VfL Bochum,4000000,https://img.a.transfermarkt.technology/portrait/medium/343959-1657283131.jpg?lm=1
+Tim Oermann,VfL Bochum,4000000,https://img.a.transfermarkt.technology/portrait/medium/696164-1657283257.jpg?lm=1
+Ivan Ordets,VfL Bochum,2500000,https://img.a.transfermarkt.technology/portrait/medium/118850-1721851592.jpg?lm=1
+Jakov Medic,VfL Bochum,2000000,https://img.a.transfermarkt.technology/portrait/medium/488755-1689779607.jpg?lm=1
+Noah Loosli,VfL Bochum,800000,https://img.a.transfermarkt.technology/portrait/medium/265209-1691250300.jpg?lm=1
+Mohammed Tolba,VfL Bochum,200000,https://img.a.transfermarkt.technology/portrait/medium/813730-1691250541.jpg?lm=1
+Bernardo,VfL Bochum,7000000,https://img.a.transfermarkt.technology/portrait/medium/364258-1691250245.jpg?lm=1
+Maximilian Wittek,VfL Bochum,2000000,https://img.a.transfermarkt.technology/portrait/medium/196793-1721851854.jpg?lm=1
+Felix Passlack,VfL Bochum,2500000,https://img.a.transfermarkt.technology/portrait/medium/274461-1691250368.jpg?lm=1
+Cristian Gamboa,VfL Bochum,500000,https://img.a.transfermarkt.technology/portrait/medium/121686-1657283791.jpg?lm=1
+Ibrahima Sissoko,VfL Bochum,6000000,https://img.a.transfermarkt.technology/portrait/medium/372712-1721851302.jpg?lm=1
+Anthony Losilla,VfL Bochum,500000,https://img.a.transfermarkt.technology/portrait/medium/111266-1657283817.jpg?lm=1
+Niklas Jahn,VfL Bochum,200000,https://img.a.transfermarkt.technology/portrait/medium/744600-1713773332.jpg?lm=1
+Matus Bero,VfL Bochum,3500000,https://img.a.transfermarkt.technology/portrait/medium/204047-1691249674.jpg?lm=1
+Agon Elezi,VfL Bochum,800000,https://img.a.transfermarkt.technology/portrait/medium/505324-1721851490.jpg?lm=1
+Mats Pannewig,VfL Bochum,600000,https://img.a.transfermarkt.technology/portrait/medium/796221-1691249799.jpg?lm=1
+Koji Miyoshi,VfL Bochum,2000000,https://img.a.transfermarkt.technology/portrait/medium/295060-1671479611.jpg?lm=1
+Dani de Wit,VfL Bochum,5000000,https://img.a.transfermarkt.technology/portrait/medium/340459-1721851359.jpg?lm=1
+Lukas Daschner,VfL Bochum,1200000,https://img.a.transfermarkt.technology/portrait/medium/334213-1721851417.jpg?lm=1
+Moritz-Broni Kwarteng,VfL Bochum,1200000,https://img.a.transfermarkt.technology/portrait/medium/316575-1691249734.jpg?lm=1
+Lennart Koerdt,VfL Bochum,0,https://img.a.transfermarkt.technology/portrait/medium/930008-1721851800.jpg?lm=1
+Aliou Baldé,VfL Bochum,800000,https://img.a.transfermarkt.technology/portrait/medium/666977-1723302616.jpg?lm=1
+Gerrit Holtmann,VfL Bochum,700000,https://img.a.transfermarkt.technology/portrait/medium/190289-1721851662.jpg?lm=1
+Samuel Bamba,VfL Bochum,800000,https://img.a.transfermarkt.technology/portrait/medium/684318-1721851536.jpg?lm=1
+Myron Boadu,VfL Bochum,5000000,https://img.a.transfermarkt.technology/portrait/medium/412932-1666692057.jpg?lm=1
+Moritz Broschinski,VfL Bochum,3000000,https://img.a.transfermarkt.technology/portrait/medium/406973-1691250658.jpg?lm=1
+Philipp Hofmann,VfL Bochum,1800000,https://img.a.transfermarkt.technology/portrait/medium/119037-1657284242.jpg?lm=1
+Nikola Vasilj,FC St. Pauli,2000000,https://img.a.transfermarkt.technology/portrait/medium/248454-1723630622.jpeg?lm=1
+Ben Voll,FC St. Pauli,500000,https://img.a.transfermarkt.technology/portrait/medium/453742-1723630455.jpeg?lm=1
+Eric Oelschlägel,FC St. Pauli,300000,https://img.a.transfermarkt.technology/portrait/medium/152460-1629450680.jpg?lm=1
+Sascha Burchert,FC St. Pauli,200000,https://img.a.transfermarkt.technology/portrait/medium/36898-1723630766.jpeg?lm=1
+Sören Ahlers,FC St. Pauli,50000,https://img.a.transfermarkt.technology/portrait/medium/333074-1723630704.jpeg?lm=1
+Eric Smith,FC St. Pauli,4000000,https://img.a.transfermarkt.technology/portrait/medium/292534-1723631157.jpeg?lm=1
+Hauke Wahl,FC St. Pauli,1500000,https://img.a.transfermarkt.technology/portrait/medium/154147-1723631071.jpeg?lm=1
+Karol Mets,FC St. Pauli,1300000,https://img.a.transfermarkt.technology/portrait/medium/139304-1723630917.jpeg?lm=1
+David Nemeth,FC St. Pauli,800000,https://img.a.transfermarkt.technology/portrait/medium/451906-1723630981.jpeg?lm=1
+Adam Dzwigala,FC St. Pauli,600000,https://img.a.transfermarkt.technology/portrait/medium/236966-1723631615.jpeg?lm=1
+Muhammad Dahaba,FC St. Pauli,125000,https://img.a.transfermarkt.technology/portrait/medium/914890-1723631671.jpeg?lm=1
+Philipp Treu,FC St. Pauli,2500000,https://img.a.transfermarkt.technology/portrait/medium/335993-1723631488.jpeg?lm=1
+Lars Ritzka,FC St. Pauli,900000,https://img.a.transfermarkt.technology/portrait/medium/333903-1723631434.jpeg?lm=1
+Manolis Saliakas,FC St. Pauli,2500000,https://img.a.transfermarkt.technology/portrait/medium/242661-1723630834.jpeg?lm=1
+Fin Stevens,FC St. Pauli,600000,https://img.a.transfermarkt.technology/portrait/medium/587019-1722842294.jpg?lm=1
+Robert Wagner,FC St. Pauli,3000000,https://img.a.transfermarkt.technology/portrait/medium/690429-1723632023.jpeg?lm=1
+Connor Metcalfe,FC St. Pauli,2500000,https://img.a.transfermarkt.technology/portrait/medium/522223-1723631966.jpeg?lm=1
+Jackson Irvine,FC St. Pauli,2000000,https://img.a.transfermarkt.technology/portrait/medium/192557-1723631725.jpeg?lm=1
+Carlo Boukhalfa,FC St. Pauli,700000,https://img.a.transfermarkt.technology/portrait/medium/329373-1723631834.jpeg?lm=1
+Erik Ahlstrand,FC St. Pauli,700000,https://img.a.transfermarkt.technology/portrait/medium/501049-1723631889.jpeg?lm=1
+Elias Saad,FC St. Pauli,4000000,https://img.a.transfermarkt.technology/portrait/medium/526466-1723632619.jpeg?lm=1
+Morgan Guilavogui,FC St. Pauli,3000000,https://img.a.transfermarkt.technology/portrait/medium/691786-1723632746.jpeg?lm=1
+Oladapo Afolayan,FC St. Pauli,3000000,https://img.a.transfermarkt.technology/portrait/medium/487850-1723632432.jpeg?lm=1
+Danel Sinani,FC St. Pauli,500000,https://img.a.transfermarkt.technology/portrait/medium/346499-1723632317.jpeg?lm=1
+Scott Banks,FC St. Pauli,500000,https://img.a.transfermarkt.technology/portrait/medium/596821-1723632492.jpeg?lm=1
+Johannes Eggestein,FC St. Pauli,2000000,https://img.a.transfermarkt.technology/portrait/medium/251303-1723632371.jpeg?lm=1
+Simon Zoller,FC St. Pauli,350000,https://img.a.transfermarkt.technology/portrait/medium/79967-1723632686.jpeg?lm=1
+Andreas Albers,FC St. Pauli,300000,https://img.a.transfermarkt.technology/portrait/medium/88647-1723632561.jpeg?lm=1
+Maurides,FC St. Pauli,300000,https://img.a.transfermarkt.technology/portrait/medium/227511-1723632805.jpeg?lm=1
+Timon Weiner,Holstein Kiel,1500000,https://img.a.transfermarkt.technology/portrait/medium/296428-1721851050.jpg?lm=1
+Thomas Dähne,Holstein Kiel,400000,https://img.a.transfermarkt.technology/portrait/medium/115979-1657791709.jpg?lm=1
+Marcel Engelhardt,Holstein Kiel,175000,https://img.a.transfermarkt.technology/portrait/medium/124080-1688646182.jpg?lm=1
+Tyler Doğan,Holstein Kiel,75000,https://img.a.transfermarkt.technology/portrait/medium/883902-1728892910.jpg?lm=1
+Colin Kleine-Bekel,Holstein Kiel,3000000,https://img.a.transfermarkt.technology/portrait/medium/622722-1688646080.jpg?lm=1
+Timo Becker,Holstein Kiel,2000000,https://img.a.transfermarkt.technology/portrait/medium/282349-1657791826.jpg?lm=1
+Max Geschwill,Holstein Kiel,1000000,https://img.a.transfermarkt.technology/portrait/medium/471890-1691615892.jpg?lm=1
+Marco Komenda,Holstein Kiel,900000,https://img.a.transfermarkt.technology/portrait/medium/335631-1657791801.jpg?lm=1
+Carl Johansson,Holstein Kiel,700000,https://img.a.transfermarkt.technology/portrait/medium/225043-1688646720.jpg?lm=1
+Tymoteusz Puchacz,Holstein Kiel,2000000,https://img.a.transfermarkt.technology/portrait/medium/361575-1692190026.jpg?lm=1
+Dominik Javorcek,Holstein Kiel,550000,https://img.a.transfermarkt.technology/portrait/medium/610608-1699980353.png?lm=1
+Lasse Rosenboom,Holstein Kiel,500000,https://img.a.transfermarkt.technology/portrait/medium/512352-1688646400.jpg?lm=1
+Marko Ivezic,Holstein Kiel,3000000,https://img.a.transfermarkt.technology/portrait/medium/706024-1688646673.jpg?lm=1
+Patrick Erras,Holstein Kiel,1000000,https://img.a.transfermarkt.technology/portrait/medium/193859-1657792157.jpg?lm=1
+Marvin Schulz,Holstein Kiel,700000,https://img.a.transfermarkt.technology/portrait/medium/168678-1721851183.jpg?lm=1
+Armin Gigovic,Holstein Kiel,2500000,https://img.a.transfermarkt.technology/portrait/medium/651269-1606809695.png?lm=1
+Magnus Knudsen,Holstein Kiel,2000000,https://img.a.transfermarkt.technology/portrait/medium/651735-1721850811.jpg?lm=1
+Nicolai Remberg,Holstein Kiel,1800000,https://img.a.transfermarkt.technology/portrait/medium/592534-1688646465.jpg?lm=1
+Lewis Holtby,Holstein Kiel,500000,https://img.a.transfermarkt.technology/portrait/medium/55508-1721850987.jpg?lm=1
+Aurel Wagbe,Holstein Kiel,100000,https://img.a.transfermarkt.technology/portrait/medium/747983-1688646323.jpg?lm=1
+Finn Porath,Holstein Kiel,1500000,https://img.a.transfermarkt.technology/portrait/medium/241307-1657792610.jpg?lm=1
+Steven Skrzybski,Holstein Kiel,1300000,https://img.a.transfermarkt.technology/portrait/medium/93827-1657792592.jpg?lm=1
+Andu Kelati,Holstein Kiel,800000,https://img.a.transfermarkt.technology/portrait/medium/719694-1721850615.jpg?lm=1
+Alexander Bernhardsson,Holstein Kiel,1500000,https://img.a.transfermarkt.technology/portrait/medium/633454-1721850751.jpg?lm=1
+Shuto Machino,Holstein Kiel,3500000,https://img.a.transfermarkt.technology/portrait/medium/550580-1688645996.jpg?lm=1
+Benedikt Pichler,Holstein Kiel,2000000,https://img.a.transfermarkt.technology/portrait/medium/331362-1657792864.jpg?lm=1
+Fiete Arp,Holstein Kiel,800000,https://img.a.transfermarkt.technology/portrait/medium/343337-1657792916.jpg?lm=1
+Phil Harres,Holstein Kiel,500000,https://img.a.transfermarkt.technology/portrait/medium/606119-1721850669.jpg?lm=1
