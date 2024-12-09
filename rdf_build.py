@@ -26,7 +26,7 @@ def read_existing_triples(rdf_file):
     return triples
 
 # Append club and player details to RDF
-def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, player_details_csv, rdf_file):
+def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, player_details_csv, competitions_csv, rdf_file):
     # Read existing triples
     existing_triples = read_existing_triples(rdf_file)
 
@@ -111,6 +111,22 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
                 player_block = f"{subject} a schema:Person ;\n" + " ;\n".join(properties) + " .\n\n"
                 new_content.append(player_block)
 
+    with open(competitions_csv, mode="r", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            print(row)
+            competition_id = generate_id(row[" name"], "competition")
+            subject = f":{competition_id}"
+            properties = [
+                f"    schema:name \"{row[' name']}\"",
+                f"    schema:location \"{row[' country']}\"",
+                f"    schema:photo <{row[' logo']}>",
+                f"    schema:startDate \"{row[' startdate']}\"^^<http://www.w3.org/2001/XMLSchema#date>",
+                f"    schema:endDate \"{row[' enddate']}\"^^<http://www.w3.org/2001/XMLSchema#date>"
+            ]
+            competition_block = f"{subject} a schema:SportsOrganization ;\n" + " ;\n".join(properties) + " .\n\n"
+            new_content.append(competition_block)
+
     # Append the new content to the RDF file
     if new_content:
         with open(rdf_file, mode="a", encoding="utf-8") as rdf:
@@ -124,8 +140,9 @@ club_values_csv = "tm_values/PO1_club_values.csv"  # Replace with your club valu
 club_details_csv = "data/competition_teams_PPL.csv"  # Replace with your club details CSV filename
 player_values_csv = "tm_values/PO1_players_data.csv"  # Replace with your player values CSV filename
 player_details_csv = "data/competition_players_PPL.csv"  # Replace with your player details CSV filename
+competitions_csv = "data/competitions.csv"
 rdf_file = "sports_data.ttl"  # Unified RDF file for clubs and players
 
-append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, player_details_csv, rdf_file)
+append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, player_details_csv, competitions_csv, rdf_file)
 
 print(f"Details from all CSVs have been merged into {rdf_file}.")

@@ -26422,3 +26422,42 @@
     schema:birthPlace "Portugal" ;
     schema:athlete :club_AVS .
 
+:club_Rio_Ave_FC :club_Sporting_Clube_de_Portugal :club_FC_Porto :club_GD_Estoril_Praia :club_Moreirense_FC :club_FC_Arouca :club_Boavista_FC :club_Sport_Lisboa_e_Benfica :club_CD_Nacional :club_CD_Santa_Clara :club_FC_Famalicão :club_Gil_Vicente_FC :club_Vitória_SC :club_SC_Farense :club_Sporting_Clube_de_Braga :club_Casa_Pia_AC :club_CF_Estrela_da_Amadora :club_AVS
+    a schema:SportsTeam ;
+    schema:memberOf 2017 .
+
+:competition__Premier_League a schema:SportsOrganization ;
+    schema:name " Premier League" ;
+    schema:location " England" ;
+    schema:photo < https://www.wikidata.org/wiki/Q9448#/media/File:Premier_League.svg> ;
+    schema:startDate " 2024-08-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Bundesliga a schema:SportsOrganization ;
+    schema:name " Bundesliga" ;
+    schema:location " Germany" ;
+    schema:photo < https://www.wikidata.org/wiki/Q82595#/media/File:Bundesliga_logo.svg> ;
+    schema:startDate " 2024-08-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__La_Liga a schema:SportsOrganization ;
+    schema:name " La Liga" ;
+    schema:location " Spain" ;
+    schema:photo < https://www.wikidata.org/wiki/Q324867#/media/File:LaLiga_EA_Sports_2023_Vertical_Logo.svg> ;
+    schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Serie_A a schema:SportsOrganization ;
+    schema:name " Serie A" ;
+    schema:location " Italy" ;
+    schema:photo < https://www.wikidata.org/wiki/Q15804#/media/File:Serie_A.svg> ;
+    schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Liga_Portugal a schema:SportsOrganization ;
+    schema:name " Liga Portugal" ;
+    schema:location " Portugal" ;
+    schema:photo < https://www.wikidata.org/wiki/Q981133#/media/File:Símbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png> ;
+    schema:startDate " 2024-08-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+
