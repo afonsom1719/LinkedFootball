@@ -58,16 +58,12 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
             add_property_if_new("color", f"\"{row['Colors']}\"")
             add_property_if_new("foundingDate", f"\"{row['Foundation']}\"")
             add_property_if_new("location", f"\"{row['Address']}\"")
+            add_property_if_new("memberOf", f"\"{row['CompetitionId']}\"")
 
             if properties:
-                club_block = f"{subject} ;\n" + " ;\n".join(properties) + " .\n\n"
+                club_block = f"{subject} a schema:SportsTeam ;\n" + " ;\n".join(properties) + " .\n\n"
                 new_content.append(club_block)
-
-    # Consolidate shared properties for clubs
-    if club_ids:
-        consolidated_block = f"{' '.join(club_ids)}\n    a schema:SportsTeam ;\n    schema:memberOf {row['CompetitionId']} .\n\n"
-        new_content.insert(0, consolidated_block)
-
+    
     # Process player values CSV
     player_values = {}
     with open(player_values_csv, mode="r", encoding="utf-8") as file:
@@ -136,10 +132,10 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
         print("No new details to add.")
 
 # Example usage
-club_values_csv = "tm_values/PO1_club_values.csv"  # Replace with your club values CSV filename
-club_details_csv = "data/competition_teams_PPL.csv"  # Replace with your club details CSV filename
-player_values_csv = "tm_values/PO1_players_data.csv"  # Replace with your player values CSV filename
-player_details_csv = "data/competition_players_PPL.csv"  # Replace with your player details CSV filename
+club_values_csv = "tm_values/ES1_club_values.csv"  # Replace with your club values CSV filename
+club_details_csv = "data/competition_teams_PD.csv"  # Replace with your club details CSV filename
+player_values_csv = "tm_values/ES1_players_data.csv"  # Replace with your player values CSV filename
+player_details_csv = "data/competition_players_PD.csv"  # Replace with your player details CSV filename
 competitions_csv = "data/competitions.csv"
 rdf_file = "sports_data.ttl"  # Unified RDF file for clubs and players
 
