@@ -1,0 +1,822 @@
+@prefix schema: <https://schema.org/> .
+@prefix : <http://example.org/> .
+
+:_Miguel_Sousa a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Miguel Sousa" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1998-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Raúl_Blanco a schema:Person ;
+    schema:value "350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Raúl Blanco" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2001-07-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Adrian_Kraev a schema:Person ;
+    schema:name "Adrian Kraev" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1999-02-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Bulgaria" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Samuel_Obeng a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/522719-1694431228.jpg?lm=1> ;
+    schema:name "Samuel Obeng" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1997-05-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ghana" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Claudio_Mendes a schema:Person ;
+    schema:name "Claudio Mendes" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2000-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Guinea-Bissau" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Henrique_Pereira a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/505655-1625667504.jpg?lm=1> ;
+    schema:name "Henrique Pereira" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-02-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Telasco_Segovia a schema:Person ;
+    schema:value "700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/858719-1718705752.jpg?lm=1> ;
+    schema:name "Telasco Segovia" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Venezuela" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Samuel_Silvera a schema:Person ;
+    schema:name "Samuel Silvera" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2000-10-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Larra a schema:Person ;
+    schema:name "Larra" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1997-12-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Rafael_Brito a schema:Person ;
+    schema:value "300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/504075-1572339154.jpg?lm=1> ;
+    schema:name "Rafael Brito" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2002-01-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Geraldes a schema:Person ;
+    schema:name "Geraldes" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1991-05-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Nermin_Zolotić a schema:Person ;
+    schema:value "700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/131740-1663602163.png?lm=1> ;
+    schema:name "Nermin Zolotić" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1993-07-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Bosnia-Herzegovina" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Cassiano a schema:Person ;
+    schema:value "200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/238367-1705756565.jpg?lm=1> ;
+    schema:name "Cassiano" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1989-06-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Pablo_Barbosa a schema:Person ;
+    schema:name "Pablo Barbosa" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1999-11-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Duplexe_Tchamba a schema:Person ;
+    schema:name "Duplexe Tchamba" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-07-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cameroon" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_José_Fonte a schema:Person ;
+    schema:value "100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/33829-1666690457.jpg?lm=1> ;
+    schema:name "José Fonte" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1983-12-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Tiago_Dias a schema:Person ;
+    schema:value "325000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/314886-1537884653.jpg?lm=1> ;
+    schema:name "Tiago Dias" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1998-05-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Fahem_Benaïssa-Yahia a schema:Person ;
+    schema:name "Fahem Benaïssa-Yahia" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2002-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Kiki_Silva a schema:Person ;
+    schema:name "Kiki Silva" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1998-02-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Beni a schema:Person ;
+    schema:value "700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Beni" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2002-05-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Leonardo_Lelo a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/669956-1663603059.png?lm=1> ;
+    schema:name "Leonardo Lelo" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2000-03-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Nuno_Moreira a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/461937-1729963502.jpg?lm=1> ;
+    schema:name "Nuno Moreira" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1999-06-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Max_Svensson a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/705808-1700856935.png?lm=1> ;
+    schema:name "Max Svensson" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2001-11-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Casa_Pia_AC .
+
+:_Bruno_Brigido a schema:Person ;
+    schema:name "Bruno Brigido" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1991-03-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Francisco_Meixedo a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/564968-1686132168.png?lm=1> ;
+    schema:name "Francisco Meixedo" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Cambila a schema:Person ;
+    schema:name "Cambila" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2002-05-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Marko_Gudžulić a schema:Person ;
+    schema:value "50000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/831591-1631776925.jpg?lm=1> ;
+    schema:name "Marko Gudžulić" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2002-07-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Serbia" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Ferro a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/294321-1694539096.jpg?lm=1> ;
+    schema:name "Ferro" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1997-03-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Till_Cissokho a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/395228-1669737163.jpg?lm=1> ;
+    schema:name "Till Cissokho" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2000-02-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Issiar_Dramé a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/461582-1605563127.png?lm=1> ;
+    schema:name "Issiar Dramé" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1999-02-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Juan_Mina a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/742488-1710581727.jpg?lm=1> ;
+    schema:name "Juan Mina" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-07-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Danilo_Veiga a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/728485-1686040042.jpg?lm=1> ;
+    schema:name "Danilo Veiga" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2002-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Diogo_Travassos a schema:Person ;
+    schema:name "Diogo Travassos" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-03-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Tiago_Gabriel a schema:Person ;
+    schema:value "250000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Tiago Gabriel" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-12-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Guilherme_Montóia a schema:Person ;
+    schema:value "0"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Guilherme Montóia" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2003-09-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Georgii_Tunguliiadi a schema:Person ;
+    schema:name "Georgii Tunguliiadi" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-10-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Nani a schema:Person ;
+    schema:value "200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/33706-1695118404.png?lm=1> ;
+    schema:name "Nani" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1986-11-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Alan_Ruiz a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/190442-1478085307.jpg?lm=1> ;
+    schema:name "Alan Ruiz" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1993-08-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Daniel_Cabral a schema:Person ;
+    schema:value "100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/662328-1572442916.png?lm=1> ;
+    schema:name "Daniel Cabral" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2002-05-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Paulo_Moreira a schema:Person ;
+    schema:value "100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/375392-1688560463.jpg?lm=1> ;
+    schema:name "Paulo Moreira" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2000-02-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Igor a schema:Person ;
+    schema:name "Igor" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2003-03-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Muhammad_Asis a schema:Person ;
+    schema:name "Muhammad Asis" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2004-03-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Singapore" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Manu a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/699592-1695208205.jpg?lm=1> ;
+    schema:name "Manu" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-11-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Jovane_Cabral a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/448466-1696837471.jpg?lm=1> ;
+    schema:name "Jovane Cabral" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1998-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cape Verde Islands" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Tiago_Ferreira a schema:Person ;
+    schema:name "Tiago Ferreira" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-03-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Petterson a schema:Person ;
+    schema:value "250000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Petterson" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2004-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Bilal_Mazhar a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/808907-1677660348.jpg?lm=1> ;
+    schema:name "Bilal Mazhar" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2003-11-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Egypt" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Eurichano_Setila a schema:Person ;
+    schema:name "Eurichano Setila" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2004-02-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Caio_Santana a schema:Person ;
+    schema:value "200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Caio Santana" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2004-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Paulo_Vitor a schema:Person ;
+    schema:name "Paulo Vitor" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2004-04-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Gustavo_Reyes a schema:Person ;
+    schema:name "Gustavo Reyes" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2000-09-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_André_Luiz a schema:Person ;
+    schema:value "600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/919262-1705778510.jpg?lm=1> ;
+    schema:name "André Luiz" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2002-02-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Leonel_Bucca a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/830841-1649867782.JPG?lm=1> ;
+    schema:name "Leonel Bucca" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1999-03-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Nilton_Varela a schema:Person ;
+    schema:name "Nilton Varela" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2001-05-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Kikas a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/383807-1732274782.jpg?lm=1> ;
+    schema:name "Kikas" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1998-09-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Rodrigo_Pinho a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/366278-1643889005.jpg?lm=1> ;
+    schema:name "Rodrigo Pinho" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1991-05-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Ruben_Lima a schema:Person ;
+    schema:name "Ruben Lima" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1989-10-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Miguel_Lopes a schema:Person ;
+    schema:value "50000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/59248-1668162778.png?lm=1> ;
+    schema:name "Miguel Lopes" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1986-12-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Leonardo_Silva a schema:Person ;
+    schema:name "Leonardo Silva" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-09-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Keliano a schema:Person ;
+    schema:name "Keliano" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2003-01-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_CF_Estrela_da_Amadora .
+
+:_Pedro_Trigueira a schema:Person ;
+    schema:name "Pedro Trigueira" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1988-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Simão_Bertelli a schema:Person ;
+    schema:name "Simão Bertelli" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1993-07-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Francisco_Ochoa a schema:Person ;
+    schema:name "Francisco Ochoa" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1985-07-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Mexico" ;
+    schema:athlete :club_AVS .
+
+:_Lucas_Alviano a schema:Person ;
+    schema:name "Lucas Alviano" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2004-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Jorge_Teixeira a schema:Person ;
+    schema:value "50000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/59791-1612084164.jpg?lm=1> ;
+    schema:name "Jorge Teixeira" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1986-08-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Fernando_Fonseca a schema:Person ;
+    schema:value "300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/344392-1542121045.jpg?lm=1> ;
+    schema:name "Fernando Fonseca" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1997-03-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Kiki a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/270055-1690030617.png?lm=1> ;
+    schema:name "Kiki" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1994-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Baptiste_Roux a schema:Person ;
+    schema:value "600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/796895-1656330562.png?lm=1> ;
+    schema:name "Baptiste Roux" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1999-11-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_AVS .
+
+:_Rafael_Rodrigues a schema:Person ;
+    schema:name "Rafael Rodrigues" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2002-01-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Cristian_Castro a schema:Person ;
+    schema:name "Cristian Castro" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2001-01-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_AVS .
+
+:_Ignacio_Rodriguez a schema:Person ;
+    schema:name "Ignacio Rodriguez" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2003-11-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Uruguay" ;
+    schema:athlete :club_AVS .
+
+:_Léo_Alaba a schema:Person ;
+    schema:value "600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/864733-1733273801.jpg?lm=1> ;
+    schema:name "Léo Alaba" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1999-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Giorgi_Aburjania a schema:Person ;
+    schema:value "700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/186848-1696433135.png?lm=1> ;
+    schema:name "Giorgi Aburjania" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1995-01-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Georgia" ;
+    schema:athlete :club_AVS .
+
+:_Luís_Silva a schema:Person ;
+    schema:value "150000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/193319-1508857067.jpg?lm=1> ;
+    schema:name "Luís Silva" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1992-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Eric_Veiga a schema:Person ;
+    schema:value "200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/251447-1569363070.jpg?lm=1> ;
+    schema:name "Eric Veiga" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1997-02-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Luxembourg" ;
+    schema:athlete :club_AVS .
+
+:_Jonatan_Lucca a schema:Person ;
+    schema:value "250000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/232577-1684346971.jpg?lm=1> ;
+    schema:name "Jonatan Lucca" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1994-06-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Jaume_Grau a schema:Person ;
+    schema:value "700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/340864-1448530794.jpg?lm=1> ;
+    schema:name "Jaume Grau" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1997-05-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_AVS .
+
+:_Gustavo_Mendonça a schema:Person ;
+    schema:value "250000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Gustavo Mendonça" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2003-03-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:_Nenê a schema:Person ;
+    schema:value "50000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/45717-1537365392.jpg?lm=1> ;
+    schema:name "Nenê" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1983-07-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Yair_Mena_Palacios a schema:Person ;
+    schema:name "Yair Mena Palacios" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2000-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_AVS .
+
+:_Samuel a schema:Person ;
+    schema:name "Samuel" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2000-10-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_John_Mercado a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/659804-1575284239.png?lm=1> ;
+    schema:name "John Mercado" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-06-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ecuador" ;
+    schema:athlete :club_AVS .
+
+:_Carlos_Daniel a schema:Person ;
+    schema:name "Carlos Daniel" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-04-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Vasco_Lopes a schema:Person ;
+    schema:value "450000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Vasco Lopes" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1999-09-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cape Verde Islands" ;
+    schema:athlete :club_AVS .
+
+:_Gustavo_Assunção a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/461629-1591609013.jpg?lm=1> ;
+    schema:name "Gustavo Assunção" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2000-03-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Zé_Luís a schema:Person ;
+    schema:value "300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/134602-1617369617.png?lm=1> ;
+    schema:name "Zé Luís" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1991-01-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cape Verde Islands" ;
+    schema:athlete :club_AVS .
+
+:_Lucas_Piazon a schema:Person ;
+    schema:name "Lucas Piazon" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1994-01-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AVS .
+
+:_Babatunde_Akinsola a schema:Person ;
+    schema:name "Babatunde Akinsola" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2003-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Nigeria" ;
+    schema:athlete :club_AVS .
+
+:_Issiaka_Kamate a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/885623-1699458095.jpg?lm=1> ;
+    schema:name "Issiaka Kamate" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-08-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_AVS .
+
+:_Rodrigo_Ribeiro a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/726701-1666100589.jpg?lm=1> ;
+    schema:name "Rodrigo Ribeiro" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2005-04-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AVS .
+
+:competition__Premier_League a schema:SportsOrganization ;
+    schema:name " Premier League" ;
+    schema:location " England" ;
+    schema:photo <https://www.wikidata.org/wiki/Q9448#/media/File:Premier_League.svg> ;
+    schema:startDate " 2024-08-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Bundesliga a schema:SportsOrganization ;
+    schema:name " Bundesliga" ;
+    schema:location " Germany" ;
+    schema:photo <https://www.wikidata.org/wiki/Q82595#/media/File:Bundesliga_logo.svg> ;
+    schema:startDate " 2024-08-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__La_Liga a schema:SportsOrganization ;
+    schema:name " La Liga" ;
+    schema:location " Spain" ;
+    schema:photo <https://www.wikidata.org/wiki/Q324867#/media/File:LaLiga_EA_Sports_2023_Vertical_Logo.svg> ;
+    schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Serie_A a schema:SportsOrganization ;
+    schema:name " Serie A" ;
+    schema:location " Italy" ;
+    schema:photo <https://www.wikidata.org/wiki/Q15804#/media/File:Serie_A.svg> ;
+    schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:competition__Liga_Portugal a schema:SportsOrganization ;
+    schema:name " Liga Portugal" ;
+    schema:location " Portugal" ;
+    schema:photo <https://www.wikidata.org/wiki/Q981133#/media/File:Símbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png> ;
+    schema:startDate " 2024-08-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+:club_TSG_1899_Hoffenheim a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/2.png> ;
+    schema:coach "Christian Ilzer" ;
+    schema:StadiumOrArena "PreZero Arena" ;
+    schema:color "Blue / White" ;
+    schema:foundingDate "1921" ;
+    schema:location "Horrenberger Straße 58 Zuzenhausen 74939" ;
+    schema:memberOf "2002" .
+
+:club_Bayer_04_Leverkusen a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/3.png> ;
+    schema:coach "Xabi Alonso" ;
+    schema:StadiumOrArena "BayArena" ;
+    schema:color "Red / White / Black" ;
+    schema:foundingDate "1904" ;
+    schema:location "Bismarckstr. 122-124 Leverkusen 51373" ;
+    schema:memberOf "2002" .
+
+:club_Borussia_Dortmund a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/4.png> ;
+    schema:coach "Nuri Şahin" ;
+    schema:StadiumOrArena "Signal Iduna Park" ;
+    schema:color "Black / Yellow" ;
+    schema:foundingDate "1909" ;
+    schema:location "Rheinlanddamm 207-209 Dortmund 44137" ;
+    schema:memberOf "2002" .
+
+:club_FC_Bayern_München a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/5.png> ;
+    schema:coach "Vincent Kompany" ;
+    schema:StadiumOrArena "Allianz Arena" ;
+    schema:color "Red / White / Blue" ;
+    schema:foundingDate "1900" ;
+    schema:location "Säbenerstr. 51 München 81547" ;
+    schema:memberOf "2002" .
+
+:club_VfB_Stuttgart a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/10.png> ;
+    schema:coach "Sebastian Hoeneß" ;
+    schema:StadiumOrArena "Mercedes-Benz Arena" ;
+    schema:color "White / Red" ;
+    schema:foundingDate "1893" ;
+    schema:location "Mercedesstraße 109 Stuttgart 70372" ;
+    schema:memberOf "2002" .

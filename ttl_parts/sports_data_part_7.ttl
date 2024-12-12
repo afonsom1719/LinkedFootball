@@ -1,0 +1,850 @@
+@prefix schema: <https://schema.org/> .
+@prefix : <http://example.org/> .
+
+:club_VfL_Wolfsburg a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/11.png> ;
+    schema:coach "Ralph Hasenhüttl" ;
+    schema:StadiumOrArena "Volkswagen Arena" ;
+    schema:color "Green / White" ;
+    schema:foundingDate "1945" ;
+    schema:location "In den Allerwiesen 1 Wolfsburg 38446" ;
+    schema:memberOf "2002" .
+
+:club_SV_Werder_Bremen a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/12.png> ;
+    schema:coach "Ole Werner" ;
+    schema:StadiumOrArena "Weserstadion" ;
+    schema:color "Green / White" ;
+    schema:foundingDate "1899" ;
+    schema:location "Franz-Böhmert-Str. 1c Bremen 28205" ;
+    schema:memberOf "2002" .
+
+:club_1_FSV_Mainz_05 a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/15.png> ;
+    schema:coach "Bo Henriksen" ;
+    schema:StadiumOrArena "Opel Arena" ;
+    schema:color "Red / White" ;
+    schema:foundingDate "1905" ;
+    schema:location "Dr.-Martin-Luther-King-Weg 20 Mainz 55122" ;
+    schema:memberOf "2002" .
+
+:club_FC_Augsburg a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/16.png> ;
+    schema:coach "Jess Thorup" ;
+    schema:StadiumOrArena "WWK Arena" ;
+    schema:color "Red / Green / White" ;
+    schema:foundingDate "1907" ;
+    schema:location "Donauwörther Straße 170 Augsburg 86154" ;
+    schema:memberOf "2002" .
+
+:club_SC_Freiburg a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/17.png> ;
+    schema:coach "Julian Schuster" ;
+    schema:StadiumOrArena "Schwarzwald-Stadion" ;
+    schema:color "Red / White" ;
+    schema:foundingDate "1912" ;
+    schema:location "Schwarzwaldstraße 193 Freiburg 79117" ;
+    schema:memberOf "2002" .
+
+:club_Borussia_Mönchengladbach a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/18.png> ;
+    schema:coach "Gerardo Seoane" ;
+    schema:StadiumOrArena "Stadion im Borussia-Park" ;
+    schema:color "Black / White / Green" ;
+    schema:foundingDate "1900" ;
+    schema:location "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179" ;
+    schema:memberOf "2002" .
+
+:club_Eintracht_Frankfurt a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/19.png> ;
+    schema:coach "Dino Toppmöller" ;
+    schema:StadiumOrArena "Deutsche Bank Park" ;
+    schema:color "Red / Black" ;
+    schema:foundingDate "1899" ;
+    schema:location "Mörfelder Landstraße 362 Frankfurt am Main 60528" ;
+    schema:memberOf "2002" .
+
+:club_FC_St_Pauli_1910 a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/20.png> ;
+    schema:coach "Alexander Blessin" ;
+    schema:StadiumOrArena "Millerntor-Stadion" ;
+    schema:color "Brown / White" ;
+    schema:foundingDate "1910" ;
+    schema:location "Auf dem Heiligengeistfeld Hamburg 20359" ;
+    schema:memberOf "2002" .
+
+:club_1_FC_Union_Berlin a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/28.png> ;
+    schema:coach "Bo Svensson" ;
+    schema:StadiumOrArena "Stadion An der Alten Försterei" ;
+    schema:color "Red / White" ;
+    schema:foundingDate "1906" ;
+    schema:location "An der Wuhlheide 263 Berlin 12555" ;
+    schema:memberOf "2002" .
+
+:club_VfL_Bochum_1848 a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/36.png> ;
+    schema:coach "Dieter Hecking" ;
+    schema:StadiumOrArena "Vonovia Ruhrstadion" ;
+    schema:color "Blue / White" ;
+    schema:foundingDate "1849" ;
+    schema:location "Castroper Straße 145 Bochum 44791" ;
+    schema:memberOf "2002" .
+
+:club_1_FC_Heidenheim_1846 a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/44.png> ;
+    schema:coach "Frank Schmidt" ;
+    schema:StadiumOrArena "Voith-Arena" ;
+    schema:color "Blue / Red / White" ;
+    schema:foundingDate "1846" ;
+    schema:location "Schloßhaustraße 162 Heidenheim 89522" ;
+    schema:memberOf "2002" .
+
+:club_Holstein_Kiel a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/720.png> ;
+    schema:coach "Marcel Rapp" ;
+    schema:StadiumOrArena "Holstein-Stadion" ;
+    schema:color "Blue / Red / White" ;
+    schema:foundingDate "1844" ;
+    schema:location "Steenbeker Weg 150 Kiel 24106" ;
+    schema:memberOf "2002" .
+
+:club_RB_Leipzig a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/721.png> ;
+    schema:coach "Marco Rose" ;
+    schema:StadiumOrArena "Red Bull Arena" ;
+    schema:color "White / Red" ;
+    schema:foundingDate "2009" ;
+    schema:location "Neumarkt 29-33 Leipzig 04109" ;
+    schema:memberOf "2002" .
+
+:_Oliver_Baumann a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/55089-1657200130.jpg?lm=1> ;
+    schema:name "Oliver Baumann" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1990-06-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Luca_Philipp a schema:Person ;
+    schema:value "300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/432671-1657200196.jpg?lm=1> ;
+    schema:name "Luca Philipp" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2000-11-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Lukas_Petersson a schema:Person ;
+    schema:name "Lukas Petersson" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2004-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Iceland" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Arthur_Chaves a schema:Person ;
+    schema:value "1200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/875332-1731017725.jpg?lm=1> ;
+    schema:name "Arthur Chaves" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2001-01-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Robin_Hranac a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/620217-1713471898.jpg?lm=1> ;
+    schema:name "Robin Hranac" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2000-01-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Lars_Strobl a schema:Person ;
+    schema:name "Lars Strobl" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2005-04-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Jacob_Bruun_Larsen a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/293281-1657201254.jpg?lm=1> ;
+    schema:name "Jacob Bruun Larsen" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1998-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Alexander_Prass a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/434116-1723921044.jpg?lm=1> ;
+    schema:name "Alexander Prass" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2001-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Umut_Tohumcu a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/569031-1691269357.jpg?lm=1> ;
+    schema:name "Umut Tohumcu" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2004-08-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Florian_Micheler a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/808664-1730192007.jpg?lm=1> ;
+    schema:name "Florian Micheler" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-05-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Haris_Tabaković a schema:Person ;
+    schema:name "Haris Tabaković" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1994-06-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Bosnia-Herzegovina" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Adam_Hložek a schema:Person ;
+    schema:name "Adam Hložek" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-07-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Simon_Kalambayi a schema:Person ;
+    schema:name "Simon Kalambayi" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2005-02-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Anton_Stach a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/344069-1723921116.jpg?lm=1> ;
+    schema:name "Anton Stach" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-11-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Marius_Bülter a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/116088-1691269482.jpg?lm=1> ;
+    schema:name "Marius Bülter" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1993-03-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Attila_Szalai a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/263380-1691269895.jpg?lm=1> ;
+    schema:name "Attila Szalai" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-01-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Hungary" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Ozan_Kabak a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/361260-1691269223.jpg?lm=1> ;
+    schema:name "Ozan Kabak" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2000-03-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Turkey" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Diadié_Samassékou a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/315604-1657200749.jpg?lm=1> ;
+    schema:name "Diadié Samassékou" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1996-01-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Mali" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Mërgim_Berisha a schema:Person ;
+    schema:name "Mërgim Berisha" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1998-05-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Grischa_Prömel a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/234029-1657200969.jpg?lm=1> ;
+    schema:name "Grischa Prömel" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-01-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Florian_Grillitsch a schema:Person ;
+    schema:value "6500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/195736-1691269821.jpg?lm=1> ;
+    schema:name "Florian Grillitsch" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1995-08-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Dennis_Geiger a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/251309-1723921207.jpg?lm=1> ;
+    schema:name "Dennis Geiger" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-06-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Ihlas_Bebou a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/237164-1723921163.jpg?lm=1> ;
+    schema:name "Ihlas Bebou" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1994-04-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Togo" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Andrej_Kramarić a schema:Person ;
+    schema:name "Andrej Kramarić" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1991-06-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Croatia" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Pavel_Kadeřábek a schema:Person ;
+    schema:name "Pavel Kadeřábek" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1992-04-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Kevin_Akpoguma a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/160241-1723920979.jpg?lm=1> ;
+    schema:name "Kevin Akpoguma" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1995-04-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Nigeria" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Christopher_Lenz a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/159844-1663065776.jpg?lm=1> ;
+    schema:name "Christopher Lenz" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1994-09-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Max_Moerstedt a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/923595-1723920909.jpg?lm=1> ;
+    schema:name "Max Moerstedt" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2006-01-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Tim_Drexler a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/822958-1665473351.jpg?lm=1> ;
+    schema:name "Tim Drexler" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2005-03-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Stanley_NSoki a schema:Person ;
+    schema:name "Stanley N'Soki" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Tom_Bischof a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/822959-1723921256.jpg?lm=1> ;
+    schema:name "Tom Bischof" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2005-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Marco_John a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/450234-1657201014.jpg?lm=1> ;
+    schema:name "Marco John" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2002-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_David_Jurásek a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/500054-1701333965.jpg?lm=1> ;
+    schema:name "David Jurásek" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2000-08-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Valentin_Gendrey a schema:Person ;
+    schema:value "8500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/569387-1663745931.jpg?lm=1> ;
+    schema:name "Valentin Gendrey" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2000-06-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Finn_Ole_Becker a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/334999-1657200994.jpg?lm=1> ;
+    schema:name "Finn Ole Becker" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2000-06-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_TSG_1899_Hoffenheim .
+
+:_Niklas_Lomb a schema:Person ;
+    schema:value "250000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/85543-1695367888.jpg?lm=1> ;
+    schema:name "Niklas Lomb" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1993-07-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Lukáš_Hrádecký a schema:Person ;
+    schema:name "Lukáš Hrádecký" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1989-11-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Finland" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Matej_Kovar a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/550829-1727378079.jpg?lm=1> ;
+    schema:name "Matej Kovar" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2000-05-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Ben_Hawighorst a schema:Person ;
+    schema:name "Ben Hawighorst" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2008-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Othniel_Raterink a schema:Person ;
+    schema:name "Othniel Raterink" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2006-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Kerim_Alajbegović a schema:Person ;
+    schema:name "Kerim Alajbegović" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2007-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Artem_Stepanov a schema:Person ;
+    schema:value "350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/1045344-1727812138.jpg?lm=1> ;
+    schema:name "Artem Stepanov" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2007-08-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ukraine" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Matija_Marsenić a schema:Person ;
+    schema:name "Matija Marsenić" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2005-01-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Montenegro" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Francis_Onyeka a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/929943-1727811666.jpg?lm=1> ;
+    schema:name "Francis Onyeka" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2007-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Ken_Izekor a schema:Person ;
+    schema:name "Ken Izekor" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2007-05-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Arthur_Augusto a schema:Person ;
+    schema:name "Arthur Augusto" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2003-03-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Jeanuel_Belocian a schema:Person ;
+    schema:name "Jeanuel Belocian" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2005-02-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Sadik_Fofana a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/644613-1659622952.jpg?lm=1> ;
+    schema:name "Sadik Fofana" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2003-05-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Togo" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Nathan_Tella a schema:Person ;
+    schema:value "23000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/340322-1727377772.jpg?lm=1> ;
+    schema:name "Nathan Tella" ;
+    schema:roleName "Right Midfield" ;
+    schema:birthDate "1999-07-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Amine_Adli a schema:Person ;
+    schema:value "30000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/532776-1689710574.jpg?lm=1> ;
+    schema:name "Amine Adli" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2000-05-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Morocco" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Victor_Boniface a schema:Person ;
+    schema:value "45000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/656681-1727378262.jpg?lm=1> ;
+    schema:name "Victor Boniface" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2000-12-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Nigeria" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Jeremie_Frimpong a schema:Person ;
+    schema:value "50000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/484547-1689710682.jpg?lm=1> ;
+    schema:name "Jeremie Frimpong" ;
+    schema:roleName "Right Midfield" ;
+    schema:birthDate "2000-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Piero_Hincapié a schema:Person ;
+    schema:value "40000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/659813-1727377918.jpg?lm=1> ;
+    schema:name "Piero Hincapié" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2002-01-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ecuador" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Edmond_Tapsoba a schema:Person ;
+    schema:value "45000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/564545-1695368009.jpg?lm=1> ;
+    schema:name "Edmond Tapsoba" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-02-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Burkina Faso" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Robert_Andrich a schema:Person ;
+    schema:value "17000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/159088-1689710866.jpg?lm=1> ;
+    schema:name "Robert Andrich" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-09-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Aleix_García a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/261504-1727378020.jpg?lm=1> ;
+    schema:name "Aleix García" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1997-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Florian_Wirtz a schema:Person ;
+    schema:value "130000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/598577-1689710503.jpg?lm=1> ;
+    schema:name "Florian Wirtz" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2003-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Alejandro_Grimaldo a schema:Person ;
+    schema:value "45000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/193082-1689710805.jpg?lm=1> ;
+    schema:name "Alejandro Grimaldo" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1995-09-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Exequiel_Palacios a schema:Person ;
+    schema:value "45000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/401578-1695368200.jpg?lm=1> ;
+    schema:name "Exequiel Palacios" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-10-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Martin_Terrier a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/442891-1727378397.jpg?lm=1> ;
+    schema:name "Martin Terrier" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1997-03-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Nordi_Mukiele a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/348026-1727378130.jpg?lm=1> ;
+    schema:name "Nordi Mukiele" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1997-11-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Jonas_Hofmann a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/7161-1689710421.jpg?lm=1> ;
+    schema:name "Jonas Hofmann" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1992-07-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Granit_Xhaka a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/111455-1689711080.jpg?lm=1> ;
+    schema:name "Granit Xhaka" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1992-09-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Switzerland" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Patrik_Schick a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/242086-1727378322.jpg?lm=1> ;
+    schema:name "Patrik Schick" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1996-01-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Jonathan_Tah a schema:Person ;
+    schema:value "30000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/196357-1695367765.jpg?lm=1> ;
+    schema:name "Jonathan Tah" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1996-02-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Bayer_04_Leverkusen .
+
+:_Gregor_Kobel a schema:Person ;
+    schema:value "40000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/257814-1709559904.jpg?lm=1> ;
+    schema:name "Gregor Kobel" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1997-12-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Switzerland" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Alexander_Meyer a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/76158-1716381651.jpg?lm=1> ;
+    schema:name "Alexander Meyer" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1991-04-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Marcel_Lotka a schema:Person ;
+    schema:value "1300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/453737-1657285168.jpg?lm=1> ;
+    schema:name "Marcel Lotka" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-05-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Poland" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Silas_Ostrzinski a schema:Person ;
+    schema:name "Silas Ostrzinski" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2003-11-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Rodney_Elongo-Yombo a schema:Person ;
+    schema:name "Rodney Elongo-Yombo" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2001-07-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Yannik_Lührs a schema:Person ;
+    schema:name "Yannik Lührs" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2003-09-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Jordi_Paulina a schema:Person ;
+    schema:name "Jordi Paulina" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-09-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Filippo_Mané a schema:Person ;
+    schema:name "Filippo Mané" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2005-03-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Tyler_Meiser a schema:Person ;
+    schema:name "Tyler Meiser" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2007-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Ayman_Azhil a schema:Person ;
+    schema:name "Ayman Azhil" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2001-04-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Morocco" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Niklas_Jessen a schema:Person ;
+    schema:name "Niklas Jessen" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2003-09-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Felix_Kalu_Nmecha a schema:Person ;
+    schema:name "Felix Kalu Nmecha" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2000-10-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Karim_Adeyemi a schema:Person ;
+    schema:value "35000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/496094-1712859708.jpg?lm=1> ;
+    schema:name "Karim Adeyemi" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2002-01-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Nico_Schlotterbeck a schema:Person ;
+    schema:value "40000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/388198-1709560457.jpg?lm=1> ;
+    schema:name "Nico Schlotterbeck" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Julian_Ryerson a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/370789-1709561216.jpg?lm=1> ;
+    schema:name "Julian Ryerson" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1997-11-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Norway" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Marcel_Sabitzer a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/106987-1711745992.jpg?lm=1> ;
+    schema:name "Marcel Sabitzer" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1994-03-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Ramy_Bensebaini a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/284732-1730103772.jpg?lm=1> ;
+    schema:name "Ramy Bensebaini" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1995-04-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Algeria" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Pascal_Groß a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/82873-1719671915.jpg?lm=1> ;
+    schema:name "Pascal Groß" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1991-06-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Donyell_Malen a schema:Person ;
+    schema:value "40000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/326029-1711746104.jpg?lm=1> ;
+    schema:name "Donyell Malen" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1999-01-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Emre_Can a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/119296-1709561046.jpg?lm=1> ;
+    schema:name "Emre Can" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-01-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Waldemar_Anton a schema:Person ;
+    schema:value "24000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/193004-1723922551.jpg?lm=1> ;
+    schema:name "Waldemar Anton" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1996-07-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .
+
+:_Niklas_Süle a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/166601-1709560223.jpg?lm=1> ;
+    schema:name "Niklas Süle" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1995-09-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Borussia_Dortmund .

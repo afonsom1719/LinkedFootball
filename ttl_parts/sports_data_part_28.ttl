@@ -1,0 +1,824 @@
+@prefix schema: <https://schema.org/> .
+@prefix : <http://example.org/> .
+
+:_David_Jiménez a schema:Person ;
+    schema:name "David Jiménez" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-03-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Diego_Aguado a schema:Person ;
+    schema:name "Diego Aguado" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2007-02-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Loren_Aguado a schema:Person ;
+    schema:name "Loren Aguado" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2002-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Chema_Andrés a schema:Person ;
+    schema:name "Chema Andrés" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-04-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Hugo_De_Llanos a schema:Person ;
+    schema:name "Hugo De Llanos" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-03-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Daniel_Yáñez a schema:Person ;
+    schema:name "Daniel Yáñez" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2007-03-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Aurélien_Tchouameni a schema:Person ;
+    schema:name "Aurélien Tchouameni" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2000-01-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Ferland_Mendy a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/291417-1701294025.jpg?lm=1> ;
+    schema:name "Ferland Mendy" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1995-06-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Brahim_Diaz a schema:Person ;
+    schema:name "Brahim Diaz" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1999-08-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Morocco" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Kylian_Mbappé a schema:Person ;
+    schema:value "180000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/342229-1682683695.jpg?lm=1> ;
+    schema:name "Kylian Mbappé" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1998-12-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Dani_Carvajal a schema:Person ;
+    schema:name "Dani Carvajal" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1992-01-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Antonio_Rüdiger a schema:Person ;
+    schema:value "25000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/86202-1684484602.jpg?lm=1> ;
+    schema:name "Antonio Rüdiger" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1993-03-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Vinicius_Junior a schema:Person ;
+    schema:value "200000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/371998-1664869583.jpg?lm=1> ;
+    schema:name "Vinicius Junior" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2000-07-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Éder_Militão a schema:Person ;
+    schema:value "60000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/401530-1719653438.jpg?lm=1> ;
+    schema:name "Éder Militão" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-01-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Rodrygo a schema:Person ;
+    schema:value "110000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/412363-1693988167.jpg?lm=1> ;
+    schema:name "Rodrygo" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2001-01-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_David_Alaba a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/59016-1684921582.jpeg?lm=1> ;
+    schema:name "David Alaba" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1992-06-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Federico_Valverde a schema:Person ;
+    schema:value "130000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/369081-1731018042.jpg?lm=1> ;
+    schema:name "Federico Valverde" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-07-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Uruguay" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Dani_Ceballos a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/319745-1723666162.jpg?lm=1> ;
+    schema:name "Dani Ceballos" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1996-08-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Jesús_Vallejo a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/251896-1684241186.jpg?lm=1> ;
+    schema:name "Jesús Vallejo" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1997-01-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Lucas_Vázquez a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/221316-1536655786.jpg?lm=1> ;
+    schema:name "Lucas Vázquez" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1991-07-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Luka_Modrić a schema:Person ;
+    schema:name "Luka Modrić" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1985-09-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Croatia" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Raúl a schema:Person ;
+    schema:name "Raúl" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2003-02-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Jacobo_Ramón a schema:Person ;
+    schema:name "Jacobo Ramón" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2005-06-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Gonzalo_García a schema:Person ;
+    schema:name "Gonzalo García" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-03-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Endrick a schema:Person ;
+    schema:value "60000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/971570-1723665994.jpg?lm=1> ;
+    schema:name "Endrick" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2006-07-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Arda_Guler a schema:Person ;
+    schema:name "Arda Guler" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2005-02-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Turkey" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Jude_Bellingham a schema:Person ;
+    schema:value "180000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/581678-1693987944.jpg?lm=1> ;
+    schema:name "Jude Bellingham" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2003-06-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Eduardo_Camavinga a schema:Person ;
+    schema:value "100000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/640428-1668500874.jpg?lm=1> ;
+    schema:name "Eduardo Camavinga" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2002-11-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Real_Madrid_CF .
+
+:_Augusto_Batalla a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/275218-1656336113.JPG?lm=1> ;
+    schema:name "Augusto Batalla" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1996-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Dani_Cárdenas a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/397676-1663571879.jpg?lm=1> ;
+    schema:name "Dani Cárdenas" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1997-03-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Marco_de_las_Sías a schema:Person ;
+    schema:name "Marco de las Sías" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2005-12-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Joni_Montiel a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/343273-1712141506.jpg?lm=1> ;
+    schema:name "Joni Montiel" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1998-09-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Etienne a schema:Person ;
+    schema:name "Etienne" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2002-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cameroon" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Pelayo_Fernández a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Pelayo Fernández" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2003-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Diego_Mendez a schema:Person ;
+    schema:name "Diego Mendez" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-08-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Pep_Chavarría a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/596122-1659947697.jpg?lm=1> ;
+    schema:name "Pep Chavarría" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1998-04-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Jorge_de_Frutos a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/455181-1613121992.jpg?lm=1> ;
+    schema:name "Jorge de Frutos" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1997-02-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Sergio_Camello a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/505674-1617806102.jpg?lm=1> ;
+    schema:name "Sergio Camello" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2001-02-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Andrei_Rațiu a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/527966-1716545627.jpg?lm=1> ;
+    schema:name "Andrei Rațiu" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1998-06-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Romania" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Randy_Ntekja a schema:Person ;
+    schema:name "Randy Ntekja" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1997-12-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Pathé_Ciss a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/525578-1541089527.jpg?lm=1> ;
+    schema:name "Pathé Ciss" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1994-03-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Senegal" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Gerard_Gumbau a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/268670-1499871303.jpg?lm=1> ;
+    schema:name "Gerard Gumbau" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-12-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Isi_Palazón a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/362086-1726662958.jpg?lm=1> ;
+    schema:name "Isi Palazón" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1994-12-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Álvaro_García a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/257062-1709114307.jpg?lm=1> ;
+    schema:name "Álvaro García" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1992-10-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Sergi_Guardiola a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/256429-1521447903.jpg?lm=1> ;
+    schema:name "Sergi Guardiola" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1991-05-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Pedro_Díaz a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/363057-1664207844.jpg?lm=1> ;
+    schema:name "Pedro Díaz" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-06-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Raúl_de_Tomás a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/162038-1653044438.jpg?lm=1> ;
+    schema:name "Raúl de Tomás" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1994-10-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Unai_López a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/192009-1726662500.jpg?lm=1> ;
+    schema:name "Unai López" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-10-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Óscar_Trejo a schema:Person ;
+    schema:name "Óscar Trejo" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1988-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Óscar_Valentín a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/517753-1641140471.jpg?lm=1> ;
+    schema:name "Óscar Valentín" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1994-08-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Adri_Embarba a schema:Person ;
+    schema:name "Adri Embarba" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1992-05-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Aridane_Hernández a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/82503-1484149571.jpg?lm=1> ;
+    schema:name "Aridane Hernández" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1989-03-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Alfonso_Espino a schema:Person ;
+    schema:value "2400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/311044-1635328827.jpg?lm=1> ;
+    schema:name "Alfonso Espino" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1992-01-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Uruguay" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Abdul_Mumin a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/451801-1631003939.jpg?lm=1> ;
+    schema:name "Abdul Mumin" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-06-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ghana" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Iván_Balliu a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/85295-1688119678.jpg?lm=1> ;
+    schema:name "Iván Balliu" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1992-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Albania" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Florian_Lejeune a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/127108-1496825998.jpg?lm=1> ;
+    schema:name "Florian Lejeune" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1991-05-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_James_Rodríguez a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/88103-1720681352.jpg?lm=1> ;
+    schema:name "James Rodríguez" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1991-07-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_Rayo_Vallecano_de_Madrid .
+
+:_Cuéllar a schema:Person ;
+    schema:name "Cuéllar" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1984-05-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Dominik_Greif a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/316884-1581331466.png?lm=1> ;
+    schema:name "Dominik Greif" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1997-04-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Slovakia" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Leo_Román a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/562742-1648453168.jpg?lm=1> ;
+    schema:name "Leo Román" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2000-07-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Pere_Garcia a schema:Person ;
+    schema:name "Pere Garcia" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2002-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Sebastian_Wade a schema:Person ;
+    schema:name "Sebastian Wade" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2003-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Antonio_Sánchez a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/513031-1576533215.jpg?lm=1> ;
+    schema:name "Antonio Sánchez" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "1997-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Miquel_Salas a schema:Person ;
+    schema:name "Miquel Salas" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-08-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Marc_Domènech a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
+    schema:name "Marc Domènech" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2006-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Javier_Llabres a schema:Person ;
+    schema:name "Javier Llabres" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2002-09-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Copete a schema:Person ;
+    schema:name "Copete" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-10-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Daniel_Luna a schema:Person ;
+    schema:name "Daniel Luna" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2003-05-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Samuel_Almeida_Costa a schema:Person ;
+    schema:name "Samuel Almeida Costa" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2000-11-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Chiquinho a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/695454-1641552728.png?lm=1> ;
+    schema:name "Chiquinho" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2000-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Mateu_Morey a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/388513-1661413734.jpg?lm=1> ;
+    schema:name "Mateu Morey" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2000-03-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Roberto_Navarro a schema:Person ;
+    schema:name "Roberto Navarro" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2002-04-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Valery a schema:Person ;
+    schema:name "Valery" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1999-11-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Abdón_Prats a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/177452-1696950061.jpg?lm=1> ;
+    schema:name "Abdón Prats" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1992-12-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Pablo_Maffeo a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/251876-1699449290.jpg?lm=1> ;
+    schema:name "Pablo Maffeo" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1997-07-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Toni_Lato a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/320271-1496906352.jpg?lm=1> ;
+    schema:name "Toni Lato" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1997-11-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Manu_Morlanes a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/335225-1552044533.jpg?lm=1> ;
+    schema:name "Manu Morlanes" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1999-01-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Antonio_Raíllo a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/278296-1447228780.jpg?lm=1> ;
+    schema:name "Antonio Raíllo" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1991-10-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Sergi_Darder a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/142021-1664975574.jpg?lm=1> ;
+    schema:name "Sergi Darder" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1993-12-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Dani_Rodríguez a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/139435-1583332711.jpg?lm=1> ;
+    schema:name "Dani Rodríguez" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1988-06-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Vedat_Muriqi a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/256267-1627914833.jpg?lm=1> ;
+    schema:name "Vedat Muriqi" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1994-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Kosovo" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Cyle_Larin a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/343463-1720430112.jpg?lm=1> ;
+    schema:name "Cyle Larin" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1995-04-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Canada" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Takuma_Asano a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/245744-1657284052.jpg?lm=1> ;
+    schema:name "Takuma Asano" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1994-11-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Japan" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Siebe_Van_der_Heyden a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/400131-1642262598.jpg?lm=1> ;
+    schema:name "Siebe Van der Heyden" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-05-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Belgium" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Omar_Mascarell a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/142031-1531813358.jpg?lm=1> ;
+    schema:name "Omar Mascarell" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1993-02-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Johan_Mojica a schema:Person ;
+    schema:value "2200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/262939-1541161893.jpg?lm=1> ;
+    schema:name "Johan Mojica" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1992-08-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Martin_Valjent a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/277384-1568027892.jpg?lm=1> ;
+    schema:name "Martin Valjent" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1995-12-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Slovakia" ;
+    schema:athlete :club_RCD_Mallorca .
+
+:_Adrián a schema:Person ;
+    schema:value "600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/71271-1687166366.jpg?lm=1> ;
+    schema:name "Adrián" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1987-01-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Rui_Silva a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/234811-1666770953.jpg?lm=1> ;
+    schema:name "Rui Silva" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1994-02-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Fran_Vieites a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/551182-1701083106.jpg?lm=1> ;
+    schema:name "Fran Vieites" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1999-05-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Germán_García a schema:Person ;
+    schema:name "Germán García" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2004-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Guilherme_Fernandes a schema:Person ;
+    schema:name "Guilherme Fernandes" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-03-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Manu_González a schema:Person ;
+    schema:name "Manu González" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2007-04-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Félix_Martí a schema:Person ;
+    schema:name "Félix Martí" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-04-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Lucas_Alcázar a schema:Person ;
+    schema:name "Lucas Alcázar" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2002-07-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Ángel_Ortiz a schema:Person ;
+    schema:name "Ángel Ortiz" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-07-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Carlos_Guirao a schema:Person ;
+    schema:name "Carlos Guirao" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2003-04-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Jesús_Rodríguez a schema:Person ;
+    schema:name "Jesús Rodríguez" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-11-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Mateo_Flores a schema:Person ;
+    schema:name "Mateo Flores" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2004-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .
+
+:_Iker_Losada a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/632741-1569337955.jpg?lm=1> ;
+    schema:name "Iker Losada" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2001-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_Real_Betis_Balompié .

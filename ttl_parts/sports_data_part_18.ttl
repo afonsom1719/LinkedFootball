@@ -1,0 +1,852 @@
+@prefix schema: <https://schema.org/> .
+@prefix : <http://example.org/> .
+
+:_Franco_Carboni a schema:Person ;
+    schema:value "900000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/731491-1675245800.jpg?lm=1> ;
+    schema:name "Franco Carboni" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2003-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_Venezia_FC .
+
+:_Bjarki_Bjarkason a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/566613-1717660343.jpg?lm=1> ;
+    schema:name "Bjarki Bjarkason" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2000-05-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Iceland" ;
+    schema:athlete :club_Venezia_FC .
+
+:_John_Yeboah a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/439914-1668768754.png?lm=1> ;
+    schema:name "John Yeboah" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2000-06-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Venezia_FC .
+
+:_Hans_Nicolussi_Caviglia a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/430280-1675245071.jpg?lm=1> ;
+    schema:name "Hans Nicolussi Caviglia" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2000-06-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Venezia_FC .
+
+:_Antonio_Donnarumma a schema:Person ;
+    schema:value "325000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/88685-1724826522.jpg?lm=1> ;
+    schema:name "Antonio Donnarumma" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1990-07-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Vanja_Milinković-Savić a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/257474-1730125139.jpg?lm=1> ;
+    schema:name "Vanja Milinković-Savić" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1997-02-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Serbia" ;
+    schema:athlete :club_Torino_FC .
+
+:_Alberto_Paleari a schema:Person ;
+    schema:value "500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/163048-1602149171.jpg?lm=1> ;
+    schema:name "Alberto Paleari" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1992-08-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Francesco_Plaia a schema:Person ;
+    schema:name "Francesco Plaia" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2006-03-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Comè_Bianay_Balcot a schema:Person ;
+    schema:name "Comè Bianay Balcot" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Torino_FC .
+
+:_Marco_Dalla_Vecchia a schema:Person ;
+    schema:name "Marco Dalla Vecchia" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-02-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Tommaso_Gabellini a schema:Person ;
+    schema:name "Tommaso Gabellini" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2006-10-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Edoardo_Zaia a schema:Person ;
+    schema:name "Edoardo Zaia" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2006-09-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Ivan_Ilić a schema:Person ;
+    schema:value "18000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/470794-1716239802.jpg?lm=1> ;
+    schema:name "Ivan Ilić" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2001-03-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Serbia" ;
+    schema:athlete :club_Torino_FC .
+
+:_Perr_Schuurs a schema:Person ;
+    schema:value "17000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/418543-1694614988.jpg?lm=1> ;
+    schema:name "Perr Schuurs" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-11-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Torino_FC .
+
+:_Marcus_Pedersen a schema:Person ;
+    schema:value "5500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/583404-1660759624.jpg?lm=1> ;
+    schema:name "Marcus Pedersen" ;
+    schema:roleName "Right Midfield" ;
+    schema:birthDate "2000-07-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Norway" ;
+    schema:athlete :club_Torino_FC .
+
+:_Borna_Sosa a schema:Person ;
+    schema:value "7500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/293194-1716241200.jpg?lm=1> ;
+    schema:name "Borna Sosa" ;
+    schema:roleName "Left Midfield" ;
+    schema:birthDate "1998-01-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Croatia" ;
+    schema:athlete :club_Torino_FC .
+
+:_Mërgim_Vojvoda a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/336125-1661351703.jpg?lm=1> ;
+    schema:name "Mërgim Vojvoda" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1995-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Kosovo" ;
+    schema:athlete :club_Torino_FC .
+
+:_Adrien_Tameze a schema:Person ;
+    schema:name "Adrien Tameze" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-02-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cameroon" ;
+    schema:athlete :club_Torino_FC .
+
+:_Nikola_Vlašić a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/293200-1695028630.jpg?lm=1> ;
+    schema:name "Nikola Vlašić" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1997-10-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Croatia" ;
+    schema:athlete :club_Torino_FC .
+
+:_Valentino_Lazaro a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/186368-1692819728.jpg?lm=1> ;
+    schema:name "Valentino Lazaro" ;
+    schema:roleName "Left Midfield" ;
+    schema:birthDate "1996-03-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Austria" ;
+    schema:athlete :club_Torino_FC .
+
+:_Che_Adams a schema:Person ;
+    schema:name "Che Adams" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1996-07-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Scotland" ;
+    schema:athlete :club_Torino_FC .
+
+:_Duván_Zapata a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/73794-1730126644.jpg?lm=1> ;
+    schema:name "Duván Zapata" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1991-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_Torino_FC .
+
+:_Karol_Linetty a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/225873-1663596553.jpg?lm=1> ;
+    schema:name "Karol Linetty" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-02-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Poland" ;
+    schema:athlete :club_Torino_FC .
+
+:_Yann_Karamoh a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/324804-1663596515.jpg?lm=1> ;
+    schema:name "Yann Karamoh" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1998-07-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ivory Coast" ;
+    schema:athlete :club_Torino_FC .
+
+:_Adam_Masina a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/286949-1658130450.jpg?lm=1> ;
+    schema:name "Adam Masina" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1994-01-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Morocco" ;
+    schema:athlete :club_Torino_FC .
+
+:_Guillermo_Maripán a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/249730-1730123458.jpg?lm=1> ;
+    schema:name "Guillermo Maripán" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1994-05-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Chile" ;
+    schema:athlete :club_Torino_FC .
+
+:_Antonio_Sanabria a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/234523-1692963077.jpg?lm=1> ;
+    schema:name "Antonio Sanabria" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1996-03-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Paraguay" ;
+    schema:athlete :club_Torino_FC .
+
+:_Alieu_Njie a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/934527-1704902612.jpg?lm=1> ;
+    schema:name "Alieu Njie" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2005-05-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Sweden" ;
+    schema:athlete :club_Torino_FC .
+
+:_Zannetos_Savva a schema:Person ;
+    schema:name "Zannetos Savva" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2005-11-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cyprus" ;
+    schema:athlete :club_Torino_FC .
+
+:_Aaron_Ciammaglichella a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/724108-1704901754.jpg?lm=1> ;
+    schema:name "Aaron Ciammaglichella" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2005-01-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Gvidas_Gineitis a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/798929-1730125690.jpg?lm=1> ;
+    schema:name "Gvidas Gineitis" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2004-04-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Lithuania" ;
+    schema:athlete :club_Torino_FC .
+
+:_Ali_Dembele a schema:Person ;
+    schema:name "Ali Dembele" ;
+    schema:roleName "Right Midfield" ;
+    schema:birthDate "2004-01-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Torino_FC .
+
+:_Emirhan_Ilkhan a schema:Person ;
+    schema:name "Emirhan Ilkhan" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2004-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Turkey" ;
+    schema:athlete :club_Torino_FC .
+
+:_Brian_Bayeye a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/715470-1660115930.jpg?lm=1> ;
+    schema:name "Brian Bayeye" ;
+    schema:roleName "Right Midfield" ;
+    schema:birthDate "2000-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_Torino_FC .
+
+:_Saúl_Coco a schema:Person ;
+    schema:value "14000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/588426-1725531089.jpg?lm=1> ;
+    schema:name "Saúl Coco" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Equatorial Guinea" ;
+    schema:athlete :club_Torino_FC .
+
+:_Samuele_Ricci a schema:Person ;
+    schema:value "28000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/467992-1730125512.jpg?lm=1> ;
+    schema:name "Samuele Ricci" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2001-08-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_Torino_FC .
+
+:_Sebastian_Walukiewicz a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/345458-1716985042.jpg?lm=1> ;
+    schema:name "Sebastian Walukiewicz" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2000-04-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Poland" ;
+    schema:athlete :club_Torino_FC .
+
+:_Christian_Früchtl a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/336307-1695655759.jpg?lm=1> ;
+    schema:name "Christian Früchtl" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2000-01-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_US_Lecce .
+
+:_Wladimiro_Falcone a schema:Person ;
+    schema:value "5000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/238537-1693308504.jpg?lm=1> ;
+    schema:name "Wladimiro Falcone" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1995-04-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Jasper_Samooja a schema:Person ;
+    schema:value "75000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/712911-1730122886.jpg?lm=1> ;
+    schema:name "Jasper Samooja" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2003-07-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Finland" ;
+    schema:athlete :club_US_Lecce .
+
+:_Alexandru_Borbei a schema:Person ;
+    schema:value "150000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/667640-1709655552.jpg?lm=1> ;
+    schema:name "Alexandru Borbei" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2003-06-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Romania" ;
+    schema:athlete :club_US_Lecce .
+
+:_Santiago_Pierotti a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/674806-1709016512.jpg?lm=1> ;
+    schema:name "Santiago Pierotti" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2001-04-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_US_Lecce .
+
+:_Gaby_Jean a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/805886-1692033275.png?lm=1> ;
+    schema:name "Gaby Jean" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2000-02-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Filip_Marchwiński a schema:Person ;
+    schema:name "Filip Marchwiński" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2002-01-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Poland" ;
+    schema:athlete :club_US_Lecce .
+
+:_Federico_Baschirotto a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/351955-1730126092.jpg?lm=1> ;
+    schema:name "Federico Baschirotto" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1996-09-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Antonino_Gallo a schema:Person ;
+    schema:value "4500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/392516-1663745734.jpg?lm=1> ;
+    schema:name "Antonino Gallo" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2000-01-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Ylber_Ramadani a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/442703-1691151579.jpg?lm=1> ;
+    schema:name "Ylber Ramadani" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1996-04-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Albania" ;
+    schema:athlete :club_US_Lecce .
+
+:_Tete_Morente a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/339816-1730123532.jpg?lm=1> ;
+    schema:name "Tete Morente" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1996-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_US_Lecce .
+
+:_Nicola_Sansone a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/82048-1663656944.jpg?lm=1> ;
+    schema:name "Nicola Sansone" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1991-09-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Þórir_Jóhann_Helgason a schema:Person ;
+    schema:name "Þórir Jóhann Helgason" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2000-09-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Iceland" ;
+    schema:athlete :club_US_Lecce .
+
+:_Lassana_Coulibaly a schema:Person ;
+    schema:value "2800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/386552-1725529617.jpg?lm=1> ;
+    schema:name "Lassana Coulibaly" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1996-04-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Mali" ;
+    schema:athlete :club_US_Lecce .
+
+:_Andy_Pelmard a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/494236-1730185580.jpg?lm=1> ;
+    schema:name "Andy Pelmard" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2000-03-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Frédéric_Guilbert a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/354352-1673963895.jpg?lm=1> ;
+    schema:name "Frédéric Guilbert" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1994-12-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Ante_Rebić a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/187587-1596115623.jpg?lm=1> ;
+    schema:name "Ante Rebić" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1993-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Croatia" ;
+    schema:athlete :club_US_Lecce .
+
+:_Kevin_Bonifazi a schema:Person ;
+    schema:value "1800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/247377-1663656615.jpg?lm=1> ;
+    schema:name "Kevin Bonifazi" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1996-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Rémi_Oudin a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/399543-1662015046.jpg?lm=1> ;
+    schema:name "Rémi Oudin" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1996-11-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Vernon_Addo a schema:Person ;
+    schema:value "150000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/1017950-1669889030.png?lm=1> ;
+    schema:name "Vernon Addo" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2005-05-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_US_Lecce .
+
+:_Dario_Daka a schema:Person ;
+    schema:value "75000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/816679-1709655828.jpg?lm=1> ;
+    schema:name "Dario Daka" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-01-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Albania" ;
+    schema:athlete :club_US_Lecce .
+
+:_Luis_Hasa a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/724178-1655244826.jpg?lm=1> ;
+    schema:name "Luis Hasa" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-01-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_US_Lecce .
+
+:_Kialonda_Gaspar a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/836441-1730185525.jpg?lm=1> ;
+    schema:name "Kialonda Gaspar" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1997-09-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Angola" ;
+    schema:athlete :club_US_Lecce .
+
+:_Patrick_Dorgu a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/926952-1697182638.jpg?lm=1> ;
+    schema:name "Patrick Dorgu" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-10-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_US_Lecce .
+
+:_Sebastian_Esposito a schema:Person ;
+    schema:value "200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/1118086-1708933470.jpg?lm=1> ;
+    schema:name "Sebastian Esposito" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2003-07-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Australia" ;
+    schema:athlete :club_US_Lecce .
+
+:_Medon_Berisha a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/583046-1662114572.jpg?lm=1> ;
+    schema:name "Medon Berisha" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-10-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Albania" ;
+    schema:athlete :club_US_Lecce .
+
+:_Jeppe_Corfitzen a schema:Person ;
+    schema:value "400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/709985-1695107527.jpg?lm=1> ;
+    schema:name "Jeppe Corfitzen" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-12-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_US_Lecce .
+
+:_Joan_Gonzalez a schema:Person ;
+    schema:name "Joan Gonzalez" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2002-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_US_Lecce .
+
+:_Rares_Burnete a schema:Person ;
+    schema:name "Rares Burnete" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2004-01-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Romania" ;
+    schema:athlete :club_US_Lecce .
+
+:_Ed_McJannett a schema:Person ;
+    schema:name "Ed McJannett" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2004-01-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ireland" ;
+    schema:athlete :club_US_Lecce .
+
+:_Mohamed_Kaba a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/911328-1695033138.jpg?lm=1> ;
+    schema:name "Mohamed Kaba" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2001-10-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Balthazar_Pierret a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/642002-1730185630.jpg?lm=1> ;
+    schema:name "Balthazar Pierret" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "2000-05-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_US_Lecce .
+
+:_Hamza_Rafia a schema:Person ;
+    schema:value "1700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/418571-1725530321.jpg?lm=1> ;
+    schema:name "Hamza Rafia" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1999-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Tunisia" ;
+    schema:athlete :club_US_Lecce .
+
+:_Lameck_Banda a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/545538-1663744937.jpg?lm=1> ;
+    schema:name "Lameck Banda" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2001-01-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Zambia" ;
+    schema:athlete :club_US_Lecce .
+
+:_Nikola_Krstović a schema:Person ;
+    schema:value "6000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/434433-1730126208.jpg?lm=1> ;
+    schema:name "Nikola Krstović" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "2000-04-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Montenegro" ;
+    schema:athlete :club_US_Lecce .
+
+:_Alessio_Cragno a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/12907-1663659430.jpg?lm=1> ;
+    schema:name "Alessio Cragno" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1994-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Semuel_Pizzignacco a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/537171-1725530533.jpg?lm=1> ;
+    schema:name "Semuel Pizzignacco" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Stefano_Turati a schema:Person ;
+    schema:value "7000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/543666-1686126590.jpg?lm=1> ;
+    schema:name "Stefano Turati" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-09-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Andrea_Mazza a schema:Person ;
+    schema:value "75000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/815567-1707727257.jpg?lm=1> ;
+    schema:name "Andrea Mazza" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2004-03-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Davide_Bifulco a schema:Person ;
+    schema:name "Davide Bifulco" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2006-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Andrea_Vailati a schema:Person ;
+    schema:name "Andrea Vailati" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2007-08-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Giorgos_Kyriakopoulos a schema:Person ;
+    schema:name "Giorgos Kyriakopoulos" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "1996-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Greece" ;
+    schema:athlete :club_AC_Monza .
+
+:_Nicolò_Postiglione a schema:Person ;
+    schema:name "Nicolò Postiglione" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2005-04-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Endris_Scaramelli a schema:Person ;
+    schema:name "Endris Scaramelli" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2006-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Gianluca_Caprari a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/146752-1663659110.jpg?lm=1> ;
+    schema:name "Gianluca Caprari" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1993-07-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Dany_Mota_Carvalho a schema:Person ;
+    schema:name "Dany Mota Carvalho" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "1998-05-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AC_Monza .
+
+:_Kevin_Martins a schema:Person ;
+    schema:name "Kevin Martins" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2005-01-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Samuele_Birindelli a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/461019-1613547152.jpg?lm=1> ;
+    schema:name "Samuele Birindelli" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1999-07-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Mirko_Marić a schema:Person ;
+    schema:name "Mirko Marić" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1995-05-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Bosnia-Herzegovina" ;
+    schema:athlete :club_AC_Monza .
+
+:_Luca_Caldirola a schema:Person ;
+    schema:value "1300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/88680-1712508051.jpg?lm=1> ;
+    schema:name "Luca Caldirola" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1991-02-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Pablo_Marí a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/210178-1663659195.jpg?lm=1> ;
+    schema:name "Pablo Marí" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1993-08-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_AC_Monza .
+
+:_Milan_Đurić a schema:Person ;
+    schema:name "Milan Đurić" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1990-05-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Bosnia-Herzegovina" ;
+    schema:athlete :club_AC_Monza .
+
+:_Davide_Diaw a schema:Person ;
+    schema:value "900000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/404995-1664875531.png?lm=1> ;
+    schema:name "Davide Diaw" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1992-01-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Matteo_Pessina a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/332179-1661268524.jpg?lm=1> ;
+    schema:name "Matteo Pessina" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1997-04-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Stefano_Sensi a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/216179-1692962617.jpg?lm=1> ;
+    schema:name "Stefano Sensi" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-08-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Mattia_Valoti a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/167741-1663659383.jpg?lm=1> ;
+    schema:name "Mattia Valoti" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1993-09-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Roberto_Gagliardini a schema:Person ;
+    schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/197471-1641817964.jpg?lm=1> ;
+    schema:name "Roberto Gagliardini" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1994-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Danilo_DAmbrosio a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/55769-1595925735.jpg?lm=1> ;
+    schema:name "Danilo D'Ambrosio" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1988-09-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Pedro_Pereira a schema:Person ;
+    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/314965-1725528497.jpg?lm=1> ;
+    schema:name "Pedro Pereira" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1998-01-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_AC_Monza .
+
+:_Armando_Izzo a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/32113-1724827391.jpg?lm=1> ;
+    schema:name "Armando Izzo" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1992-03-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Andrea_Petagna a schema:Person ;
+    schema:value "3800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/199258-1660297353.jpg?lm=1> ;
+    schema:name "Andrea Petagna" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1995-06-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Alessandro_Berretta a schema:Person ;
+    schema:name "Alessandro Berretta" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2006-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_AC_Monza .
+
+:_Omari_Forson a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/670845-1722327564.jpg?lm=1> ;
+    schema:name "Omari Forson" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2004-07-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AC_Monza .

@@ -1,0 +1,859 @@
+@prefix schema: <https://schema.org/> .
+@prefix : <http://example.org/> .
+
+:_Mark_Flekken a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/125714-1658411484.jpg?lm=1> ;
+    schema:name "Mark Flekken" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1993-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Hákon_Rafn_Valdimarsson a schema:Person ;
+    schema:value "2500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/488935-1689319830.jpg?lm=1> ;
+    schema:name "Hákon Rafn Valdimarsson" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2001-10-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Iceland" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Matthew_Cox a schema:Person ;
+    schema:value "800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/741236-1612879591.jpg?lm=1> ;
+    schema:name "Matthew Cox" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2003-05-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Tony_Yogane a schema:Person ;
+    schema:name "Tony Yogane" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate "2005-09-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Thiago_Rodrigues a schema:Person ;
+    schema:name "Thiago Rodrigues" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2001-06-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Iwan_Morgan a schema:Person ;
+    schema:name "Iwan Morgan" ;
+    schema:roleName "Offence" ;
+    schema:birthDate "2006-01-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Wales" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Nathan_Collins a schema:Person ;
+    schema:value "25000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/469050-1688381729.jpg?lm=1> ;
+    schema:name "Nathan Collins" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2001-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ireland" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Keane_Lewis-Potter a schema:Person ;
+    schema:value "18000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/644401-1642684319.jpg?lm=1> ;
+    schema:name "Keane Lewis-Potter" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2001-02-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Aaron_Hickey a schema:Person ;
+    schema:value "25000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/591949-1684772165.jpg?lm=1> ;
+    schema:name "Aaron Hickey" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2002-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Scotland" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Mikkel_Damsgaard a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/540941-1668183899.jpg?lm=1> ;
+    schema:name "Mikkel Damsgaard" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2000-07-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Christian_Nørgaard a schema:Person ;
+    schema:value "18000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/148367-1699799827.jpg?lm=1> ;
+    schema:name "Christian Nørgaard" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Kristoffer_Ajer a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/328658-1700649482.jpg?lm=1> ;
+    schema:name "Kristoffer Ajer" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1998-04-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Norway" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Mads_Roerslev a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/391005-1684772936.jpg?lm=1> ;
+    schema:name "Mads Roerslev" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1999-06-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Mathias_Jensen a schema:Person ;
+    schema:value "28000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/319859-1684771732.jpg?lm=1> ;
+    schema:name "Mathias Jensen" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Vitaly_Janelt a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/270171-1649932358.jpg?lm=1> ;
+    schema:name "Vitaly Janelt" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1998-05-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Bryan_Mbeumo a schema:Person ;
+    schema:value "40000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/413039-1668505084.jpg?lm=1> ;
+    schema:name "Bryan Mbeumo" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1999-08-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Cameroon" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Josh_Dasilva a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/340321-1596444356.jpg?lm=1> ;
+    schema:name "Josh Dasilva" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1998-10-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Sepp_van_den_Berg a schema:Person ;
+    schema:value "18000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/541231-1692000386.jpg?lm=1> ;
+    schema:name "Sepp van den Berg" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2001-12-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Rico_Henry a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/339556-1684771012.jpg?lm=1> ;
+    schema:name "Rico Henry" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1997-07-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Ethan_Pinnock a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/442248-1719836196.jpg?lm=1> ;
+    schema:name "Ethan Pinnock" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1993-05-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Jamaica" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Yoane_Wissa a schema:Person ;
+    schema:value "28000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/388165-1579276540.jpg?lm=1> ;
+    schema:name "Yoane Wissa" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1996-09-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "DR Congo" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Ji-soo_Kim a schema:Person ;
+    schema:value "600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/709767-1674265126.jpg?lm=1> ;
+    schema:name "Ji-soo Kim" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2004-12-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "South Korea" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Jayden_Meghoma a schema:Person ;
+    schema:value "0"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/954104-1725051533.jpg?lm=1> ;
+    schema:name "Jayden Meghoma" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2006-06-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Yunus_Konak a schema:Person ;
+    schema:name "Yunus Konak" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate ""^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Turkey" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Gustavo_Gomes a schema:Person ;
+    schema:name "Gustavo Gomes" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2005-11-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Yegor_Yarmolyuk a schema:Person ;
+    schema:value "10000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/717411-1639148047.png?lm=1> ;
+    schema:name "Yegor Yarmolyuk" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2004-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ukraine" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Ryan_Trevitt a schema:Person ;
+    schema:value "275000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/874538-1686580996.jpg?lm=1> ;
+    schema:name "Ryan Trevitt" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-03-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Ben_Mee a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/74810-1700647998.jpg?lm=1> ;
+    schema:name "Ben Mee" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1989-09-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Fabio_Carvalho a schema:Person ;
+    schema:name "Fabio Carvalho" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2002-08-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Edmond-Paris_Maghoma a schema:Person ;
+    schema:name "Edmond-Paris Maghoma" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2001-05-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Ethan_Brierley a schema:Person ;
+    schema:name "Ethan Brierley" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-11-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Kevin_Schade a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/473050-1700560328.jpg?lm=1> ;
+    schema:name "Kevin Schade" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2001-11-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_Brentford_FC .
+
+:_Alphonse_Aréola a schema:Person ;
+    schema:name "Alphonse Aréola" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1993-02-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Łukasz_Fabiański a schema:Person ;
+    schema:name "Łukasz Fabiański" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1985-04-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Poland" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Wesley_Foderingham a schema:Person ;
+    schema:name "Wesley Foderingham" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1991-01-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Regan_Clayton a schema:Person ;
+    schema:name "Regan Clayton" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2004-11-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Ezra_Mayers a schema:Person ;
+    schema:name "Ezra Mayers" ;
+    schema:roleName "Defence" ;
+    schema:birthDate "2007-01-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Kaelan_Casey a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/845321-1709883861.jpg?lm=1> ;
+    schema:name "Kaelan Casey" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2004-10-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Luis_Guilherme a schema:Person ;
+    schema:value "24000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/991800-1676571608.jpg?lm=1> ;
+    schema:name "Luis Guilherme" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2006-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Oliver_Scarles a schema:Person ;
+    schema:name "Oliver Scarles" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2005-12-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Kamarai_Simon-Swyer a schema:Person ;
+    schema:name "Kamarai Simon-Swyer" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "2002-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Andy_Irving a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/430310-1692965140.png?lm=1> ;
+    schema:name "Andy Irving" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2000-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Scotland" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Crysencio_Summerville a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/474701-1701683744.jpg?lm=1> ;
+    schema:name "Crysencio Summerville" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2001-10-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Jean-Clair_Todibo a schema:Person ;
+    schema:value "35000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/605184-1699439806.jpg?lm=1> ;
+    schema:name "Jean-Clair Todibo" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1999-12-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "France" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Mohammed_Kudus a schema:Person ;
+    schema:value "50000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/543499-1668429218.jpg?lm=1> ;
+    schema:name "Mohammed Kudus" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2000-08-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ghana" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Vladimir_Coufal a schema:Person ;
+    schema:name "Vladimir Coufal" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1992-08-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Guido_Rodríguez a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/342385-1668181269.jpg?lm=1> ;
+    schema:name "Guido Rodríguez" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1994-04-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Carlos_Soler a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/372246-1662059930.jpg?lm=1> ;
+    schema:name "Carlos Soler" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1997-01-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Max_Kilman a schema:Person ;
+    schema:name "Max Kilman" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1997-05-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Tomáš_Souček a schema:Person ;
+    schema:name "Tomáš Souček" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1995-02-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Czech Republic" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Jarrod_Bowen a schema:Person ;
+    schema:value "50000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/314875-1662362005.jpg?lm=1> ;
+    schema:name "Jarrod Bowen" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Michail_Antonio a schema:Person ;
+    schema:value "4000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/104124-1709884222.jpg?lm=1> ;
+    schema:name "Michail Antonio" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1990-03-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Jamaica" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Aaron_Cresswell a schema:Person ;
+    schema:value "900000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/92571-1700670925.jpg?lm=1> ;
+    schema:name "Aaron Cresswell" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1989-12-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Aaron_Wan-Bissaka a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/477758-1617030255.jpg?lm=1> ;
+    schema:name "Aaron Wan-Bissaka" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1997-11-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Danny_Ings a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/134294-1674218597.jpg?lm=1> ;
+    schema:name "Danny Ings" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1992-07-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Emerson a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/181778-1660636930.jpg?lm=1> ;
+    schema:name "Emerson" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "1994-08-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Italy" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Konstantinos_Mavropanos a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/415912-1691999569.jpg?lm=1> ;
+    schema:name "Konstantinos Mavropanos" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1997-12-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Greece" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Edson_Álvarez a schema:Person ;
+    schema:value "35000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/401356-1698343328.jpeg?lm=1> ;
+    schema:name "Edson Álvarez" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1997-10-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Mexico" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Lucas_Paquetá a schema:Person ;
+    schema:value "55000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/444523-1695370009.jpg?lm=1> ;
+    schema:name "Lucas Paquetá" ;
+    schema:roleName "Attacking Midfield" ;
+    schema:birthDate "1997-08-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Niclas_Füllkrug a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/75489-1709560033.jpg?lm=1> ;
+    schema:name "Niclas Füllkrug" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1993-02-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Germany" ;
+    schema:athlete :club_West_Ham_United_FC .
+
+:_Kepa_Arrizabalaga a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/192279-1661855851.jpg?lm=1> ;
+    schema:name "Kepa Arrizabalaga" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1994-10-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Mark_Travers a schema:Person ;
+    schema:value "3500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/357658-1702296610.jpg?lm=1> ;
+    schema:name "Mark Travers" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "1999-05-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ireland" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Will_Dennis a schema:Person ;
+    schema:value "350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/582078-1651653108.jpg?lm=1> ;
+    schema:name "Will Dennis" ;
+    schema:roleName "Goalkeeper" ;
+    schema:birthDate "2000-07-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Ben_Winterburn a schema:Person ;
+    schema:name "Ben Winterburn" ;
+    schema:roleName "Midfield" ;
+    schema:birthDate ""^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Dean_Huijsen a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/890290-1676533236.jpg?lm=1> ;
+    schema:name "Dean Huijsen" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2005-04-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Spain" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Maxwell_Kinsey-Wellings a schema:Person ;
+    schema:name "Maxwell Kinsey-Wellings" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2005-02-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Dango_Ouattara a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/823231-1663162842.jpg?lm=1> ;
+    schema:name "Dango Ouattara" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "2002-02-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Burkina Faso" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Milos_Kerkez a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/730861-1660762995.jpg?lm=1> ;
+    schema:name "Milos Kerkez" ;
+    schema:roleName "Left-Back" ;
+    schema:birthDate "2003-11-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Hungary" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Alex_Scott a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/855256-1656922605.jpg?lm=1> ;
+    schema:name "Alex Scott" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "2003-08-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Illia_Zabarnyi a schema:Person ;
+    schema:name "Illia Zabarnyi" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2002-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ukraine" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Evanilson a schema:Person ;
+    schema:value "35000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/711337-1606396779.png?lm=1> ;
+    schema:name "Evanilson" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1999-10-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Brazil" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Julian_Araujo a schema:Person ;
+    schema:name "Julian Araujo" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2001-08-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Mexico" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_James_Hill a schema:Person ;
+    schema:value "2000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/611793-1633426138.png?lm=1> ;
+    schema:name "James Hill" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "2002-01-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Max_Aarons a schema:Person ;
+    schema:value "16000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/471690-1662465106.png?lm=1> ;
+    schema:name "Max Aarons" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "2000-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Tyler_Adams a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/332705-1666472142.jpg?lm=1> ;
+    schema:name "Tyler Adams" ;
+    schema:roleName "Defensive Midfield" ;
+    schema:birthDate "1999-02-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "USA" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Marcos_Senesi a schema:Person ;
+    schema:value "22000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/469781-1576329259.jpg?lm=1> ;
+    schema:name "Marcos Senesi" ;
+    schema:roleName "Centre-Back" ;
+    schema:birthDate "1997-05-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Argentina" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Ryan_Christie a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/188077-1697450633.jpg?lm=1> ;
+    schema:name "Ryan Christie" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1995-02-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Scotland" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Enes_Ünal a schema:Person ;
+    schema:value "15000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/251106-1669365680.jpg?lm=1> ;
+    schema:name "Enes Ünal" ;
+    schema:roleName "Centre-Forward" ;
+    schema:birthDate "1997-05-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Turkey" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Luis_Sinisterra a schema:Person ;
+    schema:value "17000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/512385-1674557520.jpg?lm=1> ;
+    schema:name "Luis Sinisterra" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1999-06-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Colombia" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Adam_Smith a schema:Person ;
+    schema:value "1000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/61841-1547728546.jpg?lm=1> ;
+    schema:name "Adam Smith" ;
+    schema:roleName "Right-Back" ;
+    schema:birthDate "1991-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Philip_Billing a schema:Person ;
+    schema:value "18000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/320411-1674468252.jpg?lm=1> ;
+    schema:name "Philip Billing" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1996-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Denmark" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Justin_Kluivert a schema:Person ;
+    schema:value "14000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/330659-1596107153.jpg?lm=1> ;
+    schema:name "Justin Kluivert" ;
+    schema:roleName "Left Winger" ;
+    schema:birthDate "1999-05-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Netherlands" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Marcus_Tavernier a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/399434-1700650360.jpg?lm=1> ;
+    schema:name "Marcus Tavernier" ;
+    schema:roleName "Left Midfield" ;
+    schema:birthDate "1999-03-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Antoine_Semenyo a schema:Person ;
+    schema:value "20000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/583255-1628669787.jpg?lm=1> ;
+    schema:name "Antoine Semenyo" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "2000-01-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Ghana" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_David_Brooks a schema:Person ;
+    schema:value "8000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/277033-1700650102.jpg?lm=1> ;
+    schema:name "David Brooks" ;
+    schema:roleName "Right Winger" ;
+    schema:birthDate "1997-07-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Wales" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+:_Lewis_Cook a schema:Person ;
+    schema:value "12000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/249089-1700671190.jpg?lm=1> ;
+    schema:name "Lewis Cook" ;
+    schema:roleName "Central Midfield" ;
+    schema:birthDate "1997-02-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "England" ;
+    schema:athlete :club_AFC_Bournemouth .
+
+
+:club_Athletic_Club a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/77.png> ;
+    schema:coach "Ernesto Valverde" ;
+    schema:StadiumOrArena "San Mamés" ;
+    schema:color "Red / White / Black" ;
+    schema:foundingDate "1898" ;
+    schema:location "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009" ;
+    schema:memberOf "2014" .
+
+:club_Club_Atlético_de_Madrid a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/78.png> ;
+    schema:coach "Diego Simeone" ;
+    schema:StadiumOrArena "Estadio Wanda Metropolitano" ;
+    schema:color "Red / White / Blue" ;
+    schema:foundingDate "1903" ;
+    schema:location "Paseo Virgen del Puerto, 67 Madrid 28005" ;
+    schema:memberOf "2014" .
+
+:club_CA_Osasuna a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/79.png> ;
+    schema:coach "Moreno" ;
+    schema:StadiumOrArena "Estadio El Sadar" ;
+    schema:color "Red / Navy Blue" ;
+    schema:foundingDate "1920" ;
+    schema:location "Calle del Sadar, s/n Pamplona 31006" ;
+    schema:memberOf "2014" .
+
+:club_RCD_Espanyol_de_Barcelona a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/80.png> ;
+    schema:coach "Manolo González" ;
+    schema:StadiumOrArena "RCDE Stadium" ;
+    schema:color "Blue / White" ;
+    schema:foundingDate "1900" ;
+    schema:location "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940" ;
+    schema:memberOf "2014" .
+
+:club_FC_Barcelona a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/81.png> ;
+    schema:coach "Hansi Flick" ;
+    schema:StadiumOrArena "Camp Nou" ;
+    schema:color "Red / Navy Blue / Orange" ;
+    schema:foundingDate "1899" ;
+    schema:location "Avenida Arístides Maillol s/n Barcelona 08028" ;
+    schema:memberOf "2014" .
+
+:club_Getafe_CF a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/82.png> ;
+    schema:coach "Pepe Bordalás" ;
+    schema:StadiumOrArena "Coliseum Alfonso Pérez" ;
+    schema:color "Blue / White" ;
+    schema:foundingDate "1946" ;
+    schema:location "Avenida Teresa de Calcuta, s/n Getafe 28903" ;
+    schema:memberOf "2014" .
+
+:club_Real_Madrid_CF a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/86.png> ;
+    schema:coach "Carlo Ancelotti" ;
+    schema:StadiumOrArena "Estadio Santiago Bernabéu" ;
+    schema:color "White / Purple" ;
+    schema:foundingDate "1902" ;
+    schema:location "Avenida Concha Espina, 1 Madrid 28036" ;
+    schema:memberOf "2014" .
+
+:club_Rayo_Vallecano_de_Madrid a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/87.png> ;
+    schema:coach "Iñigo Pérez" ;
+    schema:StadiumOrArena "Estadio del Rayo Vallecano" ;
+    schema:color "White / Red" ;
+    schema:foundingDate "1924" ;
+    schema:location "Calle del Payaso Fofó, s/n Madrid 28018" ;
+    schema:memberOf "2014" .
+
+:club_RCD_Mallorca a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/89.png> ;
+    schema:coach "Jagoba Arrasate" ;
+    schema:StadiumOrArena "Iberostar Estadi" ;
+    schema:color "Red / Black" ;
+    schema:foundingDate "1916" ;
+    schema:location "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011" ;
+    schema:memberOf "2014" .
+
+:club_Real_Betis_Balompié a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/90.png> ;
+    schema:coach "Manuel Pellegrini" ;
+    schema:StadiumOrArena "Estadio Benito Villamarín" ;
+    schema:color "Green / White" ;
+    schema:foundingDate "1907" ;
+    schema:location "Avenida de Heliópolis, s/n Sevilla 41012" ;
+    schema:memberOf "2014" .
+
+:club_Real_Sociedad_de_Fútbol a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/92.png> ;
+    schema:coach "Imanol Alguacil" ;
+    schema:StadiumOrArena "Estadio Municipal de Anoeta" ;
+    schema:color "Blue / White" ;
+    schema:foundingDate "1903" ;
+    schema:location "Anoeta Pasalekua, 1 San Sebastián 20014" ;
+    schema:memberOf "2014" .
+
+:club_Villarreal_CF a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/94.png> ;
+    schema:coach "Marcelino" ;
+    schema:StadiumOrArena "Estadio de la Cerámica" ;
+    schema:color "Yellow / Blue" ;
+    schema:foundingDate "1923" ;
+    schema:location "Camino Miralcamp, s/n Villarreal 12540" ;
+    schema:memberOf "2014" .
+
+:club_Valencia_CF a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/95.png> ;
+    schema:coach "Rubén Baraja" ;
+    schema:StadiumOrArena "Estadio de Mestalla" ;
+    schema:color "White / Orange / Black" ;
+    schema:foundingDate "1919" ;
+    schema:location "Plaza del Valencia Club de Fútbol, 2 Valencia 46010" ;
+    schema:memberOf "2014" .
+
+:club_Real_Valladolid_CF a schema:SportsTeam ;
+    schema:photo <https://crests.football-data.org/250.png> ;
+    schema:coach "Alvaro Rubio" ;
+    schema:StadiumOrArena "Estadio Municipal José Zorrilla" ;
+    schema:color "Violet / White" ;
+    schema:foundingDate "1928" ;
+    schema:location "Avenida del Mundial, 82 Valladolid 47014" ;
+    schema:memberOf "2014" .
