@@ -52,13 +52,24 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
                 if subject not in existing_triples or f"schema:{prop}" not in existing_triples[subject]:
                     properties.append(f"    schema:{prop} {value}")
 
+            add_property_if_new("name", f"\"{row['Name']}\"")
             add_property_if_new("photo", f"<{row['Crest']}>")
             add_property_if_new("coach", f"\"{row['Coach']}\"")
             add_property_if_new("StadiumOrArena", f"\"{row['Stadium']}\"")
             add_property_if_new("color", f"\"{row['Colors']}\"")
             add_property_if_new("foundingDate", f"\"{row['Foundation']}\"")
             add_property_if_new("location", f"\"{row['Address']}\"")
-            add_property_if_new("memberOf", f"\"{row['CompetitionId']}\"")
+
+            if row["CompetitionId"] == "2017":
+                add_property_if_new("memberOf", ":competition__Liga_Portugal")
+            elif row["CompetitionId"] == "2014":
+                add_property_if_new("memberOf", ":competition__La_Liga")
+            elif row["CompetitionId"] == "2002":
+                add_property_if_new("memberOf", ":competition__Bundesliga")  
+            elif row["CompetitionId"] == "2019":
+                add_property_if_new("memberOf", ":competition__Serie_A")
+            elif row["CompetitionId"] == "2021":
+                add_property_if_new("memberOf", ":competition__Premier_League")  
 
             if properties:
                 club_block = f"{subject} a schema:SportsTeam ;\n" + " ;\n".join(properties) + " .\n\n"
