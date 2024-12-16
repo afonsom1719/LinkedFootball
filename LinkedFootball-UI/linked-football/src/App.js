@@ -3,17 +3,18 @@ import './App.css';
 import { PrimeReactProvider } from 'primereact/api';
 import "primereact/resources/themes/lara-light-blue/theme.css";
 import { Menubar } from 'primereact/menubar';
-/* Components */
-import CompetitionComponent from './components/competitionComponent';
 import { useState } from 'react';
 
-const App = () => {
+/* Components */
+import CompetitionComponent from './components/competitionComponent';
+import TeamsComponent from './components/teamComponent';
 
-  const [activeIndex, setActiveIndex] = useState(0); // Manage active tab
+const App = () => {
+  const [activeIndex, setActiveIndex] = useState(1); // Manage active tab
+  const [selectedCompetition, setSelectedCompetition] = useState(null); // Selected competition context
 
   // Define menu items for the Menubar
   const items = [
-    { label: "Home", icon: "pi pi-fw pi-home", command: () => setActiveIndex(0) },
     { label: "Competitions", icon: "pi pi-fw pi-calendar", command: () => setActiveIndex(1) },
     { label: "Teams", icon: "pi pi-fw pi-users", command: () => setActiveIndex(2) },
     { label: "Players", icon: "pi pi-fw pi-user", command: () => setActiveIndex(3) },
@@ -23,7 +24,7 @@ const App = () => {
   // Define the start section with the logo
   const start = (
     <div className="logo" style={{ display: 'flex', alignItems: 'center', marginLeft: '20px', marginRight: '20px' }}>
-      <span className="money" 
+      <span 
         style={{ 
           color: 'var(--primary-600)', 
           fontWeight: 'bold', 
@@ -33,7 +34,7 @@ const App = () => {
       >
         Linked
       </span>
-      <span className="viz" 
+      <span 
         style={{ 
           color: 'white', 
           fontWeight: 'bold', 
@@ -44,22 +45,26 @@ const App = () => {
         Football
       </span>
     </div>
-  );  
-  
+  );
 
   return (
     <PrimeReactProvider>
       <div className="App">
         {/* Menubar with logo on the left and tabs on the right */}
-        <Menubar model={items} start={start} style={{ backgroundColor: '#808080'}} />
+        <Menubar model={items} start={start} style={{ backgroundColor: '#808080' }} />
 
         <div className="content" style={{ padding: "2rem", color: "white" }}>
-          <CompetitionComponent /> {/* Render the Competitions component here */}
+          {/* Conditionally render based on activeIndex */}
+          {activeIndex === 1 && (
+            <CompetitionComponent onSelectCompetition={setSelectedCompetition} setActiveIndex={setActiveIndex} />
+          )}
+          {activeIndex === 2 && (
+            <TeamsComponent competition={selectedCompetition} />
+          )}
         </div>
-  
       </div>
     </PrimeReactProvider>
   );
-}
+};
 
 export default App;

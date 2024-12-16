@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
-//import './competitionComponent.css'; // Your styles
 import CompetitionService from '../services/competitionService';
 
-const CompetitionComponent = () => {
+const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
   const [competitions, setCompetitions] = useState([]); // State for competitions data
   const [loading, setLoading] = useState(true); // Loading state
 
@@ -12,6 +11,7 @@ const CompetitionComponent = () => {
     const fetchCompetitions = async () => {
       setLoading(true);
       const data = await CompetitionService.getCompetitions(); // Fetch data from the service
+      console.log("DATA RECEIVED", data);
       setCompetitions(data);
       setLoading(false);
     };
@@ -23,6 +23,12 @@ const CompetitionComponent = () => {
   const logoBodyTemplate = (rowData) => (
     <img src={rowData.photo} alt={rowData.name} width="50" />
   );
+
+  // Handle row click
+  const onRowSelect = (e) => {
+    onSelectCompetition(e.data); // Pass selected competition to App
+    setActiveIndex(2); // Switch to Teams tab
+  };
 
   return (
     <div className="competitions">
@@ -36,6 +42,8 @@ const CompetitionComponent = () => {
           loading={loading}
           responsiveLayout="scroll"
           stripedRows
+          selectionMode="single"
+          onRowSelect={onRowSelect} // Row selection handler
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
@@ -45,22 +53,8 @@ const CompetitionComponent = () => {
           <Column field="end_date" header="End Date"></Column>
         </DataTable>
       </main>
-{/*       <footer>
-        <p>
-          Explore the project on{" "}
-          <a
-            href="https://github.com/afonsom1719/LinkedFootball"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub
-          </a>
-          .
-        </p>
-        <p>&copy; 2024 LinkedFootball</p>
-      </footer> */}
     </div>
   );
 };
 
-export default CompetitionComponent;
+export default CompetitionsComponent;
