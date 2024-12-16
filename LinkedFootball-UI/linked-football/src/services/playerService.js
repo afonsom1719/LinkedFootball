@@ -1,5 +1,5 @@
 const PlayerService = {
-    async getPlayersByTeam(teamUrl) {
+    async getPlayersByTeam(teamUrl, numberOfRows=25, offset=0) {
       const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
@@ -14,6 +14,7 @@ const PlayerService = {
           schema:birthPlace ?birthPlace ;
           schema:athlete <${teamUrl}> .
         }
+        LIMIT ${numberOfRows} OFFSET ${offset}
       `;
   
       const response = await fetch(sparqlEndpoint, {
