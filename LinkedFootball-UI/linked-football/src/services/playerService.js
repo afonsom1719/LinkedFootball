@@ -47,7 +47,7 @@ const PlayerService = {
     },
   
     // New function to get all players
-    async getAllPlayers() {
+    async getAllPlayers(numberOfRows=25, offset=0) {
       const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
@@ -61,6 +61,7 @@ const PlayerService = {
           schema:birthDate ?birthDate ;
           schema:birthPlace ?birthPlace .
         }
+        LIMIT ${numberOfRows} OFFSET ${offset}
       `;
   
       const response = await fetch(sparqlEndpoint, {
@@ -90,6 +91,65 @@ const PlayerService = {
       }));
   
       return players;
+    },
+
+    async getNumberOfPlayers() {
+      const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
+      const sparqlQuery = `
+        PREFIX schema: <https://schema.org/>
+  
+        SELECT (COUNT(?player) AS ?count) WHERE {
+          ?player a schema:Person .
+        }
+      `;
+  
+      const response = await fetch(sparqlEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+        body: new URLSearchParams({
+          query: sparqlQuery,
+        }),
+      });
+  
+      if (!response.ok) {
+        throw new Error("Failed to fetch SPARQL data");
+      }
+  
+      const data = await response.json();
+  
+      return parseInt(data.results.bindings[0].count.value);
+    },
+
+    async getNumberOfPlayersByTeam(teamUrl) {
+      const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
+      const sparqlQuery = `
+        PREFIX schema: <https://schema.org/>
+  
+        SELECT (COUNT(?player) AS ?count) WHERE {
+          ?player a schema:Person ;
+          schema:athlete <${teamUrl}> .
+        }
+      `;
+  
+      const response = await fetch(sparqlEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+        body: new URLSearchParams({
+          query: sparqlQuery,
+        }),
+      });
+  
+      if (!response.ok) {
+        throw new Error("Failed to fetch SPARQL data");
+      }
+  
+      const data = await response.json();
+  
+      return parseInt(data.results.bindings[0].count.value);
     },
   };
   

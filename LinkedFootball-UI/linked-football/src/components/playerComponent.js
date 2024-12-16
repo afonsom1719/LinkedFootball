@@ -16,10 +16,14 @@ const PlayersComponent = ({ team }) => {
       setLoading(true);
       if (team) {
         const data = await PlayerService.getPlayersByTeam(team.team, rows, first);
+        const total = await PlayerService.getNumberOfPlayersByTeam(team.team);
         setPlayers(data);
+        setTotalRecords(total);
       } else {
-        const data = await PlayerService.getAllPlayers();
+        const data = await PlayerService.getAllPlayers(rows, first);
+        const total = await PlayerService.getNumberOfPlayers();
         setPlayers(data);
+        setTotalRecords(total);
       }
       setLoading(false);
     };
@@ -56,6 +60,8 @@ const PlayersComponent = ({ team }) => {
           first={first} // Track the current page
           onPage={onPage} // Handle pagination change
           rowsPerPageOptions={[5, 10, 15, 20, 25, 50]} // Options for rows per page
+          paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
+          currentPageReportTemplate="{first} to {last} of {totalRecords}"
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
