@@ -11,7 +11,6 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
     const fetchCompetitions = async () => {
       setLoading(true);
       const data = await CompetitionService.getCompetitions(); // Fetch data from the service
-      console.log("DATA RECEIVED", data);
       setCompetitions(data);
       setLoading(false);
     };

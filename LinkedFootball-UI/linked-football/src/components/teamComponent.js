@@ -11,11 +11,9 @@ const TeamsComponent = ({ competition }) => {
     const fetchTeams = async () => {
       setLoading(true);
       if (competition) {
-        // Fetch teams for the selected competition
         const data = await TeamService.getTeamsByCompetition(competition.competition);
         setTeams(data);
       } else {
-        // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
         setTeams(data);
       }
@@ -23,7 +21,7 @@ const TeamsComponent = ({ competition }) => {
     };
 
     fetchTeams();
-  }, [competition]);  // Re-fetch when competition changes
+  }, [competition]);
 
   const logoBodyTemplate = (rowData) => (
     <img src={rowData.photo} alt={rowData.name} width="50" />
@@ -40,7 +38,12 @@ const TeamsComponent = ({ competition }) => {
         <DataTable value={teams} loading={loading} responsiveLayout="scroll" stripedRows>
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
-          <Column field="competition" header="Competition"></Column>
+          <Column field="compName" header="Competition"></Column>
+          <Column field="coach" header="Coach"></Column>
+          <Column field="stadium" header="Stadium"></Column>
+          <Column field="color" header="Colors"></Column>
+          <Column field="foundingDate" header="Founding Date"></Column>
+          <Column field="location" header="Location"></Column>
         </DataTable>
       </main>
     </div>

@@ -16,10 +16,16 @@ const App = () => {
   // Define menu items for the Menubar
   const items = [
     { label: "Competitions", icon: "pi pi-fw pi-calendar", command: () => setActiveIndex(1) },
-    { label: "Teams", icon: "pi pi-fw pi-users", command: () => setActiveIndex(2) },
+    { label: "Teams", icon: "pi pi-fw pi-users", command: () => setTeamsTab() },
     { label: "Players", icon: "pi pi-fw pi-user", command: () => setActiveIndex(3) },
     { label: "SPARQL Query", icon: "pi pi-fw pi-search", command: () => setActiveIndex(4) },
   ];
+
+  // function to set active index to 2 and clean selected competition (to be used in the command of the Teams tab)
+  const setTeamsTab = () => {
+    setActiveIndex(2);
+    setSelectedCompetition(null);
+  };
 
   // Define the start section with the logo
   const start = (
