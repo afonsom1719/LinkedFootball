@@ -9,6 +9,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1939" ;
     schema:location "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909" ;
+    schema:value "31700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Sporting_Clube_de_Portugal a schema:SportsTeam ;
@@ -19,6 +20,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1906" ;
     schema:location "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801" ;
+    schema:value "443500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_FC_Porto a schema:SportsTeam ;
@@ -29,6 +31,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1893" ;
     schema:location "Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451" ;
+    schema:value "351750000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_GD_Estoril_Praia a schema:SportsTeam ;
@@ -39,6 +42,7 @@
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1939" ;
     schema:location "Estádio António Coimbra da Mota Estoril 2765" ;
+    schema:value "23050000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Moreirense_FC a schema:SportsTeam ;
@@ -49,6 +53,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1938" ;
     schema:location "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270" ;
+    schema:value "25950000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_FC_Arouca a schema:SportsTeam ;
@@ -59,6 +64,7 @@
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1952" ;
     schema:location "Rua Doutor Ângelo Miranda Arouca 4540-140" ;
+    schema:value "35400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Boavista_FC a schema:SportsTeam ;
@@ -69,6 +75,7 @@
     schema:color "Black / White" ;
     schema:foundingDate "1903" ;
     schema:location "Rua O Primeiro de Janeiro, Boavista Porto 4100-127" ;
+    schema:value "15600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Sport_Lisboa_e_Benfica a schema:SportsTeam ;
@@ -89,6 +96,7 @@
     schema:color "Black / White" ;
     schema:foundingDate "1910" ;
     schema:location "Rua do Esmeraldo, n.º 46 Funchal 9060" ;
+    schema:value "15680000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_CD_Santa_Clara a schema:SportsTeam ;
@@ -99,6 +107,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1921" ;
     schema:location "Rua Comandante Jaime de Sousa, 21 Ponta Delgada 9500" ;
+    schema:value "15350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_FC_Famalicão a schema:SportsTeam ;
@@ -109,6 +118,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1931" ;
     schema:location "null Vila Nova de Famalicão null" ;
+    schema:value "50400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Gil_Vicente_FC a schema:SportsTeam ;
@@ -119,6 +129,7 @@
     schema:color "Red / Blue" ;
     schema:foundingDate "1924" ;
     schema:location "Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282" ;
+    schema:value "23230000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Vitória_SC a schema:SportsTeam ;
@@ -129,6 +140,7 @@
     schema:color "White / Black" ;
     schema:foundingDate "1922" ;
     schema:location "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914" ;
+    schema:value "47780000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_SC_Farense a schema:SportsTeam ;
@@ -139,6 +151,7 @@
     schema:color "Black / White" ;
     schema:foundingDate "1910" ;
     schema:location "Praça de Tânger, Ginásio Sede Faro 8005-445" ;
+    schema:value "18980000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Sporting_Clube_de_Braga a schema:SportsTeam ;
@@ -149,6 +162,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1921" ;
     schema:location "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087" ;
+    schema:value "127450000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_Casa_Pia_AC a schema:SportsTeam ;
@@ -159,6 +173,7 @@
     schema:color "Black / White" ;
     schema:foundingDate "1920" ;
     schema:location "Estádio Pina Manique Lisboa 1500-462" ;
+    schema:value "20230000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_CF_Estrela_da_Amadora a schema:SportsTeam ;
@@ -169,6 +184,7 @@
     schema:color "Red / Green" ;
     schema:foundingDate " 1932" ;
     schema:location "Av. Dr. José Pontes, 2720-206 Amadora" ;
+    schema:value "16000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_AVS a schema:SportsTeam ;
@@ -1686,7 +1702,6 @@
     schema:birthDate "2000-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:birthPlace "Brazil" ;
     schema:athlete :club_FC_Arouca .
-
 
 :_Weverson a schema:Person ;
     schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
@@ -4878,35 +4893,35 @@
 :competition__Premier_League a schema:SportsOrganization ;
     schema:name " Premier League" ;
     schema:location " England" ;
-    schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Premier_League.svg/1920px-Premier_League.svg.png> ;
+    schema:photo < https://www.wikidata.org/wiki/Q9448#/media/File:Premier_League.svg> ;
     schema:startDate " 2024-08-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 
 :competition__Bundesliga a schema:SportsOrganization ;
     schema:name " Bundesliga" ;
     schema:location " Germany" ;
-    schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bundesliga_logo.svg/1920px-Bundesliga_logo.svg.png> ;
+    schema:photo < https://www.wikidata.org/wiki/Q82595#/media/File:Bundesliga_logo.svg> ;
     schema:startDate " 2024-08-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 
 :competition__La_Liga a schema:SportsOrganization ;
     schema:name " La Liga" ;
     schema:location " Spain" ;
-    schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/1280px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png> ;
+    schema:photo < https://www.wikidata.org/wiki/Q324867#/media/File:LaLiga_EA_Sports_2023_Vertical_Logo.svg> ;
     schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 
 :competition__Serie_A a schema:SportsOrganization ;
     schema:name " Serie A" ;
     schema:location " Italy" ;
-    schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/800px-Serie_A.svg.png> ;
+    schema:photo < https://www.wikidata.org/wiki/Q15804#/media/File:Serie_A.svg> ;
     schema:startDate " 2024-08-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:endDate " 2025-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 
 :competition__Liga_Portugal a schema:SportsOrganization ;
     schema:name " Liga Portugal" ;
     schema:location " Portugal" ;
-    schema:photo <https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png> ;
+    schema:photo < https://www.wikidata.org/wiki/Q981133#/media/File:Símbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png> ;
     schema:startDate " 2024-08-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:endDate " 2025-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 
@@ -4918,6 +4933,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1921" ;
     schema:location "Horrenberger Straße 58 Zuzenhausen 74939" ;
+    schema:value "166150000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_Bayer_04_Leverkusen a schema:SportsTeam ;
@@ -4928,6 +4944,7 @@
     schema:color "Red / White / Black" ;
     schema:foundingDate "1904" ;
     schema:location "Bismarckstr. 122-124 Leverkusen 51373" ;
+    schema:value "635100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_Borussia_Dortmund a schema:SportsTeam ;
@@ -4938,6 +4955,7 @@
     schema:color "Black / Yellow" ;
     schema:foundingDate "1909" ;
     schema:location "Rheinlanddamm 207-209 Dortmund 44137" ;
+    schema:value "474900000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_FC_Bayern_München a schema:SportsTeam ;
@@ -4948,6 +4966,7 @@
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1900" ;
     schema:location "Säbenerstr. 51 München 81547" ;
+    schema:value "936700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_VfB_Stuttgart a schema:SportsTeam ;
@@ -4958,6 +4977,7 @@
     schema:color "White / Red" ;
     schema:foundingDate "1893" ;
     schema:location "Mercedesstraße 109 Stuttgart 70372" ;
+    schema:value "313730000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_VfL_Wolfsburg a schema:SportsTeam ;
@@ -4968,6 +4988,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1945" ;
     schema:location "In den Allerwiesen 1 Wolfsburg 38446" ;
+    schema:value "215000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_SV_Werder_Bremen a schema:SportsTeam ;
@@ -4978,6 +4999,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1899" ;
     schema:location "Franz-Böhmert-Str. 1c Bremen 28205" ;
+    schema:value "119350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_1_FSV_Mainz_05 a schema:SportsTeam ;
@@ -4988,6 +5010,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1905" ;
     schema:location "Dr.-Martin-Luther-King-Weg 20 Mainz 55122" ;
+    schema:value "93450000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_FC_Augsburg a schema:SportsTeam ;
@@ -4998,6 +5021,7 @@
     schema:color "Red / Green / White" ;
     schema:foundingDate "1907" ;
     schema:location "Donauwörther Straße 170 Augsburg 86154" ;
+    schema:value "99330000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_SC_Freiburg a schema:SportsTeam ;
@@ -5008,6 +5032,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1912" ;
     schema:location "Schwarzwaldstraße 193 Freiburg 79117" ;
+    schema:value "169050000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_Borussia_Mönchengladbach a schema:SportsTeam ;
@@ -5018,6 +5043,7 @@
     schema:color "Black / White / Green" ;
     schema:foundingDate "1900" ;
     schema:location "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179" ;
+    schema:value "139700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_Eintracht_Frankfurt a schema:SportsTeam ;
@@ -5028,6 +5054,7 @@
     schema:color "Red / Black" ;
     schema:foundingDate "1899" ;
     schema:location "Mörfelder Landstraße 362 Frankfurt am Main 60528" ;
+    schema:value "279700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_FC_St_Pauli_1910 a schema:SportsTeam ;
@@ -5038,6 +5065,7 @@
     schema:color "Brown / White" ;
     schema:foundingDate "1910" ;
     schema:location "Auf dem Heiligengeistfeld Hamburg 20359" ;
+    schema:value "40730000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_1_FC_Union_Berlin a schema:SportsTeam ;
@@ -5048,6 +5076,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1906" ;
     schema:location "An der Wuhlheide 263 Berlin 12555" ;
+    schema:value "122180000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_VfL_Bochum_1848 a schema:SportsTeam ;
@@ -5058,6 +5087,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1849" ;
     schema:location "Castroper Straße 145 Bochum 44791" ;
+    schema:value "60750000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_1_FC_Heidenheim_1846 a schema:SportsTeam ;
@@ -5068,6 +5098,7 @@
     schema:color "Blue / Red / White" ;
     schema:foundingDate "1846" ;
     schema:location "Schloßhaustraße 162 Heidenheim 89522" ;
+    schema:value "63300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_Holstein_Kiel a schema:SportsTeam ;
@@ -5078,6 +5109,7 @@
     schema:color "Blue / Red / White" ;
     schema:foundingDate "1844" ;
     schema:location "Steenbeker Weg 150 Kiel 24106" ;
+    schema:value "36300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :club_RB_Leipzig a schema:SportsTeam ;
@@ -5088,6 +5120,7 @@
     schema:color "White / Red" ;
     schema:foundingDate "2009" ;
     schema:location "Neumarkt 29-33 Leipzig 04109" ;
+    schema:value "517900000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Bundesliga .
 
 :_Oliver_Baumann a schema:Person ;
@@ -9810,6 +9843,7 @@
     schema:color "Red / Black" ;
     schema:foundingDate "1899" ;
     schema:location "Via Filippo Turati 3 Milano 20121" ;
+    schema:value "562000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_ACF_Fiorentina a schema:SportsTeam ;
@@ -9820,6 +9854,7 @@
     schema:color "Purple / White" ;
     schema:foundingDate "1926" ;
     schema:location "Viale Manfredo Fanti 4 Firenze 50137" ;
+    schema:value "258300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_AS_Roma a schema:SportsTeam ;
@@ -9830,6 +9865,7 @@
     schema:color "Maroon / Orange / White" ;
     schema:foundingDate "1927" ;
     schema:location "Via di Trigoria km. 3,600 Roma 00128" ;
+    schema:value "332500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Atalanta_BC a schema:SportsTeam ;
@@ -9840,6 +9876,7 @@
     schema:color "Black / Blue" ;
     schema:foundingDate "1904" ;
     schema:location "Corso Europa, 46, Zingonia Ciserano 24040" ;
+    schema:value "447600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Bologna_FC_1909 a schema:SportsTeam ;
@@ -9850,6 +9887,7 @@
     schema:color "Red / Blue / White" ;
     schema:foundingDate "1909" ;
     schema:location "Via Casteldebole 10 Bologna 40132" ;
+    schema:value "276800000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Cagliari_Calcio a schema:SportsTeam ;
@@ -9860,6 +9898,7 @@
     schema:color "Red / Navy Blue / White" ;
     schema:foundingDate "1920" ;
     schema:location "Viale la Plaia 15 Cagliari 09123" ;
+    schema:value "70350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Genoa_CFC a schema:SportsTeam ;
@@ -9870,6 +9909,7 @@
     schema:color "Red / Navy Blue" ;
     schema:foundingDate "1893" ;
     schema:location "Via Ronchi, 67 Genova 16155" ;
+    schema:value "144400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_FC_Internazionale_Milano a schema:SportsTeam ;
@@ -9880,6 +9920,7 @@
     schema:color "Blue / Black" ;
     schema:foundingDate "1908" ;
     schema:location "Corso Vittorio Emanuele II 9 Milano 20122" ;
+    schema:value "677300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Juventus_FC a schema:SportsTeam ;
@@ -9890,6 +9931,7 @@
     schema:color "White / Black" ;
     schema:foundingDate "1897" ;
     schema:location "Corso Galileo Ferraris, 32 Torino 10128" ;
+    schema:value "594200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_SS_Lazio a schema:SportsTeam ;
@@ -9900,6 +9942,7 @@
     schema:color "White / Sky Blue" ;
     schema:foundingDate "1900" ;
     schema:location "Via di Santa Cornelia, 1000 Formello 00060" ;
+    schema:value "236350000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Parma_Calcio_1913 a schema:SportsTeam ;
@@ -9910,6 +9953,7 @@
     schema:color "White / Black" ;
     schema:foundingDate "1913" ;
     schema:location "Strada Carlo Pisacane, 4 Parma 43121" ;
+    schema:value "125100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_SSC_Napoli a schema:SportsTeam ;
@@ -9920,6 +9964,7 @@
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1904" ;
     schema:location "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030" ;
+    schema:value "429030000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Udinese_Calcio a schema:SportsTeam ;
@@ -9930,6 +9975,7 @@
     schema:color "White / Black" ;
     schema:foundingDate "1896" ;
     schema:location "Via Agostino e Angelo Candolini 2 Udine 33100" ;
+    schema:value "128180000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Empoli_FC a schema:SportsTeam ;
@@ -9940,6 +9986,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1920" ;
     schema:location "Piazza Matteotti Empoli 50053" ;
+    schema:value "68830000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Hellas_Verona_FC a schema:SportsTeam ;
@@ -9950,6 +9997,7 @@
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1903" ;
     schema:location "Via Evangelista Torricelli, 37 Verona 37136" ;
+    schema:value "88430000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Venezia_FC a schema:SportsTeam ;
@@ -9960,6 +10008,7 @@
     schema:color "Orange / Black / Green" ;
     schema:foundingDate "1907" ;
     schema:location "Viale Ancona, 43 Venezia 30172" ;
+    schema:value "57780000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Torino_FC a schema:SportsTeam ;
@@ -9970,6 +10019,7 @@
     schema:color "Brown / White" ;
     schema:foundingDate "1894" ;
     schema:location "Via Arcivescovado 1 Torino 10122" ;
+    schema:value "172030000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_US_Lecce a schema:SportsTeam ;
@@ -9980,6 +10030,7 @@
     schema:color "Yellow / Red / Navy Blue" ;
     schema:foundingDate "1908" ;
     schema:location "Via Templari 11 Lecce 73100" ;
+    schema:value "92200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_AC_Monza a schema:SportsTeam ;
@@ -9990,6 +10041,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1912" ;
     schema:location "Via Ragazzi del '99, 14 Monza 20900" ;
+    schema:value "92680000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :club_Como_1907 a schema:SportsTeam ;
@@ -10000,6 +10052,7 @@
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1907" ;
     schema:location "Viale Sinigaglia 2 Como 22100" ;
+    schema:value "100550000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Serie_A .
 
 :_Marco_Sportiello a schema:Person ;
@@ -15635,7 +15688,6 @@
     schema:birthPlace "Italy" ;
     schema:athlete :club_Como_1907 .
 
-
 :club_Arsenal_FC a schema:SportsTeam ;
     schema:name "Arsenal FC" ;
     schema:photo <https://crests.football-data.org/57.png> ;
@@ -15644,6 +15696,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1886" ;
     schema:location "75 Drayton Park London N5 1BU" ;
+    schema:value "1170000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Aston_Villa_FC a schema:SportsTeam ;
@@ -15654,6 +15707,7 @@
     schema:color "Claret / Sky Blue" ;
     schema:foundingDate "1872" ;
     schema:location "Villa Park Birmingham B6 6HE" ;
+    schema:value "615450000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Chelsea_FC a schema:SportsTeam ;
@@ -15664,6 +15718,7 @@
     schema:color "Royal Blue / White" ;
     schema:foundingDate "1905" ;
     schema:location "Fulham Road London SW6 1HS" ;
+    schema:value "963200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Everton_FC a schema:SportsTeam ;
@@ -15674,6 +15729,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1878" ;
     schema:location "Goodison Park Liverpool L4 4EL" ;
+    schema:value "353100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Fulham_FC a schema:SportsTeam ;
@@ -15684,6 +15740,7 @@
     schema:color "White / Black" ;
     schema:foundingDate "1879" ;
     schema:location "Craven Cottage, Stevenage Road London SW6 6HH" ;
+    schema:value "346000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Liverpool_FC a schema:SportsTeam ;
@@ -15694,6 +15751,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1892" ;
     schema:location "Anfield Road Liverpool L4 0TH" ;
+    schema:value "931000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Manchester_City_FC a schema:SportsTeam ;
@@ -15704,6 +15762,7 @@
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1880" ;
     schema:location "SportCity Manchester M11 3FF" ;
+    schema:value "1260000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Manchester_United_FC a schema:SportsTeam ;
@@ -15714,6 +15773,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1878" ;
     schema:location "Sir Matt Busby Way Manchester M16 0RA" ;
+    schema:value "854150000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Newcastle_United_FC a schema:SportsTeam ;
@@ -15724,6 +15784,7 @@
     schema:color "Black / White" ;
     schema:foundingDate "1881" ;
     schema:location "Sports Direct Arena Newcastle upon Tyne NE1 4ST" ;
+    schema:value "657650000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Tottenham_Hotspur_FC a schema:SportsTeam ;
@@ -15734,6 +15795,7 @@
     schema:color "Navy Blue / White" ;
     schema:foundingDate "1882" ;
     schema:location "Bill Nicholson Way, 748 High Road London N17 0AP" ;
+    schema:value "788300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Wolverhampton_Wanderers_FC a schema:SportsTeam ;
@@ -15744,6 +15806,7 @@
     schema:color "Black / Gold" ;
     schema:foundingDate "1877" ;
     schema:location "Waterloo Road Wolverhampton WV1 4QR" ;
+    schema:value "379700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Leicester_City_FC a schema:SportsTeam ;
@@ -15754,6 +15817,7 @@
     schema:color "Royal Blue / White" ;
     schema:foundingDate "1884" ;
     schema:location "The Walkers Stadium, Filbert Way Leicester LE2 7FL" ;
+    schema:value "275600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Southampton_FC a schema:SportsTeam ;
@@ -15764,6 +15828,7 @@
     schema:color "Red / White / Black" ;
     schema:foundingDate "1885" ;
     schema:location "Britannia Road Southampton SO14 5FP" ;
+    schema:value "283200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Ipswich_Town_FC a schema:SportsTeam ;
@@ -15774,6 +15839,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1887" ;
     schema:location "Portman Road Ipswich IP1 2DA" ;
+    schema:value "195400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Nottingham_Forest_FC a schema:SportsTeam ;
@@ -15784,6 +15850,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1865" ;
     schema:location "Pavilion Road, West Bridgeford Nottingham NG2 5GJ" ;
+    schema:value "427700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Crystal_Palace_FC a schema:SportsTeam ;
@@ -15794,6 +15861,7 @@
     schema:color "Red / Blue" ;
     schema:foundingDate "1905" ;
     schema:location "Whitehorse Lane London SE25 6PU" ;
+    schema:value "438000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Brighton_and_Hove_Albion_FC a schema:SportsTeam ;
@@ -15804,6 +15872,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1898" ;
     schema:location "44 North Road Brighton & Hove BN1 1YR" ;
+    schema:value "574600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_Brentford_FC a schema:SportsTeam ;
@@ -15814,6 +15883,7 @@
     schema:color "Red / White / Black" ;
     schema:foundingDate "1889" ;
     schema:location "Braemar Road Brentford TW8 0NT" ;
+    schema:value "403030000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_West_Ham_United_FC a schema:SportsTeam ;
@@ -15824,6 +15894,7 @@
     schema:color "Claret / Sky Blue" ;
     schema:foundingDate "1895" ;
     schema:location "Queen Elizabeth Olympic Park, London London E20 2ST" ;
+    schema:value "481500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :club_AFC_Bournemouth a schema:SportsTeam ;
@@ -15834,6 +15905,7 @@
     schema:color "Red / Black" ;
     schema:foundingDate "1890" ;
     schema:location "Dean Court, Kings Park Bournemouth BH7 7AF" ;
+    schema:value "354850000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Premier_League .
 
 :_David_Raya a schema:Person ;
@@ -21106,6 +21178,7 @@
     schema:birthDate "1997-02-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
     schema:birthPlace "England" ;
     schema:athlete :club_AFC_Bournemouth .
+
 :club_Athletic_Club a schema:SportsTeam ;
     schema:name "Athletic Club" ;
     schema:photo <https://crests.football-data.org/77.png> ;
@@ -21114,6 +21187,7 @@
     schema:color "Red / White / Black" ;
     schema:foundingDate "1898" ;
     schema:location "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009" ;
+    schema:value "338700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Club_Atlético_de_Madrid a schema:SportsTeam ;
@@ -21124,6 +21198,7 @@
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1903" ;
     schema:location "Paseo Virgen del Puerto, 67 Madrid 28005" ;
+    schema:value "511000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_CA_Osasuna a schema:SportsTeam ;
@@ -21134,6 +21209,7 @@
     schema:color "Red / Navy Blue" ;
     schema:foundingDate "1920" ;
     schema:location "Calle del Sadar, s/n Pamplona 31006" ;
+    schema:value "112400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_RCD_Espanyol_de_Barcelona a schema:SportsTeam ;
@@ -21144,6 +21220,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1900" ;
     schema:location "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940" ;
+    schema:value "79300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_FC_Barcelona a schema:SportsTeam ;
@@ -21154,6 +21231,7 @@
     schema:color "Red / Navy Blue / Orange" ;
     schema:foundingDate "1899" ;
     schema:location "Avenida Arístides Maillol s/n Barcelona 08028" ;
+    schema:value "946000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Getafe_CF a schema:SportsTeam ;
@@ -21164,6 +21242,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1946" ;
     schema:location "Avenida Teresa de Calcuta, s/n Getafe 28903" ;
+    schema:value "74000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Real_Madrid_CF a schema:SportsTeam ;
@@ -21174,6 +21253,7 @@
     schema:color "White / Purple" ;
     schema:foundingDate "1902" ;
     schema:location "Avenida Concha Espina, 1 Madrid 28036" ;
+    schema:value "1360000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Rayo_Vallecano_de_Madrid a schema:SportsTeam ;
@@ -21184,6 +21264,7 @@
     schema:color "White / Red" ;
     schema:foundingDate "1924" ;
     schema:location "Calle del Payaso Fofó, s/n Madrid 28018" ;
+    schema:value "71300000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_RCD_Mallorca a schema:SportsTeam ;
@@ -21194,6 +21275,7 @@
     schema:color "Red / Black" ;
     schema:foundingDate "1916" ;
     schema:location "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011" ;
+    schema:value "89700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Real_Betis_Balompié a schema:SportsTeam ;
@@ -21204,6 +21286,7 @@
     schema:color "Green / White" ;
     schema:foundingDate "1907" ;
     schema:location "Avenida de Heliópolis, s/n Sevilla 41012" ;
+    schema:value "192400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Real_Sociedad_de_Fútbol a schema:SportsTeam ;
@@ -21214,6 +21297,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1903" ;
     schema:location "Anoeta Pasalekua, 1 San Sebastián 20014" ;
+    schema:value "443700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Villarreal_CF a schema:SportsTeam ;
@@ -21224,6 +21308,7 @@
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1923" ;
     schema:location "Camino Miralcamp, s/n Villarreal 12540" ;
+    schema:value "230700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Valencia_CF a schema:SportsTeam ;
@@ -21234,6 +21319,7 @@
     schema:color "White / Orange / Black" ;
     schema:foundingDate "1919" ;
     schema:location "Plaza del Valencia Club de Fútbol, 2 Valencia 46010" ;
+    schema:value "253000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Real_Valladolid_CF a schema:SportsTeam ;
@@ -21244,6 +21330,7 @@
     schema:color "Violet / White" ;
     schema:foundingDate "1928" ;
     schema:location "Avenida del Mundial, 82 Valladolid 47014" ;
+    schema:value "44200000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Deportivo_Alavés a schema:SportsTeam ;
@@ -21254,6 +21341,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1921" ;
     schema:location "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007" ;
+    schema:value "87850000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_UD_Las_Palmas a schema:SportsTeam ;
@@ -21264,6 +21352,7 @@
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1949" ;
     schema:location "Calle Pío XII, 29 Las Palmas de Gran Canaria 35005" ;
+    schema:value "112600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Girona_FC a schema:SportsTeam ;
@@ -21274,6 +21363,7 @@
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1930" ;
     schema:location "Avinguda de Montilivi, 141 Girona 17003" ;
+    schema:value "216500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_RC_Celta_de_Vigo a schema:SportsTeam ;
@@ -21284,6 +21374,7 @@
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1923" ;
     schema:location "Calle del Conde de Gondomar, 1 Vigo 36203" ;
+    schema:value "86600000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_Sevilla_FC a schema:SportsTeam ;
@@ -21294,6 +21385,7 @@
     schema:color "White / Red" ;
     schema:foundingDate "1905" ;
     schema:location "Calle Sevilla Fútbol Club, s/n Sevilla 41005" ;
+    schema:value "174100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :club_CD_Leganés a schema:SportsTeam ;
@@ -21304,6 +21396,7 @@
     schema:color "Blue / White" ;
     schema:foundingDate "1928" ;
     schema:location "Calle Arquitectura, s/n Leganés 28914" ;
+    schema:value "56330000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__La_Liga .
 
 :_Unai_Simón a schema:Person ;
