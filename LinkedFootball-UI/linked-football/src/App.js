@@ -8,24 +8,35 @@ import { useState } from 'react';
 /* Components */
 import CompetitionComponent from './components/competitionComponent';
 import TeamsComponent from './components/teamComponent';
+import PlayersComponent from './components/playerComponent'; 
 
 const App = () => {
   const [activeIndex, setActiveIndex] = useState(1); // Manage active tab
   const [selectedCompetition, setSelectedCompetition] = useState(null); // Selected competition context
+  const [selectedTeam, setSelectedTeam] = useState(null); // Selected team context
 
   // Define menu items for the Menubar
   const items = [
     { label: "Competitions", icon: "pi pi-fw pi-calendar", command: () => setActiveIndex(1) },
-    { label: "Teams", icon: "pi pi-fw pi-users", command: () => setTeamsTab() },
-    { label: "Players", icon: "pi pi-fw pi-user", command: () => setActiveIndex(3) },
+    { 
+      label: "Teams", 
+      icon: "pi pi-fw pi-users", 
+      command: () => {
+        setActiveIndex(2);
+        setSelectedCompetition(null); 
+        setSelectedTeam(null); // Clear selected team
+      }
+    },
+    { 
+      label: "Players", 
+      icon: "pi pi-fw pi-user", 
+      command: () => {
+        setActiveIndex(3);
+        setSelectedTeam(null); // Clear selected team
+      }
+    },
     { label: "SPARQL Query", icon: "pi pi-fw pi-search", command: () => setActiveIndex(4) },
   ];
-
-  // function to set active index to 2 and clean selected competition (to be used in the command of the Teams tab)
-  const setTeamsTab = () => {
-    setActiveIndex(2);
-    setSelectedCompetition(null);
-  };
 
   // Define the start section with the logo
   const start = (
@@ -65,7 +76,10 @@ const App = () => {
             <CompetitionComponent onSelectCompetition={setSelectedCompetition} setActiveIndex={setActiveIndex} />
           )}
           {activeIndex === 2 && (
-            <TeamsComponent competition={selectedCompetition} />
+            <TeamsComponent competition={selectedCompetition} setSelectedTeam={setSelectedTeam} setActiveIndex={setActiveIndex}/>
+          )}
+          {activeIndex === 3 && (
+            <PlayersComponent team={selectedTeam}/>
           )}
         </div>
       </div>
