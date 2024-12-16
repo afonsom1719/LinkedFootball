@@ -53,7 +53,7 @@ const App = () => {
       </span>
       <span 
         style={{ 
-          color: 'white', 
+          color: '#374151', 
           fontWeight: 'bold', 
           fontSize: '20px', 
           fontFamily: "'Alata', sans-serif", 
@@ -68,7 +68,7 @@ const App = () => {
     <PrimeReactProvider>
       <div className="App">
         {/* Menubar with logo on the left and tabs on the right */}
-        <Menubar model={items} start={start} style={{ backgroundColor: '#808080' }} />
+        <Menubar model={items} start={start} style={{ backgroundColor: 'rgba(0,0,0,0.1)' }} />
 
         <div className="content" style={{ padding: "2rem", color: "white" }}>
           {/* Conditionally render based on activeIndex */}

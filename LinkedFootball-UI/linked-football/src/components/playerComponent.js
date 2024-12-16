@@ -20,11 +20,13 @@ const PlayersComponent = ({ team }) => {
         setPlayers(data);
         setTotalRecords(total);
       } else {
+        console.log("Fetching all players");
         const data = await PlayerService.getAllPlayers(rows, first);
         const total = await PlayerService.getNumberOfPlayers();
         setPlayers(data);
         setTotalRecords(total);
       }
+      console.log("Total Records:", totalRecords);
       setLoading(false);
     };
 
@@ -68,6 +70,7 @@ const PlayersComponent = ({ team }) => {
           <Column field="role" header="Role"></Column>
           <Column field="birthDate" header="Birth Date"></Column>
           <Column field="birthPlace" header="Birth Place"></Column>
+          <Column field="value" header="Value"></Column>
         </DataTable>
       </main>
     </div>
