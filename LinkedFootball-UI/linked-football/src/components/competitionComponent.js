@@ -27,7 +27,7 @@ const CompetitionComponent = () => {
   return (
     <div className="competitions">
       <header>
-        <h1>Competitions</h1>
+        <h1 style={{ color: '#374151', fontWeight: 700 }}>Competitions</h1>
         <p>Explore football competitions and their details.</p>
       </header>
       <main>
