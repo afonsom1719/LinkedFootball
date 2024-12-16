@@ -1,13 +1,131 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+    box-sizing: border-box;
 }
+
+header, footer, nav {
+    padding: 10px 20px;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ddd;
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ddd;
+    flex-wrap: wrap;
+    justify-content: center;
 }
+
 nav ul li {
-    display: inline;
-    margin: 0 10px;
+    flex: 1; /* Makes items equal width */
+    text-align: center;
+    margin: 5px 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    background-color: #ddd;
+    color: #000;
+}
+
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        flex: none;
+    }
+}
+
+#project-overview, #how-to-use, #features {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#query-input {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+#sparql-query {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+    font-family: monospace;
+    font-size: 14px;
+}
+#run-query {
+    align-self: flex-start;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+#query-results {
+    margin: 20px;
+}
+#results-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+#results-table th, #results-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    background-color: #f4f4f4;
+}
+
+td:first-child, th:first-child {
+    position: sticky;
+    left: 0;
+    background-color: #fff;
+    z-index: 1;
+}
+
+td, th {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
 }

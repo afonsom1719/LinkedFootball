@@ -7,6 +7,61 @@
     <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
-    <h1>Competitions</h1>
+    <header>
+        <h1>Competitions</h1>
+        <p>Explore football competitions and their details.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../pages/competitions.html">Competitions</a></li>
+            <li><a href="../pages/teams.html">Teams</a></li>
+            <li><a href="../pages/players.html">Players</a></li>
+            <li><a href="../pages/sparql.html">SPARQL Query</a></li>
+        </ul>
+    </nav>    
+    <main>
+        <section id="competitions-list">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Logo</th>
+                        <th>Name</th>
+                        <th>Type/Format</th>
+                        <th>Country</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Mock Data -->
+                    <tr>
+                        <td><img src="../assets/premier_league_logo.png" alt="Premier League" width="50"></td>
+                        <td>Premier League</td>
+                        <td>League</td>
+                        <td>England</td>
+                        <td>2023-08-11</td>
+                        <td>2024-05-19</td>
+                    </tr>
+                    <tr>
+                        <td><img src="../assets/uefa_logo.png" alt="UEFA Champions League" width="50"></td>
+                        <td>UEFA Champions League</td>
+                        <td>Cup</td>
+                        <td>Europe</td>
+                        <td>2023-09-19</td>
+                        <td>2024-06-01</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>
+            Explore the project on 
+            <a href="https://github.com/afonsom1719/LinkedFootball" target="_blank">GitHub</a>.
+        </p>
+        <p>&copy; 2024 LinkedFootball</p>
+    </footer>
+    
 </body>
 </html>

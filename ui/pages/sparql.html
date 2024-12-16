@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPARQL Query</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>SPARQL Query Interface</h1>
+        <p>Use this interface to run SPARQL queries and view the results below.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../pages/competitions.html">Competitions</a></li>
+            <li><a href="../pages/teams.html">Teams</a></li>
+            <li><a href="../pages/players.html">Players</a></li>
+            <li><a href="../pages/sparql.html">SPARQL Query</a></li>
+        </ul>
+    </nav>     
+    <main>
+        <section id="query-input">
+            <textarea id="sparql-query" placeholder="Enter your SPARQL query here..."></textarea>
+            <button id="run-query">Run Query</button>
+        </section>
+        <section id="query-results">
+            <h2>Results</h2>
+            <table id="results-table">
+                <thead>
+                    <tr>
+                        <!-- Column headers will populate dynamically -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Results will populate dynamically -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="../js/sparql.js"></script>
+
+    <footer>
+        <p>
+            Explore the project on 
+            <a href="https://github.com/afonsom1719/LinkedFootball" target="_blank">GitHub</a>.
+        </p>
+        <p>&copy; 2024 LinkedFootball</p>
+    </footer>
+    
+</body>
+</html>

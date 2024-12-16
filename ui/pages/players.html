@@ -7,6 +7,61 @@
     <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
-    <h1>Players</h1>
+    <header>
+        <h1>Players</h1>
+        <p>Explore football players and their details.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../pages/competitions.html">Competitions</a></li>
+            <li><a href="../pages/teams.html">Teams</a></li>
+            <li><a href="../pages/players.html">Players</a></li>
+            <li><a href="../pages/sparql.html">SPARQL Query</a></li>
+        </ul>
+    </nav>    
+    <main>
+        <section id="players-list">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Picture</th>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>Country</th>
+                        <th>Birth Date</th>
+                        <th>Market Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Mock Data -->
+                    <tr>
+                        <td><img src="../assets/haaland.png" alt="Erling Haaland" width="50"></td>
+                        <td>Erling Haaland</td>
+                        <td>Forward</td>
+                        <td>Norway</td>
+                        <td>2000-07-21</td>
+                        <td>€180M</td>
+                    </tr>
+                    <tr>
+                        <td><img src="../assets/messi.png" alt="Lionel Messi" width="50"></td>
+                        <td>Lionel Messi</td>
+                        <td>Forward</td>
+                        <td>Argentina</td>
+                        <td>1987-06-24</td>
+                        <td>€40M</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>
+            Explore the project on 
+            <a href="https://github.com/afonsom1719/LinkedFootball" target="_blank">GitHub</a>.
+        </p>
+        <p>&copy; 2024 LinkedFootball</p>
+    </footer>
+    
 </body>
 </html>

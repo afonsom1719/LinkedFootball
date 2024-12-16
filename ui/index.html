@@ -7,14 +7,66 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <h1>Welcome to LinkedFootball</h1>
+    <header>
+        <h1>Welcome to LinkedFootball</h1>
+        <p>Application for accessing and querying football data through Semantic Web and Linked Data technologies.</p>
+    </header>
     <nav>
         <ul>
-            <li><a href="pages/competitions.html">Competitions</a></li>
-            <li><a href="pages/teams.html">Teams</a></li>
-            <li><a href="pages/players.html">Players</a></li>
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./pages/competitions.html">Competitions</a></li>
+            <li><a href="./pages/teams.html">Teams</a></li>
+            <li><a href="./pages/players.html">Players</a></li>
+            <li><a href="./pages/sparql.html">SPARQL Query</a></li>
         </ul>
     </nav>
-    <script src="js/scripts.js"></script>
+    <main>
+        <!-- Project Overview Section -->
+        <section id="project-overview">
+            <h2>About LinkedFootball</h2>
+            <p> Football is the most-watched sport in the world, which connects billions of fans
+                worldwide. It has been played since the 19th century, which makes it a huge
+                resource of information, from leagues and competitions to players. As the sport
+                keeps evolving, as well as technology, their interaction is being widely explored
+                nowadays, which creates the need for structured football-related knowledge.<br /><br />
+                This project, named LinkedFootball, aims to mitigate this need, by building a
+                comprehensive knowledge base about football. By taking advantage of the content
+                learned with the “WSDL” course, we seek to organize and present football data in a
+                structured way, by leveraging semantic web technologies and linked data principles.
+                Our goal is to have a knowledge base that establishes meaningful relationships
+                between all the entities of soccer, from teams and players to competitions and titles,
+                providing a rich and complete resource for fans and researchers in a structured and
+                accessible way.</p>
+        </section>
+
+        <!-- How to Use Section -->
+        <section id="how-to-use">
+            <h2>How to Use LinkedFootball</h2>
+            <ol>
+                <li>Visit the <a href="./pages/competitions.html">Competitions</a> page to browse tournaments.</li>
+                <li>Explore football <a href="./pages/teams.html">Teams</a> and their details.</li>
+                <li>Learn about individual <a href="./pages/players.html">Players</a> and their stats.</li>
+                <li>Run advanced queries on the <a href="./pages/sparql.html">SPARQL Query</a> page.</li>
+            </ol>
+        </section>
+
+        <!-- Features Section -->
+        <section id="features">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Linked Data principles for football knowledge.</li>
+                <li>Dynamic SPARQL queries to explore data.</li>
+                <li>Semantic Web technologies for structured insights.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>
+            Explore the project on 
+            <a href="https://github.com/afonsom1719/LinkedFootball" target="_blank">GitHub</a>.
+        </p>
+        <p>&copy; 2024 LinkedFootball</p>
+    </footer>    
+    
 </body>
 </html>
