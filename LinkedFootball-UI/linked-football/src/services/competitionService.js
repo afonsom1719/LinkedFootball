@@ -29,9 +29,12 @@ const CompetitionService = {
       }
   
       const data = await response.json();
+
+      //console.log("RAW DATA", data);
   
       // Transform SPARQL JSON results into an array of objects
       const competitions = data.results.bindings.map((binding) => ({
+        competition: binding.competition.value,
         name: binding.name.value,
         location: binding.location.value,
         photo: binding.photo.value,
