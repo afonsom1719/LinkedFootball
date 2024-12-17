@@ -14,10 +14,12 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
       if (competition) {
         // Fetch teams for the selected competition
         const data = await TeamService.getTeamsByCompetition(competition.competition);
+        //const data = await TeamService.getTeamsByCompetitionOrdered(competition.competition);
         setTeams(data);
       } else {
         // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
+        //const data = await TeamService.getAllTeamsOrdered();
         setTeams(data);
       }
       setLoading(false);
@@ -60,12 +62,12 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         >
           {/* Define columns to display in the DataTable */}
           <Column header="Logo" body={logoBodyTemplate} />
-          <Column field="name" header="Name" />
+          <Column field="name" sortable header="Name" />
           <Column field="compName" header="Competition" />
-          <Column field="coach" header="Coach" />
+          <Column field="coach" sortable header="Coach" />
           <Column field="stadium" header="Stadium" />
           <Column field="color" header="Colors" />
-          <Column field="foundingDate" header="Founding Date" />
+          <Column field="foundingDate" sortable header="Founding Date" />
           <Column field="location" header="Location" />
         </DataTable>
       </main>

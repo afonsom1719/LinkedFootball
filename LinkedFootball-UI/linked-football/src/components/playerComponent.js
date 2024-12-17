@@ -11,6 +11,25 @@ const PlayersComponent = ({ team }) => {
   const [first, setFirst] = useState(0); 
   const [rows, setRows] = useState(10); 
 
+  const positionOrder = {
+    "Goalkeeper": 1,
+    "Defence": 2, 
+    "Left-Back": 3,
+    "Centre-Back": 4,
+    "Right-Back": 5,
+    "Midfield": 6,
+    "Defensive Midfield": 7,
+    "Left Midfield": 8,
+    "Central Midfield": 9,
+    "Right Midfield": 10,
+    "Attacking Midfield": 11,
+    "Offence": 12,
+    "Left Winger": 13,
+    "Right Winger": 14,
+    "Centre-Forward": 15,
+  };
+  const defaultOrder = 99;
+
   // Fetch paginated data whenever `team`, `rows`, or `first` changes
   useEffect(() => {
     const fetchPlayers = async () => {
@@ -21,10 +40,12 @@ const PlayersComponent = ({ team }) => {
       if (team) {
         data = await PlayerService.getPlayersByTeam(team.team);
         //data = await PlayerService.getPlayersByTeam(team.team, rows, first);
+        //data = getPlayersByTeamOrdered(team.team, rows, first, orderField, orderDirection);
         //total = await PlayerService.getNumberOfPlayersByTeam(team.team);
       } else {
         data = await PlayerService.getAllPlayers();
         //data = await PlayerService.getAllPlayers(rows, first);
+        // 
         //total = await PlayerService.getNumberOfPlayers();
       }
   
@@ -66,11 +87,11 @@ const PlayersComponent = ({ team }) => {
           currentPageReportTemplate="Showing {first} to {last} of {totalRecords}"
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
-          <Column field="name" header="Name"></Column>
-          <Column field="role" header="Role"></Column>
-          <Column field="birthDate" header="Birth Date"></Column>
-          <Column field="birthPlace" header="Birth Place"></Column>
-          <Column field="value" header="Value"></Column>
+          <Column field="name" sortable header="Name"></Column>
+          <Column field="role" sortable sortFunction={(e) => e.data.sort((a, b) => e.order * ((positionOrder[a[e.field]] || defaultOrder) - (positionOrder[b[e.field]] || defaultOrder)))} header="Role"></Column>
+          <Column field="birthDate" sortable header="Birth Date"></Column>
+          <Column field="birthPlace" sortable header="Birth Place"></Column>
+          <Column field="value" sortable header="Value"></Column>
         </DataTable>
       </main>
     </div>
