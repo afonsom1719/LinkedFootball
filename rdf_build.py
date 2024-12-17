@@ -1,5 +1,6 @@
 import csv
 import os
+from rapidfuzz import process
 
 # Define namespaces and base URI
 SCHEMA = "https://schema.org/"
@@ -39,6 +40,13 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
     new_content = []
     club_ids = []  # To store all club IDs for consolidation
 
+    club_values = {}
+    with open(club_values_csv, mode="r", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            club_name = row["Club"]
+            club_values[generate_id(club_name, "club")] = row["Value"]
+
     # Process club details CSV
     with open(club_details_csv, mode="r", encoding="utf-8") as file:
         reader = csv.DictReader(file)
@@ -59,6 +67,15 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
             add_property_if_new("color", f"\"{row['Colors']}\"")
             add_property_if_new("foundingDate", f"\"{row['Foundation']}\"")
             add_property_if_new("location", f"\"{row['Address']}\"")
+
+            if club_id in club_values:
+                add_property_if_new("value", f"\"{club_values[club_id]}\"^^<http://www.w3.org/2001/XMLSchema#integer>")
+            else:
+                result = process.extractOne(row["Name"], club_values.keys())
+                if result:
+                    match, score, _ = result
+                    if score > 50:
+                        add_property_if_new("value", f"\"{club_values[match]}\"^^<http://www.w3.org/2001/XMLSchema#integer>")
 
             if row["CompetitionId"] == "2017":
                 add_property_if_new("memberOf", ":competition__Liga_Portugal")
@@ -121,18 +138,18 @@ def append_details_to_rdf(club_values_csv, club_details_csv, player_values_csv, 
     with open(competitions_csv, mode="r", encoding="utf-8") as file:
         reader = csv.DictReader(file)
         for row in reader:
-            print(row)
             competition_id = generate_id(row[" name"], "competition")
             subject = f":{competition_id}"
-            properties = [
-                f"    schema:name \"{row[' name']}\"",
-                f"    schema:location \"{row[' country']}\"",
-                f"    schema:photo <{row[' logo']}>",
-                f"    schema:startDate \"{row[' startdate']}\"^^<http://www.w3.org/2001/XMLSchema#date>",
-                f"    schema:endDate \"{row[' enddate']}\"^^<http://www.w3.org/2001/XMLSchema#date>"
-            ]
-            competition_block = f"{subject} a schema:SportsOrganization ;\n" + " ;\n".join(properties) + " .\n\n"
-            new_content.append(competition_block)
+            if subject not in existing_triples:
+                properties = [
+                    f"    schema:name \"{row[' name']}\"",
+                    f"    schema:location \"{row[' country']}\"",
+                    f"    schema:photo <{row[' logo']}>",
+                    f"    schema:startDate \"{row[' startdate']}\"^^<http://www.w3.org/2001/XMLSchema#date>",
+                    f"    schema:endDate \"{row[' enddate']}\"^^<http://www.w3.org/2001/XMLSchema#date>"
+                ]
+                competition_block = f"{subject} a schema:SportsOrganization ;\n" + " ;\n".join(properties) + " .\n\n"
+                new_content.append(competition_block)
 
     # Append the new content to the RDF file
     if new_content:
