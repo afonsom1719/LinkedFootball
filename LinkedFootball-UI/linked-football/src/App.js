@@ -35,7 +35,7 @@ const App = () => {
         setSelectedTeam(null); // Clear selected team
       }
     },
-    { label: "SPARQL Query", icon: "pi pi-fw pi-search", command: () => setActiveIndex(4) },
+    //{ label: "SPARQL Query", icon: "pi pi-fw pi-search", command: () => setActiveIndex(4) },
   ];
 
   // Define the start section with the logo
