@@ -199,7 +199,7 @@ const PlayerService = {
     },
   
     // New function to get all players
-    async getAllPlayersLimit() {
+    async getAllPlayers() {
       const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
