@@ -47,7 +47,7 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
           <Column field="location" header="Country"></Column>
-          <Column field="type" header="Type/Format"></Column>
+          {/* <Column field="type" header="Type/Format"></Column> */}
           <Column field="start_date" header="Start Date"></Column>
           <Column field="end_date" header="End Date"></Column>
         </DataTable>

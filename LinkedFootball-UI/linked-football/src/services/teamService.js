@@ -94,7 +94,7 @@ const TeamService = {
     
       const data = await response.json();
 
-      console.log("RAW DATA", data);
+      //console.log("RAW DATA", data);
     
       const teams = data.results.bindings.map((binding) => ({
         team: binding.team.value,

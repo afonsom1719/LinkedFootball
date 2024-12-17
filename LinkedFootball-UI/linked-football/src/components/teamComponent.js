@@ -52,6 +52,11 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
           stripedRows // Stripes for rows
           selectionMode="single" // Enable single row selection
           onRowSelect={onRowSelect} // Handle row selection
+          paginator
+          rows={20} 
+          rowsPerPageOptions={[10, 20, 50, 100]} 
+          paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
+          currentPageReportTemplate="Showing {first} to {last} of {totalRecords}"
         >
           {/* Define columns to display in the DataTable */}
           <Column header="Logo" body={logoBodyTemplate} />

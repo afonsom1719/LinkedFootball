@@ -7,31 +7,34 @@ const PlayersComponent = ({ team }) => {
   const [players, setPlayers] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const [totalRecords, setTotalRecords] = useState(0); // Track total records for pagination
-  const [first, setFirst] = useState(0); // For tracking current page offset
-  const [rows, setRows] = useState(25); // Set default rows per page to 25
+  //const [totalRecords, setTotalRecords] = useState(0); 
+  const [first, setFirst] = useState(0); 
+  const [rows, setRows] = useState(10); 
 
+  // Fetch paginated data whenever `team`, `rows`, or `first` changes
   useEffect(() => {
     const fetchPlayers = async () => {
       setLoading(true);
+      let data;
+      //let total;
+      
       if (team) {
-        const data = await PlayerService.getPlayersByTeam(team.team, rows, first);
-        const total = await PlayerService.getNumberOfPlayersByTeam(team.team);
-        setPlayers(data);
-        setTotalRecords(total);
+        data = await PlayerService.getPlayersByTeam(team.team);
+        //data = await PlayerService.getPlayersByTeam(team.team, rows, first);
+        //total = await PlayerService.getNumberOfPlayersByTeam(team.team);
       } else {
-        console.log("Fetching all players");
-        const data = await PlayerService.getAllPlayers(rows, first);
-        const total = await PlayerService.getNumberOfPlayers();
-        setPlayers(data);
-        setTotalRecords(total);
+        data = await PlayerService.getAllPlayers();
+        //data = await PlayerService.getAllPlayers(rows, first);
+        //total = await PlayerService.getNumberOfPlayers();
       }
-      console.log("Total Records:", totalRecords);
+  
+      setPlayers(data);
+      //setTotalRecords(total); 
       setLoading(false);
     };
-
+  
     fetchPlayers();
-  }, [team]);
+  }, [team, rows, first]); 
 
   const logoBodyTemplate = (rowData) => (
     <img src={rowData.photo} alt={rowData.name} width="50" />
@@ -40,7 +43,7 @@ const PlayersComponent = ({ team }) => {
   // Pagination event handler
   const onPage = (event) => {
     setFirst(event.first); // Update current page offset
-    setRows(event.rows); // Update the number of rows per page
+    setRows(event.rows); // Update rows per page
   };
 
   return (
@@ -57,13 +60,10 @@ const PlayersComponent = ({ team }) => {
           responsiveLayout="scroll"
           stripedRows
           paginator
-          rows={rows} // Default rows per page
-          totalRecords={totalRecords} // Total records for pagination
-          first={first} // Track the current page
-          onPage={onPage} // Handle pagination change
-          rowsPerPageOptions={[5, 10, 15, 20, 25, 50]} // Options for rows per page
+          rows={10} 
+          rowsPerPageOptions={[5, 10, 15, 20, 25, 50]} 
           paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
-          currentPageReportTemplate="{first} to {last} of {totalRecords}"
+          currentPageReportTemplate="Showing {first} to {last} of {totalRecords}"
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
