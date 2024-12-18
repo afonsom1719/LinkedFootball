@@ -89,6 +89,16 @@ const PlayersComponent = ({ team }) => {
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" sortable header="Name"></Column>
+          <Column
+            field="teamName"
+            sortable
+            header="Team"
+            body={(rowData) => (
+              <a href={`http://localhost:3000/LinkedFootball/${rowData.team.split("/").pop()}`} target="_blank" rel="noopener noreferrer">
+                {rowData.teamName}
+              </a>
+            )}
+          />
           <Column field="role" sortable sortFunction={(e) => e.data.sort((a, b) => e.order * ((positionOrder[a[e.field]] || defaultOrder) - (positionOrder[b[e.field]] || defaultOrder)))} header="Role"></Column>
           <Column field="birthDate" sortable header="Birth Date"></Column>
           <Column field="birthPlace" sortable header="Birth Place"></Column>

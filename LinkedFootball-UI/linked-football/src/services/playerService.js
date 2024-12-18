@@ -278,8 +278,8 @@ const PlayerService = {
     const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
     const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
-  
-        SELECT ?player ?name ?photo ?value ?role ?birthDate ?birthPlace ?team WHERE {
+    
+        SELECT ?player ?name ?photo ?value ?role ?birthDate ?birthPlace ?teamName WHERE {
           ?player a schema:Person ;
           schema:name ?name ;
           schema:photo ?photo ;
@@ -288,8 +288,11 @@ const PlayerService = {
           schema:birthDate ?birthDate ;
           schema:birthPlace ?birthPlace ;
           schema:athlete <${teamUrl}> .
+          
+          # Retrieve the team's name
+          <${teamUrl}> schema:name ?teamName .
         }
-      `;
+    `;    
 
     const response = await fetch(sparqlEndpoint, {
       method: "POST",
@@ -315,6 +318,8 @@ const PlayerService = {
       role: binding.role?.value || "N/A",
       birthDate: binding.birthDate?.value || "N/A",
       birthPlace: binding.birthPlace?.value || "N/A",
+      team: teamUrl,
+      teamName: binding.teamName?.value || "N/A",
     }));
 
     return players;
@@ -324,18 +329,22 @@ const PlayerService = {
   async getAllPlayers() {
     const sparqlEndpoint = "http://localhost:3030/LinkedFootball/query";
     const sparqlQuery = `
-        PREFIX schema: <https://schema.org/>
-  
-        SELECT ?player ?name ?photo ?value ?role ?birthDate ?birthPlace WHERE {
-          ?player a schema:Person ;
-          schema:name ?name ;
-          schema:photo ?photo ;
-          schema:value ?value ;
-          schema:roleName ?role ;
-          schema:birthDate ?birthDate ;
-          schema:birthPlace ?birthPlace .
-        }
-      `;
+    PREFIX schema: <https://schema.org/>
+
+    SELECT ?player ?name ?photo ?value ?role ?birthDate ?birthPlace ?team ?teamName WHERE {
+      ?player a schema:Person ;
+      schema:name ?name ;
+      schema:photo ?photo ;
+      schema:value ?value ;
+      schema:roleName ?role ;
+      schema:birthDate ?birthDate ;
+      schema:birthPlace ?birthPlace ;
+      schema:athlete ?team .
+
+      # Retrieve the team's name
+      ?team schema:name ?teamName .
+    }
+  `;
 
     const response = await fetch(sparqlEndpoint, {
       method: "POST",
@@ -361,6 +370,8 @@ const PlayerService = {
       role: binding.role?.value || "N/A",
       birthDate: binding.birthDate?.value || "N/A",
       birthPlace: binding.birthPlace?.value || "N/A",
+      team: binding.team.value,
+      teamName: binding.teamName?.value || "N/A",
     }));
 
     return players;

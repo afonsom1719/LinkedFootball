@@ -19,7 +19,6 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         );
         //const data = await TeamService.getTeamsByCompetitionOrdered(competition.competition);
         setTeams(data);
-        console.log("TEAMS DATA", data);
       } else {
         // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
@@ -67,7 +66,16 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
           {/* Define columns to display in the DataTable */}
           <Column header="Logo" body={logoBodyTemplate} />
           <Column field="name" sortable header="Name" />
-          <Column field="compName" header="Competition" />
+          <Column
+            field="compName"
+            sortable
+            header="Competition"
+            body={(rowData) => (
+              <a href={`http://localhost:3000/LinkedFootball/${rowData.competition.split("/").pop()}`} target="_blank" rel="noopener noreferrer">
+                {rowData.compName}
+              </a>
+            )}
+          />
           <Column field="coach" sortable header="Coach" />
           <Column field="stadium" header="Stadium" />
           <Column field="color" header="Colors" />
