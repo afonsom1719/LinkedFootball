@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
 import PlayerService from "../services/playerService";
+import ContextMenuComponent from "./contextMenuComponent";
 
 const PlayersComponent = ({ team }) => {
   const [players, setPlayers] = useState([]);
@@ -92,6 +93,13 @@ const PlayersComponent = ({ team }) => {
           <Column field="birthDate" sortable header="Birth Date"></Column>
           <Column field="birthPlace" sortable header="Birth Place"></Column>
           <Column field="value" sortable header="Value"></Column>
+          <Column
+            header="Actions"
+            body={(rowData) => {
+              const entityId = rowData.player.split("/").pop(); 
+              return <ContextMenuComponent entityURI={entityId} />;
+            }}
+          />
         </DataTable>
       </main>
     </div>

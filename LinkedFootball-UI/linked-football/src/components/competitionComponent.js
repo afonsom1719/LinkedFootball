@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
 import CompetitionService from '../services/competitionService';
+import ContextMenuComponent from './contextMenuComponent';
 
 const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
   const [competitions, setCompetitions] = useState([]); // State for competitions data
@@ -50,6 +51,13 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
           {/* <Column field="type" header="Type/Format"></Column> */}
           <Column field="start_date" header="Start Date"></Column>
           <Column field="end_date" header="End Date"></Column>
+          <Column
+            header="Actions"
+            body={(rowData) => {
+              const entityId = rowData.competition.split("/").pop(); 
+              return <ContextMenuComponent entityURI={entityId} />;
+            }}
+          />
         </DataTable>
       </main>
     </div>
