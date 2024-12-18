@@ -4,7 +4,7 @@ const TeamService = {
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
   
-        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?comp WHERE {
+        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?comp ?compName WHERE {
           ?team a schema:SportsTeam ;
                 schema:photo ?photo ;
                 schema:name ?name ;
@@ -14,6 +14,9 @@ const TeamService = {
                 schema:foundingDate ?foundingDate ;
                 schema:location ?location ;
                 schema:memberOf ?comp .
+
+        # Retrieve the competition's name
+        ?comp schema:name ?compName .
         }
       `;
     
@@ -44,6 +47,7 @@ const TeamService = {
         foundingDate: binding.foundingDate?.value || "Unknown",
         location: binding.location?.value || "Unknown",
         competition: binding.comp?.value || "Unknown",
+        compName: binding.compName?.value || "Unknown",
       }));
     
       return teams;
@@ -59,7 +63,7 @@ const TeamService = {
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
 
-        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?compName WHERE {
+        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?compName ?comp WHERE {
         ?team a schema:SportsTeam ;
                 schema:photo ?photo ;
                 schema:name ?name ;
@@ -106,6 +110,7 @@ const TeamService = {
         foundingDate: binding.foundingDate?.value || "Unknown",
         location: binding.location?.value || "Unknown",
         compName: binding.compName?.value || "Unknown",
+        competition: binding.comp?.value || "Unknown",
       }));
     
       return teams;

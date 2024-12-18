@@ -19,6 +19,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         );
         //const data = await TeamService.getTeamsByCompetitionOrdered(competition.competition);
         setTeams(data);
+        console.log("TEAMS DATA", data);
       } else {
         // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
