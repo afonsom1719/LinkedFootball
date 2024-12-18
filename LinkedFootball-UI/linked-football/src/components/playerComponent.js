@@ -132,7 +132,6 @@ const PlayersComponent = ({ team }) => {
               return rowData.birthPlace || "N/A";
             }}
           ></Column>
-
           <Column field="value" sortable header="Value"></Column>
           <Column
             header="Actions"

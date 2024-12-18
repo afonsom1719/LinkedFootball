@@ -23,6 +23,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
         //const data = await TeamService.getAllTeamsOrdered();
+        console.log("TEAMS DATA", data);
         setTeams(data);
       }
       setLoading(false);
@@ -81,6 +82,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
           <Column field="color" header="Colors" />
           <Column field="foundingDate" sortable header="Founding Date" />
           <Column field="location" header="Location" />
+          <Column field="value" sortable header="Value"></Column>
           <Column
             header="Actions"
             body={(rowData) => {
