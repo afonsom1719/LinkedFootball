@@ -11,7 +11,7 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
   useEffect(() => {
     const fetchCompetitions = async () => {
       setLoading(true);
-      const data = await CompetitionService.getCompetitions(); // Fetch data from the service
+      const data = await CompetitionService.getCompetitions2(); // Fetch data from the service
       setCompetitions(data);
       setLoading(false);
     };
@@ -47,8 +47,21 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
           <Column field="name" header="Name"></Column>
-          <Column field="location" header="Country"></Column>
-          {/* <Column field="type" header="Type/Format"></Column> */}
+          <Column
+            header="Location"
+            sortable
+            body={(rowData) => {
+              if (rowData.locationUri && rowData.locationUri !== "") {
+                return (
+                  <a href={rowData.locationUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.location}
+                  </a>
+                );
+              }
+              // If locationUri is empty, just display the text
+              return rowData.location || "N/A";
+            }}
+          ></Column>
           <Column field="start_date" header="Start Date"></Column>
           <Column field="end_date" header="End Date"></Column>
           <Column
