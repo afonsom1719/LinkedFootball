@@ -608,15 +608,6 @@
     schema:birthPlace "Portugal" ;
     schema:athlete :club_Sporting_Clube_de_Portugal .
 
-:_Gabriel_Silva a schema:Person ;
-    schema:value "1700000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
-    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/627224-1598272630.jpg?lm=1> ;
-    schema:name "Gabriel Silva" ;
-    schema:roleName "Offence" ;
-    schema:birthDate "2007-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
-    schema:birthPlace "Portugal" ;
-    schema:athlete :club_Sporting_Clube_de_Portugal .
-
 :_Ivan_Fresneda a schema:Person ;
     schema:name "Ivan Fresneda" ;
     schema:roleName "Right-Back" ;

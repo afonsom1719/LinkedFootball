@@ -4,11 +4,13 @@ import { PrimeReactProvider } from 'primereact/api';
 import "primereact/resources/themes/lara-light-blue/theme.css";
 import { Menubar } from 'primereact/menubar';
 import { useState } from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 /* Components */
 import CompetitionComponent from './components/competitionComponent';
 import TeamsComponent from './components/teamComponent';
-import PlayersComponent from './components/playerComponent'; 
+import PlayersComponent from './components/playerComponent';
+import EntityPageMinimal from './components/entityPageMinimal'; // Minimal RDF display page
 
 const App = () => {
   const [activeIndex, setActiveIndex] = useState(1); // Manage active tab
@@ -35,7 +37,6 @@ const App = () => {
         setSelectedTeam(null); // Clear selected team
       }
     },
-    //{ label: "SPARQL Query", icon: "pi pi-fw pi-search", command: () => setActiveIndex(4) },
   ];
 
   // Define the start section with the logo
@@ -66,23 +67,26 @@ const App = () => {
 
   return (
     <PrimeReactProvider>
-      <div className="App">
-        {/* Menubar with logo on the left and tabs on the right */}
-        <Menubar model={items} start={start} style={{ backgroundColor: 'rgba(0,0,0,0.1)' }} />
+      <Router>
+        <div className="App">
+          <Routes>
+            {/* Standard App Routes */}
+            <Route path="/" element={
+              <>
+                <Menubar model={items} start={start} style={{ backgroundColor: 'rgba(0,0,0,0.1)' }} />
+                <div className="content" style={{ padding: "2rem", color: "white" }}>
+                  {activeIndex === 1 && <CompetitionComponent onSelectCompetition={setSelectedCompetition} setActiveIndex={setActiveIndex} />}
+                  {activeIndex === 2 && <TeamsComponent competition={selectedCompetition} setSelectedTeam={setSelectedTeam} setActiveIndex={setActiveIndex} />}
+                  {activeIndex === 3 && <PlayersComponent team={selectedTeam} />}
+                </div>
+              </>
+            } />
 
-        <div className="content" style={{ padding: "2rem", color: "white" }}>
-          {/* Conditionally render based on activeIndex */}
-          {activeIndex === 1 && (
-            <CompetitionComponent onSelectCompetition={setSelectedCompetition} setActiveIndex={setActiveIndex} />
-          )}
-          {activeIndex === 2 && (
-            <TeamsComponent competition={selectedCompetition} setSelectedTeam={setSelectedTeam} setActiveIndex={setActiveIndex}/>
-          )}
-          {activeIndex === 3 && (
-            <PlayersComponent team={selectedTeam}/>
-          )}
+            {/* Minimal RDF Page */}
+            <Route path="/LinkedFootball/:entity" element={<EntityPageMinimal />} />
+          </Routes>
         </div>
-      </div>
+      </Router>
     </PrimeReactProvider>
   );
 };
