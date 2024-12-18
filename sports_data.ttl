@@ -678,15 +678,6 @@
     schema:birthPlace "Japan" ;
     schema:athlete :club_Sporting_Clube_de_Portugal .
 
-:_Nuno_Santos a schema:Person ;
-    schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
-    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/367468-1678038066.jpg?lm=1> ;
-    schema:name "Nuno Santos" ;
-    schema:roleName "Left-Back" ;
-    schema:birthDate "1995-02-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
-    schema:birthPlace "Portugal" ;
-    schema:athlete :club_Sporting_Clube_de_Portugal .
-
 :_Ricardo_Esgaio a schema:Person ;
     schema:value "3000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:photo <https://img.a.transfermarkt.technology/portrait/medium/139395-1591776235.png?lm=1> ;
@@ -757,14 +748,7 @@
     schema:birthPlace "Brazil" ;
     schema:athlete :club_FC_Porto .
 
-:_Diogo_Costa a schema:Person ;
-    schema:value "100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
-    schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
-    schema:name "Diogo Costa" ;
-    schema:roleName "Goalkeeper" ;
-    schema:birthDate "1999-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
-    schema:birthPlace "Portugal" ;
-    schema:athlete :club_FC_Porto .
+
 
 :_Cláudio_Ramos a schema:Person ;
     schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
