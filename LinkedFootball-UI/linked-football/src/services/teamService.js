@@ -4,7 +4,7 @@ const TeamService = {
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
   
-        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?value ?comp ?compName WHERE {
+        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?value ?comp ?compName ?wikiDataTeamUri WHERE {
           ?team a schema:SportsTeam ;
                 schema:photo ?photo ;
                 schema:name ?name ;
@@ -14,7 +14,8 @@ const TeamService = {
                 schema:foundingDate ?foundingDate ;
                 schema:location ?location ;
                 schema:value ?value ;
-                schema:memberOf ?comp .
+                schema:memberOf ?comp ;
+                schema:sameAs ?wikiDataTeamUri .
 
         # Retrieve the competition's name
         ?comp schema:name ?compName .
@@ -50,6 +51,7 @@ const TeamService = {
         value: binding.value?.value || "0",
         competition: binding.comp?.value || "Unknown",
         compName: binding.compName?.value || "Unknown",
+        wikiDataTeamUri: binding.wikiDataTeamUri?.value || "",
       }));
     
       return teams;
@@ -65,7 +67,7 @@ const TeamService = {
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/>
 
-        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?value ?compName ?comp WHERE {
+        SELECT ?team ?name ?photo ?coach ?stadium ?color ?foundingDate ?location ?value ?compName ?comp ?wikiDataTeamUri WHERE {
         ?team a schema:SportsTeam ;
                 schema:photo ?photo ;
                 schema:name ?name ;
@@ -75,7 +77,8 @@ const TeamService = {
                 schema:foundingDate ?foundingDate ;
                 schema:value ?value ;
                 schema:location ?location ;
-                schema:memberOf ?comp .
+                schema:memberOf ?comp ;
+                schema:sameAs ?wikiDataTeamUri .
 
         # Retrieve the competition's name
         ?comp schema:name ?compName .
@@ -115,6 +118,7 @@ const TeamService = {
         location: binding.location?.value || "Unknown",
         compName: binding.compName?.value || "Unknown",
         competition: binding.comp?.value || "Unknown",
+        wikiDataTeamUri: binding.wikiDataTeamUri?.value || "",
       }));
     
       return teams;

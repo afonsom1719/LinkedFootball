@@ -66,7 +66,23 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         >
           {/* Define columns to display in the DataTable */}
           <Column header="Logo" body={logoBodyTemplate} />
-          <Column field="name" sortable header="Name" />
+          <Column
+            field="name"
+            sortable
+            header="Name"
+            body={(rowData) => {
+              // Check if the wikiDataTeamUri exists and is not empty
+              if (rowData.wikiDataTeamUri && rowData.wikiDataTeamUri !== "") {
+                return (
+                  <a href={rowData.wikiDataTeamUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.name}
+                  </a>
+                );
+              }
+              // If birthPlaceUri is empty, just display the text
+              return rowData.birthPlace || "N/A";
+            }}
+          />
           <Column
             field="compName"
             sortable
