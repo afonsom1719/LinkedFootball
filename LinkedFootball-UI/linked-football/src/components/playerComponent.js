@@ -50,6 +50,7 @@ const PlayersComponent = ({ team }) => {
         //total = await PlayerService.getNumberOfPlayers();
       }
   
+      console.log("PLAYER DATA IS: ", data);
       setPlayers(data);
       //setTotalRecords(total); 
       setLoading(false);
@@ -101,7 +102,23 @@ const PlayersComponent = ({ team }) => {
           />
           <Column field="role" sortable sortFunction={(e) => e.data.sort((a, b) => e.order * ((positionOrder[a[e.field]] || defaultOrder) - (positionOrder[b[e.field]] || defaultOrder)))} header="Role"></Column>
           <Column field="birthDate" sortable header="Birth Date"></Column>
-          <Column field="birthPlace" sortable header="Birth Place"></Column>
+          <Column
+            header="Birth Place"
+            sortable
+            body={(rowData) => {
+              // Check if the birthPlaceUri exists and is not empty
+              if (rowData.birthPlaceUri && rowData.birthPlaceUri !== "") {
+                return (
+                  <a href={rowData.birthPlaceUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.birthPlace}
+                  </a>
+                );
+              }
+              // If birthPlaceUri is empty, just display the text
+              return rowData.birthPlace || "N/A";
+            }}
+          ></Column>
+
           <Column field="value" sortable header="Value"></Column>
           <Column
             header="Actions"
