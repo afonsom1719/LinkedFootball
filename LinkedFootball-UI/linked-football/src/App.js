@@ -5,6 +5,7 @@ import "primereact/resources/themes/lara-light-blue/theme.css";
 import { Menubar } from 'primereact/menubar';
 import { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import 'primeicons/primeicons.css';
 
 /* Components */
 import CompetitionComponent from './components/competitionComponent';
