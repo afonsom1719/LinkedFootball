@@ -20,6 +20,7 @@ const EntityPageMinimal = () => {
           method: "POST",
           headers: {
             "Content-Type": "application/x-www-form-urlencoded",
+            Accept: "application/rdf+xml", // Request RDF/XML format
           },
           body: new URLSearchParams({ query: sparqlQuery }),
         });
@@ -29,7 +30,7 @@ const EntityPageMinimal = () => {
         }
 
         const data = await response.text();
-        setRdfData(data);
+        setRdfData(data); // Set raw RDF/XML or other formats
       } catch (err) {
         setError(err.message);
       }
