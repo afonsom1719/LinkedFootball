@@ -100,7 +100,21 @@ const PlayersComponent = ({ team }) => {
               </a>
             )}
           />
-          <Column field="role" sortable sortFunction={(e) => e.data.sort((a, b) => e.order * ((positionOrder[a[e.field]] || defaultOrder) - (positionOrder[b[e.field]] || defaultOrder)))} header="Role"></Column>
+          <Column
+            field="role"
+            sortable
+            sortFunction={(e) => e.data.sort((a, b) => e.order * ((positionOrder[a[e.field]] || defaultOrder) - (positionOrder[b[e.field]] || defaultOrder)))}
+            header="Role"
+            body={(rowData) =>
+              rowData.roleUri && rowData.roleUri !== "" ? (
+                <a href={rowData.roleUri} target="_blank" rel="noopener noreferrer">
+                  {rowData.role}
+                </a>
+              ) : (
+                rowData.role || "N/A"
+              )
+            }
+          />
           <Column field="birthDate" sortable header="Birth Date"></Column>
           <Column
             header="Birth Place"
