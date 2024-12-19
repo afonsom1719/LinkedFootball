@@ -19554,6 +19554,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q19500> ;
     schema:photo <https://crests.football-data.org/76.png> ;
     schema:coach "Gary O'Neil" ;
+    schema:coach <https://www.wikidata.org/entity/Q731946>;
     schema:StadiumOrArena "Molineux Stadium" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q380823> ;
     schema:color "Black / Gold" ;
@@ -19581,6 +19582,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q18732> ;
     schema:photo <https://crests.football-data.org/340.png> ;
     schema:coach "Russell Martin" ;
+    schema:coach <https://www.wikidata.org/entity/Q555382>;
     schema:StadiumOrArena "St. Mary's Stadium" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q567339> ;
     schema:color "Red / White / Black" ;
