@@ -119,7 +119,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q2641> ;
     schema:photo <https://crests.football-data.org/5529.png> ;
     schema:coach "Tiago Margarido" ;
-    schema:coach <https://www.wikidata.org/entity/Q126213496> ;
+    schema:coach <http://www.wikidata.org/entity/Q126213496> ;
     schema:StadiumOrArena "Estádio da Madeira" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q82709> ;
     schema:color "Black / White" ;
@@ -133,7 +133,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q8835> ;
     schema:photo <https://crests.football-data.org/5530.png> ;
     schema:coach "Vasco Matos" ;
-    schema:coach <https://www.wikidata.org/entity/Q7916419> ;
+    schema:coach <http://www.wikidata.org/entity/Q7916419> ;
     schema:StadiumOrArena "Cidade do Futebol" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q276163> ;
     schema:color "Red / White" ;
@@ -203,7 +203,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q75729> ;
     schema:photo <https://crests.football-data.org/5613.png> ;
     schema:coach "Carlos Carvalhal" ;
-    schema:coach <https://www.wikidata.org/entity/Q1042799> ;
+    schema:coach <http://www.wikidata.org/entity/Q1042799> ;
     schema:StadiumOrArena "Estádio Municipal de Braga" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q3059094> ;
     schema:color "Red / White" ;
@@ -217,7 +217,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q1046440> ;
     schema:photo <https://crests.football-data.org/6618.png> ;
     schema:coach "Filipe Martins" ;
-    schema:coach <https://www.wikidata.org/entity/Q111830437> ;
+    schema:coach <http://www.wikidata.org/entity/Q111830437> ;
     schema:StadiumOrArena "Estádio Pina Manique" ;
     schema:StadiumOrArena <https://www.wikidata.org/entity/Q116113161> ;
     schema:color "Black / White" ;
@@ -245,7 +245,7 @@
     schema:sameAs <https://www.wikidata.org/entity/Q120775987> ;
     schema:photo <https://crests.football-data.org/10340.png> ;
     schema:coach "Daniel Ramos" ;
-    schema:coach <https://www.wikidata.org/wiki/Q27830950> ;
+    schema:coach <http://www.wikidata.org/wiki/Q27830950> ;
     schema:StadiumOrArena "Estádio do Clube Desportivo das Aves" ;
     schema:StadiumOrArena <https://www.wikidata.org/entity/Q968244> ;
     schema:color "Red / White" ;
@@ -19554,7 +19554,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q19500> ;
     schema:photo <https://crests.football-data.org/76.png> ;
     schema:coach "Gary O'Neil" ;
-    schema:coach <https://www.wikidata.org/entity/Q731946>;
+    schema:coach <http://www.wikidata.org/entity/Q731946>;
     schema:StadiumOrArena "Molineux Stadium" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q380823> ;
     schema:color "Black / Gold" ;
@@ -19582,7 +19582,7 @@
     schema:sameAs <http://www.wikidata.org/entity/Q18732> ;
     schema:photo <https://crests.football-data.org/340.png> ;
     schema:coach "Russell Martin" ;
-    schema:coach <https://www.wikidata.org/entity/Q555382>;
+    schema:coach <http://www.wikidata.org/entity/Q555382>;
     schema:StadiumOrArena "St. Mary's Stadium" ;
     schema:StadiumOrArena <http://www.wikidata.org/entity/Q567339> ;
     schema:color "Red / White / Black" ;
