@@ -50,7 +50,7 @@ const PlayersComponent = ({ team }) => {
         //total = await PlayerService.getNumberOfPlayers();
       }
   
-      console.log("PLAYER DATA IS: ", data);
+      //console.log("PLAYER DATA IS: ", data);
       setPlayers(data);
       //setTotalRecords(total); 
       setLoading(false);

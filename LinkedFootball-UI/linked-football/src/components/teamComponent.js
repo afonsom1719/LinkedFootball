@@ -18,6 +18,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
           competition.competition
         );
         //const data = await TeamService.getTeamsByCompetitionOrdered(competition.competition);
+        //console.log("TEAMS DATA", data);
         setTeams(data);
       } else {
         // Fetch all teams if no competition is selected
@@ -94,7 +95,22 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
             )}
           />
           <Column field="coach" sortable header="Coach" />
-          <Column field="stadium" sortable header="Stadium" />
+          <Column
+            header="Stadium"
+            sortable
+            body={(rowData) => {
+              // Check if the stadiumUri exists and is not empty
+              if (rowData.stadiumUri && rowData.stadiumUri !== "") {
+                return (
+                  <a href={rowData.stadiumUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.stadiumName}
+                  </a>
+                );
+              }
+              // If stadiumUri is empty, just display the text
+              return rowData.stadiumName || "N/A";
+            }}
+          ></Column>
           <Column field="color" header="Colors" />
           <Column field="foundingDate" sortable header="Founding Date" />
           <Column field="location" header="Location" />
