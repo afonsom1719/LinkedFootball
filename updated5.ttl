@@ -1,4 +1,5 @@
 @prefix schema: <https://schema.org/> .
+
 @prefix : <http://localhost:3030/LinkedFootball/> .
 
 :club_Rio_Ave_FC a schema:SportsTeam ;
@@ -7,6 +8,7 @@
     schema:photo <https://crests.football-data.org/496.png> ;
     schema:coach "Petit" ;
     schema:StadiumOrArena "Estádio do Rio Ave Futebol Clube" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q550041> ;
     schema:color "Green / White" ;
     schema:foundingDate "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909" ;
@@ -19,6 +21,7 @@
     schema:photo <https://crests.football-data.org/498.png> ;
     schema:coach "João Pereira" ;
     schema:StadiumOrArena "Estádio José Alvalade" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q3059094> ;
     schema:color "Green / White" ;
     schema:foundingDate "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801" ;
@@ -31,6 +34,7 @@
     schema:photo <https://crests.football-data.org/503.png> ;
     schema:coach "Vítor Bruno" ;
     schema:StadiumOrArena "Estádio Do Dragão" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q271454> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451" ;
@@ -43,6 +47,7 @@
     schema:photo <https://crests.football-data.org/582.png> ;
     schema:coach "Ian Cathro" ;
     schema:StadiumOrArena "Estádio António Coimbra da Mota" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1370647> ;
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Estádio António Coimbra da Mota Estoril 2765" ;
@@ -55,6 +60,7 @@
     schema:photo <https://crests.football-data.org/583.png> ;
     schema:coach "César Peixoto" ;
     schema:StadiumOrArena "P.D. Comendador Joaquim de Almeida Freitas" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q256588> ;
     schema:color "Green / White" ;
     schema:foundingDate "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270" ;
@@ -67,6 +73,7 @@
     schema:photo <https://crests.football-data.org/712.png> ;
     schema:coach "Vasco Seabra" ;
     schema:StadiumOrArena "Estádio Municipal de Arouca" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1370706> ;
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua Doutor Ângelo Miranda Arouca 4540-140" ;
@@ -79,6 +86,7 @@
     schema:photo <https://crests.football-data.org/810.png> ;
     schema:coach "Christiano Bacci" ;
     schema:StadiumOrArena "Estádio do Bessa Século XXI" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1058494> ;
     schema:color "Black / White" ;
     schema:foundingDate "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua O Primeiro de Janeiro, Boavista Porto 4100-127" ;
@@ -91,6 +99,7 @@
     schema:photo <https://crests.football-data.org/1903.png> ;
     schema:coach "Bruno Lage" ;
     schema:StadiumOrArena "Estádio do Sport Lisboa e Benfica" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q7875112> ;
     schema:color "Red / White" ;
     schema:foundingDate "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida General Norton de Matos 1500 Lissabon" ;
@@ -103,6 +112,7 @@
     schema:photo <https://crests.football-data.org/5529.png> ;
     schema:coach "Tiago Margarido" ;
     schema:StadiumOrArena "Estádio da Madeira" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q82709> ;
     schema:color "Black / White" ;
     schema:foundingDate "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua do Esmeraldo, n.º 46 Funchal 9060" ;
@@ -115,6 +125,7 @@
     schema:photo <https://crests.football-data.org/5530.png> ;
     schema:coach "Vasco Matos" ;
     schema:StadiumOrArena "Cidade do Futebol" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q276163> ;
     schema:color "Red / White" ;
     schema:foundingDate "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua Comandante Jaime de Sousa, 21 Ponta Delgada 9500" ;
@@ -127,6 +138,7 @@
     schema:photo <https://crests.football-data.org/5531.png> ;
     schema:coach "Armando Evangelista" ;
     schema:StadiumOrArena "Estádio Municipal 22 de Junho" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1293399> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1931"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Vila Nova de Famalicão" ;
@@ -139,6 +151,7 @@
     schema:photo <https://crests.football-data.org/5533.png> ;
     schema:coach "Bruno Pinheiro" ;
     schema:StadiumOrArena "Estádio Cidade de Barcelos" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1167583> ;
     schema:color "Red / Blue" ;
     schema:foundingDate "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282" ;
@@ -151,6 +164,7 @@
     schema:photo <https://crests.football-data.org/5543.png> ;
     schema:coach "Rui Borges" ;
     schema:StadiumOrArena "Estádio Dom Afonso Henriques" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1057274> ;
     schema:color "White / Black" ;
     schema:foundingDate "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914" ;
@@ -163,6 +177,7 @@
     schema:photo <https://crests.football-data.org/5602.png> ;
     schema:coach "Tozé Marreco" ;
     schema:StadiumOrArena "Estádio de São Lúis" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q646151> ;
     schema:color "Black / White" ;
     schema:foundingDate "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Praça de Tânger, Ginásio Sede Faro 8005-445" ;
@@ -175,6 +190,7 @@
     schema:photo <https://crests.football-data.org/5613.png> ;
     schema:coach "Carlos Carvalhal" ;
     schema:StadiumOrArena "Estádio Municipal de Braga" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q3059094> ;
     schema:color "Red / White" ;
     schema:foundingDate "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087" ;
@@ -199,6 +215,7 @@
     schema:photo <https://crests.football-data.org/9136.png> ;
     schema:coach "Zé Augusto" ;
     schema:StadiumOrArena "Estádio Nacional" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q3059095> ;
     schema:color "Red / Green" ;
     schema:foundingDate "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Av. Dr. José Pontes, 2720-206 Amadora" ;
@@ -211,6 +228,7 @@
     schema:photo <https://crests.football-data.org/10340.png> ;
     schema:coach "Daniel Ramos" ;
     schema:StadiumOrArena "Estádio do Clube Desportivo das Aves" ;
+    schema:StadiumOrArena <https://www.wikidata.org/entity/Q968244> ;
     schema:color "Red / White" ;
     schema:foundingDate "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rua Luis Gonzaga Mendes Carvalho 265, 4795-080 Vila das Aves" ;
@@ -890,8 +908,6 @@
     schema:birthPlace "Brazil" ;
     schema:birthPlace <http://www.wikidata.org/entity/Q155> ;
     schema:athlete :club_FC_Porto .
-
-
 
 :_Cláudio_Ramos a schema:Person ;
     schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
@@ -6072,6 +6088,7 @@
     schema:photo <https://crests.football-data.org/2.png> ;
     schema:coach "Christian Ilzer" ;
     schema:StadiumOrArena "PreZero Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q129870> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Horrenberger Straße 58 Zuzenhausen 74939" ;
@@ -6084,6 +6101,7 @@
     schema:photo <https://crests.football-data.org/3.png> ;
     schema:coach "Xabi Alonso" ;
     schema:StadiumOrArena "BayArena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q156630> ;
     schema:color "Red / White / Black" ;
     schema:foundingDate "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Bismarckstr. 122-124 Leverkusen 51373" ;
@@ -6096,6 +6114,7 @@
     schema:photo <https://crests.football-data.org/4.png> ;
     schema:coach "Nuri Şahin" ;
     schema:StadiumOrArena "Signal Iduna Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q150928> ;
     schema:color "Black / Yellow" ;
     schema:foundingDate "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Rheinlanddamm 207-209 Dortmund 44137" ;
@@ -6108,6 +6127,7 @@
     schema:photo <https://crests.football-data.org/5.png> ;
     schema:coach "Vincent Kompany" ;
     schema:StadiumOrArena "Allianz Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q127429> ;
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Säbenerstr. 51 München 81547" ;
@@ -6120,6 +6140,7 @@
     schema:photo <https://crests.football-data.org/10.png> ;
     schema:coach "Sebastian Hoeneß" ;
     schema:StadiumOrArena "Mercedes-Benz Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q152349> ;
     schema:color "White / Red" ;
     schema:foundingDate "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Mercedesstraße 109 Stuttgart 70372" ;
@@ -6132,6 +6153,7 @@
     schema:photo <https://crests.football-data.org/11.png> ;
     schema:coach "Ralph Hasenhüttl" ;
     schema:StadiumOrArena "Volkswagen Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q323718> ;
     schema:color "Green / White" ;
     schema:foundingDate "1945"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "In den Allerwiesen 1 Wolfsburg 38446" ;
@@ -6144,6 +6166,7 @@
     schema:photo <https://crests.football-data.org/12.png> ;
     schema:coach "Ole Werner" ;
     schema:StadiumOrArena "Weserstadion" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q154475> ;
     schema:color "Green / White" ;
     schema:foundingDate "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Franz-Böhmert-Str. 1c Bremen 28205" ;
@@ -6156,6 +6179,7 @@
     schema:photo <https://crests.football-data.org/15.png> ;
     schema:coach "Bo Henriksen" ;
     schema:StadiumOrArena "Opel Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q392494> ;
     schema:color "Red / White" ;
     schema:foundingDate "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Dr.-Martin-Luther-King-Weg 20 Mainz 55122" ;
@@ -6168,6 +6192,7 @@
     schema:photo <https://crests.football-data.org/16.png> ;
     schema:coach "Jess Thorup" ;
     schema:StadiumOrArena "WWK Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q167418> ;
     schema:color "Red / Green / White" ;
     schema:foundingDate "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Donauwörther Straße 170 Augsburg 86154" ;
@@ -6180,6 +6205,7 @@
     schema:photo <https://crests.football-data.org/17.png> ;
     schema:coach "Julian Schuster" ;
     schema:StadiumOrArena "Schwarzwald-Stadion" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q64586775> ;
     schema:color "Red / White" ;
     schema:foundingDate "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Schwarzwaldstraße 193 Freiburg 79117" ;
@@ -6192,6 +6218,7 @@
     schema:photo <https://crests.football-data.org/18.png> ;
     schema:coach "Gerardo Seoane" ;
     schema:StadiumOrArena "Stadion im Borussia-Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q154074> ;
     schema:color "Black / White / Green" ;
     schema:foundingDate "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179" ;
@@ -6204,6 +6231,7 @@
     schema:photo <https://crests.football-data.org/19.png> ;
     schema:coach "Dino Toppmöller" ;
     schema:StadiumOrArena "Deutsche Bank Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q157273> ;
     schema:color "Red / Black" ;
     schema:foundingDate "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Mörfelder Landstraße 362 Frankfurt am Main 60528" ;
@@ -6216,6 +6244,7 @@
     schema:photo <https://crests.football-data.org/20.png> ;
     schema:coach "Alexander Blessin" ;
     schema:StadiumOrArena "Millerntor-Stadion" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q339572> ;
     schema:color "Brown / White" ;
     schema:foundingDate "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Auf dem Heiligengeistfeld Hamburg 20359" ;
@@ -6228,6 +6257,7 @@
     schema:photo <https://crests.football-data.org/28.png> ;
     schema:coach "Bo Svensson" ;
     schema:StadiumOrArena "Stadion An der Alten Försterei" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q749172> ;
     schema:color "Red / White" ;
     schema:foundingDate "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "An der Wuhlheide 263 Berlin 12555" ;
@@ -6240,6 +6270,7 @@
     schema:photo <https://crests.football-data.org/36.png> ;
     schema:coach "Dieter Hecking" ;
     schema:StadiumOrArena "Vonovia Ruhrstadion" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q373769> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1849"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Castroper Straße 145 Bochum 44791" ;
@@ -6252,6 +6283,7 @@
     schema:photo <https://crests.football-data.org/44.png> ;
     schema:coach "Frank Schmidt" ;
     schema:StadiumOrArena "Voith-Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q548138> ;
     schema:color "Blue / Red / White" ;
     schema:foundingDate "1846"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Schloßhaustraße 162 Heidenheim 89522" ;
@@ -6264,6 +6296,7 @@
     schema:photo <https://crests.football-data.org/720.png> ;
     schema:coach "Marcel Rapp" ;
     schema:StadiumOrArena "Holstein-Stadion" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q872915> ;
     schema:color "Blue / Red / White" ;
     schema:foundingDate "1844"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Steenbeker Weg 150 Kiel 24106" ;
@@ -6276,6 +6309,7 @@
     schema:photo <https://crests.football-data.org/721.png> ;
     schema:coach "Marco Rose" ;
     schema:StadiumOrArena "Red Bull Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q210466> ;
     schema:color "White / Red" ;
     schema:foundingDate "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Neumarkt 29-33 Leipzig 04109" ;
@@ -12100,6 +12134,7 @@
     schema:photo <https://crests.football-data.org/98.png> ;
     schema:coach "Paulo Fonseca" ;
     schema:StadiumOrArena "Stadio Giuseppe Meazza" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q133566> ;
     schema:color "Red / Black" ;
     schema:foundingDate "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Filippo Turati 3 Milano 20121" ;
@@ -12112,6 +12147,7 @@
     schema:photo <https://crests.football-data.org/99.png> ;
     schema:coach "Raffaele Palladino" ;
     schema:StadiumOrArena "Stadio Artemio Franchi" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q270474> ;
     schema:color "Purple / White" ;
     schema:foundingDate "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Viale Manfredo Fanti 4 Firenze 50137" ;
@@ -12124,6 +12160,7 @@
     schema:photo <https://crests.football-data.org/100.png> ;
     schema:coach "Claudio Ranieri" ;
     schema:StadiumOrArena "Stadio Olimpico" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q159884> ;
     schema:color "Maroon / Orange / White" ;
     schema:foundingDate "1927"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via di Trigoria km. 3,600 Roma 00128" ;
@@ -12136,6 +12173,7 @@
     schema:photo <https://crests.football-data.org/102.png> ;
     schema:coach "Gian Piero Gasperini" ;
     schema:StadiumOrArena "Stadio Atleti Azzurri d'Italia" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q780526> ;
     schema:color "Black / Blue" ;
     schema:foundingDate "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Corso Europa, 46, Zingonia Ciserano 24040" ;
@@ -12148,6 +12186,7 @@
     schema:photo <https://crests.football-data.org/103.png> ;
     schema:coach "Vincenzo Italiano" ;
     schema:StadiumOrArena "Stadio Renato Dall'Ara" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q757182> ;
     schema:color "Red / Blue / White" ;
     schema:foundingDate "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Casteldebole 10 Bologna 40132" ;
@@ -12160,6 +12199,7 @@
     schema:photo <https://crests.football-data.org/104.png> ;
     schema:coach "Davide Nicola" ;
     schema:StadiumOrArena "Sardegna Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q30880646> ;
     schema:color "Red / Navy Blue / White" ;
     schema:foundingDate "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Viale la Plaia 15 Cagliari 09123" ;
@@ -12172,6 +12212,7 @@
     schema:photo <https://crests.football-data.org/107.png> ;
     schema:coach "Patrick Vieira" ;
     schema:StadiumOrArena "Stadio Comunale Luigi Ferraris" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q271568> ;
     schema:color "Red / Navy Blue" ;
     schema:foundingDate "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Ronchi, 67 Genova 16155" ;
@@ -12196,6 +12237,7 @@
     schema:photo <https://crests.football-data.org/109.png> ;
     schema:coach "Thiago Motta" ;
     schema:StadiumOrArena "Allianz Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q62149> ;
     schema:color "White / Black" ;
     schema:foundingDate "1897"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Corso Galileo Ferraris, 32 Torino 10128" ;
@@ -12208,6 +12250,7 @@
     schema:photo <https://crests.football-data.org/110.png> ;
     schema:coach "Marco Baroni" ;
     schema:StadiumOrArena "Stadio Olimpico" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q159884> ;
     schema:color "White / Sky Blue" ;
     schema:foundingDate "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via di Santa Cornelia, 1000 Formello 00060" ;
@@ -12220,6 +12263,7 @@
     schema:photo <https://crests.football-data.org/112.png> ;
     schema:coach "Fabio Pecchia" ;
     schema:StadiumOrArena "Stadio Ennio Tardini" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q610546> ;
     schema:color "White / Black" ;
     schema:foundingDate "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Strada Carlo Pisacane, 4 Parma 43121" ;
@@ -12232,6 +12276,7 @@
     schema:photo <https://crests.football-data.org/113.png> ;
     schema:coach "Antonio Conte" ;
     schema:StadiumOrArena "Stadio San Paolo" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q82709> ;
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030" ;
@@ -12244,6 +12289,7 @@
     schema:photo <https://crests.football-data.org/115.png> ;
     schema:coach "Kosta Runjaić" ;
     schema:StadiumOrArena "Dacia Arena" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q640031> ;
     schema:color "White / Black" ;
     schema:foundingDate "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Agostino e Angelo Candolini 2 Udine 33100" ;
@@ -12256,6 +12302,7 @@
     schema:photo <https://crests.football-data.org/445.png> ;
     schema:coach "Roberto D'Aversa" ;
     schema:StadiumOrArena "Stadio Carlo Castellani" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q94633> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Piazza Matteotti Empoli 50053" ;
@@ -12268,6 +12315,7 @@
     schema:photo <https://crests.football-data.org/450.png> ;
     schema:coach "Paolo Zanetti" ;
     schema:StadiumOrArena "Stadio Marc'Antonio Bentegodi" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q737093> ;
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Evangelista Torricelli, 37 Verona 37136" ;
@@ -12280,6 +12328,7 @@
     schema:photo <https://crests.football-data.org/454.png> ;
     schema:coach "Eusebio Di Francesco" ;
     schema:StadiumOrArena "Stadio Pierluigi Penzo" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q588926> ;
     schema:color "Orange / Black / Green" ;
     schema:foundingDate "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Viale Ancona, 43 Venezia 30172" ;
@@ -12292,6 +12341,7 @@
     schema:photo <https://crests.football-data.org/586.png> ;
     schema:coach "Paolo Vanoli" ;
     schema:StadiumOrArena "Stadio Olimpico di Torino" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q214629> ;
     schema:color "Brown / White" ;
     schema:foundingDate "1894"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Arcivescovado 1 Torino 10122" ;
@@ -12304,6 +12354,7 @@
     schema:photo <https://crests.football-data.org/5890.png> ;
     schema:coach "Marco Giampaolo" ;
     schema:StadiumOrArena "Stadio Comunale Via Del Mare" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q684727> ;
     schema:color "Yellow / Red / Navy Blue" ;
     schema:foundingDate "1908"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Templari 11 Lecce 73100" ;
@@ -12316,6 +12367,7 @@
     schema:photo <https://crests.football-data.org/5911.png> ;
     schema:coach "Alessandro Nesta" ;
     schema:StadiumOrArena "Stadio Comunale Brianteo" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1851616> ;
     schema:color "Red / White" ;
     schema:foundingDate "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Via Ragazzi del '99, 14 Monza 20900" ;
@@ -12328,6 +12380,7 @@
     schema:photo <https://crests.football-data.org/7397.png> ;
     schema:coach "Fàbregas" ;
     schema:StadiumOrArena "Stadio Giuseppe Sinigaglia" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q115372> ;
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Viale Sinigaglia 2 Como 22100" ;
@@ -19295,6 +19348,7 @@
     schema:photo <https://crests.football-data.org/57.png> ;
     schema:coach "Mikel Arteta" ;
     schema:StadiumOrArena "Emirates Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q163995> ;
     schema:color "Red / White" ;
     schema:foundingDate "1886"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "75 Drayton Park London N5 1BU" ;
@@ -19307,6 +19361,7 @@
     schema:photo <https://crests.football-data.org/58.png> ;
     schema:coach "Unai Emery" ;
     schema:StadiumOrArena "Villa Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q175339> ;
     schema:color "Claret / Sky Blue" ;
     schema:foundingDate "1872"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Villa Park Birmingham B6 6HE" ;
@@ -19319,6 +19374,7 @@
     schema:photo <https://crests.football-data.org/61.png> ;
     schema:coach "Enzo Maresca" ;
     schema:StadiumOrArena "Stamford Bridge" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q171458> ;
     schema:color "Royal Blue / White" ;
     schema:foundingDate "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Fulham Road London SW6 1HS" ;
@@ -19331,6 +19387,7 @@
     schema:photo <https://crests.football-data.org/62.png> ;
     schema:coach "Sean Dyche" ;
     schema:StadiumOrArena "Goodison Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q968420> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1878"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Goodison Park Liverpool L4 4EL" ;
@@ -19343,6 +19400,7 @@
     schema:photo <https://crests.football-data.org/63.png> ;
     schema:coach "Marco Silva" ;
     schema:StadiumOrArena "Craven Cottage" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q318043> ;
     schema:color "White / Black" ;
     schema:foundingDate "1879"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Craven Cottage, Stevenage Road London SW6 6HH" ;
@@ -19355,6 +19413,7 @@
     schema:photo <https://crests.football-data.org/64.png> ;
     schema:coach "Arne Slot" ;
     schema:StadiumOrArena "Anfield" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q45671> ;
     schema:color "Red / White" ;
     schema:foundingDate "1892"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Anfield Road Liverpool L4 0TH" ;
@@ -19367,6 +19426,7 @@
     schema:photo <https://crests.football-data.org/65.png> ;
     schema:coach "Pep Guardiola" ;
     schema:StadiumOrArena "Etihad Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q48159> ;
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1880"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "SportCity Manchester M11 3FF" ;
@@ -19379,6 +19439,7 @@
     schema:photo <https://crests.football-data.org/66.png> ;
     schema:coach "Ruben Amorim" ;
     schema:StadiumOrArena "Old Trafford" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q83457> ;
     schema:color "Red / White" ;
     schema:foundingDate "1878"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Sir Matt Busby Way Manchester M16 0RA" ;
@@ -19391,6 +19452,7 @@
     schema:photo <https://crests.football-data.org/67.png> ;
     schema:coach "Eddie Howe" ;
     schema:StadiumOrArena "St. James' Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q191774> ;
     schema:color "Black / White" ;
     schema:foundingDate "1881"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Sports Direct Arena Newcastle upon Tyne NE1 4ST" ;
@@ -19403,6 +19465,7 @@
     schema:photo <https://crests.football-data.org/73.png> ;
     schema:coach "Ange Postecoglou" ;
     schema:StadiumOrArena "Tottenham Hotspur Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q55074091> ;
     schema:color "Navy Blue / White" ;
     schema:foundingDate "1882"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Bill Nicholson Way, 748 High Road London N17 0AP" ;
@@ -19415,6 +19478,7 @@
     schema:photo <https://crests.football-data.org/76.png> ;
     schema:coach "Gary O'Neil" ;
     schema:StadiumOrArena "Molineux Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q380823> ;
     schema:color "Black / Gold" ;
     schema:foundingDate "1877"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Waterloo Road Wolverhampton WV1 4QR" ;
@@ -19427,6 +19491,7 @@
     schema:photo <https://crests.football-data.org/338.png> ;
     schema:coach "Ruud van Nistelrooy" ;
     schema:StadiumOrArena "King Power Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q620031> ;
     schema:color "Royal Blue / White" ;
     schema:foundingDate "1884"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "The Walkers Stadium, Filbert Way Leicester LE2 7FL" ;
@@ -19439,6 +19504,7 @@
     schema:photo <https://crests.football-data.org/340.png> ;
     schema:coach "Russell Martin" ;
     schema:StadiumOrArena "St. Mary's Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q567339> ;
     schema:color "Red / White / Black" ;
     schema:foundingDate "1885"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Britannia Road Southampton SO14 5FP" ;
@@ -19451,6 +19517,7 @@
     schema:photo <https://crests.football-data.org/349.png> ;
     schema:coach "Kieran McKenna" ;
     schema:StadiumOrArena "Portman Road Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q619558> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1887"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Portman Road Ipswich IP1 2DA" ;
@@ -19463,6 +19530,7 @@
     schema:photo <https://crests.football-data.org/351.png> ;
     schema:coach "Nuno Espírito Santo" ;
     schema:StadiumOrArena "The City Ground" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q593446> ;
     schema:color "Red / White" ;
     schema:foundingDate "1865"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Pavilion Road, West Bridgeford Nottingham NG2 5GJ" ;
@@ -19475,6 +19543,7 @@
     schema:photo <https://crests.football-data.org/354.png> ;
     schema:coach "Oliver Glasner" ;
     schema:StadiumOrArena "Selhurst Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1066373> ;
     schema:color "Red / Blue" ;
     schema:foundingDate "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Whitehorse Lane London SE25 6PU" ;
@@ -19487,6 +19556,7 @@
     schema:photo <https://crests.football-data.org/397.png> ;
     schema:coach "Fabian Hürzeler" ;
     schema:StadiumOrArena "The American Express Community Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q619409> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1898"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "44 North Road Brighton & Hove BN1 1YR" ;
@@ -19499,6 +19569,7 @@
     schema:photo <https://crests.football-data.org/402.png> ;
     schema:coach "Thomas Frank" ;
     schema:StadiumOrArena "Griffin Park" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1546623> ;
     schema:color "Red / White / Black" ;
     schema:foundingDate "1889"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Braemar Road Brentford TW8 0NT" ;
@@ -19511,6 +19582,7 @@
     schema:photo <https://crests.football-data.org/563.png> ;
     schema:coach "Julen Lopetegui" ;
     schema:StadiumOrArena "London Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q172190> ;
     schema:color "Claret / Sky Blue" ;
     schema:foundingDate "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Queen Elizabeth Olympic Park, London London E20 2ST" ;
@@ -19523,6 +19595,7 @@
     schema:photo <https://crests.football-data.org/bournemouth.png> ;
     schema:coach "Iraola" ;
     schema:StadiumOrArena "Vitality Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q619094> ;
     schema:color "Red / Black" ;
     schema:foundingDate "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Dean Court, Kings Park Bournemouth BH7 7AF" ;
@@ -26044,6 +26117,7 @@
     schema:photo <https://crests.football-data.org/77.png> ;
     schema:coach "Ernesto Valverde" ;
     schema:StadiumOrArena "San Mamés" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q182864> ;
     schema:color "Red / White / Black" ;
     schema:foundingDate "1898"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009" ;
@@ -26056,6 +26130,7 @@
     schema:photo <https://crests.football-data.org/78.png> ;
     schema:coach "Diego Simeone" ;
     schema:StadiumOrArena "Estadio Wanda Metropolitano" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1369687> ;
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Paseo Virgen del Puerto, 67 Madrid 28005" ;
@@ -26068,6 +26143,7 @@
     schema:photo <https://crests.football-data.org/79.png> ;
     schema:coach "Moreno" ;
     schema:StadiumOrArena "Estadio El Sadar" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q735783> ;
     schema:color "Red / Navy Blue" ;
     schema:foundingDate "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle del Sadar, s/n Pamplona 31006" ;
@@ -26080,6 +26156,7 @@
     schema:photo <https://crests.football-data.org/80.png> ;
     schema:coach "Manolo González" ;
     schema:StadiumOrArena "RCDE Stadium" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1325234> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940" ;
@@ -26092,6 +26169,7 @@
     schema:photo <https://crests.football-data.org/81.png> ;
     schema:coach "Hansi Flick" ;
     schema:StadiumOrArena "Camp Nou" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1325234> ;
     schema:color "Red / Navy Blue / Orange" ;
     schema:foundingDate "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida Arístides Maillol s/n Barcelona 08028" ;
@@ -26104,6 +26182,7 @@
     schema:photo <https://crests.football-data.org/82.png> ;
     schema:coach "Pepe Bordalás" ;
     schema:StadiumOrArena "Coliseum Alfonso Pérez" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q929109> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida Teresa de Calcuta, s/n Getafe 28903" ;
@@ -26116,6 +26195,7 @@
     schema:photo <https://crests.football-data.org/86.png> ;
     schema:coach "Carlo Ancelotti" ;
     schema:StadiumOrArena "Estadio Santiago Bernabéu" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q164027> ;
     schema:color "White / Purple" ;
     schema:foundingDate "1902"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida Concha Espina, 1 Madrid 28036" ;
@@ -26128,6 +26208,7 @@
     schema:photo <https://crests.football-data.org/87.png> ;
     schema:coach "Iñigo Pérez" ;
     schema:StadiumOrArena "Estadio del Rayo Vallecano" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q983806> ;
     schema:color "White / Red" ;
     schema:foundingDate "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle del Payaso Fofó, s/n Madrid 28018" ;
@@ -26140,6 +26221,7 @@
     schema:photo <https://crests.football-data.org/89.png> ;
     schema:coach "Jagoba Arrasate" ;
     schema:StadiumOrArena "Iberostar Estadi" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q276163> ;
     schema:color "Red / Black" ;
     schema:foundingDate "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011" ;
@@ -26152,6 +26234,7 @@
     schema:photo <https://crests.football-data.org/90.png> ;
     schema:coach "Manuel Pellegrini" ;
     schema:StadiumOrArena "Estadio Benito Villamarín" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q126844> ;
     schema:color "Green / White" ;
     schema:foundingDate "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida de Heliópolis, s/n Sevilla 41012" ;
@@ -26164,6 +26247,7 @@
     schema:photo <https://crests.football-data.org/92.png> ;
     schema:coach "Imanol Alguacil" ;
     schema:StadiumOrArena "Estadio Municipal de Anoeta" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q917845> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Anoeta Pasalekua, 1 San Sebastián 20014" ;
@@ -26176,6 +26260,7 @@
     schema:photo <https://crests.football-data.org/94.png> ;
     schema:coach "Marcelino" ;
     schema:StadiumOrArena "Estadio de la Cerámica" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q741157> ;
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Camino Miralcamp, s/n Villarreal 12540" ;
@@ -26188,6 +26273,7 @@
     schema:photo <https://crests.football-data.org/95.png> ;
     schema:coach "Rubén Baraja" ;
     schema:StadiumOrArena "Estadio de Mestalla" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q202762> ;
     schema:color "White / Orange / Black" ;
     schema:foundingDate "1919"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Plaza del Valencia Club de Fútbol, 2 Valencia 46010" ;
@@ -26200,6 +26286,7 @@
     schema:photo <https://crests.football-data.org/250.png> ;
     schema:coach "Alvaro Rubio" ;
     schema:StadiumOrArena "Estadio Municipal José Zorrilla" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q164027> ;
     schema:color "Violet / White" ;
     schema:foundingDate "1928"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avenida del Mundial, 82 Valladolid 47014" ;
@@ -26212,6 +26299,7 @@
     schema:photo <https://crests.football-data.org/263.png> ;
     schema:coach "Eduardo Coudet" ;
     schema:StadiumOrArena "Estadio de Mendizorroza" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1369390> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007" ;
@@ -26224,6 +26312,7 @@
     schema:photo <https://crests.football-data.org/275.png> ;
     schema:coach "Diego Martínez" ;
     schema:StadiumOrArena "Estadio de Gran Canaria" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q991419> ;
     schema:color "Yellow / Blue" ;
     schema:foundingDate "1949"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle Pío XII, 29 Las Palmas de Gran Canaria 35005" ;
@@ -26236,6 +26325,7 @@
     schema:photo <https://crests.football-data.org/298.png> ;
     schema:coach "Michel" ;
     schema:StadiumOrArena "Estadi Municipal de Montilivi" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q2097709> ;
     schema:color "Red / White / Blue" ;
     schema:foundingDate "1930"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Avinguda de Montilivi, 141 Girona 17003" ;
@@ -26248,6 +26338,7 @@
     schema:photo <https://crests.football-data.org/558.png> ;
     schema:coach "Claudio" ;
     schema:StadiumOrArena "Estadio de Balaídos" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1326578> ;
     schema:color "Sky Blue / White" ;
     schema:foundingDate "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle del Conde de Gondomar, 1 Vigo 36203" ;
@@ -26260,6 +26351,7 @@
     schema:photo <https://crests.football-data.org/559.png> ;
     schema:coach "Garcia Pimienta" ;
     schema:StadiumOrArena "Estadio Ramón Sánchez Pizjuán" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q275429> ;
     schema:color "White / Red" ;
     schema:foundingDate "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle Sevilla Fútbol Club, s/n Sevilla 41005" ;
@@ -26272,6 +26364,7 @@
     schema:photo <https://crests.football-data.org/745.png> ;
     schema:coach "Borja Jiménez" ;
     schema:StadiumOrArena "Estadio Municipal de Butarque" ;
+    schema:StadiumOrArena <http://www.wikidata.org/entity/Q1369462> ;
     schema:color "Blue / White" ;
     schema:foundingDate "1928"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
     schema:location "Calle Arquitectura, s/n Leganés 28914" ;
@@ -32899,3 +32992,4 @@
     schema:birthPlace "Spain" ;
     schema:birthPlace <http://www.wikidata.org/entity/Q29> ;
     schema:athlete :club_CD_Leganés .
+

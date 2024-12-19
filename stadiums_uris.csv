@@ -1,0 +1,109 @@
+league,team,team_uri,stadium,stadium_uri
+Liga Portugal,F.C. Penafiel,http://www.wikidata.org/entity/Q1387471,Estádio Municipal 25 de Abril,http://www.wikidata.org/entity/Q3514967
+Liga Portugal,F.C. Felgueiras,http://www.wikidata.org/entity/Q1387110,Q10276896,http://www.wikidata.org/entity/Q10276896
+Liga Portugal,S.L. Benfica,http://www.wikidata.org/entity/Q131499,Estádio da Luz,http://www.wikidata.org/entity/Q7875112
+Liga Portugal,Sporting CP,http://www.wikidata.org/entity/Q75729,Estádio José Alvalade,http://www.wikidata.org/entity/Q287359
+Liga Portugal,F.C. Vizela,http://www.wikidata.org/entity/Q1387855,Estádio do Futebol Clube de Vizela,http://www.wikidata.org/entity/Q3514314
+Liga Portugal,C.F. Estrela da Amadora,http://www.wikidata.org/entity/Q838134,Estádio José Gomes,http://www.wikidata.org/entity/Q3059095
+Liga Portugal,Moreirense F.C.,http://www.wikidata.org/entity/Q1346314,Parque de Jogos Comendador Joaquim de Almeida Freitas,http://www.wikidata.org/entity/Q256588
+Liga Portugal,S.C. Braga,http://www.wikidata.org/entity/Q75684,Estádio Municipal de Braga,http://www.wikidata.org/entity/Q849239
+Liga Portugal,S.C. Beira-Mar,http://www.wikidata.org/entity/Q688300,Estádio Municipal de Aveiro,http://www.wikidata.org/entity/Q1032105
+Liga Portugal,Rio Ave F.C.,http://www.wikidata.org/entity/Q622432,Estádio do Rio Ave FC,http://www.wikidata.org/entity/Q550041
+Liga Portugal,Sporting CP,http://www.wikidata.org/entity/Q75729,Estádio José Alvalade (1956),http://www.wikidata.org/entity/Q3059094
+Liga Portugal,Vitória S.C.,http://www.wikidata.org/entity/Q223450,Estádio D. Afonso Henriques,http://www.wikidata.org/entity/Q1057274
+Liga Portugal,S.C. Farense,http://www.wikidata.org/entity/Q744353,Estádio Algarve,http://www.wikidata.org/entity/Q646151
+Liga Portugal,Gil Vicente F.C.,http://www.wikidata.org/entity/Q926438,Estádio Cidade de Barcelos,http://www.wikidata.org/entity/Q1167583
+Liga Portugal,G.D. Chaves,http://www.wikidata.org/entity/Q543467,Estádio Municipal de Chaves,http://www.wikidata.org/entity/Q5402128
+Liga Portugal,F.C. Arouca,http://www.wikidata.org/entity/Q1386869,Estádio Municipal de Arouca,http://www.wikidata.org/entity/Q1370706
+Liga Portugal,Portimonense S.C.,http://www.wikidata.org/entity/Q621120,Estádio Municipal de Portimão,http://www.wikidata.org/entity/Q1308776
+Liga Portugal,FC Famalicão,http://www.wikidata.org/entity/Q1387105,Estádio Municipal 22 de Junho,http://www.wikidata.org/entity/Q1293399
+Liga Portugal,G.D. Estoril Praia,http://www.wikidata.org/entity/Q634829,Estádio António Coimbra da Mota,http://www.wikidata.org/entity/Q1370647
+Liga Portugal,FC Porto,http://www.wikidata.org/entity/Q128446,Estádio do Dragão,http://www.wikidata.org/entity/Q271454
+Liga Portugal,Boavista F.C.,http://www.wikidata.org/entity/Q219703,Estádio do Bessa,http://www.wikidata.org/entity/Q1058494
+Liga Portugal,AVS,https://www.wikidata.org/entity/Q120775987,Estádio do Clube Desportivo das Aves,https://www.wikidata.org/entity/Q968244
+Premier League,Tottenham Hotspur F.C.,http://www.wikidata.org/entity/Q18741,Tottenham Hotspur Stadium,http://www.wikidata.org/entity/Q55074091
+Premier League,Brighton & Hove Albion F.C.,http://www.wikidata.org/entity/Q19453,Brighton Community Stadium,http://www.wikidata.org/entity/Q619409
+Premier League,Everton F.C.,http://www.wikidata.org/entity/Q5794,Goodison Park,http://www.wikidata.org/entity/Q968420
+Premier League,Liverpool F.C.,http://www.wikidata.org/entity/Q1130849,Anfield,http://www.wikidata.org/entity/Q45671
+Premier League,Nottingham Forest F.C.,http://www.wikidata.org/entity/Q19490,City Ground,http://www.wikidata.org/entity/Q593446
+Premier League,Crystal Palace F.C.,http://www.wikidata.org/entity/Q19467,Selhurst Park,http://www.wikidata.org/entity/Q1066373
+Premier League,Ipswich Town F.C.,http://www.wikidata.org/entity/Q9653,Portman Road,http://www.wikidata.org/entity/Q619558
+Premier League,Southampton F.C.,http://www.wikidata.org/entity/Q18732,St Mary's Stadium,http://www.wikidata.org/entity/Q567339
+Premier League,Newcastle United F.C.,http://www.wikidata.org/entity/Q18716,St James’ Park,http://www.wikidata.org/entity/Q191774
+Premier League,Arsenal F.C.,http://www.wikidata.org/entity/Q9617,Emirates Stadium,http://www.wikidata.org/entity/Q163995
+Premier League,Fulham F.C.,http://www.wikidata.org/entity/Q18708,Craven Cottage,http://www.wikidata.org/entity/Q318043
+Premier League,Chelsea F.C.,http://www.wikidata.org/entity/Q9616,Stamford Bridge,http://www.wikidata.org/entity/Q171458
+Premier League,Leicester City F.C.,http://www.wikidata.org/entity/Q19481,Leicester City Stadium,http://www.wikidata.org/entity/Q620031
+Premier League,AFC Bournemouth,http://www.wikidata.org/entity/Q19568,Dean Court,http://www.wikidata.org/entity/Q619094
+Premier League,Manchester City F.C.,http://www.wikidata.org/entity/Q50602,Etihad Stadium,http://www.wikidata.org/entity/Q48159
+Premier League,West Ham United F.C.,http://www.wikidata.org/entity/Q18747,London Stadium,http://www.wikidata.org/entity/Q172190
+Premier League,Manchester United F.C.,http://www.wikidata.org/entity/Q18656,Old Trafford,http://www.wikidata.org/entity/Q83457
+Premier League,Aston Villa F.C.,http://www.wikidata.org/entity/Q18711,Villa Park,http://www.wikidata.org/entity/Q175339
+Premier League,Wolverhampton Wanderers F.C.,http://www.wikidata.org/entity/Q19500,Molineux Stadium,http://www.wikidata.org/entity/Q380823
+Premier League,Brentford F.C.,http://www.wikidata.org/entity/Q19571,Griffin Park,http://www.wikidata.org/entity/Q1546623
+Bundesliga,Bayer 04 Leverkusen,http://www.wikidata.org/entity/Q104761,BayArena,http://www.wikidata.org/entity/Q156630
+Bundesliga,VfL Wolfsburg,http://www.wikidata.org/entity/Q101859,Volkswagen Arena,http://www.wikidata.org/entity/Q155603
+Bundesliga,FC St. Pauli,http://www.wikidata.org/entity/Q6463,Millerntor-Stadion,http://www.wikidata.org/entity/Q339572
+Bundesliga,Borussia Dortmund,http://www.wikidata.org/entity/Q41420,Westfalenstadion,http://www.wikidata.org/entity/Q150928
+Bundesliga,VfB Stuttgart,http://www.wikidata.org/entity/Q4512,MHPArena,http://www.wikidata.org/entity/Q152349
+Bundesliga,1. FC Heidenheim 1846,http://www.wikidata.org/entity/Q162251,Voith-Arena,http://www.wikidata.org/entity/Q548138
+Bundesliga,SC Freiburg,http://www.wikidata.org/entity/Q106394,Dreisamstadion,http://www.wikidata.org/entity/Q311458
+Bundesliga,VfL Bochum,http://www.wikidata.org/entity/Q105861,Ruhrstadion,http://www.wikidata.org/entity/Q373769
+Bundesliga,Holstein Kiel,http://www.wikidata.org/entity/Q157828,Holstein-Stadion,http://www.wikidata.org/entity/Q872915
+Bundesliga,FC Bayern Munich,http://www.wikidata.org/entity/Q15789,Allianz Arena,http://www.wikidata.org/entity/Q127429
+Bundesliga,TSG 1899 Hoffenheim,http://www.wikidata.org/entity/Q22707,PreZero-Arena,http://www.wikidata.org/entity/Q129870
+Bundesliga,1. FC Union Berlin,http://www.wikidata.org/entity/Q141971,Stadion An der Alten Försterei,http://www.wikidata.org/entity/Q749172
+Bundesliga,Eintracht Frankfurt,http://www.wikidata.org/entity/Q38245,Waldstadion,http://www.wikidata.org/entity/Q157273
+Bundesliga,Borussia Mönchengladbach,http://www.wikidata.org/entity/Q101959,Borussia-Park,http://www.wikidata.org/entity/Q154074
+Bundesliga,SV Werder Bremen,http://www.wikidata.org/entity/Q51976,Weserstadion,http://www.wikidata.org/entity/Q154475
+Bundesliga,SC Freiburg,http://www.wikidata.org/entity/Q106394,Europa-Park-Stadion,http://www.wikidata.org/entity/Q64586775
+Bundesliga,RB Leipzig,http://www.wikidata.org/entity/Q702455,Red Bull Arena,http://www.wikidata.org/entity/Q210466
+Bundesliga,VfL Wolfsburg,http://www.wikidata.org/entity/Q101859,VfL-Stadion am Elsterweg,http://www.wikidata.org/entity/Q323718
+Bundesliga,1. FSV Mainz 05,http://www.wikidata.org/entity/Q105254,Mewa Arena,http://www.wikidata.org/entity/Q392494
+Bundesliga,FC Augsburg,http://www.wikidata.org/entity/Q15755,WWK Arena,http://www.wikidata.org/entity/Q167418
+La Liga,RCD Mallorca,http://www.wikidata.org/entity/Q8835,Estadi Mallorca Son Moix,http://www.wikidata.org/entity/Q276163
+La Liga,Real Sociedad,http://www.wikidata.org/entity/Q10315,Anoeta Stadium,http://www.wikidata.org/entity/Q917845
+La Liga,Club Atlético Osasuna,http://www.wikidata.org/entity/Q10286,El Sadar Stadium,http://www.wikidata.org/entity/Q735783
+La Liga,Cádiz Club de Fútbol,http://www.wikidata.org/entity/Q460448,Estadio Ramón de Carranza,http://www.wikidata.org/entity/Q2301915
+La Liga,Rayo Vallecano,http://www.wikidata.org/entity/Q10300,Campo de Fútbol de Vallecas,http://www.wikidata.org/entity/Q983806
+La Liga,Granada CF,http://www.wikidata.org/entity/Q8812,Estadio Nuevo Los Cármeness,http://www.wikidata.org/entity/Q574565
+La Liga,AD Almería,http://www.wikidata.org/entity/Q290781,Estadio Municipal Juan Rojas,http://www.wikidata.org/entity/Q3773347
+La Liga,Athletic Club,http://www.wikidata.org/entity/Q8687,San Mamés Stadium,http://www.wikidata.org/entity/Q182864
+La Liga,Unión Deportiva Almería,http://www.wikidata.org/entity/Q10407,Estadio de los Juegos Mediterraneos,http://www.wikidata.org/entity/Q1130617
+La Liga,Real Betis Balompié,http://www.wikidata.org/entity/Q8723,Estadio Benito Villamarín,http://www.wikidata.org/entity/Q126844
+La Liga,Villarreal CF,http://www.wikidata.org/entity/Q12297,Estadio de la Cerámica,http://www.wikidata.org/entity/Q741157
+La Liga,RC Celta de Vigo,http://www.wikidata.org/entity/Q8749,Abanca Balaídos Stadium,http://www.wikidata.org/entity/Q1326578
+La Liga,Real Madrid CF,http://www.wikidata.org/entity/Q8682,Santiago Bernabéu Stadium,http://www.wikidata.org/entity/Q164027
+La Liga,Sevilla FC,http://www.wikidata.org/entity/Q10329,Ramón Sánchez Pizjuán Stadium,http://www.wikidata.org/entity/Q275429
+La Liga,Atlético de Madrid,http://www.wikidata.org/entity/Q8701,Metropolitano Stadium,http://www.wikidata.org/entity/Q1369687
+La Liga,Unión Deportiva Las Palmas,http://www.wikidata.org/entity/Q11979,Gran Canaria Stadium,http://www.wikidata.org/entity/Q991419
+La Liga,CD Leganés,http://www.wikidata.org/entity/Q856119,Estadio Municipal de Butarque,http://www.wikidata.org/entity/Q1369462
+La Liga,Girona FC,http://www.wikidata.org/entity/Q11945,Montilivi Stadium,http://www.wikidata.org/entity/Q2097709
+La Liga,Valencia CF,http://www.wikidata.org/entity/Q10333,Mestalla Stadium,http://www.wikidata.org/entity/Q202762
+La Liga,Getafe CF,http://www.wikidata.org/entity/Q8806,Estadio Coliseum,http://www.wikidata.org/entity/Q929109
+La Liga,RCD Espanyol de Barcelona,http://www.wikidata.org/entity/Q8780,RCDE Stadium,http://www.wikidata.org/entity/Q473223
+La Liga,RCD Espanyol de Barcelona,http://www.wikidata.org/entity/Q8780,Estadi de Sarrià,http://www.wikidata.org/entity/Q1325234
+La Liga,Deportivo Alavés,http://www.wikidata.org/entity/Q223620,Mendizorrotza Stadium,http://www.wikidata.org/entity/Q1369390
+Serie A,Bologna F.C. 1909,http://www.wikidata.org/entity/Q1893,Stadio Renato Dall'Ara,http://www.wikidata.org/entity/Q757182
+Serie A,Empoli FC,http://www.wikidata.org/entity/Q6703,Stadio Carlo Castellani,http://www.wikidata.org/entity/Q94633
+Serie A,U.S. Fiumana,http://www.wikidata.org/entity/Q1328077,Stadion Kantrida,http://www.wikidata.org/entity/Q1277056
+Serie A,Atalanta BC,http://www.wikidata.org/entity/Q1886,Stadio Atleti Azzurri d'Italia,http://www.wikidata.org/entity/Q780526
+Serie A,Torino FC,http://www.wikidata.org/entity/Q2768,Stadio Olimpico Grande Torino,http://www.wikidata.org/entity/Q214629
+Serie A,ACF Fiorentina,http://www.wikidata.org/entity/Q2052,Stadio Artemio Franchi,http://www.wikidata.org/entity/Q270474
+Serie A,Como 1907,http://www.wikidata.org/entity/Q1120838,Stadio Giuseppe Sinigaglia,http://www.wikidata.org/entity/Q115372
+Serie A,US Lecce,http://www.wikidata.org/entity/Q13391,Stadio Via del Mare,http://www.wikidata.org/entity/Q684727
+Serie A,AC Milan,http://www.wikidata.org/entity/Q1543,Giuseppe Meazza Stadium,http://www.wikidata.org/entity/Q133566
+Serie A,Cagliari Calcio,http://www.wikidata.org/entity/Q1900,Unipol Domus,http://www.wikidata.org/entity/Q30880646
+Serie A,U.S. Salernitana 1919,http://www.wikidata.org/entity/Q847587,Stadio Arechi,http://www.wikidata.org/entity/Q2300150
+Serie A,Hellas Verona FC,http://www.wikidata.org/entity/Q8639,Stadio Marcantonio Bentegodi,http://www.wikidata.org/entity/Q737093
+Serie A,Genoa CFC,http://www.wikidata.org/entity/Q2074,Stadio Luigi Ferraris,http://www.wikidata.org/entity/Q271568
+Serie A,SSC Napoli,http://www.wikidata.org/entity/Q2641,Stadio Diego Armando Maradona,http://www.wikidata.org/entity/Q82709
+Serie A,AC Monza,http://www.wikidata.org/entity/Q289482,Stadio Brianteo,http://www.wikidata.org/entity/Q1851616
+Serie A,Inter Milan,http://www.wikidata.org/entity/Q631,Giuseppe Meazza Stadium,http://www.wikidata.org/entity/Q133566
+Serie A,Juventus FC,http://www.wikidata.org/entity/Q1422,Juventus Stadium,http://www.wikidata.org/entity/Q62149
+Serie A,Parma Calcio 1913,http://www.wikidata.org/entity/Q2693,Stadio Ennio Tardini,http://www.wikidata.org/entity/Q610546
+Serie A,SS Lazio,http://www.wikidata.org/entity/Q2609,Stadio Olimpico,http://www.wikidata.org/entity/Q159884
+Serie A,FC Torinese,http://www.wikidata.org/entity/Q534448,Velodrome Humbert I,http://www.wikidata.org/entity/Q289288
+Serie A,Venezia F.C.,http://www.wikidata.org/entity/Q501245,Stadio Pierluigi Penzo,http://www.wikidata.org/entity/Q588926
+Serie A,Udinese Calcio,http://www.wikidata.org/entity/Q2798,Stadio Friuli,http://www.wikidata.org/entity/Q640031
+Serie A,A.S. Roma,http://www.wikidata.org/entity/Q2739,Stadio Olimpico,http://www.wikidata.org/entity/Q159884
