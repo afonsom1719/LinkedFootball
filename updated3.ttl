@@ -94,6 +94,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "1904" ;
     schema:location "Avenida General Norton de Matos 1500 Lissabon" ;
+    schema:value "335500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_CD_Nacional a schema:SportsTeam ;
@@ -213,6 +214,7 @@
     schema:color "Red / White" ;
     schema:foundingDate "2023" ;
     schema:location "Rua Luis Gonzaga Mendes Carvalho 265, 4795-080 Vila das Aves" ;
+    schema:value "18400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
 :_Jhonatan a schema:Person ;

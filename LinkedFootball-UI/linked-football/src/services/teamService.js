@@ -87,6 +87,8 @@ const TeamService = {
         FILTER (?comp = <${competitionUrl}>)
         }
       `;
+
+      console.log("SPARQL QUERY", sparqlQuery);
     
       const response = await fetch(sparqlEndpoint, {
         method: "POST",
@@ -104,7 +106,7 @@ const TeamService = {
     
       const data = await response.json();
 
-      //console.log("RAW DATA", data);
+      console.log("RAW DATA", data);
     
       const teams = data.results.bindings.map((binding) => ({
         team: binding.team.value,
