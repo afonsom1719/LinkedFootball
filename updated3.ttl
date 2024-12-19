@@ -200,7 +200,7 @@
     schema:coach "Zé Augusto" ;
     schema:StadiumOrArena "Estádio Nacional" ;
     schema:color "Red / Green" ;
-    schema:foundingDate " 1932" ;
+    schema:foundingDate "1932" ;
     schema:location "Av. Dr. José Pontes, 2720-206 Amadora" ;
     schema:value "16000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
