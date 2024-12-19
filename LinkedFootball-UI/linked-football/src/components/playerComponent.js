@@ -132,7 +132,7 @@ const PlayersComponent = ({ team }) => {
               return rowData.birthPlace || "N/A";
             }}
           ></Column>
-          <Column field="value" sortable header="Value" body={(rowData) => `${rowData.value} €`}></Column>
+          <Column field="value" sortable header="Value" body={(rowData) => `${rowData.value}€`}></Column>
           <Column
             header="Actions"
             body={(rowData) => {

@@ -98,7 +98,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
           <Column field="color" header="Colors" />
           <Column field="foundingDate" sortable header="Founding Date" />
           <Column field="location" header="Location" />
-          <Column field="value" sortable header="Value" body={(rowData) => `${rowData.value} €`}></Column>
+          <Column field="value" sortable header="Value" body={(rowData) => `${rowData.value}€`}></Column>
           <Column
             header="Actions"
             body={(rowData) => {
