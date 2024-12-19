@@ -245,7 +245,7 @@
     schema:sameAs <https://www.wikidata.org/entity/Q120775987> ;
     schema:photo <https://crests.football-data.org/10340.png> ;
     schema:coach "Daniel Ramos" ;
-    schema:coach <http://www.wikidata.org/wiki/Q27830950> ;
+    schema:coach <http://www.wikidata.org/entity/Q27830950> ;
     schema:StadiumOrArena "Estádio do Clube Desportivo das Aves" ;
     schema:StadiumOrArena <https://www.wikidata.org/entity/Q968244> ;
     schema:color "Red / White" ;
