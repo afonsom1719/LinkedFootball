@@ -94,7 +94,22 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
               </a>
             )}
           />
-          <Column field="coach" sortable header="Coach" />
+          <Column
+            header="Coach"
+            sortable
+            body={(rowData) => {
+              // Check if the coachUri exists and is not empty
+              if (rowData.coachUri && rowData.coachUri !== "") {
+                return (
+                  <a href={rowData.coachUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.coach}
+                  </a>
+                );
+              }
+              // If coachUri is empty, just display the text
+              return rowData.coach || "Unknown";
+            }}
+          ></Column>
           <Column
             header="Stadium"
             sortable

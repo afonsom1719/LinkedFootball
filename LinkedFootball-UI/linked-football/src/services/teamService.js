@@ -53,7 +53,8 @@ const TeamService = {
           team: teamUri,
           name: binding.name.value,
           photo: binding.photo.value,
-          coach: binding.coach?.value || "Unknown",
+          coach: "", // Initialize as empty
+          coachUri: "", // Initialize as empty
           color: binding.color?.value || "Unknown",
           foundingDate: binding.foundingDate?.value || "Unknown",
           location: binding.location?.value || "Unknown",
@@ -78,6 +79,20 @@ const TeamService = {
       // Add stadium name if explicitly provided
       if (binding.stadiumName) {
         groupedTeams[teamUri].stadiumName = binding.stadiumName.value;
+      }
+
+      // Merge coach URI and name
+      if (binding.coach) {
+        if (binding.coach.type === "uri") {
+          groupedTeams[teamUri].coachUri = binding.coach.value;
+        } else if (binding.coach.type === "literal") {
+          groupedTeams[teamUri].coach = binding.coach.value;
+        }
+      }
+
+      // Add coach name if explicitly provided
+      if (binding.coachName) {
+        groupedTeams[teamUri].coach = binding.coachName.value;
       }
     });
 
@@ -153,7 +168,8 @@ const TeamService = {
           team: teamUri,
           name: binding.name.value,
           photo: binding.photo.value,
-          coach: binding.coach?.value || "Unknown",
+          coach: "", // Initialize empty"
+          coachUri: "", // Initialize empty
           color: binding.color?.value || "Unknown",
           foundingDate: binding.foundingDate?.value || "Unknown",
           value: binding.value?.value || "0",
@@ -177,6 +193,19 @@ const TeamService = {
 
       if (binding.stadiumName) {
         groupedTeams[teamUri].stadiumName = binding.stadiumName.value;
+      }
+
+      // Merge coach details (name and URI)
+      if (binding.coach) {
+        if (binding.coach.type === "uri") {
+          groupedTeams[teamUri].coachUri = binding.coach.value;
+        } else if (binding.coach.type === "literal") {
+          groupedTeams[teamUri].coach = binding.coach.value;
+        }
+      }
+
+      if (binding.coachName) {
+        groupedTeams[teamUri].coach = binding.coachName.value;
       }
     });
 
