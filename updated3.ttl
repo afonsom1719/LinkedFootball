@@ -6021,6 +6021,7 @@
 
 :competition__Premier_League a schema:SportsOrganization ;
     schema:name " Premier League" ;
+    schema:sameAs <https://www.wikidata.org/entity/Q9448> ;
     schema:location " England" ;
     schema:location <http://www.wikidata.org/entity/Q145> ;
     schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Premier_League.svg/1920px-Premier_League.svg.png> ;
@@ -6029,6 +6030,7 @@
 
 :competition__Bundesliga a schema:SportsOrganization ;
     schema:name " Bundesliga" ;
+    schema:sameAs <https://www.wikidata.org/entity/Q82595> ;
     schema:location " Germany" ;
     schema:location <http://www.wikidata.org/entity/Q183> ;
     schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bundesliga_logo.svg/1920px-Bundesliga_logo.svg.png> ;
@@ -6037,6 +6039,7 @@
 
 :competition__La_Liga a schema:SportsOrganization ;
     schema:name " La Liga" ;
+    schema:sameAs <https://www.wikidata.org/entity/Q324867> ;
     schema:location " Spain" ;
     schema:location <http://www.wikidata.org/entity/Q29> ;
     schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/1280px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png> ;
@@ -6045,6 +6048,7 @@
 
 :competition__Serie_A a schema:SportsOrganization ;
     schema:name " Serie A" ;
+    schema:sameAs <https://www.wikidata.org/entity/Q15804> ;
     schema:location " Italy" ;
     schema:location <http://www.wikidata.org/entity/Q38> ;
     schema:photo <https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/800px-Serie_A.svg.png> ;
@@ -6053,6 +6057,7 @@
 
 :competition__Liga_Portugal a schema:SportsOrganization ;
     schema:name " Liga Portugal" ;
+    schema:sameAs <https://www.wikidata.org/entity/Q182994> ;
     schema:location " Portugal" ;
     schema:location <http://www.wikidata.org/entity/Q45> ;
     schema:photo <https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png> ;
