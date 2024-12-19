@@ -898,6 +898,17 @@
     schema:birthPlace <http://www.wikidata.org/entity/Q45> ;
     schema:athlete :club_Sporting_Clube_de_Portugal .
 
+:_Diogo_Costa a schema:Person ;
+    schema:value "45000000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+    schema:photo <https://img.a.transfermarkt.technology/portrait/header/357153-1716296015.jpg?lm=1> ;
+    schema:name "Diogo Costa" ;
+    schema:roleName "Goalkeeper" ;
+    schema:roleName <http://www.wikidata.org/entity/Q201330> ;
+    schema:birthDate "1999-09-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    schema:birthPlace "Portugal" ;
+    schema:birthPlace <http://www.wikidata.org/entity/Q45> ;
+    schema:athlete :club_FC_Porto .
+
 :_Samuel_Portugal a schema:Person ;
     schema:value "1500000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:photo <https://img.a.transfermarkt.technology/portrait/medium/284701-1669115006.png?lm=1> ;
@@ -3478,7 +3489,7 @@
     schema:birthPlace <http://www.wikidata.org/entity/Q45> ;
     schema:athlete :club_FC_Famalicão .
 
-:_Diogo_Costa a schema:Person ;
+:_Diogo_Costaa a schema:Person ;
     schema:value "100000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:photo <https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1> ;
     schema:name "Diogo Costa" ;
