@@ -93,7 +93,7 @@
     schema:StadiumOrArena "Estádio do Sport Lisboa e Benfica" ;
     schema:color "Red / White" ;
     schema:foundingDate "1904" ;
-    schema:location "Avenida General Norton de Matos 1500 Lissabon null" ;
+    schema:location "Avenida General Norton de Matos 1500 Lissabon" ;
     schema:memberOf :competition__Liga_Portugal .
 
 :club_CD_Nacional a schema:SportsTeam ;
@@ -128,7 +128,7 @@
     schema:StadiumOrArena "Estádio Municipal 22 de Junho" ;
     schema:color "Blue / White" ;
     schema:foundingDate "1931" ;
-    schema:location "null Vila Nova de Famalicão null" ;
+    schema:location "Vila Nova de Famalicão" ;
     schema:value "50400000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
     schema:memberOf :competition__Liga_Portugal .
 
