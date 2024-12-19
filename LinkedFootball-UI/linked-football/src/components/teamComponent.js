@@ -23,7 +23,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
         // Fetch all teams if no competition is selected
         const data = await TeamService.getAllTeams();
         //const data = await TeamService.getAllTeamsOrdered();
-        console.log("TEAMS DATA", data);
+        //console.log("TEAMS DATA", data);
         setTeams(data);
       }
       setLoading(false);
@@ -79,8 +79,8 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
                   </a>
                 );
               }
-              // If birthPlaceUri is empty, just display the text
-              return rowData.birthPlace || "N/A";
+              // If wikiDataTeamUri is empty, just display the text
+              return rowData.name || "N/A";
             }}
           />
           <Column
@@ -94,7 +94,7 @@ const TeamsComponent = ({ competition, setSelectedTeam, setActiveIndex }) => {
             )}
           />
           <Column field="coach" sortable header="Coach" />
-          <Column field="stadium" header="Stadium" />
+          <Column field="stadium" sortable header="Stadium" />
           <Column field="color" header="Colors" />
           <Column field="foundingDate" sortable header="Founding Date" />
           <Column field="location" header="Location" />

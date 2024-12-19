@@ -53,13 +53,14 @@ const CompetitionService = {
       const sparqlQuery = `
         PREFIX schema: <https://schema.org/> 
       
-        SELECT ?competition ?name ?location ?photo ?start_date ?end_date WHERE {
+        SELECT ?competition ?name ?location ?photo ?start_date ?end_date ?wikiDataCompUri WHERE {
           ?competition a schema:SportsOrganization ;
           schema:photo ?photo ;
           schema:name ?name ;
           schema:location ?location ;
           schema:startDate ?start_date ;
-          schema:endDate ?end_date .
+          schema:endDate ?end_date ;
+          schema:sameAs ?wikiDataCompUri .
         }
       `;
     
@@ -94,6 +95,7 @@ const CompetitionService = {
             end_date: binding.end_date.value,
             location: "", // Initialize as empty
             locationUri: "", // Initialize as empty
+            wikiDataCompUri: binding.wikiDataCompUri.value,
           };
         }
     

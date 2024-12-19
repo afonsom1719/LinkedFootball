@@ -12,6 +12,7 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
     const fetchCompetitions = async () => {
       setLoading(true);
       const data = await CompetitionService.getCompetitions2(); // Fetch data from the service
+      console.log("COMPETITIONS DATA", data);
       setCompetitions(data);
       setLoading(false);
     };
@@ -46,7 +47,23 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
           onRowSelect={onRowSelect} // Row selection handler
         >
           <Column header="Logo" body={logoBodyTemplate}></Column>
-          <Column field="name" header="Name"></Column>
+          <Column
+            field="name"
+            sortable
+            header="Name"
+            body={(rowData) => {
+              // Check if the wikiDataCompUri exists and is not empty
+              if (rowData.wikiDataCompUri && rowData.wikiDataCompUri !== "") {
+                return (
+                  <a href={rowData.wikiDataCompUri} target="_blank" rel="noopener noreferrer">
+                    {rowData.name}
+                  </a>
+                );
+              }
+              // If wikiDataCompUri is empty, just display the text
+              return rowData.name || "N/A";
+            }}
+          />
           <Column
             header="Location"
             sortable
@@ -62,8 +79,8 @@ const CompetitionsComponent = ({ onSelectCompetition, setActiveIndex }) => {
               return rowData.location || "N/A";
             }}
           ></Column>
-          <Column field="start_date" header="Start Date"></Column>
-          <Column field="end_date" header="End Date"></Column>
+          <Column field="start_date" sortable header="Start Date"></Column>
+          <Column field="end_date" sortable header="End Date"></Column>
           <Column
             header="Actions"
             body={(rowData) => {
